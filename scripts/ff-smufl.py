@@ -4,9 +4,8 @@
 The SmuflFont class defined in this module wraps SMuFL specific methods around
 fontforge.font objects.
 
-In order for the SMuFL specific methods to work, a copy of the `glyphnames.json`
-file from the SMuFL specification must be saved in the same folder. It's
-available at https://github.com/w3c/smufl/tree/gh-pages/metadata.
+A copy of the `glyphnames.json` file from the SMuFL specification must be saved
+in the same folder. It's available at https://github.com/w3c/smufl/tree/gh-pages/metadata.
 
 Example:
 
@@ -71,7 +70,7 @@ class SmuflFont(object):
     Relevant methods:
         - generate_metadata: get a dict with the font metadata
         - export_metadata: serialize and write metadata to a json file
-        - export_font: export to a non-Fontforge format
+        - export_font: export to any format other than sfd
         - rename_glyphs: rename available glyphs in the SMuFL range
           to their canonical names
     """
