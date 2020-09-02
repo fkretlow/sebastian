@@ -115,6 +115,7 @@ def smufl_canonical_name(glyph, fallback=True):
             return glyph.glyphname
         raise ValueError(f'there’s no SMuFL character defined at codepoint {codepoint}.')
 
+
 def to_spaces(i):
     return round(i/250, 3)
 
@@ -277,6 +278,36 @@ class SmuflMetadata(object):
                 }
 
         return all_ligatures
+
+
+class SmuflFont(object):
+    """
+    This class represents a SMuFL font and serves as the interface to the functionality
+    provided in this module. It's mostly a wrapper around a fontforge.font object,
+    adding a few SMuFL specific data members and methods. It's set up as a context
+    manager so you can do neat things like this:
+
+    with SmuflFont("path-to-source-file", "r") as f:
+        f.rename_glyphs()
+        f.add_smufl_glyphs()
+        f.save()
+        f.save_as("file")
+        f.export_metadata("path-to-metadata.json")
+        f.export_font("path-to-target-file")
+    """
+
+    def __init__(self):
+        self.font = None
+        self.read_only = False
+
+    def __enter__(self, path, mode):
+        if mode == "r": self.read_only = True
+        self.font = fontforge.open(path)
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        if self.font: self.font.close()
+        return False
 
 
 
