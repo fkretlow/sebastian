@@ -1,37 +1,29 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-The SmuflMetadata class defined in this module generates SMuFL metadata
-from fontforge.font objects by inspecting their glyphs and OpenType lookups.
+The SmuflFont class defined in this module wraps SMuFL specific methods around
+fontforge.font objects.  The underlying font objects is exposed and as a member
+`font`.
 
-A copy of the glyphnames.json file from the SMuFL specification must be
-saved in the same folder for this to work. Download it from here:
-    https://github.com/w3c/smufl/tree/gh-pages/metadata
+In order for the SMuFL specific methods to work, a copy of the `glyphnames.json`
+file from the SMuFL specification must be saved in the same folder. It's
+available at https://github.com/w3c/smufl/tree/gh-pages/metadata.
 
-A basic script is included below. If all you need is a metadata json file
-for your music font, copy this file and glyphnames.json to the folder
-where your font is saved and edit the ENGRAVING_DEFAULTS dictionary below
-as needed. Then run the script with a Python 3 interpreter that has access
-to the fontforge module, e.g.:
-    ffpython smufl_metadata.py myfont.sfd
+Example:
 
-If you need to generate metadata files as part of a more involved scripted
-procedure, import the SmuflMetadata class to your script.
-
-Supported tables:
-SMuFL table           | source
-----------------------+---------------------------------
-fontName              | Font Info Dialog
-fontVersion           | Font Info Dialog
-engravingDefaults     | defined below
-glyphsWithAnchors     | anchor points
-glyphsWithAlternates  | alternate substitution lookups
-glyphBBoxes           | glyph contours
-ligatures             | ligature lookups
+    with SmuflFont("path/to/my/font.ufo") as font:
+        font.rename_glyphs()
+        font.save()
+        font.engraving_defaults = my_defaults
+        font.export_metadata()
+        font.export_font()
 
 Written by Florian Kretlow. Use, distribute and edit this file as you wish.
 """
-import io, json
+import fontforge
+import io
+import json
+
 
 
 # Set these values as needed for your font project:
@@ -66,168 +58,235 @@ ENGRAVING_DEFAULTS = {
 }
 
 
-# SMuFL data
-SMUFL_ANCHOR_NAMES = (
-    'stemUpSE',
-    'stemUpNW',
-    'stemDownNW',
-    'stemDownSW',
-    'splitStemUpSE',
-    'splitStemUpSW',
-    'splitStemDownNE',
-    'splitStemDownNW',
-    'cutOutNE',
-    'cutOutSE',
-    'cutOutSW',
-    'cutOutNW',
-    'numeralTop',
-    'numeralBottom',
-    'graceNoteSlashSW',
-    'graceNoteSlashNE',
-    'graceNoteSlashNW',
-    'graceNoteSlashSE',
-    'repeatOffset',
-    'noteheadOrigin',
-    'opticalCenter',
-)
 
-try:
-    with io.open('glyphnames.json', 'r') as file:
-        glyphnames = json.load(file)
-        SMUFL_CODEPOINT_TO_NAME = {data['codepoint']: name for name, data in glyphnames.items()}
-except FileNotFoundError:
-    print("Couldn't find glyphnames.json.")
-    exit(1)
+class SmuflFont(object):
+    """
+    This class represents a SMuFL font. It's wraps (but doesn't subclass)
+    fontforge.font, adding a few SMuFL specific data members and methods. It's
+    set up as a context manager so it works with the with statement:
 
+        with SmuflFont("path/to/font/file", "r") as f:
+            f.export_metadata()
+            f.export_font()
 
-# utility functions
-def smufl_codepoint(glyph):
-    # unicode 57344 --> 'U+E000'
-    codepoint = 'U+' + hex(glyph.unicode)[2:].upper()
-    return codepoint
+    Relevant methods:
+        - generate_metadata: get a dict with the font metadata
+        - export_metadata: serialize and write metadata to a json file
+        - export_font: export to a non-Fontforge format
+        - rename_glyphs: rename available glyphs in the SMuFL range
+          to their canonical names
+    """
+    valid_anchor_names = (
+        'stemUpSE',
+        'stemUpNW',
+        'stemDownNW',
+        'stemDownSW',
+        'splitStemUpSE',
+        'splitStemUpSW',
+        'splitStemDownNE',
+        'splitStemDownNW',
+        'cutOutNE',
+        'cutOutSE',
+        'cutOutSW',
+        'cutOutNW',
+        'numeralTop',
+        'numeralBottom',
+        'graceNoteSlashSW',
+        'graceNoteSlashNE',
+        'graceNoteSlashNW',
+        'graceNoteSlashSE',
+        'repeatOffset',
+        'noteheadOrigin',
+        'opticalCenter',
+    )
 
-def smufl_canonical_name(glyph, fallback=True):
-    codepoint = smufl_codepoint(glyph)
     try:
-        return SMUFL_CODEPOINT_TO_NAME[codepoint]
-    except KeyError:
-        if fallback:
-            return glyph.glyphname
-        raise ValueError(f'there’s no SMuFL character defined at codepoint {codepoint}.')
+        with io.open('glyphnames.json', 'r') as infile:
+            glyphnames = json.load(infile)
+            codepoint_to_name = {data['codepoint']: name for name, data in glyphnames.items()}
+    except FileNotFoundError:
+        print("Couldn't find glyphnames.json.")
+        exit(1)
 
 
-def to_spaces(i):
-    return round(i/250, 3)
+    @staticmethod
+    def format_codepoint(unicode_):
+        # unicode 57344 --> 'U+E000'
+        return 'U+' + hex(unicode_)[2:].upper()
+
+
+    @staticmethod
+    def canonical_glyphname(unicode_, fallback=True):
+        codepoint = SmuflFont.format_codepoint(unicode_)
+        try:
+            return SmuflFont.codepoint_to_name[codepoint]
+        except KeyError:
+            if fallback: return glyph.glyphname
+            raise ValueError(f'There’s no SMuFL character defined at codepoint {codepoint}.')
+
+
+    @staticmethod
+    def em_to_spaces(em):
+        return round(em/250, 3)
+
+
+    def __init__(self, path, mode='w', defaults=None):
+        self.font = fontforge.open(path)
+        self.read_only = (mode == 'r')
+        self.engraving_defaults = defaults
+
+
+    def __enter__(self):
+        return self
+
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        if self.font: self.font.close()
+        return False
+
+
+    def __iter__(self):
+        """
+        fontforge.font.__iter__ returns an iterator over the font's glyphnames. This is
+        the only thing we're doing differently: We iterate directly over all available
+        glyphs in the SMuFL range.
+        """
+        # Standard SMuFL characters are encoded from U+E000 to U+F3FF.
+        return (char for char in self.font.glyphs() if 57344 <= char.unicode <= 62463)
+
+
+    def __getitem__(self, glyphname):
+        return self.font[glyphname]
+
+
+    def save(self, *args):
+        if self.read_only and not args:
+            raise PermissionError('Font is opened in read-only mode.')
+        self.font.save(*args)
+
+
+    def export_font(self,filename=None, *args, **kwargs):
+        """
+        Export a usable binary. The signature is the same as fontforge.font.generate
+        except that the filename is optional. If it is omitted, the font is exported
+        to <fontname>.otf.
+        """
+        filename = filename or self.font.fontname.lower() + '.otf'
+        self.font.generate(*args, **kwargs)
+
+
+    def export_metadata(self, filename=None, indent=2, **kwargs):
+        """
+        Export the complete font metadata as a json file.
+        The signature is the same as json.dump except that the filename is optional.
+        If it is omitted, the metadata is saved to <fontname>.json.
+        """
+        filename = filename or self.font.fontname.lower() + '.json'
+        with io.open(filename, 'w', encoding='utf-8') as outfile:
+            json.dump(self.generate_metadata(), outfile, indent=indent, **kwargs)
+
+
+    def generate_metadata(self, defaults=None):
+        defaults = defaults or self.engraving_defaults
+        return SmuflMetadata(self, defaults).asdict()
+
+
+    def rename_glyphs(self):
+        for glyph in self:
+            glyph.glyphname = SmuflFont.canonical_glyphname(glyph.unicode)
+
+
+    @property
+    def fontname(self):
+        return self.font.fontname
+
+
+    @property
+    def version(self):
+        return self.font.version
+
+
+    @property
+    def engraving_defaults(self):
+        return self._engraving_defaults
+
+    @engraving_defaults.setter
+    def engraving_defaults(self, defaults):
+        if defaults is not None and not isinstance(defaults, dict):
+            raise TypeError("Engraving defaults must be a dictionary.")
+        self._engraving_defaults = defaults
+
 
 
 class SmuflMetadata(object):
     """
-    This class generates metadata for a SMuFL font.
+    This class is used by a SmuflFont to generate SMuFL metadata.
 
-    __init__ arguments:
-        font (fontforge.font), engravingDefaults (dict, optional)
-
-    attributes:
-        fontName, fontVersion, glyphsWithAnchors, glyphsWithAlternates, glyphBBoxes, ligatures
-
-    methods:
-        asdict, dump_json
-
-    basic usage:
-        >>> font = fontforge.open('myfont.sfd')
-        >>> metadata = SmuflMetadata(font, my_engraving_defaults)
-        >>> metadata.dump_json() # exports to <fontname>.json
+    Supported tables:
+    SMuFL table           | source
+    ----------------------+---------------------------------
+    fontName              | Font Info Dialog
+    fontVersion           | Font Info Dialog
+    engravingDefaults     | defined below
+    glyphsWithAnchors     | anchor points
+    glyphsWithAlternates  | alternate substitution lookups
+    glyphBBoxes           | glyph contours
+    ligatures             | ligature lookups
     """
 
-    def __init__(self, font, engravingDefaults=None):
+    def __init__(self, font, engraving_defaults=None):
         self.font = font
-        self.engravingDefaults = engravingDefaults
+        self.engraving_defaults = engraving_defaults
 
 
     def asdict(self):
         d = {}
-        d['fontName'] = self.fontName
-        d['fontVersion'] = self.fontVersion
+        d['fontName'] = self.font.fontname
+        d['fontVersion'] = self.font.version
 
-        # We don't want to include empty dictionary entries so we need to
-        # check if there are values first.
-        if self.engravingDefaults:
-            d['engravingDefaults'] = self.engravingDefaults
+        # We don't want to include empty dictionary entries so we check if
+        # there are values first.
+        if self.engraving_defaults:
+            d['engravingDefaults'] = self.engraving_defaults
 
-        # These attributes are actually function calls, we bind the return value
-        # before the check so we don't do the work twice.
-        anchors = self.glyphsWithAnchors
-        if anchors:
+        if anchors := self.anchors():
             d['glyphsWithAnchors'] = anchors
 
-        alternates = self.glyphsWithAlternates
-        if alternates:
+        if alternates := self.alternates():
             d['glyphsWithAlternates'] = alternates
 
-        bboxes = self.glyphBBoxes
-        if bboxes:
-            d['glyphBBoxes'] = bboxes
+        if bounding_boxes := self.bounding_boxes():
+            d['glyphBBoxes'] = bounding_boxes
 
-        ligatures = self.ligatures
-        if ligatures:
+        if ligatures := self.ligatures():
             d['ligatures'] = ligatures
 
         return d
 
 
-    def dump_json(self, target=None, indent=2, **kwargs):
-        """
-        Export the complete metadata as a json file.
-        The signature is the same as json.dump except that the target
-        is an optional path pointing to the file. If it is omitted,
-        the metadata is saved to <fontname>.json.
-        """
-        target = target or self.fontName + '.json'
-        with io.open(target, 'w', encoding='utf-8') as file:
-            json.dump(self.asdict(), file, indent=indent, **kwargs)
-
-
-    @property
-    def characters(self):
-        # Standard SMuFL characters are encoded from U+E000 to U+F3FF.
-        return (char for char in self.font.glyphs() if 57344 <= char.unicode <= 62463)
-
-
-    @property
-    def fontName(self):
-        return self.font.fontname
-
-
-    @property
-    def fontVersion(self):
-        return self.font.version
-
-
-    @property
-    def glyphsWithAnchors(self):
+    def anchors(self):
         all_anchors = {}
 
-        for char in self.characters:
+        for char in self.font:
             char_anchors = {}
 
             for anchor in char.anchorPoints:
                 anchor_name = anchor[0]
-                if anchor_name in SMUFL_ANCHOR_NAMES:
-                    x, y = (to_spaces(value) for value in anchor[2:4])
+                if anchor_name in SmuflFont.valid_anchor_names:
+                    x, y = (SmuflFont.em_to_spaces(value) for value in anchor[2:4])
                     char_anchors[anchor_name] = (x, y)
 
             if char_anchors:
-                char_name = smufl_canonical_name(char)
+                char_name = SmuflFont.canonical_glyphname(char.unicode)
                 all_anchors[char_name] = char_anchors
 
         return all_anchors
 
 
-    @property
-    def glyphsWithAlternates(self):
+    def alternates(self):
         all_alternates = {}
 
-        for char in self.characters:
+        for char in self.font:
             char_alternates = []
 
             # Select all lookup tables for this character of type 'AltSubs'.
@@ -235,8 +294,8 @@ class SmuflMetadata(object):
                 substitute_names = table[2:]
                 for name in substitute_names:
                     substitute_char = self.font[name]
-                    codepoint = smufl_codepoint(substitute_char)
-                    name = smufl_canonical_name(substitute_char)
+                    codepoint = SmuflFont.format_codepoint(substitute_char.unicode)
+                    name = SmuflFont.canonical_glyphname(substitute_char.unicode)
 
                     char_alternates.append({
                         'codepoint': codepoint,
@@ -244,86 +303,48 @@ class SmuflMetadata(object):
                     })
 
             if char_alternates:
-                char_name = smufl_canonical_name(char)
+                char_name = SmuflFont.canonical_glyphname(char.unicode)
                 char_alternates = {'alternates': char_alternates}
                 all_alternates[char_name] = char_alternates
 
         return all_alternates
 
 
-    @property
-    def glyphBBoxes(self):
+    def bounding_boxes(self):
         all_bounding_boxes = {}
-        for char in self.characters:
-            char_name = smufl_canonical_name(char)
-            xmin, ymin, xmax, ymax = (to_spaces(value) for value in char.boundingBox())
+        for char in self.font:
+            char_name = SmuflFont.canonical_glyphname(char.unicode)
+            xmin, ymin, xmax, ymax = (SmuflFont.em_to_spaces(value) for value in char.boundingBox())
             bounding_box = {'bBoxNE': (xmax, ymax), 'bBoxSW': (xmin, ymin)}
             all_bounding_boxes[char_name] = bounding_box
 
         return all_bounding_boxes
 
 
-    @property
     def ligatures(self):
         all_ligatures = {}
-        for char in self.characters:
-            char_name = smufl_canonical_name(char)
+        for char in self.font:
+            char_name = SmuflFont.canonical_glyphname(char.unicode)
 
             # Select all lookup tables for this character of type 'Ligature'.
             for table in (table for table in char.getPosSub('*') if table[1]=='Ligature'):
                 component_names = [name for name in table[2:]]
                 all_ligatures[char_name] = {
-                    'codepoint': smufl_codepoint(char),
+                    'codepoint': SmuflFont.format_codepoint(char.unicode),
                     'componentGlyphs': component_names,
                 }
 
         return all_ligatures
 
 
-class SmuflFont(object):
-    """
-    This class represents a SMuFL font and serves as the interface to the functionality
-    provided in this module. It's mostly a wrapper around a fontforge.font object,
-    adding a few SMuFL specific data members and methods. It's set up as a context
-    manager so you can do neat things like this:
 
-    with SmuflFont("path-to-source-file", "r") as f:
-        f.rename_glyphs()
-        f.add_smufl_glyphs()
-        f.save()
-        f.save_as("file")
-        f.export_metadata("path-to-metadata.json")
-        f.export_font("path-to-target-file")
-    """
-
-    def __init__(self):
-        self.font = None
-        self.read_only = False
-
-    def __enter__(self, path, mode):
-        if mode == "r": self.read_only = True
-        self.font = fontforge.open(path)
-        return self
-
-    def __exit__(self, exc_type, exc_value, traceback):
-        if self.font: self.font.close()
-        return False
-
-
-
-# script for command line usage
 if __name__ == '__main__':
-    import fontforge, sys
+    import argparse, sys
 
-    if len(sys.argv) < 2:
-        print("USAGE: ffpython smufl_metadata.py <myfont.sfd>")
-        exit(1)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filename")
+    args = parser.parse_args()
 
-    fontfile = sys.argv[1]
-    font = fontforge.open(fontfile)
-
-    metadata = SmuflMetadata(font, ENGRAVING_DEFAULTS)
-    metadata.dump_json()
-    print(f"SMuFL metadata written to {metadata.fontName}.json.")
-
-    font.close()
+    with SmuflFont(args.filename) as font:
+        font.engraving_defaults = ENGRAVING_DEFAULTS
+        font.export_metadata()
