@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4A5" format="2">
+  <advance width="300"/>
+  <unicode hex="E4A5"/>
+  <outline>
+    <contour>
+      <point x="0" y="33" type="line" smooth="yes"/>
+      <point x="300" y="33" type="line" smooth="yes"/>
+      <point x="300" y="-33" type="line" smooth="yes"/>
+      <point x="0" y="-33" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-33</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

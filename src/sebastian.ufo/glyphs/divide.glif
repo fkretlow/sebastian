@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="1320"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="1320" y="-96" type="line" smooth="yes"/>
+      <point x="0" y="-507" type="line" smooth="yes"/>
+      <point x="0" y="-295" type="line" smooth="yes"/>
+      <point x="1320" y="116" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="0" y="96" type="line" smooth="yes"/>
+      <point x="1320" y="507" type="line" smooth="yes"/>
+      <point x="1320" y="295" type="line" smooth="yes"/>
+      <point x="0" y="-116" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>96</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>487</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

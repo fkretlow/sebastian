@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="2">
+  <advance width="354"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line" smooth="yes"/>
+      <point x="177" y="177" type="line" smooth="yes"/>
+      <point x="354" y="0" type="line" smooth="yes"/>
+      <point x="177" y="-177" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>157</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
