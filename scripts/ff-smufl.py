@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 The SmuflFont class defined in this module wraps SMuFL specific methods around
-fontforge.font objects.  The underlying font objects is exposed and as a member
-`font`.
+fontforge.font objects.
 
 In order for the SMuFL specific methods to work, a copy of the `glyphnames.json`
 file from the SMuFL specification must be saved in the same folder. It's
