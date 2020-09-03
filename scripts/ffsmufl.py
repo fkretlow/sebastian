@@ -230,20 +230,20 @@ class _SmuflMetadata(object):
 
         # We don't want to include empty dictionary entries so we check if
         # there are values first.
-        if defaults := self.engraving_defaults():
-            d['engravingDefaults'] = defaults
+        defaults = self.engraving_defaults()
+        if defaults: d['engravingDefaults'] = defaults
 
-        if anchors := self.anchors():
-            d['glyphsWithAnchors'] = anchors
+        anchors = self.anchors()
+        if anchors: d['glyphsWithAnchors'] = anchors
 
-        if alternates := self.alternates():
-            d['glyphsWithAlternates'] = alternates
+        alternates = self.alternates()
+        if alternates: d['glyphsWithAlternates'] = alternates
 
-        if bounding_boxes := self.bounding_boxes():
-            d['glyphBBoxes'] = bounding_boxes
+        bounding_boxes = self.bounding_boxes()
+        if bounding_boxes: d['glyphBBoxes'] = bounding_boxes
 
-        if ligatures := self.ligatures():
-            d['ligatures'] = ligatures
+        ligatures = self.ligatures()
+        if ligatures: d['ligatures'] = ligatures
 
         return d
 
