@@ -120,11 +120,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <key>note</key>
     <string>2011-8-6: Created.</string>
     <key>openTypeHeadCreated</key>
-    <string>2020/09/03 11:29:58</string>
+    <string>2011/08/06 17:00:19</string>
     <key>openTypeHheaAscender</key>
-    <integer>1984</integer>
+    <integer>1514</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-1984</integer>
+    <integer>-1177</integer>
     <key>openTypeHheaLineGap</key>
     <integer>90</integer>
     <key>openTypeNameVersion</key>
@@ -151,9 +151,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <key>openTypeOS2TypoLineGap</key>
     <integer>90</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1984</integer>
+    <integer>1514</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>1984</integer>
+    <integer>1177</integer>
     <key>postscriptFontName</key>
     <string>Sebastian</string>
     <key>postscriptFullName</key>
@@ -165,6 +165,39 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>149.667</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>16</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>-250</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+      <dict>
+        <key>x</key>
+        <real>500</real>
+        <key>y</key>
+        <real>240</real>
+        <key>angle</key>
+        <real>0</real>
+      </dict>
+    </array>
   </dict>
 </plist>
