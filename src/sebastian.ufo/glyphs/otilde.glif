@@ -22,10 +22,10 @@
       <point x="227" y="-323" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="0" y="445" type="line"/>
-      <point x="255" y="445" type="line"/>
-      <point x="255" y="-445" type="line"/>
-      <point x="0" y="-445" type="line"/>
+      <point x="0" y="445" type="line" smooth="yes"/>
+      <point x="255" y="445" type="line" smooth="yes"/>
+      <point x="255" y="-445" type="line" smooth="yes"/>
+      <point x="0" y="-445" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
