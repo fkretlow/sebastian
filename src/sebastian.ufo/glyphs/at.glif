@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at" format="2">
-  <advance width="795"/>
+  <advance width="0"/>
   <unicode hex="0040"/>
   <outline>
     <contour>
-      <point x="780" y="-7" type="curve" smooth="yes"/>
-      <point x="7" y="-144" type="line"/>
-      <point x="0" y="-106" type="line"/>
-      <point x="541" y="-10" type="line" smooth="yes"/>
-      <point x="547" y="-9"/>
-      <point x="550" y="-6"/>
-      <point x="550" y="0" type="curve" smooth="yes"/>
-      <point x="550" y="6"/>
-      <point x="547" y="9"/>
-      <point x="542" y="10" type="curve" smooth="yes"/>
-      <point x="0" y="106" type="line"/>
-      <point x="7" y="144" type="line"/>
-      <point x="780" y="7" type="line" smooth="yes"/>
-      <point x="790" y="5"/>
-      <point x="795" y="2"/>
-      <point x="795" y="0" type="curve" smooth="yes"/>
-      <point x="795" y="-3"/>
-      <point x="791" y="-5"/>
+      <point x="-170" y="105" type="line"/>
+      <point x="170" y="205" type="line"/>
+      <point x="170" y="91" type="line"/>
+      <point x="-170" y="-9" type="line"/>
+    </contour>
+    <contour>
+      <point x="-170" y="-91" type="line"/>
+      <point x="170" y="9" type="line"/>
+      <point x="170" y="-105" type="line"/>
+      <point x="-170" y="-205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +24,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>124</integer>
+            <integer>185</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
