@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="unpitchedPercussionClef2" format="2">
+<glyph name="uniE06A" format="2">
   <advance width="255"/>
   <unicode hex="E06A"/>
   <outline>
@@ -22,10 +22,10 @@
       <point x="227" y="-323" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="0" y="445" type="line"/>
-      <point x="255" y="445" type="line"/>
-      <point x="255" y="-445" type="line"/>
-      <point x="0" y="-445" type="line"/>
+      <point x="0" y="445" type="line" smooth="yes"/>
+      <point x="255" y="445" type="line" smooth="yes"/>
+      <point x="255" y="-445" type="line" smooth="yes"/>
+      <point x="0" y="-445" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniE044" format="2">
-  <advance width="100"/>
-  <unicode hex="E044"/>
+<glyph name="uniE5FF" format="2">
+  <advance width="304"/>
+  <unicode hex="E5FF"/>
   <outline>
     <contour>
       <point x="0" y="0" type="curve" smooth="yes"/>
-      <point x="0" y="28"/>
-      <point x="22" y="50"/>
-      <point x="50" y="50" type="curve" smooth="yes"/>
-      <point x="77" y="50"/>
-      <point x="100" y="28"/>
-      <point x="100" y="0" type="curve" smooth="yes"/>
-      <point x="100" y="-28"/>
-      <point x="77" y="-50"/>
-      <point x="50" y="-50" type="curve" smooth="yes"/>
-      <point x="22" y="-50"/>
-      <point x="0" y="-28"/>
+      <point x="0" y="86"/>
+      <point x="72" y="152"/>
+      <point x="152" y="152" type="curve" smooth="yes"/>
+      <point x="238" y="152"/>
+      <point x="304" y="80"/>
+      <point x="304" y="0" type="curve" smooth="yes"/>
+      <point x="304" y="-86"/>
+      <point x="232" y="-152"/>
+      <point x="152" y="-152" type="curve" smooth="yes"/>
+      <point x="66" y="-152"/>
+      <point x="0" y="-80"/>
     </contour>
   </outline>
   <lib>
@@ -26,9 +26,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-50</integer>
+            <integer>-152</integer>
             <key>width</key>
-            <integer>100</integer>
+            <integer>304</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -37,7 +37,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>100</integer>
+            <integer>304</integer>
           </dict>
         </array>
       </dict>

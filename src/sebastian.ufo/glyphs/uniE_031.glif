@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="barlineDouble" format="2">
+<glyph name="uniE031" format="2">
   <advance width="167"/>
   <unicode hex="E031"/>
   <outline>
     <contour>
-      <point x="137" y="670" type="line"/>
-      <point x="167" y="670" type="line"/>
-      <point x="167" y="-162" type="line"/>
-      <point x="137" y="-162" type="line"/>
+      <point x="137" y="670" type="line" smooth="yes"/>
+      <point x="167" y="670" type="line" smooth="yes"/>
+      <point x="167" y="-162" type="line" smooth="yes"/>
+      <point x="137" y="-162" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="0" y="670" type="line"/>
-      <point x="30" y="670" type="line"/>
-      <point x="30" y="-162" type="line"/>
-      <point x="0" y="-162" type="line"/>
+      <point x="0" y="670" type="line" smooth="yes"/>
+      <point x="30" y="670" type="line" smooth="yes"/>
+      <point x="30" y="-162" type="line" smooth="yes"/>
+      <point x="0" y="-162" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
