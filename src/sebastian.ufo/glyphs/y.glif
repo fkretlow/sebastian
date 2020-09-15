@@ -4,9 +4,9 @@
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="0" y="-130" type="line" smooth="yes"/>
-      <point x="155" y="138" type="line" smooth="yes"/>
-      <point x="310" y="-130" type="line" smooth="yes"/>
+      <point x="0" y="-130" type="line"/>
+      <point x="155" y="138" type="line"/>
+      <point x="310" y="-130" type="line"/>
     </contour>
     <contour>
       <point x="144" y="55" type="curve" smooth="yes"/>
@@ -40,6 +40,15 @@
             <integer>118</integer>
             <key>width</key>
             <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>310</integer>
           </dict>
         </array>
       </dict>
