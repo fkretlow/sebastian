@@ -1,4 +1,25 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
 
+
+# GSUB 
+
+
+lookup salt {
+  lookupflag 0;
+    sub \uniE000 by \uniF400 \uniF401 \uniF402 \uniF403 ;
+} salt;
+
+feature salt {
+
+ script DFLT;
+     language dflt ;
+      lookup salt;
+
+ script latn;
+     language dflt ;
+      lookup salt;
+} salt;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\numbersign \percent \ampersand \parenleft \parenright \plus 
@@ -72,9 +93,9 @@
 	\uniE515 \uniE516 \uniE51C \uniE51D \uniE51A \uniE51B \uniE51F \uniE5FF \uniE5F4 
 	\uniE600 \uniEA63 \uniEA6A \uniEA6B \uniEA68 \uniEA69 \uniEB60 \uniEB62 \uniEB64 
 	\uniEB66 \uniE564 \uniE565 \uniECA0 \uniECA1 \uniECA2 \uniECA3 \uniECA4 \uniECA5 
-	\uniECA6 \uniECA7 \uniECA8 \uniECA9 \uniECAA \uniECAB \uniECAC \uniECA0 \uniECA1 
-	\uniECA2 \uniECA3 \uniECA4 \uniECA5 \uniECA6 \uniECA7 \uniECA8 \uniECA9 \uniECAA 
-	\uniECAB \uniECAC \uniEC90 \uni266D \uni266E \uni266F \uniE587 \uniE532 \uniE533 ];
+	\uniECA6 \uniECA7 \uniECA8 \uniECA9 \uniECAA \uniECAB \uniECAC \uniEC90 \uni266D 
+	\uni266E \uni266F \uniE587 \uniE532 \uniE533 \uniF400 \uniF401 \uniF402 \uniF403 
+	\uniE527 \uniE528 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
