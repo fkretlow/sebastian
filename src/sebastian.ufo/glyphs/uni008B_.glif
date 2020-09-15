@@ -4,16 +4,16 @@
   <unicode hex="008B"/>
   <outline>
     <contour>
-      <point x="196" y="505" type="line" smooth="yes"/>
-      <point x="296" y="505" type="line" smooth="yes"/>
-      <point x="296" y="-5" type="line" smooth="yes"/>
-      <point x="196" y="-5" type="line" smooth="yes"/>
+      <point x="196" y="505" type="line"/>
+      <point x="296" y="505" type="line"/>
+      <point x="296" y="-5" type="line"/>
+      <point x="196" y="-5" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="505" type="line" smooth="yes"/>
-      <point x="100" y="505" type="line" smooth="yes"/>
-      <point x="100" y="-5" type="line" smooth="yes"/>
-      <point x="0" y="-5" type="line" smooth="yes"/>
+      <point x="0" y="505" type="line"/>
+      <point x="100" y="505" type="line"/>
+      <point x="100" y="-5" type="line"/>
+      <point x="0" y="-5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,6 +22,12 @@
       <dict>
         <key>hhints</key>
         <array>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
           <dict>
             <key>position</key>
             <integer>485</integer>
