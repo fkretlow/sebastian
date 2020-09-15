@@ -6,7 +6,7 @@
     <contour>
       <point x="0" y="-88" type="line"/>
       <point x="0" y="120" type="line"/>
-      <point x="26" y="120" type="line" smooth="yes"/>
+      <point x="26" y="120" type="line"/>
       <point x="26" y="114"/>
       <point x="33" y="108"/>
       <point x="42" y="108" type="curve" smooth="yes"/>
@@ -39,9 +39,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>99</integer>
+            <integer>100</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>415</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -50,7 +56,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>27</integer>
+            <integer>26</integer>
           </dict>
           <dict>
             <key>position</key>
