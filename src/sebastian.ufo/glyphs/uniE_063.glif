@@ -72,9 +72,6 @@
       <point x="499.408" y="-621.79"/>
     </contour>
     <contour>
-      <point x="359.807" y="-513.875" type="curve" smooth="yes"/>
-      <point x="361.958" y="-513.892"/>
-      <point x="363.017" y="-515.019"/>
       <point x="360.849" y="-521.525" type="curve" smooth="yes"/>
       <point x="360.849" y="-521.525"/>
       <point x="304.022" y="-702.385"/>
@@ -109,7 +106,7 @@
       <point x="304.569" y="-588.733" type="curve" smooth="yes"/>
       <point x="308.393" y="-575.619"/>
       <point x="304.022" y="-573.98"/>
-      <point x="294.187" y="-584.362" type="curve" smooth="yes"/>
+      <point x="294.187" y="-584.362" type="curve"/>
       <point x="294.187" y="-584.362"/>
       <point x="269.052" y="-605.945"/>
       <point x="269.052" y="-605.945" type="curve" smooth="yes"/>
@@ -131,8 +128,8 @@
       <point x="351.56" y="-518.246"/>
       <point x="355.384" y="-513.875"/>
       <point x="359.756" y="-513.875" type="curve" smooth="yes"/>
-      <point x="359.756" y="-513.875"/>
-      <point x="359.807" y="-513.875"/>
+      <point x="361.958" y="-513.892"/>
+      <point x="363.017" y="-515.019"/>
     </contour>
     <contour>
       <point x="109.597" y="114.487" type="curve" smooth="yes"/>
@@ -169,8 +166,14 @@
       <point x="149.124" y="227.987"/>
       <point x="88.0371" y="188.487"/>
       <point x="60.1885" y="131.487" type="curve" smooth="yes"/>
-      <point x="54.7979" y="120.487"/>
-      <point x="67.375" y="103.487"/>
+      <point x="59.2853" y="129.644"/>
+      <point x="58.8865" y="127.633"/>
+      <point x="58.8865" y="125.58" type="curve" smooth="yes"/>
+      <point x="58.8865" y="116.629"/>
+      <point x="66.467" y="106.89"/>
+      <point x="72.8718" y="106.89" type="curve" smooth="yes"/>
+      <point x="73.7653" y="106.89"/>
+      <point x="74.636" y="107.08"/>
       <point x="75.46" y="107.487" type="curve" smooth="yes"/>
       <point x="82.6475" y="110.487"/>
       <point x="96.1221" y="114.487"/>
@@ -242,12 +245,6 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>-112</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>75</integer>
             <key>width</key>
             <integer>108</integer>
@@ -265,7 +262,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>211</integer>
+            <integer>59</integer>
           </dict>
           <dict>
             <key>position</key>
