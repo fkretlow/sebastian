@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
-  <advance width="0"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
@@ -11,19 +10,19 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-107</integer>
-            <key>width</key>
-            <integer>214</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-107</integer>
+        <key>width</key>
+        <integer>214</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

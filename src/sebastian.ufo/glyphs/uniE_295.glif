@@ -22,13 +22,13 @@
       <point x="265.289" y="115.696" type="curve" smooth="yes"/>
       <point x="247.597" y="115.696"/>
       <point x="229.056" y="103.549"/>
-      <point x="219" y="82" type="curve" smooth="yes"/>
+      <point x="219" y="82" type="curve"/>
       <point x="212" y="68"/>
       <point x="209" y="44"/>
       <point x="209" y="18" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="167" y="82" type="curve" smooth="yes"/>
+      <point x="167" y="82" type="curve"/>
       <point x="156.944" y="103.549"/>
       <point x="138.403" y="115.696"/>
       <point x="120.711" y="115.696" type="curve" smooth="yes"/>
@@ -76,7 +76,7 @@
       <point x="223.388" y="-195.753" type="curve" smooth="yes"/>
       <point x="237.03" y="-195.753"/>
       <point x="258.105" y="-179"/>
-      <point x="272" y="-179" type="curve" smooth="yes"/>
+      <point x="272" y="-179" type="curve"/>
       <point x="274" y="-179"/>
       <point x="278" y="-181"/>
       <point x="278" y="-186" type="curve" smooth="yes"/>
@@ -94,7 +94,7 @@
       <point x="112" y="-186" type="curve" smooth="yes"/>
       <point x="112" y="-180"/>
       <point x="118" y="-179"/>
-      <point x="120" y="-179" type="curve" smooth="yes"/>
+      <point x="120" y="-179" type="curve"/>
       <point x="135.138" y="-179"/>
       <point x="153.46" y="-195.313"/>
       <point x="164.926" y="-195.313" type="curve" smooth="yes"/>
@@ -127,58 +127,58 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-333</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>465</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>465</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>112</integer>
-            <key>width</key>
-            <integer>64</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>168</integer>
-            <key>width</key>
-            <integer>50</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>176</integer>
-            <key>width</key>
-            <integer>34</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>210</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-333</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>465</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>465</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>112</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>168</integer>
+        <key>width</key>
+        <integer>50</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>176</integer>
+        <key>width</key>
+        <integer>34</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>210</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

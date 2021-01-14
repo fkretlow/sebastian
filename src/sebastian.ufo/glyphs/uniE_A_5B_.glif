@@ -4,7 +4,7 @@
   <unicode hex="EA5B"/>
   <outline>
     <contour>
-      <point x="92" y="150" type="curve" smooth="yes"/>
+      <point x="92" y="150" type="curve"/>
       <point x="101" y="157"/>
       <point x="118" y="165"/>
       <point x="137" y="165" type="curve" smooth="yes"/>
@@ -37,7 +37,7 @@
       <point x="134" y="267" type="curve" smooth="yes"/>
       <point x="104" y="267"/>
       <point x="77" y="217"/>
-      <point x="75" y="156" type="curve" smooth="yes"/>
+      <point x="75" y="156" type="curve"/>
       <point x="75" y="149"/>
       <point x="83" y="142"/>
     </contour>
@@ -57,52 +57,52 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-4</integer>
-            <key>width</key>
-            <integer>18</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>146</integer>
-            <key>width</key>
-            <integer>19</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>267</integer>
-            <key>width</key>
-            <integer>18</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>25</integer>
-            <key>width</key>
-            <integer>53</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>137</integer>
-            <key>width</key>
-            <integer>62</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>163</integer>
-            <key>width</key>
-            <integer>49</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-4</integer>
+        <key>width</key>
+        <integer>18</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>146</integer>
+        <key>width</key>
+        <integer>19</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>267</integer>
+        <key>width</key>
+        <integer>18</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>25</integer>
+        <key>width</key>
+        <integer>53</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>137</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>163</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

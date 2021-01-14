@@ -7,37 +7,37 @@
       <point x="362" y="140" type="curve" smooth="yes"/>
       <point x="14" y="0" type="line"/>
       <point x="0" y="35" type="line"/>
-      <point x="252" y="137" type="line" smooth="yes"/>
+      <point x="252" y="137" type="line"/>
       <point x="258" y="140"/>
       <point x="259" y="144"/>
       <point x="259" y="148" type="curve" smooth="yes"/>
       <point x="259" y="152"/>
       <point x="257" y="157"/>
-      <point x="250" y="159" type="curve" smooth="yes"/>
+      <point x="250" y="159" type="curve"/>
       <point x="0" y="261" type="line"/>
       <point x="14" y="296" type="line"/>
       <point x="362" y="156" type="line" smooth="yes"/>
       <point x="370" y="153"/>
       <point x="373" y="151"/>
-      <point x="373" y="148" type="curve" smooth="yes"/>
+      <point x="373" y="148" type="curve"/>
       <point x="373" y="146"/>
       <point x="369" y="143"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>296</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>296</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>familyName</key>
-    <string>Sebastian</string>
-    <key>styleName</key>
-    <string>Standard</string>
-    <key>styleMapFamilyName</key>
-    <string>Sebastian</string>
-    <key>styleMapStyleName</key>
-    <string>regular</string>
-    <key>versionMajor</key>
-    <integer>0</integer>
-    <key>versionMinor</key>
-    <integer>2</integer>
-    <key>copyright</key>
-    <string>Copyright (c) 2014, Florian Kretlow, with Reserved Font Name "Sebastian".
+<dict>
+  <key>ascender</key>
+  <integer>800</integer>
+  <key>capHeight</key>
+  <integer>700</integer>
+  <key>copyright</key>
+  <string>Copyright (c) 2014, Florian Kretlow, with Reserved Font Name &quot;Sebastian&quot;.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -43,22 +35,22 @@ requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 
 DEFINITIONS
-"Font Software" refers to the set of files released by the Copyright
+&quot;Font Software&quot; refers to the set of files released by the Copyright
 Holder(s) under this license and clearly marked as such. This may
 include source files, build scripts and documentation.
 
-"Reserved Font Name" refers to any names specified as such after the
+&quot;Reserved Font Name&quot; refers to any names specified as such after the
 copyright statement(s).
 
-"Original Version" refers to the collection of Font Software components as
+&quot;Original Version&quot; refers to the collection of Font Software components as
 distributed by the Copyright Holder(s).
 
-"Modified Version" refers to any derivative made by adding to, deleting,
+&quot;Modified Version&quot; refers to any derivative made by adding to, deleting,
 or substituting -- in part or in whole -- any of the components of the
 Original Version, by changing formats or by porting the Font Software to a
 new environment.
 
-"Author" refers to any designer, engineer, programmer, technical
+&quot;Author&quot; refers to any designer, engineer, programmer, technical
 writer or other person who contributed to the Font Software.
 
 PERMISSION &amp; CONDITIONS
@@ -99,7 +91,7 @@ This license becomes null and void if any of the above conditions are
 not met.
 
 DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
 OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
@@ -109,95 +101,194 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </string>
-    <key>unitsPerEm</key>
-    <integer>1000</integer>
-    <key>ascender</key>
-    <integer>800</integer>
-    <key>descender</key>
-    <integer>-200</integer>
-    <key>italicAngle</key>
-    <real>0</real>
-    <key>note</key>
-    <string>2011-8-6: Created.</string>
-    <key>openTypeHeadCreated</key>
-    <string>2020/09/14 20:33:30</string>
-    <key>openTypeHheaAscender</key>
-    <integer>1514</integer>
-    <key>openTypeHheaDescender</key>
-    <integer>-1177</integer>
-    <key>openTypeHheaLineGap</key>
-    <integer>90</integer>
-    <key>openTypeNameVersion</key>
-    <string>Version 0.002</string>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
-    <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
-    <key>openTypeOS2FamilyClass</key>
-    <array>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
-    <key>openTypeOS2Type</key>
-    <array>
-      <integer>2</integer>
-    </array>
-    <key>openTypeOS2TypoAscender</key>
-    <integer>800</integer>
-    <key>openTypeOS2TypoDescender</key>
-    <integer>-200</integer>
-    <key>openTypeOS2TypoLineGap</key>
-    <integer>90</integer>
-    <key>openTypeOS2WinAscent</key>
-    <integer>1514</integer>
-    <key>openTypeOS2WinDescent</key>
-    <integer>1177</integer>
-    <key>postscriptFontName</key>
-    <string>Sebastian</string>
-    <key>postscriptFullName</key>
-    <string>Sebastian</string>
-    <key>postscriptWeightName</key>
-    <string>Standard</string>
-    <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
-    <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
-    <key>guidelines</key>
-    <array>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>149.667</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>16</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>-250</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-      <dict>
-        <key>x</key>
-        <real>500</real>
-        <key>y</key>
-        <real>240</real>
-        <key>angle</key>
-        <real>0</real>
-      </dict>
-    </array>
+  <key>descender</key>
+  <integer>-200</integer>
+  <key>familyName</key>
+  <string>Sebastian</string>
+  <key>guidelines</key>
+  <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>150</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f2</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>16</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f3</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>-250</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f4</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>285</integer>
+  </dict>
+  </array>
+  <key>italicAngle</key>
+  <integer>0</integer>
+  <key>note</key>
+  <string>2011-8-6: Created.</string>
+  <key>openTypeGaspRangeRecords</key>
+  <array>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>2</integer>
+        <integer>3</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>65535</integer>
+  </dict>
+  </array>
+  <key>openTypeHeadCreated</key>
+  <string>2020/09/14 20:33:30</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+  </array>
+  <key>openTypeHheaAscender</key>
+  <integer>1514</integer>
+  <key>openTypeHheaCaretOffset</key>
+  <integer>-0</integer>
+  <key>openTypeHheaDescender</key>
+  <integer>-1177</integer>
+  <key>openTypeHheaLineGap</key>
+  <integer>90</integer>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>Sebastian</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Standard</string>
+  <key>openTypeNameVersion</key>
+  <string>Version 0.002</string>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+  </array>
+  <key>openTypeOS2StrikeoutPosition</key>
+  <integer>300</integer>
+  <key>openTypeOS2StrikeoutSize</key>
+  <integer>50</integer>
+  <key>openTypeOS2SubscriptXOffset</key>
+  <integer>-0</integer>
+  <key>openTypeOS2SubscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SubscriptYOffset</key>
+  <integer>75</integer>
+  <key>openTypeOS2SubscriptYSize</key>
+  <integer>600</integer>
+  <key>openTypeOS2SuperscriptXOffset</key>
+  <integer>-0</integer>
+  <key>openTypeOS2SuperscriptXSize</key>
+  <integer>650</integer>
+  <key>openTypeOS2SuperscriptYOffset</key>
+  <integer>350</integer>
+  <key>openTypeOS2SuperscriptYSize</key>
+  <integer>600</integer>
+  <key>openTypeOS2Type</key>
+  <array>
+    <integer>2</integer>
+  </array>
+  <key>openTypeOS2TypoAscender</key>
+  <integer>800</integer>
+  <key>openTypeOS2TypoDescender</key>
+  <integer>-200</integer>
+  <key>openTypeOS2TypoLineGap</key>
+  <integer>90</integer>
+  <key>openTypeOS2VendorID</key>
+  <string>PfEd</string>
+  <key>openTypeOS2WeightClass</key>
+  <integer>400</integer>
+  <key>openTypeOS2WidthClass</key>
+  <integer>5</integer>
+  <key>openTypeOS2WinAscent</key>
+  <integer>1514</integer>
+  <key>openTypeOS2WinDescent</key>
+  <integer>1177</integer>
+  <key>postscriptBlueFuzz</key>
+  <integer>1</integer>
+  <key>postscriptBlueScale</key>
+  <real>0.039625</real>
+  <key>postscriptBlueShift</key>
+  <integer>7</integer>
+  <key>postscriptBlueValues</key>
+  <array>
+    <integer>-20</integer>
+    <integer>0</integer>
+  </array>
+  <key>postscriptFontName</key>
+  <string>Sebastian</string>
+  <key>postscriptForceBold</key>
+  <false/>
+  <key>postscriptFullName</key>
+  <string>Sebastian</string>
+  <key>postscriptIsFixedPitch</key>
+  <false/>
+  <key>postscriptUnderlinePosition</key>
+  <integer>-100</integer>
+  <key>postscriptUnderlineThickness</key>
+  <integer>50</integer>
+  <key>postscriptWeightName</key>
+  <string>Standard</string>
+  <key>styleMapFamilyName</key>
+  <string>Sebastian</string>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
+  <key>styleName</key>
+  <string>Standard</string>
+  <key>unitsPerEm</key>
+  <integer>1000</integer>
+  <key>versionMajor</key>
+  <integer>0</integer>
+  <key>versionMinor</key>
+  <integer>2</integer>
+  <key>xHeight</key>
+  <integer>500</integer>
+</dict>
 </plist>

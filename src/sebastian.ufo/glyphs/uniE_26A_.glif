@@ -4,39 +4,39 @@
   <unicode hex="E26A"/>
   <outline>
     <contour>
-      <point x="26.502" y="2.52539" type="curve" smooth="yes"/>
+      <point x="26.502" y="2.5254" type="curve" smooth="yes"/>
       <point x="26.502" y="-101.182"/>
       <point x="73.2422" y="-166.504"/>
       <point x="96.9121" y="-201.6" type="curve"/>
       <point x="84.1113" y="-213.6" type="line"/>
       <point x="48.9121" y="-177.6"/>
-      <point x="0.111328" y="-108"/>
-      <point x="0.111328" y="0" type="curve" smooth="yes"/>
-      <point x="0.104492" y="0.861328"/>
-      <point x="0.101562" y="1.7207"/>
-      <point x="0.101562" y="2.57715" type="curve" smooth="yes"/>
-      <point x="0.101562" y="109.108"/>
-      <point x="49.1924" y="177.887"/>
-      <point x="84.1113" y="213.6" type="curve"/>
-      <point x="96.9121" y="201.6" type="line"/>
-      <point x="73.9033" y="167.483"/>
-      <point x="26.502" y="103.467"/>
+      <point x="0.111303" y="-108"/>
+      <point x="0.111303" y="0" type="curve"/>
+      <point x="0.104503" y="0.8613"/>
+      <point x="0.101603" y="1.7207"/>
+      <point x="0.101603" y="2.5772" type="curve"/>
+      <point x="0.101603" y="109.108"/>
+      <point x="49.1925" y="177.887"/>
+      <point x="84.1114" y="213.6" type="curve"/>
+      <point x="96.9122" y="201.6" type="line"/>
+      <point x="73.9034" y="167.483"/>
+      <point x="26.5021" y="103.467"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>vhints</key>
+    <array>
       <dict>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>26</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>26</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -10,7 +10,7 @@
       <point x="4" y="-28" type="curve" smooth="yes"/>
       <point x="4" y="-23"/>
       <point x="7" y="-18"/>
-      <point x="14" y="-11" type="curve" smooth="yes"/>
+      <point x="14" y="-11" type="curve"/>
       <point x="119" y="107" type="line" smooth="yes"/>
       <point x="133" y="123"/>
       <point x="141" y="131"/>
@@ -32,14 +32,14 @@
       <point x="398" y="132"/>
       <point x="404" y="123"/>
       <point x="417" y="103" type="curve" smooth="yes"/>
-      <point x="471" y="17" type="line" smooth="yes"/>
+      <point x="471" y="17" type="line"/>
       <point x="482" y="1"/>
       <point x="488" y="-8"/>
       <point x="496" y="-8" type="curve" smooth="yes"/>
       <point x="504" y="-8"/>
       <point x="514" y="2"/>
       <point x="533" y="22" type="curve" smooth="yes"/>
-      <point x="553" y="44" type="line" smooth="yes"/>
+      <point x="553" y="44" type="line"/>
       <point x="558" y="50"/>
       <point x="562" y="53"/>
       <point x="565" y="53" type="curve" smooth="yes"/>
@@ -77,31 +77,31 @@
       <point x="82" y="8"/>
       <point x="73" y="0"/>
       <point x="58" y="-17" type="curve" smooth="yes"/>
-      <point x="36" y="-42" type="line" smooth="yes"/>
+      <point x="36" y="-42" type="line"/>
       <point x="29" y="-49"/>
       <point x="25" y="-52"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-130</integer>
-            <key>width</key>
-            <integer>261</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>33</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-130</integer>
+        <key>width</key>
+        <integer>261</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>33</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

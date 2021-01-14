@@ -39,38 +39,38 @@
       <point x="153.261" y="244.988"/>
       <point x="153.261" y="145.537" type="curve" smooth="yes"/>
       <point x="153.261" y="79.745"/>
-      <point x="145.358" y="3.08679"/>
+      <point x="145.358" y="3.08681"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>347</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>347</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>121</integer>
-            <key>width</key>
-            <integer>32</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>347</integer>
+        <key>width</key>
+        <integer>20</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>347</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>121</integer>
+        <key>width</key>
+        <integer>32</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

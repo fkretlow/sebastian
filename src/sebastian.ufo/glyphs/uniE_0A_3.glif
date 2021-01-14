@@ -2,8 +2,8 @@
 <glyph name="uniE0A3" format="2">
   <advance width="320"/>
   <unicode hex="E0A3"/>
-  <anchor x="319" y="66" name="stemUpSE"/>
   <anchor x="0" y="-62" name="stemDownNW"/>
+  <anchor x="319" y="66" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="293" y="80" type="curve" smooth="yes"/>
@@ -47,40 +47,40 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-147</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>111</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>27</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>293</integer>
-            <key>width</key>
-            <integer>27</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-147</integer>
+        <key>width</key>
+        <integer>36</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>111</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>27</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>293</integer>
+        <key>width</key>
+        <integer>27</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>
