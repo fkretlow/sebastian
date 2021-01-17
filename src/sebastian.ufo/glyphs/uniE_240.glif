@@ -12,11 +12,11 @@
       <point x="0" y="-268.051"/>
       <point x="0" y="-268.051" type="curve"/>
       <point x="0" y="-268.051"/>
-      <point x="0" y="-0.0508118"/>
-      <point x="0" y="-0.0508118" type="curve"/>
-      <point x="0" y="-0.0508118"/>
-      <point x="26" y="-0.0508118"/>
-      <point x="26" y="-0.0508118" type="curve"/>
+      <point x="0" y="-0.0508"/>
+      <point x="0" y="-0.0508" type="curve"/>
+      <point x="0" y="-0.0508"/>
+      <point x="26" y="-0.0508"/>
+      <point x="26" y="-0.0508" type="curve"/>
       <point x="26" y="-32.0508"/>
       <point x="40" y="-81.0508"/>
       <point x="73" y="-122.051" type="curve" smooth="yes"/>
@@ -24,18 +24,18 @@
       <point x="292" y="-315.051"/>
       <point x="292" y="-530.051" type="curve" smooth="yes"/>
       <point x="292" y="-636.051"/>
-      <point x="248.333" y="-725.717"/>
-      <point x="234" y="-762.051" type="curve"/>
-      <point x="229.775" y="-766.205"/>
-      <point x="225.048" y="-768"/>
-      <point x="220.673" y="-768" type="curve" smooth="yes"/>
-      <point x="212.418" y="-768"/>
-      <point x="205.419" y="-761.609"/>
-      <point x="205.419" y="-752.627" type="curve"/>
-      <point x="205.419" y="-751.165"/>
-      <point x="205.604" y="-749.634"/>
-      <point x="206" y="-748.051" type="curve"/>
-      <point x="221.182" y="-708.993"/>
+      <point x="238.333" y="-775.717"/>
+      <point x="224" y="-812.051" type="curve"/>
+      <point x="219.775" y="-816.205"/>
+      <point x="215.048" y="-818"/>
+      <point x="210.673" y="-818" type="curve" smooth="yes"/>
+      <point x="202.418" y="-818"/>
+      <point x="195.419" y="-811.609"/>
+      <point x="195.419" y="-802.627" type="curve"/>
+      <point x="195.419" y="-801.165"/>
+      <point x="195.604" y="-799.634"/>
+      <point x="196" y="-798.051" type="curve"/>
+      <point x="211.182" y="-758.993"/>
       <point x="258" y="-618.051"/>
       <point x="258" y="-529.051" type="curve" smooth="yes"/>
       <point x="258" y="-413.051"/>
@@ -45,6 +45,7 @@
       <point x="72" y="-255.051"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="-813"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
@@ -62,6 +63,23 @@
         <integer>258</integer>
         <key>width</key>
         <integer>34</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>174a0f4daad4258aff2ba6f4cf8f7229ec7afc0a435914e4f06ab96b07fae3b5f22fdef704165e6876ef06203760ac7eeda901cf93faa2095f9472a4592ed3e6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -797 -21</string>
+          <string>vstem 258 34</string>
+        </array>
       </dict>
     </array>
   </dict>

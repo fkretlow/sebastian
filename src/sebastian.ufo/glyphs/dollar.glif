@@ -148,6 +148,53 @@
       </dict>
     </array>
   </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>39bfa757cd5cea2a034add291ec151f45999292fd4485703bda74ed3aaf727c51ac06672a0fa9bf073b06fb36924ad3742e5230da2d786f3bcbb2ad913fd0e05</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 38</string>
+          <string>vstem 143 38</string>
+          <string>hstem -319 -21</string>
+          <string>hstem 445 -20</string>
+          <string>vstem 228 30</string>
+          <string>vstem 370 78</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 30</string>
+          <string>vstem 151 30</string>
+          <string>hstem 445 -20</string>
+          <string>vstem 228 52</string>
+          <string>vstem 370 78</string>
+          <string>hstem -319 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553125302720</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 228 30</string>
+          <string>vstem 370 78</string>
+          <string>hstem 445 -20</string>
+          <string>hstem -319 -21</string>
+          <string>vstem 0 30</string>
+          <string>vstem 143 38</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553125305760</string>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

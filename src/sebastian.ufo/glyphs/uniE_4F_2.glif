@@ -25,7 +25,7 @@
       <point x="201.162" y="-249.507"/>
       <point x="201.162" y="-249.951" type="curve"/>
       <point x="201.162" y="-250.741"/>
-      <point x="200.244" y="-250.821"/>
+      <point x="200.244" y="-250.822"/>
       <point x="197.693" y="-251.045" type="curve" smooth="yes"/>
       <point x="149.876" y="-255.228" type="line"/>
       <point x="148.958" y="-255.308"/>
@@ -81,6 +81,24 @@
         <integer>142</integer>
         <key>width</key>
         <integer>137</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2adc022e97583ba44ee66b39c1fd176cda2f3fd35372502e6536d27cfd7938715745d6e339d750888e5d06c0608f543da7aecb522a789718eac90e05df89e2cf</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -234.23 -21</string>
+          <string>hstem 55.52 149.96</string>
+          <string>vstem 141.91 136.65</string>
+        </array>
       </dict>
     </array>
   </dict>

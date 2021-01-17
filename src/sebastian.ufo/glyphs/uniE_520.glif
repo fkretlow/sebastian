@@ -72,7 +72,7 @@
     </contour>
     <contour>
       <point x="310" y="242" type="curve" smooth="yes"/>
-      <point x="252" y="242"/>
+      <point x="252" y="242" name="hr01"/>
       <point x="203" y="124"/>
       <point x="203" y="57" type="curve" smooth="yes"/>
       <point x="203" y="26"/>
@@ -150,6 +150,36 @@
         <integer>329</integer>
         <key>width</key>
         <integer>84</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5a7919fd61888902b4f37b94345b054bd1beb0d1e3afcb7fedf168621f8e0a2f48ea602508cb3138a6273169a8972ced6057106c8c0c537a3f2fe2082d4e1f34</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -177 31</string>
+          <string>hstem 214 62</string>
+          <string>vstem 329 84</string>
+          <string>hstem -25 32</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 242 34</string>
+          <string>hstem -25 32</string>
+          <string>vstem 329 84</string>
+          <string>hstem -177 31</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

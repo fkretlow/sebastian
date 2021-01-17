@@ -6,13 +6,13 @@
     <contour>
       <point x="121" y="465" type="curve" smooth="yes"/>
       <point x="121" y="400"/>
-      <point x="114" y="279"/>
+      <point x="114" y="279" name="hr01"/>
       <point x="114" y="167" type="curve" smooth="yes"/>
       <point x="114" y="157"/>
       <point x="116" y="146"/>
       <point x="127" y="146" type="curve" smooth="yes"/>
       <point x="147" y="146"/>
-      <point x="172" y="162"/>
+      <point x="172" y="162" name="hr02"/>
       <point x="204" y="162" type="curve" smooth="yes"/>
       <point x="254" y="162"/>
       <point x="294" y="134"/>
@@ -33,9 +33,9 @@
       <point x="165" y="-181"/>
       <point x="165" y="-186" type="curve" smooth="yes"/>
       <point x="165" y="-196"/>
-      <point x="155" y="-205"/>
+      <point x="154.903" y="-204.944"/>
       <point x="121" y="-264" type="curve" smooth="yes"/>
-      <point x="93" y="-313"/>
+      <point x="92.9024" y="-312.944"/>
       <point x="91" y="-333"/>
       <point x="81" y="-333" type="curve" smooth="yes"/>
       <point x="67" y="-333"/>
@@ -64,7 +64,7 @@
       <point x="104" y="79" type="curve" smooth="yes"/>
       <point x="97" y="65"/>
       <point x="94" y="41"/>
-      <point x="94" y="15" type="curve" smooth="yes"/>
+      <point x="94" y="15" type="curve" smooth="yes" name="hr04"/>
       <point x="94" y="-67" type="line" smooth="yes"/>
       <point x="94" y="-88"/>
       <point x="99" y="-97"/>
@@ -123,6 +123,86 @@
         <integer>64</integer>
         <key>width</key>
         <integer>30</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7c85332244ad35382b611e04861f328f149084855a72d387ed7b8c4ca65c0ab4d638b9dccf0a038b11666d58576f3a74f680c13869a5af93731c98aa6c4878a5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 64 57</string>
+          <string>hstem 112.94 33.06</string>
+          <string>hstem 485 -20</string>
+          <string>hstem -312 -21</string>
+          <string>vstem 211.65 82.35</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 64 50</string>
+          <string>hstem 112.94 33.06</string>
+          <string>hstem 485 -20</string>
+          <string>hstem -312 -21</string>
+          <string>vstem 211.65 82.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 112.94 49.06</string>
+          <string>vstem 211.65 82.35</string>
+          <string>vstem 64 32</string>
+          <string>hstem 485 -20</string>
+          <string>hstem -312 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 64 57</string>
+          <string>hstem -312 -21</string>
+          <string>hstem 485 -20</string>
+          <string>hstem 112.94 33.06</string>
+          <string>vstem 211.65 82.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553199301728</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 64 30</string>
+          <string>vstem 211.65 82.35</string>
+          <string>hstem 112.94 33.06</string>
+          <string>hstem 485 -20</string>
+          <string>hstem -312 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 64 50</string>
+          <string>hstem 112.94 33.06</string>
+          <string>hstem 485 -20</string>
+          <string>hstem -312 -21</string>
+          <string>vstem 211.65 82.35</string>
+        </array>
+        <key>pointTag</key>
+        <string>lsb</string>
       </dict>
     </array>
   </dict>

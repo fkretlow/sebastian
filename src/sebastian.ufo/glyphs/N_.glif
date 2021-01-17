@@ -39,7 +39,7 @@
       <point x="146" y="-373" type="curve"/>
       <point x="128" y="-391" type="line"/>
       <point x="72.1833" y="-324.02"/>
-      <point x="-0.0100021" y="-179.079"/>
+      <point x="-0.01" y="-179.079"/>
     </contour>
     <contour>
       <point x="196" y="380" type="line"/>
@@ -60,7 +60,7 @@
     <contour>
       <point x="350" y="83" type="line" smooth="yes"/>
       <point x="350" y="90"/>
-      <point x="339" y="97"/>
+      <point x="339" y="97" name="hr01"/>
       <point x="331" y="94" type="curve"/>
       <point x="246" y="68" type="line" smooth="yes"/>
       <point x="240" y="66"/>
@@ -120,6 +120,36 @@
         <integer>545</integer>
         <key>width</key>
         <integer>37</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a84d9a77b4ef4a36f99e6dcd635b3df001a817b31e5d48a0cc2925da1ede52f3852f4a334e7581a3b4243c54ec04f9967bce52c90739faddba353cf2098f4683</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 545 37.01</string>
+          <string>vstem -0.01 37.01</string>
+          <string>vstem 196 42</string>
+          <string>vstem 344 42</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 350 36</string>
+          <string>vstem 196 36</string>
+          <string>vstem -0.01 37.01</string>
+          <string>vstem 545 37.01</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

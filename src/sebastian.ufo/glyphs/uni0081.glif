@@ -12,8 +12,8 @@
       <point x="491.511" y="-144.622"/>
       <point x="524.022" y="-84.8033"/>
       <point x="524.022" y="-3.67462" type="curve"/>
-      <point x="524.022" y="-2.45452"/>
-      <point x="524.015" y="-1.22962"/>
+      <point x="524.022" y="-2.4545"/>
+      <point x="524.015" y="-1.2296"/>
       <point x="524" y="0" type="curve"/>
       <point x="524" y="83"/>
       <point x="492" y="144"/>
@@ -31,15 +31,15 @@
       <point x="63.4889" y="144.622"/>
       <point x="30.9778" y="84.8033"/>
       <point x="30.9778" y="3.67462" type="curve"/>
-      <point x="30.9778" y="2.45452"/>
-      <point x="30.9852" y="1.22962"/>
+      <point x="30.9778" y="2.4545"/>
+      <point x="30.9852" y="1.2296"/>
       <point x="31" y="0" type="curve"/>
       <point x="31" y="-83"/>
       <point x="63" y="-144"/>
       <point x="96" y="-186" type="curve"/>
       <point x="82" y="-200" type="line"/>
       <point x="39.0681" y="-152.979"/>
-      <point x="-0.0178986" y="-86.0635"/>
+      <point x="-0.0179" y="-86.0635"/>
     </contour>
     <contour>
       <point x="307.982" y="-1.0215" type="curve" smooth="yes"/>
@@ -53,7 +53,7 @@
       <point x="358" y="-134"/>
       <point x="321" y="-131" type="curve"/>
       <point x="321" y="-69"/>
-      <point x="306" y="-30"/>
+      <point x="306" y="-30" name="hr01"/>
       <point x="278" y="-30" type="curve" smooth="yes"/>
       <point x="249" y="-30"/>
       <point x="235" y="-69"/>
@@ -154,6 +154,36 @@
         <integer>524</integer>
         <key>width</key>
         <integer>31</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d99328c01e3647f87d9690b1a91b7e1a97309e21214f48aa4371458acb4a4c315db46c7d59934e96ae38361b4e7cab9ef5e4b61de712c455e2dcaf2852b62659</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 524 31.02</string>
+          <string>vstem -0.02 31.02</string>
+          <string>vstem 248 59.98</string>
+          <string>hstem -43 86</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 321 234.02</string>
+          <string>vstem -0.02 235.02</string>
+          <string>hstem -43 86</string>
+          <string>vstem 248 59.98</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

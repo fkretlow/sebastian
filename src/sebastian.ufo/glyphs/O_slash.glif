@@ -44,7 +44,7 @@
       <point x="355" y="21"/>
       <point x="360" y="26" type="curve"/>
       <point x="389" y="53"/>
-      <point x="423" y="72"/>
+      <point x="423" y="72" name="hr01"/>
       <point x="446" y="72" type="curve" smooth="yes"/>
       <point x="481" y="72"/>
       <point x="505" y="40"/>
@@ -66,7 +66,7 @@
       <point x="240" y="-102" type="curve" smooth="yes"/>
       <point x="272" y="34" type="line" smooth="yes"/>
       <point x="274" y="42"/>
-      <point x="266" y="47"/>
+      <point x="266" y="47" name="hr02"/>
       <point x="261" y="47" type="curve" smooth="yes"/>
       <point x="157" y="47" type="line"/>
       <point x="128" y="-79" type="line" smooth="yes"/>
@@ -118,6 +118,47 @@
         <integer>414</integer>
         <key>width</key>
         <integer>91</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f44d031c73d34d6cb0c006c02fbb1400e7fd92f7acdec4efdc7a93f4ca8993f33bfef3f540e5a2a239cd756472322c8b8716dd491d1a2d752c6348d3c65f9975</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -238 40</string>
+          <string>vstem 39.13 74.88</string>
+          <string>hstem 47 23</string>
+          <string>vstem 414 91</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -51 123</string>
+          <string>vstem 414 91</string>
+          <string>hstem -238 40</string>
+          <string>vstem 39.13 74.88</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 47 23</string>
+          <string>vstem 39.13 74.88</string>
+          <string>hstem -238 40</string>
+          <string>vstem 414 91</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>

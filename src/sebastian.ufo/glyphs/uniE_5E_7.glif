@@ -29,7 +29,7 @@
       <point x="242.909" y="9"/>
       <point x="158.209" y="9" type="curve" smooth="yes"/>
       <point x="68.6692" y="9"/>
-      <point x="-0.300808" y="82.81"/>
+      <point x="-0.3008" y="82.81"/>
     </contour>
   </outline>
   <lib>
@@ -64,6 +64,25 @@
         <integer>100</integer>
         <key>width</key>
         <integer>31</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ec789860b765944c9079df8eb893042a93f229f33407f9c007eedc9a7dc802d17d39726933c375d8aea803206048ffd64be0039051d90ab09176017ba0b3fce1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 9 37.51</string>
+          <string>hstem 288.51 37.51</string>
+          <string>vstem -0.3 37.51</string>
+          <string>vstem 279.21 37.51</string>
+        </array>
       </dict>
     </array>
   </dict>

@@ -12,7 +12,7 @@
       <point x="154" y="77"/>
       <point x="140" y="77" type="curve" smooth="yes"/>
       <point x="124" y="77"/>
-      <point x="119" y="72"/>
+      <point x="119" y="72" name="hr01"/>
       <point x="88" y="72" type="curve" smooth="yes"/>
       <point x="57" y="72"/>
       <point x="0" y="93"/>
@@ -48,6 +48,32 @@
         <integer>160</integer>
         <key>width</key>
         <integer>54</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3532eab19b440d6ae64848293e0c792cb26b91d733a0940aa6f9840cf8791ef44ff4a0a7a5257b438bdfbac690dc142f4ab7d05fee365a52354589fad1649cb6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 160 54</string>
+          <string>hstem 77 175</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 72 180</string>
+          <string>vstem 0 214</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>

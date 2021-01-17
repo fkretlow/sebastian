@@ -10,7 +10,7 @@
       <point x="0" y="-1" type="curve"/>
       <point x="0" y="-0.668"/>
       <point x="0.0156" y="-0.3369"/>
-      <point x="0.0459" y="-0.00490004" type="curve"/>
+      <point x="0.0459" y="-0.0049" type="curve"/>
       <point x="0.0156" y="0.334"/>
       <point x="0" y="0.668"/>
       <point x="0" y="1" type="curve"/>
@@ -138,6 +138,23 @@
         <integer>362</integer>
         <key>width</key>
         <integer>119</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1f699d88bc421f9b8bdea193144bcecd74f8f3c7e7c698639fcbf4dba8db7a0e502256c5c14ca1c62a4715e90165cbf20f696498a46f8a700ed5e5d7104a9a87</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -439 -21</string>
+          <string>hstem 460 -20</string>
+        </array>
       </dict>
     </array>
   </dict>

@@ -5,100 +5,21 @@ languagesystem latn dflt;
 # GSUB 
 
 
-lookup salt {
-  lookupflag 0;
-    sub \uniE000 by \uniF400 \uniF401 \uniF402 \uniF403 ;
-} salt;
+
 
 feature salt {
 
- script DFLT;
-     language dflt ;
-      lookup salt;
-
- script latn;
-     language dflt ;
-      lookup salt;
+    sub uniE000 from [uniF400 uniF401 uniF402 uniF403];
+    sub uniE650 from [uniF434];
+    sub uniE659 from [uniF435];
 } salt;
-#Mark attachment classes (defined in GDEF, used in lookupflags)
+feature ss01 {
+# Stylistic Set 01–20
 
-@GDEF_Simple = [\numbersign \percent \ampersand \parenleft \parenright \plus 
-	\comma \period \slash \zero \one \two \three \four \five \six \seven \eight \nine 
-	\colon \semicolon \greater \question \bracketleft \bracketright \underscore 
-	\braceleft \bar \braceright \uni007F \uni0081 \uni0082 \uni0083 \uni0084 
-	\uni0085 \uni0086 \uni0087 \uni0088 \uni0089 \uni008A \uni008B \uni008C \uni008D 
-	\uni008E \uni008F \uni0090 \uni0091 \uni0092 \uni0093 \uni0094 \uni0095 \uni0096 
-	\uni0097 \uni0098 \uni0099 \uni009A \uni009B \uni009C \uni009D \uni009E \uni009F 
-	\divide \registered \copyright \logicalnot \space \exclam \less \equal \uni0080 
-	\degree \plusminus \multiply \quotedbl \dollar \quotesingle \asterisk \hyphen 
-	\at \A \B \C \E \F \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \backslash 
-	\asciicircum \grave \a \b \c \e \f \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z 
-	\asciitilde \exclamdown \cent \sterling \currency \yen \brokenbar \section 
-	\dieresis \ordfeminine \guillemotleft \uni00AD \macron \uni00B2 \uni00B3 \acute 
-	\uni00B5 \paragraph \periodcentered \cedilla \uni00B9 \ordmasculine 
-	\guillemotright \onequarter \onehalf \threequarters \questiondown \Agrave 
-	\Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute 
-	\Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde 
-	\Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Ugrave \Uacute 
-	\Ucircumflex \Udieresis \Yacute \Thorn \germandbls \agrave \aacute \acircumflex 
-	\atilde \adieresis \aring \ae \ccedilla \egrave \eacute \ecircumflex \edieresis 
-	\igrave \iacute \icircumflex \idieresis \eth \ntilde \ograve \oacute 
-	\ocircumflex \otilde \odieresis \oslash \ugrave \uacute \ucircumflex \udieresis 
-	\yacute \thorn \ydieresis \uniE000 \uniE031 \uniE030 \uniE050 \uniE052 \uniE05C 
-	\uniE062 \uniE06A \uniE053 \uniE064 \uniE080 \uniE081 \uniE082 \uniE083 \uniE084 
-	\uniE085 \uniE086 \uniE087 \uniE088 \uniE089 \uniE08B \uniE08A \uniE0A0 \uniE0A1 
-	\uniE0A3 \uniE0A4 \uniE0A2 \uniE4D1 \uniE4CE \uniE262 \uniE267 \uniE268 \uniE651 
-	\uniE655 \uniE650 \uniE520 \uniE522 \uniE52B \uniE52A \uniE529 \uniE52C \uniE52D 
-	\uniE52F \uniE530 \uniE531 \uniE534 \uniE535 \uniE536 \uniE537 \uniE538 \uniE539 
-	\uniE53C \uniE53D \uniE4A0 \uniE4A2 \uniE4A4 \uniE4A6 \uniE4A7 \uniE4A8 \uniE4A9 
-	\uniE4AC \uniE4AD \uniE53F \uniE26A \uniE26B \uniE4A5 \uniE4A3 \uniE4A1 \uniE4AE 
-	\uniE4AF \uniE4B0 \uniE4B1 \uniE4AB \uniE4AA \uniE4B2 \uniE4B3 \uniE4B4 \uniE4B5 
-	\uniE0BD \uniE0BE \uniE0C6 \uniE0C7 \uniE065 \uniE524 \uniE521 \uniE523 \uniE525 
-	\uniE4C0 \uniE4C1 \uniE4C6 \uniE4C7 \uniE4C4 \uniE4C5 \uniE4CA \uniE4CB \uniE4E2 
-	\uniE4E4 \uniE4E3 \uniE4E5 \uniE4E6 \uniE4E7 \uniE4E9 \uniE4EA \uniE4E8 \uniE566 
-	\uniE567 \uniE568 \uniE569 \uniE56A \uniE56B \uniE56C \uniE56D \uniE56E \uniE08C 
-	\uniE260 \uniE261 \uniE263 \uniE264 \uniE04A \uniE04B \uniE048 \uniE047 \uniE220 
-	\uniE221 \uniE222 \uniE223 \uniE500 \uniE501 \uniE504 \uniE0C1 \uniE0BF \uniE0D9 
-	\uniE0B8 \uniE0B9 \uniE0D8 \uniE0A9 \uniE0DB \uniE0AA \uniE4CF \uniE510 \uniE514 
-	\uniE53E \uniE541 \uniE240 \uniE241 \uniE242 \uniE243 \uniE526 \uniEA50 \uniEA51 
-	\uniEA52 \uniEA53 \uniEA54 \uniEA55 \uniEA56 \uniEA57 \uniEA58 \uniEA59 \uniEA5A 
-	\uniEA5B \uniEA5C \uniEA5D \uniEA5E \uniEA5F \uniEA60 \uniEA61 \uniE244 \uniE245 
-	\uniE246 \uniE247 \uniE248 \uniE249 \uniE880 \uniE881 \uniE882 \uniE883 \uniE884 
-	\uniE885 \uniE886 \uniE887 \uniE888 \uniE889 \uniE007 \uniE001 \uniE00C \uniE00D 
-	\uniE003 \uniE004 \uniE014 \uniEC85 \uniE0C0 \uniE0C2 \uniE0C8 \uniE0C9 \uniE0CA 
-	\uniE0CB \uniE113 \uniE114 \uniE1D0 \uniE1D1 \uniE1D3 \uniE1D4 \uniE1D5 \uniE1D6 
-	\uniE1D7 \uniE1D8 \uniE1D9 \uniE1DA \uniE1DB \uniE1DC \uniE1E7 \uniE250 \uniE251 
-	\uniE550 \uniE551 \uniE552 \uniE5B0 \uniE5B2 \uniE5C2 \uniE5C7 \uniE5C5 \uniE59E 
-	\uniE054 \uniE063 \uniE069 \uniE0CF \uniE0D0 \uniE0D2 \uniE0D1 \uniE0E8 \uniE0E9 
-	\uniE0F0 \uniE0F2 \uniE26C \uniE26D \uniE540 \uniE4B8 \uniE4B9 \uniE102 \uniE100 
-	\uniE101 \uniE610 \uniE612 \uniE611 \uniE613 \uniE620 \uniE621 \uniE614 \uniE615 
-	\uniE627 \uniE628 \uniE629 \uniE62A \uniE618 \uniE668 \uniE669 \uniE66A \uniE66B 
-	\uniE66C \uniE66D \uniE53B \uniE542 \uniE543 \uniEA62 \uniEA64 \uniEA65 \uniEA66 
-	\uniE104 \uniE043 \uniE08D \uniE861 \uniE862 \uniE863 \uniE864 \uniE009 \uniE008 
-	\uniE1D2 \uniE270 \uniE271 \uniE272 \uniE273 \uniE274 \uniE275 \uniE280 \uniE281 
-	\uniE282 \uniE283 \uniE290 \uniE291 \uniE292 \uniE293 \uniE294 \uniE295 \uniE296 
-	\uniE297 \uniE298 \uniE299 \uniE29A \uniE29B \uniE29C \uniE5C4 \uniE5B5 \uniE5E8 
-	\uniE5EB \uniE5E9 \uniE5EA \uniE5E5 \uniE5E6 \uniE5E7 \uniE5F0 \uniE5F1 \uniE5F2 
-	\uniE5F3 \uniE5F9 \uniE5F7 \uniE5F6 \uniE4D0 \uniE7FA \uniE7FB \uniE7FC \uniE7F8 
-	\uniE7F6 \uniE7F0 \uniE630 \uniE631 \uniE632 \uniE633 \uniE770 \uniE772 \uniE773 
-	\uniE77C \uniE77E \uniE77F \uniE52E \uniE09C \uniE225 \uniE226 \uniE227 \uniE228 
-	\uniEAC2 \uniEAC3 \uniEAA4 \uniEAA0 \uniEAA1 \uniEAA2 \uniEAA3 \uniEAB5 \uniEAA5 
-	\uniEAA6 \uniEAA7 \uniE044 \uniE08F \uniE00B \uniED10 \uniED11 \uniED12 \uniED13 
-	\uniED14 \uniED15 \uniE937 \uniE933 \uniE935 \uniEA67 \uniE503 \uniE505 \uniE88A 
-	\uniE24A \uniE24C \uniE24E \uniE24B \uniE24D \uniE24F \uniE4F2 \uniE4EE \uniE4EF 
-	\uniE4F0 \uniE4F1 \uniE4F6 \uniE051 \uniE073 \uniE074 \uniE07A \uniE07B \uniE07C 
-	\uniE066 \uniE07D \uniE07E \uniE05D \uniE06D \uniE06E \uniE265 \uniE266 \uniE269 
-	\uniE53A \uniE546 \uniE547 \uniE548 \uniE549 \OE \oe \Ydieresis \uniEAA8 \uniE870 
-	\uniEC63 \uniEC64 \uniE871 \uniE872 \uniE873 \uniE874 \uniE511 \uniE512 \uniE513 
-	\uniE515 \uniE516 \uniE51C \uniE51D \uniE51A \uniE51B \uniE51F \uniE5FF \uniE5F4 
-	\uniE600 \uniEA63 \uniEA6A \uniEA6B \uniEA68 \uniEA69 \uniEB60 \uniEB62 \uniEB64 
-	\uniEB66 \uniE564 \uniE565 \uniECA0 \uniECA1 \uniECA2 \uniECA3 \uniECA4 \uniECA5 
-	\uniECA6 \uniECA7 \uniECA8 \uniECA9 \uniECAA \uniECAB \uniECAC \uniEC90 \uni266D 
-	\uni266E \uni266F \uniE587 \uniE532 \uniE533 \uniF400 \uniF401 \uniF402 \uniF403 
-	\uniE527 \uniE528 ];
+#> feature
+#< feature
+  sub uniE050 from [uniF472];
+  sub uniE05C from [uniF473];
+  sub uniE062 from [uniF474];
 
-table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
-
-} GDEF;
-
+} ss01;

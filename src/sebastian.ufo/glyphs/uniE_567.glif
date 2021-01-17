@@ -21,7 +21,7 @@
       <point x="126" y="-32"/>
       <point x="151" y="-32" type="curve" smooth="yes"/>
       <point x="177" y="-32"/>
-      <point x="201" y="-51"/>
+      <point x="201" y="-51" name="hr01"/>
       <point x="201" y="-80" type="curve" smooth="yes"/>
       <point x="201" y="-114"/>
       <point x="172" y="-135"/>
@@ -52,7 +52,7 @@
       <point x="475" y="32"/>
       <point x="450" y="32" type="curve" smooth="yes"/>
       <point x="424" y="32"/>
-      <point x="400" y="51"/>
+      <point x="400" y="51" name="hr02"/>
       <point x="400" y="80" type="curve" smooth="yes"/>
       <point x="400" y="114"/>
       <point x="429" y="135"/>
@@ -124,6 +124,47 @@
         <integer>569</integer>
         <key>width</key>
         <integer>32</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0260c7e9c62d7d6d0ff5aa134b152038a6af1828d28ab06aa9f3b3cf4e537a65fa5bc06fd2dedc4f376c5475387ca6bb3f07602948c108b8d59ae6ec2124808a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 82 53</string>
+          <string>vstem 0 32</string>
+          <string>hstem -135 103</string>
+          <string>vstem 400 201</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 201</string>
+          <string>hstem -135 53</string>
+          <string>hstem 32 103</string>
+          <string>vstem 569 32</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 400 201</string>
+          <string>hstem 32 103</string>
+          <string>hstem -135 53</string>
+          <string>vstem 0 32</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>

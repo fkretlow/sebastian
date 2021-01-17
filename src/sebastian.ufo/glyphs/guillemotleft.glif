@@ -41,7 +41,7 @@
       <point x="588" y="8"/>
       <point x="580" y="8" type="curve" smooth="yes"/>
       <point x="572" y="8"/>
-      <point x="563.106" y="-0.0946999"/>
+      <point x="563.106" y="-0.0947"/>
       <point x="546.992" y="-18" type="curve" smooth="yes"/>
       <point x="475" y="-98" type="line" smooth="yes"/>
       <point x="457" y="-118.002"/>
@@ -127,6 +127,22 @@
         <integer>33</integer>
         <key>width</key>
         <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>72f46a9447fc5551e11b74499070941a8ccbaf8e746544506f3c28c82170567c29f9c7befff4ae4019a62250e687c0eabf3c2a91db19925d46f36ea90f0e0cfe</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -110 -21</string>
+        </array>
       </dict>
     </array>
   </dict>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE60B" format="2">
+  <advance width="263"/>
+  <unicode hex="E60B"/>
+  <outline>
+    <contour>
+      <point x="131.688" y="0.0639" type="curve" smooth="yes"/>
+      <point x="59.3273" y="0.0638545"/>
+      <point x="0.460297" y="57.2905"/>
+      <point x="0.460297" y="130.059" type="curve" smooth="yes"/>
+      <point x="0.460297" y="203.532"/>
+      <point x="57.9739" y="261.029"/>
+      <point x="131.442" y="261.029" type="curve" smooth="yes"/>
+      <point x="204.312" y="261.029"/>
+      <point x="261.775" y="205.39"/>
+      <point x="261.775" y="132" type="curve" smooth="yes"/>
+      <point x="261.775" y="59.2674"/>
+      <point x="205.028" y="0.0639461"/>
+    </contour>
+    <contour>
+      <point x="31.1226" y="130.107" type="curve" smooth="yes"/>
+      <point x="31.1226" y="109.384"/>
+      <point x="37.7266" y="88.9491"/>
+      <point x="49.9543" y="72.2075" type="curve"/>
+      <point x="64.9863" y="87.2395"/>
+      <point x="184.034" y="200.57"/>
+      <point x="184.786" y="211.279" type="curve"/>
+      <point x="182.773" y="215.789" type="line"/>
+      <point x="171.17" y="227.376"/>
+      <point x="154.374" y="231.424"/>
+      <point x="138.422" y="231.424" type="curve" smooth="yes"/>
+      <point x="80.0505" y="231.424"/>
+      <point x="31.1226" y="190.286"/>
+    </contour>
+    <contour>
+      <point x="231.501" y="133.224" type="curve" smooth="yes"/>
+      <point x="231.501" y="151.895"/>
+      <point x="225.679" y="170.491"/>
+      <point x="213.213" y="184.624" type="curve"/>
+      <point x="200.557" y="184.424"/>
+      <point x="88.5041" y="65.5024"/>
+      <point x="73.1269" y="50.1252" type="curve"/>
+      <point x="89.9683" y="37.5608"/>
+      <point x="110.68" y="30.6902"/>
+      <point x="131.692" y="30.6902" type="curve" smooth="yes"/>
+      <point x="187.933" y="30.6902"/>
+      <point x="231.501" y="77.7666"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-131</integer>
+        <key>width</key>
+        <integer>31</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>244</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>131</integer>
+        <key>width</key>
+        <integer>31</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>246</integer>
+        <key>width</key>
+        <integer>32</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>362</integer>
+        <key>width</key>
+        <integer>31</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d4a3fb4ee9304cf2721e7247b132a8446c72ac02cb35f09a07cb82191a8842aca984b9000d63c127b574a543ba3ff3be388cda3ae54560152564b03adf975ea1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0.06 30.63</string>
+          <string>hstem 231.42 29.61</string>
+          <string>vstem 0.46 30.66</string>
+          <string>vstem 231.5 30.27</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

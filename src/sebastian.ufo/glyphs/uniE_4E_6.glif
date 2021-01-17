@@ -43,9 +43,9 @@
       <point x="118.916" y="56.9001"/>
       <point x="82.55" y="56.9001" type="curve" smooth="yes"/>
       <point x="35.7292" y="56.9001"/>
-      <point x="0.322605" y="84.6517"/>
-      <point x="0.322605" y="130.246" type="curve" smooth="yes"/>
-      <point x="0.322605" y="173.784"/>
+      <point x="0.3226" y="84.6517"/>
+      <point x="0.3226" y="130.246" type="curve" smooth="yes"/>
+      <point x="0.3226" y="173.784"/>
       <point x="32.1539" y="206.857"/>
       <point x="69.4367" y="206.857" type="curve" smooth="yes"/>
       <point x="108.778" y="206.857"/>
@@ -81,6 +81,24 @@
         <integer>0</integer>
         <key>width</key>
         <integer>134</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b1e75c377dde3def63fe31af6e12b2cb10ec0e20ca443a655d2b11c19cc0239effef21f7cc5b75e306fc421a95bd015e98625ed2ca4eca916efb73cb8076a7bc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -232.99 -21</string>
+          <string>hstem 56.9 149.96</string>
+          <string>vstem 0.32 136.65</string>
+        </array>
       </dict>
     </array>
   </dict>

@@ -53,6 +53,24 @@
       </dict>
     </array>
   </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w300m102,0c102,26 124,48 150,48c176,48 198,26 198,0c198,-26 176,-48 150,-48c124,-48 102,-26 102,0m0,176l300,176l300,110l0,110</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -48 96</string>
+          <string>hstem 110 66</string>
+          <string>vstem 102 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

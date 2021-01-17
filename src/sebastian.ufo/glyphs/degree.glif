@@ -57,7 +57,7 @@
     </contour>
     <contour>
       <point x="25" y="-60" type="line" smooth="yes"/>
-      <point x="25" y="-67"/>
+      <point x="25" y="-67" name="hr03"/>
       <point x="34" y="-74"/>
       <point x="43" y="-71" type="curve" smooth="yes"/>
       <point x="105" y="-52" type="line" smooth="yes"/>
@@ -130,6 +130,70 @@
         <integer>293</integer>
         <key>width</key>
         <integer>63</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ec1eb32c132dd3ed887380ba0c21ca36d1a62d8ca813502b0f72bd5b6b30dd399933ea9e19b9c8d667c3ebdec881415623a6b308adc45d8a311c92ccefa81400</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 80.8 33.2</string>
+          <string>vstem 188 26</string>
+          <string>vstem 293.11 62.89</string>
+          <string>hstem 340 -20</string>
+          <string>hstem -250 -21</string>
+          <string>vstem 0 25</string>
+          <string>vstem 112 28</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 340 -20</string>
+          <string>vstem 188 43</string>
+          <string>hstem 80.8 33.2</string>
+          <string>vstem 293.11 62.89</string>
+          <string>hstem -250 -21</string>
+          <string>vstem 112 28</string>
+          <string>vstem 0 25</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553125323344</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 28</string>
+          <string>vstem 112 28</string>
+          <string>hstem -250 -21</string>
+          <string>hstem 80.8 33.2</string>
+          <string>hstem 340 -20</string>
+          <string>vstem 188 26</string>
+          <string>vstem 293.11 62.89</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553125325104</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 25</string>
+          <string>vstem 115 25</string>
+          <string>hstem 80.8 33.2</string>
+          <string>hstem 340 -20</string>
+          <string>hstem -250 -21</string>
+          <string>vstem 188 26</string>
+          <string>vstem 293.11 62.89</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
       </dict>
     </array>
   </dict>

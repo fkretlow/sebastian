@@ -51,7 +51,7 @@
       <point x="83" y="290"/>
       <point x="87" y="290" type="curve" smooth="yes"/>
       <point x="93" y="290"/>
-      <point x="104" y="285"/>
+      <point x="104" y="285" name="hr01"/>
       <point x="116" y="285" type="curve" smooth="yes"/>
       <point x="132" y="285"/>
       <point x="141" y="290"/>
@@ -69,7 +69,7 @@
       <point x="53.3715" y="126.724"/>
       <point x="53.3715" y="122.371" type="curve" smooth="yes"/>
       <point x="53.3715" y="117.853"/>
-      <point x="56.8324" y="115"/>
+      <point x="56.8324" y="115" name="hr02"/>
       <point x="66" y="115" type="curve" smooth="yes"/>
       <point x="111" y="115" type="line" smooth="yes"/>
       <point x="129" y="115"/>
@@ -183,6 +183,50 @@
         <integer>299</integer>
         <key>width</key>
         <integer>28</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b00a94d012648fc1978585fd786dc822d2c5f014b63c06492c0d0310f0ce4b7f6afa5c1523f8d58e3fead2a9096805af53afa59fcfd61d4f5c83d741225f88e1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 87 28</string>
+          <string>vstem 131 53</string>
+          <string>hstem 0 28</string>
+          <string>hstem 290 -20</string>
+          <string>vstem 299 28</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 87 198</string>
+          <string>hstem 290 -20</string>
+          <string>hstem 0 28</string>
+          <string>vstem 131 53</string>
+          <string>vstem 299 28</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 87 28</string>
+          <string>vstem 131 53</string>
+          <string>vstem 299 28</string>
+          <string>hstem 0 28</string>
+          <string>hstem 290 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr02</string>
       </dict>
     </array>
   </dict>

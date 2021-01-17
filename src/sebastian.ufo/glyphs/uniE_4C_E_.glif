@@ -4,28 +4,28 @@
   <unicode hex="E4CE"/>
   <outline>
     <contour>
-      <point x="6" y="-137" type="line"/>
-      <point x="104" y="-80"/>
-      <point x="160" y="-12"/>
-      <point x="160" y="56" type="curve" smooth="yes"/>
-      <point x="160" y="69"/>
-      <point x="154" y="77"/>
-      <point x="140" y="77" type="curve" smooth="yes"/>
-      <point x="124" y="77"/>
-      <point x="119" y="72"/>
-      <point x="88" y="72" type="curve" smooth="yes"/>
-      <point x="57" y="72"/>
-      <point x="0" y="93"/>
-      <point x="0" y="162" type="curve" smooth="yes"/>
-      <point x="0" y="213"/>
-      <point x="42" y="252"/>
-      <point x="93" y="252" type="curve" smooth="yes"/>
-      <point x="172" y="252"/>
-      <point x="214" y="187"/>
-      <point x="214" y="107" type="curve" smooth="yes"/>
-      <point x="214" y="-40"/>
-      <point x="114" y="-118"/>
-      <point x="20" y="-166" type="curve"/>
+      <point x="6" y="29" type="line"/>
+      <point x="104" y="86"/>
+      <point x="160" y="154"/>
+      <point x="160" y="222" type="curve" smooth="yes"/>
+      <point x="160" y="235"/>
+      <point x="154" y="243"/>
+      <point x="140" y="243" type="curve" smooth="yes"/>
+      <point x="124" y="243"/>
+      <point x="119" y="238" name="hr01"/>
+      <point x="88" y="238" type="curve" smooth="yes"/>
+      <point x="57" y="238"/>
+      <point x="0" y="259"/>
+      <point x="0" y="328" type="curve" smooth="yes"/>
+      <point x="0" y="379"/>
+      <point x="42" y="418"/>
+      <point x="93" y="418" type="curve" smooth="yes"/>
+      <point x="172" y="418"/>
+      <point x="214" y="353"/>
+      <point x="214" y="273" type="curve" smooth="yes"/>
+      <point x="214" y="126"/>
+      <point x="114" y="48"/>
+      <point x="20" y="0" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -48,6 +48,32 @@
         <integer>124</integer>
         <key>width</key>
         <integer>68</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>85516e7a7f88024fa53d7a22fd7f18a798b320ad453186b373a0d3d1a7add812f67084b41296b88d6859c8ab4f357705ceb0a2e3bc7e327666c5f37c6945cb1b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 160 54</string>
+          <string>hstem 243 175</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 238 180</string>
+          <string>vstem 0 214</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
       </dict>
     </array>
   </dict>
