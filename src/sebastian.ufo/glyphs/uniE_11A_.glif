@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE11A" format="2">
+  <advance width="266"/>
+  <unicode hex="E11A"/>
+  <outline>
+    <contour>
+      <point x="0" y="132.89" type="line"/>
+      <point x="265.78" y="132.89" type="line"/>
+      <point x="265.78" y="-132.89" type="line"/>
+      <point x="0" y="-132.89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-137</integer>
+        <key>width</key>
+        <integer>274</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>274</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w266m0,132.89l265.78,132.89l265.78,-132.89l0,-132.89</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -111.89 -21</string>
+          <string>hstem 132.89 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

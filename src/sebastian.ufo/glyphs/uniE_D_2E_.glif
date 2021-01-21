@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED2E" format="2">
+  <advance width="164"/>
+  <unicode hex="ED2E"/>
+  <outline>
+    <contour>
+      <point x="0" y="-66" type="line"/>
+      <point x="32" y="-66" type="line"/>
+      <point x="162" y="306" type="line"/>
+      <point x="130" y="306" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w164m0,-66l32,-66l162,306l130,306</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -66 372</string>
+          <string>vstem 0 162</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

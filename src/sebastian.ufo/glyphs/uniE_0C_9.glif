@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0C9" format="2">
-  <advance width="409"/>
+  <advance width="307"/>
   <unicode hex="E0C9"/>
   <outline>
     <contour>
-      <point x="409" y="137" type="line"/>
-      <point x="409" y="-201" type="line" smooth="yes"/>
-      <point x="409" y="-209"/>
-      <point x="406" y="-210"/>
-      <point x="401" y="-205" type="curve"/>
-      <point x="5" y="126" type="line"/>
-      <point x="1" y="129"/>
-      <point x="0" y="132"/>
-      <point x="0" y="133" type="curve"/>
-      <point x="0" y="136"/>
-      <point x="3" y="137"/>
-      <point x="11" y="137" type="curve" smooth="yes"/>
+      <point x="306.75" y="130.25" type="line"/>
+      <point x="306.75" y="-123.25" type="line" smooth="yes"/>
+      <point x="306.75" y="-129.25"/>
+      <point x="304.5" y="-130"/>
+      <point x="300.75" y="-126.25" type="curve"/>
+      <point x="3.75" y="122" type="line"/>
+      <point x="0.75" y="124.25"/>
+      <point x="0" y="126.5"/>
+      <point x="0" y="127.25" type="curve"/>
+      <point x="0" y="129.5"/>
+      <point x="2.25" y="130.25"/>
+      <point x="8.25" y="130.25" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -46,13 +46,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w409m409,137l409,-201c409,-209 406,-210 401,-205l5,126c1,129 0,132 0,133c0,136 3,137 11,137</string>
+    <string>6e3725af7d170c6a0bc2915bc0a6f65084bbfdbd722896422d5116a10c729c5eacfcd456915b3d87a1a032f1226533d53f6134bd6673ca324cac96875661ba3f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 137 -20</string>
+          <string>hstem 130.25 -20</string>
         </array>
       </dict>
     </array>

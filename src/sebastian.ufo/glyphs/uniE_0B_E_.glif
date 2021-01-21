@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0BE" format="2">
-  <advance width="401"/>
+  <advance width="290"/>
   <unicode hex="E0BE"/>
   <outline>
     <contour>
-      <point x="0" y="-137" type="line"/>
-      <point x="200" y="211" type="line"/>
-      <point x="401" y="-137" type="line"/>
+      <point x="0" y="-126" type="line"/>
+      <point x="144.638" y="126" type="line"/>
+      <point x="290" y="-126" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -16,13 +16,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w401m0,-137l200,211l401,-137</string>
+    <string>w290m0,-126l144.64,126l290,-126</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -116 -21</string>
+          <string>hstem -105 -21</string>
         </array>
       </dict>
     </array>

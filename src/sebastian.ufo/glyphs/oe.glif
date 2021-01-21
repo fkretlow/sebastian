@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-  <advance width="296"/>
+  <advance width="300"/>
   <unicode hex="0153"/>
+  <anchor x="0" y="-46" name="stemDownNW"/>
+  <anchor x="300" y="46" name="stemUpSE"/>
   <outline>
     <contour>
-      <point x="296" y="39" type="curve" smooth="yes"/>
-      <point x="296" y="-55"/>
-      <point x="207" y="-141"/>
-      <point x="108" y="-141" type="curve" smooth="yes"/>
-      <point x="49" y="-141"/>
-      <point x="0" y="-106"/>
-      <point x="0" y="-39" type="curve" smooth="yes"/>
-      <point x="0" y="55"/>
-      <point x="89" y="141"/>
-      <point x="188" y="141" type="curve" smooth="yes"/>
-      <point x="247" y="141"/>
-      <point x="296" y="106"/>
+      <point x="0" y="-37.2175" type="curve" smooth="yes"/>
+      <point x="0" y="58.3419"/>
+      <point x="107.559" y="129.76"/>
+      <point x="194.361" y="129.76" type="curve" smooth="yes"/>
+      <point x="259.463" y="129.76"/>
+      <point x="300.033" y="91.5362"/>
+      <point x="300.033" y="38.2241" type="curve" smooth="yes"/>
+      <point x="300.033" y="-53.3117"/>
+      <point x="194.361" y="-129.76"/>
+      <point x="104.729" y="-129.76" type="curve" smooth="yes"/>
+      <point x="40.5705" y="-129.76"/>
+      <point x="0" y="-90.5299"/>
     </contour>
   </outline>
   <lib>
@@ -26,18 +28,9 @@
     <array>
       <dict>
         <key>position</key>
-        <integer>-141</integer>
+        <integer>121</integer>
         <key>width</key>
-        <integer>282</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>296</integer>
+        <integer>20</integer>
       </dict>
     </array>
   </dict>
@@ -46,14 +39,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w296m296,39c296,-55 207,-141 108,-141c49,-141 0,-106 0,-39c0,55 89,141 188,141c247,141 296,106 296,39</string>
+    <string>6939bae1f5c865b2ea2dd7bb3370666a4233a12d66c6bde470c23ede69fd8a377e16953c0bf8e5cf6529e7303a0b6d8625870f4e098dd202dca270d84d68db63</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -120 -21</string>
-          <string>hstem 141 -20</string>
+          <string>hstem -129.76 259.52</string>
         </array>
       </dict>
     </array>

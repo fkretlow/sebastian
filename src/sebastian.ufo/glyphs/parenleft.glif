@@ -1,61 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-  <advance width="114"/>
+  <advance width="98"/>
   <unicode hex="0028"/>
   <outline>
     <contour>
-      <point x="32" y="0" type="curve" smooth="yes"/>
-      <point x="32" y="-113"/>
-      <point x="78" y="-184"/>
-      <point x="107" y="-229" type="curve"/>
-      <point x="112" y="-236"/>
-      <point x="114" y="-242"/>
-      <point x="114" y="-247" type="curve" smooth="yes"/>
-      <point x="114" y="-255"/>
-      <point x="109" y="-260"/>
-      <point x="103" y="-260" type="curve" smooth="yes"/>
-      <point x="98" y="-260"/>
-      <point x="92" y="-256"/>
-      <point x="86" y="-248" type="curve"/>
-      <point x="53" y="-208"/>
-      <point x="0" y="-123"/>
-      <point x="0" y="0" type="curve" smooth="yes"/>
-      <point x="0" y="124"/>
-      <point x="53" y="208"/>
-      <point x="86" y="248" type="curve"/>
-      <point x="92" y="256"/>
-      <point x="98" y="260"/>
-      <point x="103" y="260" type="curve" smooth="yes"/>
-      <point x="109" y="260"/>
-      <point x="114" y="255"/>
-      <point x="114" y="247" type="curve" smooth="yes"/>
-      <point x="114" y="242"/>
-      <point x="112" y="236"/>
-      <point x="107" y="229" type="curve"/>
-      <point x="78" y="184"/>
-      <point x="32" y="114"/>
+      <point x="26.502" y="2.5254" type="curve" smooth="yes"/>
+      <point x="26.502" y="-101.182"/>
+      <point x="73.2423" y="-166.504"/>
+      <point x="96.9122" y="-201.6" type="curve"/>
+      <point x="84.1114" y="-213.6" type="line"/>
+      <point x="48.9122" y="-177.6"/>
+      <point x="0.111338" y="-108"/>
+      <point x="0.111338" y="0" type="curve"/>
+      <point x="0.104538" y="0.8613"/>
+      <point x="0.101638" y="1.7207"/>
+      <point x="0.101638" y="2.5772" type="curve"/>
+      <point x="0.101638" y="109.108"/>
+      <point x="49.1925" y="177.887"/>
+      <point x="84.1114" y="213.6" type="curve"/>
+      <point x="96.9122" y="201.6" type="line"/>
+      <point x="73.9034" y="167.483"/>
+      <point x="26.502" y="103.467"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>
   <dict>
-    <key>hhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>240</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
     <key>vhints</key>
     <array>
       <dict>
         <key>position</key>
         <integer>0</integer>
         <key>width</key>
-        <integer>32</integer>
+        <integer>26</integer>
       </dict>
     </array>
   </dict>
@@ -64,15 +42,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d767b649a5fec2b807d8347899d58ab0b15cab20a93039ac48c0546805059e9a6248895072ac5c0a558eb9f460cc1a66d1150a11f961b468cae2ea20ccdc092a</string>
+    <string>2700275b57012b89c106675a2c559d2d2af3ac3b26bb8490dc78b4ae11b3d165c2c4a3b09e7ae272fdec71b391464b4c4fc2dc6484c27b79f5b379a9e2d005c2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -239 -21</string>
-          <string>hstem 260 -20</string>
-          <string>vstem 0 32</string>
+          <string>vstem 0.1 26.4</string>
         </array>
       </dict>
     </array>

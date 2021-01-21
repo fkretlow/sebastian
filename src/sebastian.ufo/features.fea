@@ -23,3 +23,14 @@ feature ss01 {
   sub uniE062 from [uniF474];
 
 } ss01;
+feature ss05 {
+# Stylistic Set 01–20
+
+  sub uniE0A0 from [uniF4BA];
+  sub uniE0A1 from [uniF4BB];
+  sub uniE0A2 from [uniF4BC];
+  sub uniE0A3 from [uniF4BD];
+  sub uniE0A4 from [uniF4BE];
+#> feature
+#< feature
+} ss05;

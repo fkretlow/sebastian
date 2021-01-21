@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5FF" format="2">
-  <advance width="304"/>
+  <advance width="262"/>
   <unicode hex="E5FF"/>
   <outline>
     <contour>
-      <point x="0" y="152" type="curve" smooth="yes"/>
-      <point x="0" y="238"/>
-      <point x="72" y="304"/>
-      <point x="152" y="304" type="curve" smooth="yes"/>
-      <point x="238" y="304"/>
-      <point x="304" y="232"/>
-      <point x="304" y="152" type="curve" smooth="yes"/>
-      <point x="304" y="66"/>
-      <point x="232" y="0"/>
-      <point x="152" y="0" type="curve" smooth="yes"/>
-      <point x="66" y="0"/>
-      <point x="0" y="72"/>
+      <point x="0" y="131" type="curve" smooth="yes"/>
+      <point x="0" y="205.118"/>
+      <point x="62.0526" y="262"/>
+      <point x="131" y="262" type="curve" smooth="yes"/>
+      <point x="205.118" y="262"/>
+      <point x="262" y="199.947"/>
+      <point x="262" y="131" type="curve" smooth="yes"/>
+      <point x="262" y="56.8816"/>
+      <point x="199.947" y="0"/>
+      <point x="131" y="0" type="curve" smooth="yes"/>
+      <point x="56.8816" y="0"/>
+      <point x="0" y="62.0526"/>
     </contour>
   </outline>
   <lib>
@@ -46,14 +46,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w304m0,152c0,238 72,304 152,304c238,304 304,232 304,152c304,66 232,0 152,0c66,0 0,72 0,152</string>
+    <string>w262m0,131c0,205.12 62.05,262 131,262c205.12,262 262,199.95 262,131c262,56.88 199.95,0 131,0c56.88,0 0,62.05 0,131</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 304 -20</string>
+          <string>hstem 262 -20</string>
         </array>
       </dict>
     </array>

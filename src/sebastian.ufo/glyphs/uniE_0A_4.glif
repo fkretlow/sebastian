@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0A4" format="2">
-  <advance width="326"/>
+  <advance width="300"/>
   <unicode hex="E0A4"/>
-  <anchor x="0" y="-55" name="stemDownNW"/>
-  <anchor x="326" y="58" name="stemUpSE"/>
+  <anchor x="0" y="-46" name="stemDownNW"/>
+  <anchor x="300" y="46" name="stemUpSE"/>
   <outline>
     <contour>
-      <point x="95" y="101" type="curve" smooth="yes"/>
-      <point x="130" y="125"/>
-      <point x="178" y="141"/>
-      <point x="221" y="141" type="curve" smooth="yes"/>
-      <point x="258" y="141"/>
-      <point x="292" y="130"/>
-      <point x="311" y="100" type="curve"/>
-      <point x="322" y="85"/>
-      <point x="326" y="68"/>
-      <point x="326" y="50" type="curve" smooth="yes"/>
-      <point x="326" y="-6"/>
-      <point x="280" y="-68"/>
-      <point x="231" y="-101" type="curve" smooth="yes"/>
-      <point x="196" y="-125"/>
-      <point x="148" y="-141"/>
-      <point x="105" y="-141" type="curve" smooth="yes"/>
-      <point x="68" y="-141"/>
-      <point x="34" y="-130"/>
-      <point x="15" y="-100" type="curve"/>
-      <point x="4" y="-85"/>
-      <point x="0" y="-68"/>
-      <point x="0" y="-50" type="curve" smooth="yes"/>
-      <point x="0" y="6"/>
-      <point x="46" y="68"/>
+      <point x="0" y="-37.2175" type="curve" smooth="yes"/>
+      <point x="0" y="58.3419"/>
+      <point x="107.559" y="129.76"/>
+      <point x="194.361" y="129.76" type="curve" smooth="yes"/>
+      <point x="259.463" y="129.76"/>
+      <point x="300.033" y="91.5362"/>
+      <point x="300.033" y="38.2241" type="curve" smooth="yes"/>
+      <point x="300.033" y="-53.3117"/>
+      <point x="194.361" y="-129.76"/>
+      <point x="104.729" y="-129.76" type="curve" smooth="yes"/>
+      <point x="40.5705" y="-129.76"/>
+      <point x="0" y="-90.5299"/>
     </contour>
   </outline>
   <lib>
@@ -51,14 +39,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f368c1c0e6ea686c4c3cef46e027dc7094a3e70bd4aaf745637bd8ef96fe4e83d2bb7b12c27a305dc5bc17c21eaf2242b5b0833a58aa50519668fe5c978341fb</string>
+    <string>6939bae1f5c865b2ea2dd7bb3370666a4233a12d66c6bde470c23ede69fd8a377e16953c0bf8e5cf6529e7303a0b6d8625870f4e098dd202dca270d84d68db63</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -120 -21</string>
-          <string>hstem 141 -20</string>
+          <string>hstem -129.76 259.52</string>
         </array>
       </dict>
     </array>

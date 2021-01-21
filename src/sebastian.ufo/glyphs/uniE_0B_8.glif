@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0B8" format="2">
-  <advance width="274"/>
+  <advance width="268"/>
   <unicode hex="E0B8"/>
   <outline>
     <contour>
-      <point x="40" y="82" type="curve" smooth="yes"/>
-      <point x="40" y="-79" type="line" smooth="yes"/>
-      <point x="40" y="-88"/>
-      <point x="52" y="-97"/>
-      <point x="57" y="-97" type="curve" smooth="yes"/>
-      <point x="212" y="-97" type="line" smooth="yes"/>
-      <point x="221" y="-97"/>
-      <point x="234" y="-85"/>
-      <point x="234" y="-77" type="curve" smooth="yes"/>
-      <point x="234" y="77" type="line" smooth="yes"/>
-      <point x="234" y="85"/>
-      <point x="223" y="97"/>
-      <point x="215" y="97" type="curve" smooth="yes"/>
-      <point x="56" y="97" type="line" smooth="yes"/>
-      <point x="50" y="97"/>
-      <point x="40" y="86"/>
+      <point x="38.8" y="79.54" type="curve" smooth="yes"/>
+      <point x="38.8" y="-76.63" type="line" smooth="yes"/>
+      <point x="38.8" y="-85.36"/>
+      <point x="50.44" y="-94.09"/>
+      <point x="55.29" y="-94.09" type="curve" smooth="yes"/>
+      <point x="205.64" y="-94.09" type="line" smooth="yes"/>
+      <point x="214.37" y="-94.09"/>
+      <point x="226.98" y="-82.45"/>
+      <point x="226.98" y="-74.69" type="curve" smooth="yes"/>
+      <point x="226.98" y="74.69" type="line" smooth="yes"/>
+      <point x="226.98" y="82.45"/>
+      <point x="216.31" y="94.09"/>
+      <point x="208.55" y="94.09" type="curve" smooth="yes"/>
+      <point x="54.32" y="94.09" type="line" smooth="yes"/>
+      <point x="48.5" y="94.09"/>
+      <point x="38.8" y="83.42"/>
     </contour>
     <contour>
-      <point x="0" y="137" type="line"/>
-      <point x="274" y="137" type="line"/>
-      <point x="274" y="-137" type="line"/>
-      <point x="0" y="-137" type="line"/>
+      <point x="0" y="132.89" type="line"/>
+      <point x="265.78" y="132.89" type="line"/>
+      <point x="265.78" y="-132.89" type="line"/>
+      <point x="0" y="-132.89" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -68,16 +68,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d469f31739689fb23a91208f5fa2ff0ed406310e7053c8f5db3a8dc7fcee88fd32e03e01a48780ca682a4bd6b08fc70688d0dde7a5da61080aec7cf6a94c6215</string>
+    <string>032f2632bada8bb7b622992ac52d86a1d881869d61d61a5a68c236194f1aa4f7d3826a3ebb655bbe195838b37c3060f561d1f5579f2c265677ae77d577bed95d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -137 40</string>
-          <string>hstem 97 40</string>
-          <string>vstem 0 40</string>
-          <string>vstem 234 40</string>
+          <string>hstem -132.89 38.8</string>
+          <string>hstem 94.09 38.8</string>
+          <string>vstem 0 38.8</string>
+          <string>vstem 226.98 38.8</string>
         </array>
       </dict>
     </array>

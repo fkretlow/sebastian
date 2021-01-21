@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0B9" format="2">
-  <advance width="274"/>
+  <advance width="266"/>
   <unicode hex="E0B9"/>
   <outline>
     <contour>
-      <point x="0" y="137" type="line"/>
-      <point x="274" y="137" type="line"/>
-      <point x="274" y="-137" type="line"/>
-      <point x="0" y="-137" type="line"/>
+      <point x="0" y="132.89" type="line"/>
+      <point x="265.78" y="132.89" type="line"/>
+      <point x="265.78" y="-132.89" type="line"/>
+      <point x="0" y="-132.89" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,14 +38,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w274m0,137l274,137l274,-137l0,-137</string>
+    <string>w266m0,132.89l265.78,132.89l265.78,-132.89l0,-132.89</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -116 -21</string>
-          <string>hstem 137 -20</string>
+          <string>hstem -111.89 -21</string>
+          <string>hstem 132.89 -20</string>
         </array>
       </dict>
     </array>

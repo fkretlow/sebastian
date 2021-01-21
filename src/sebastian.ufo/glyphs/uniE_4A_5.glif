@@ -4,10 +4,20 @@
   <unicode hex="E4A5"/>
   <outline>
     <contour>
-      <point x="0" y="33" type="line"/>
-      <point x="300" y="33" type="line"/>
-      <point x="300" y="-33" type="line"/>
-      <point x="0" y="-33" type="line"/>
+      <point x="0" y="-28" type="curve" smooth="yes"/>
+      <point x="0" y="-2.54545"/>
+      <point x="7.69231" y="0"/>
+      <point x="23.0769" y="0" type="curve" smooth="yes"/>
+      <point x="278.846" y="0" type="line" smooth="yes"/>
+      <point x="295.192" y="0"/>
+      <point x="300" y="-5.09091"/>
+      <point x="300" y="-28" type="curve" smooth="yes"/>
+      <point x="300" y="-53.4545"/>
+      <point x="295.192" y="-56"/>
+      <point x="278.846" y="-56" type="curve" smooth="yes"/>
+      <point x="22.1154" y="-56" type="line" smooth="yes"/>
+      <point x="5.76923" y="-56"/>
+      <point x="0" y="-53.4545"/>
     </contour>
   </outline>
   <lib>
@@ -29,13 +39,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w300m0,33l300,33l300,-33l0,-33</string>
+    <string>f2de46f8ffcfd8cd804750dce8f4f6f1e4a077da2cca788e5f2b352e9f6e54c677ea31c73f2f69b526ed0734141b9af284b78ecb71bad3001fe9ffadd3ce209d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -33 66</string>
+          <string>hstem -56 56</string>
         </array>
       </dict>
     </array>

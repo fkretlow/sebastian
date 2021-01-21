@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED2B" format="2">
+  <advance width="67"/>
+  <unicode hex="ED2B"/>
+  <outline>
+    <contour>
+      <point x="-11" y="-1" type="curve"/>
+      <point x="-11" y="-20" type="line"/>
+      <point x="68" y="-20" type="line"/>
+      <point x="68" y="269" type="line"/>
+      <point x="-9" y="269" type="line"/>
+      <point x="-9" y="250" type="line"/>
+      <point x="1" y="250"/>
+      <point x="35" y="250"/>
+      <point x="35" y="218" type="curve" smooth="yes"/>
+      <point x="35" y="25" type="line" smooth="yes"/>
+      <point x="35" y="0"/>
+      <point x="1" y="-1"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w67m-11,-1l-11,-20l68,-20l68,269l-9,269l-9,250c1,250 35,250 35,218l35,25c35,0 1,-1 -11,-1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -20 19</string>
+          <string>hstem 250 19</string>
+          <string>vstem 35 33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
