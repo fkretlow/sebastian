@@ -4,56 +4,56 @@
   <unicode hex="EA5B"/>
   <outline>
     <contour>
-      <point x="92" y="150" type="curve"/>
-      <point x="101" y="157"/>
-      <point x="118" y="165"/>
-      <point x="137" y="165" type="curve" smooth="yes"/>
-      <point x="187" y="165"/>
-      <point x="212" y="132" name="hr01"/>
-      <point x="212" y="88" type="curve" smooth="yes"/>
-      <point x="212" y="36"/>
+      <point x="92" y="148.46" type="curve"/>
+      <point x="101" y="155.39"/>
+      <point x="118" y="163.31"/>
+      <point x="137" y="163.31" type="curve" smooth="yes"/>
+      <point x="187" y="163.31"/>
+      <point x="212" y="130.64" name="hr01"/>
+      <point x="212" y="87.08" type="curve" smooth="yes"/>
+      <point x="212" y="35.6"/>
       <point x="176" y="-4"/>
       <point x="120" y="-4" type="curve" smooth="yes"/>
       <point x="51" y="-4"/>
-      <point x="25" y="61"/>
-      <point x="25" y="131" type="curve" smooth="yes"/>
-      <point x="25" y="228"/>
-      <point x="76" y="285" name="hr02"/>
-      <point x="137" y="285" type="curve" smooth="yes"/>
-      <point x="167" y="285"/>
-      <point x="199" y="267"/>
-      <point x="199" y="238" type="curve" smooth="yes"/>
-      <point x="199" y="220"/>
-      <point x="184" y="205" name="hr03"/>
-      <point x="167" y="205" type="curve" smooth="yes"/>
-      <point x="150" y="205"/>
-      <point x="137" y="218"/>
-      <point x="137" y="235" type="curve" smooth="yes"/>
-      <point x="137" y="250"/>
-      <point x="142" y="252"/>
-      <point x="142" y="259" type="curve" smooth="yes"/>
-      <point x="142" y="265"/>
-      <point x="138" y="267"/>
-      <point x="134" y="267" type="curve" smooth="yes"/>
-      <point x="104" y="267"/>
-      <point x="77" y="217"/>
-      <point x="75" y="156" type="curve"/>
-      <point x="75" y="149"/>
-      <point x="83" y="142"/>
+      <point x="25" y="60.35"/>
+      <point x="25" y="129.65" type="curve" smooth="yes"/>
+      <point x="25" y="225.68"/>
+      <point x="76" y="282.11" name="hr02"/>
+      <point x="137" y="282.11" type="curve" smooth="yes"/>
+      <point x="167" y="282.11"/>
+      <point x="199" y="264.29"/>
+      <point x="199" y="235.58" type="curve" smooth="yes"/>
+      <point x="199" y="217.76"/>
+      <point x="184" y="202.91" name="hr03"/>
+      <point x="167" y="202.91" type="curve" smooth="yes"/>
+      <point x="150" y="202.91"/>
+      <point x="137" y="215.78"/>
+      <point x="137" y="232.61" type="curve" smooth="yes"/>
+      <point x="137" y="247.46"/>
+      <point x="142" y="249.44"/>
+      <point x="142" y="256.37" type="curve" smooth="yes"/>
+      <point x="142" y="262.31"/>
+      <point x="138" y="264.29"/>
+      <point x="134" y="264.29" type="curve" smooth="yes"/>
+      <point x="104" y="264.29"/>
+      <point x="77" y="214.79"/>
+      <point x="75" y="154.4" type="curve"/>
+      <point x="75" y="147.47"/>
+      <point x="83" y="140.54"/>
     </contour>
     <contour>
-      <point x="129" y="146" type="curve" smooth="yes"/>
-      <point x="99" y="146" name="hr04"/>
-      <point x="78" y="115"/>
-      <point x="78" y="78" type="curve" smooth="yes"/>
-      <point x="78" y="46"/>
-      <point x="93" y="14"/>
-      <point x="120" y="14" type="curve" smooth="yes"/>
-      <point x="152" y="14"/>
-      <point x="163" y="39"/>
-      <point x="163" y="87" type="curve" smooth="yes"/>
-      <point x="163" y="119"/>
-      <point x="161" y="146"/>
+      <point x="129" y="144.5" type="curve" smooth="yes"/>
+      <point x="99" y="144.5" name="hr04"/>
+      <point x="78" y="113.81"/>
+      <point x="78" y="77.18" type="curve" smooth="yes"/>
+      <point x="78" y="45.5"/>
+      <point x="93" y="13.82"/>
+      <point x="120" y="13.82" type="curve" smooth="yes"/>
+      <point x="152" y="13.82"/>
+      <point x="163" y="38.57"/>
+      <point x="163" y="86.09" type="curve" smooth="yes"/>
+      <point x="163" y="117.77"/>
+      <point x="161" y="144.5"/>
     </contour>
   </outline>
   <lib>
@@ -108,15 +108,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2ecaaab0a99e439b08b64d12d6a6d2d16824baf08cac76a12830e7a4d178f2b166e9e637f2939e643a59d4fa6a790fcce42ab7541334437b00ffb7ec11135e66</string>
+    <string>84c143c9bdf8d8064dcc29d8da3bbbd81bc8a1899a54de89fda83033a38b9585c0de6ef4e081592bd33b3c65edb82b08b519536c22e997213b80c11605744d31</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -4 169</string>
+          <string>hstem -4 167.31</string>
           <string>vstem 137 62</string>
-          <string>hstem 205 80</string>
+          <string>hstem 202.91 79.2</string>
           <string>vstem 25 50</string>
         </array>
       </dict>
@@ -124,9 +124,9 @@
         <key>stems</key>
         <array>
           <string>vstem 163 49</string>
-          <string>hstem -4 169</string>
+          <string>hstem -4 167.31</string>
           <string>vstem 25 50</string>
-          <string>hstem 205 80</string>
+          <string>hstem 202.91 79.2</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -134,7 +134,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 146 139</string>
+          <string>hstem 144.5 137.61</string>
           <string>vstem 137 62</string>
           <string>vstem 25 50</string>
         </array>
@@ -144,10 +144,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 205 80</string>
+          <string>hstem 202.91 79.2</string>
           <string>vstem 137 62</string>
           <string>vstem 25 50</string>
-          <string>hstem -4 169</string>
+          <string>hstem -4 167.31</string>
         </array>
         <key>pointTag</key>
         <string>hr03</string>
@@ -155,7 +155,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 146 139</string>
+          <string>hstem 144.5 137.61</string>
           <string>vstem 25 53</string>
           <string>vstem 163 49</string>
         </array>

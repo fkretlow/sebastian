@@ -4,10 +4,20 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="0" y="33" type="line"/>
-      <point x="300" y="33" type="line"/>
-      <point x="300" y="-33" type="line"/>
-      <point x="0" y="-33" type="line"/>
+      <point x="0" y="28" type="curve" smooth="yes"/>
+      <point x="0" y="53.4545"/>
+      <point x="7.69231" y="56"/>
+      <point x="23.0769" y="56" type="curve" smooth="yes"/>
+      <point x="278.846" y="56" type="line" smooth="yes"/>
+      <point x="295.192" y="56"/>
+      <point x="300" y="50.9091"/>
+      <point x="300" y="28" type="curve" smooth="yes"/>
+      <point x="300" y="2.54545"/>
+      <point x="295.192" y="0"/>
+      <point x="278.846" y="0" type="curve" smooth="yes"/>
+      <point x="22.1154" y="0" type="line" smooth="yes"/>
+      <point x="5.76923" y="0"/>
+      <point x="0" y="2.5455"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +28,9 @@
     <array>
       <dict>
         <key>position</key>
-        <integer>-33</integer>
+        <integer>-22</integer>
         <key>width</key>
-        <integer>66</integer>
+        <integer>44</integer>
       </dict>
     </array>
     <key>vhints</key>
@@ -29,7 +39,7 @@
         <key>position</key>
         <integer>0</integer>
         <key>width</key>
-        <integer>300</integer>
+        <integer>312</integer>
       </dict>
     </array>
   </dict>
@@ -38,13 +48,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w300m0,33l300,33l300,-33l0,-33</string>
+    <string>w300m0,28c0,53.45 7.69,56 23.08,56l278.85,56c295.19,56 300,50.91 300,28c300,2.55 295.19,0 278.85,0l22.12,0c5.77,0 0,2.55 0,28</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -33 66</string>
+          <string>hstem 0 56</string>
         </array>
       </dict>
     </array>

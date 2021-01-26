@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0A4" format="2">
-  <advance width="300"/>
+  <advance width="320"/>
   <unicode hex="E0A4"/>
   <anchor x="0" y="-46" name="stemDownNW"/>
-  <anchor x="300" y="46" name="stemUpSE"/>
+  <anchor x="320" y="46" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="0" y="-37.2175" type="curve" smooth="yes"/>
       <point x="0" y="58.3419"/>
-      <point x="107.559" y="129.76"/>
-      <point x="194.361" y="129.76" type="curve" smooth="yes"/>
-      <point x="259.463" y="129.76"/>
-      <point x="300.033" y="91.5362"/>
-      <point x="300.033" y="38.2241" type="curve" smooth="yes"/>
-      <point x="300.033" y="-53.3117"/>
-      <point x="194.361" y="-129.76"/>
-      <point x="104.729" y="-129.76" type="curve" smooth="yes"/>
-      <point x="40.5705" y="-129.76"/>
+      <point x="114.651" y="129.76"/>
+      <point x="207.176" y="129.76" type="curve" smooth="yes"/>
+      <point x="276.569" y="129.76"/>
+      <point x="319.815" y="91.5362"/>
+      <point x="319.815" y="38.2241" type="curve" smooth="yes"/>
+      <point x="319.815" y="-53.3117"/>
+      <point x="207.176" y="-129.76"/>
+      <point x="111.634" y="-129.76" type="curve" smooth="yes"/>
+      <point x="43.2454" y="-129.76"/>
       <point x="0" y="-90.5299"/>
     </contour>
   </outline>
@@ -39,13 +39,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6939bae1f5c865b2ea2dd7bb3370666a4233a12d66c6bde470c23ede69fd8a377e16953c0bf8e5cf6529e7303a0b6d8625870f4e098dd202dca270d84d68db63</string>
+    <string>51d424629ec66a729d3cf167c9ef6aa3b7e1dc2877073a25b7c1ea132f8d30deb0fdf5be42ea0b536b7d7d5122d364647b300c8baaad84bb6c481cceffd5f0ed</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -129.76 259.52</string>
+          <string>hstem -108.76 -21</string>
+          <string>hstem 129.76 -20</string>
         </array>
       </dict>
     </array>
