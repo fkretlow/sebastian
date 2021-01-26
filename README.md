@@ -5,11 +5,14 @@ The music fonts and symbol resources in this archive are free to use for everybo
 The fonts are licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
 
 **SMuFL compatible version**  
-This repository contains a variety of designs for musical symbols in FontForge sfd files. It also contains a Unified Font Object (UFO) data structure for a SMuFL-compliant font. [SMuFL] (https://w3c.github.io/smufl/gitbook/).  
-Release versions will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data.
+
+This repository contains a variety of designs for musical symbols in FontForge sfd files. The project is being developed to use these designs and create a SMuFL-compliant font. (https://w3c.github.io/smufl/gitbook/).
+
+This work is being done using the Unified Font Object (UFO) data structure in the src folder.
+
+Releases will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data.
 
 
-**USE AT YOUR OWN RISK!**
 
 ### A FEW NOTES
 
