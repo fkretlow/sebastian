@@ -16,7 +16,7 @@ Releases will contain an OTF font and the SMuFL *metadata.json* file that suppli
 
 ### A FEW NOTES
 
-This is, or was, a work in progress, that I won't continue. That means, that there is in some cases a certain lack of consistency. For example I changed the style of accidentals several times, but didn't draw correspondent micro-tonal or smaller accidentals. The same goes for numbers and clefs and maybe everything else. There is, however, enough consistency left to use the fonts as is.
+The original designs in the FontForge files are a work in progress that I won't continue. That means, that there is in some cases a certain lack of consistency. For example I changed the style of accidentals several times, but didn't draw correspondent micro-tonal or smaller accidentals. The same goes for numbers and clefs and maybe everything else. There is, however, enough consistency left to use the fonts as is.
 
 The fonts have been used and tested with Finale 2009, they should work with later versions as well.
 
