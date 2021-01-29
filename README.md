@@ -4,11 +4,19 @@ The music fonts and symbol resources in this archive are free to use for everybo
 
 The fonts are licensed under the [SIL Open Font License](http://scripts.sil.org/ofl).
 
-**USE AT YOUR OWN RISK!**
+**SMuFL compatible version**  
+
+This repository contains a variety of designs for musical symbols in FontForge sfd files. The project is being developed to use these designs and create a SMuFL-compliant font. (https://w3c.github.io/smufl/gitbook/).
+
+This work is being done using the Unified Font Object (UFO) data structure in the src folder.
+
+Releases will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data.
+
+
 
 ### A FEW NOTES
 
-This is, or was, a work in progress, that I won't continue. That means, that there is in some cases a certain lack of consistency. For example I changed the style of accidentals several times, but didn't draw correspondent micro-tonal or smaller accidentals. The same goes for numbers and clefs and maybe everything else. There is, however, enough consistency left to use the fonts as is.
+The original designs in the FontForge files are a work in progress that I won't continue. That means, that there is in some cases a certain lack of consistency. For example I changed the style of accidentals several times, but didn't draw correspondent micro-tonal or smaller accidentals. The same goes for numbers and clefs and maybe everything else. There is, however, enough consistency left to use the fonts as is.
 
 The fonts have been used and tested with Finale 2009, they should work with later versions as well.
 
@@ -23,7 +31,8 @@ There are specific symbols for clef changes. Finale does not allow you to use th
 **Sebastian-Acc-Art** contains among other things (outdated) microtonal accidentals, alternate flags (I used them as articulations, as Finale doesn't support alternate flag sizes), fermatas. The numbers are still smaller than those in Sebastian-Ornaments.
 
 **Sebastian-Note-Clef** contains among other things alternate noteheads and italic numbers for tuplets.
-**Sebastian-Numerals** contains very big and very small numbers, octaves (as they are currently partly not accessible in Sebastian, see above), and narrower accidentals (just change the font for accidentals to Sebastian-Numerals if you need them).
+
+**Sebastian-Numerals** contains very big and very small numbers, octaves (as they are currently partly not accessible in Sebastian, see above), and narrower accidentals (just change the font for accidentals to Sebastian-Numerals if you need them).
 
 **Sebastian-FigBass** contains all you need to notate figured bass (basso continuo) numbers. The style of the numbers ist not the same as in the other fonts, though.
 
