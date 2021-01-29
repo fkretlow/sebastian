@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-  <advance width="300"/>
+  <advance width="320"/>
   <unicode hex="0153"/>
   <anchor x="0" y="-46" name="stemDownNW"/>
-  <anchor x="300" y="46" name="stemUpSE"/>
+  <anchor x="320" y="46" name="stemUpSE"/>
   <outline>
     <contour>
-      <point x="0" y="-37.2175" type="curve" smooth="yes"/>
-      <point x="0" y="58.3419"/>
-      <point x="107.559" y="129.76"/>
-      <point x="194.361" y="129.76" type="curve" smooth="yes"/>
-      <point x="259.463" y="129.76"/>
-      <point x="300.033" y="91.5362"/>
-      <point x="300.033" y="38.2241" type="curve" smooth="yes"/>
-      <point x="300.033" y="-53.3117"/>
-      <point x="194.361" y="-129.76"/>
-      <point x="104.729" y="-129.76" type="curve" smooth="yes"/>
-      <point x="40.5705" y="-129.76"/>
-      <point x="0" y="-90.5299"/>
+      <point x="0" y="-39.5078" type="curve" smooth="yes"/>
+      <point x="0" y="61.9322"/>
+      <point x="114.651" y="137.745"/>
+      <point x="207.176" y="137.745" type="curve" smooth="yes"/>
+      <point x="276.569" y="137.745"/>
+      <point x="319.815" y="97.1692"/>
+      <point x="319.815" y="40.5764" type="curve" smooth="yes"/>
+      <point x="319.815" y="-56.5924"/>
+      <point x="207.176" y="-137.745"/>
+      <point x="111.634" y="-137.745" type="curve" smooth="yes"/>
+      <point x="43.2454" y="-137.745"/>
+      <point x="0" y="-96.101"/>
     </contour>
   </outline>
   <lib>
@@ -39,13 +39,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6939bae1f5c865b2ea2dd7bb3370666a4233a12d66c6bde470c23ede69fd8a377e16953c0bf8e5cf6529e7303a0b6d8625870f4e098dd202dca270d84d68db63</string>
+    <string>5f8a8410e237e5c08d71fcfb90e88d186e3c69c4cac1381b3060cd4862ed64141d014508715bd6dad5f101c200ad58f538b8e90b02087a1bcb47814358d2d71d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -129.76 259.52</string>
+          <string>hstem -116.74 -21</string>
+          <string>hstem 137.75 -20</string>
         </array>
       </dict>
     </array>

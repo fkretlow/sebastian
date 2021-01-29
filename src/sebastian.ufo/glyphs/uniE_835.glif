@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE835" format="2">
+  <advance width="540"/>
+  <unicode hex="E835"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="curve" smooth="yes"/>
+      <point x="419" y="0"/>
+      <point x="540" y="121"/>
+      <point x="540" y="270" type="curve" smooth="yes"/>
+      <point x="540" y="419"/>
+      <point x="419" y="539"/>
+      <point x="270" y="539" type="curve" smooth="yes"/>
+      <point x="121" y="539"/>
+      <point x="0" y="419"/>
+      <point x="0" y="270" type="curve" smooth="yes"/>
+      <point x="0" y="121"/>
+      <point x="121" y="0"/>
+    </contour>
+    <contour>
+      <point x="32" y="270" type="curve" smooth="yes"/>
+      <point x="32" y="401"/>
+      <point x="139" y="507"/>
+      <point x="270" y="507" type="curve" smooth="yes"/>
+      <point x="401" y="507"/>
+      <point x="508" y="401"/>
+      <point x="508" y="270" type="curve" smooth="yes"/>
+      <point x="508" y="139"/>
+      <point x="401" y="32"/>
+      <point x="270" y="32" type="curve" smooth="yes"/>
+      <point x="139" y="32"/>
+      <point x="32" y="139"/>
+    </contour>
+    <contour>
+      <point x="387" y="107" type="line"/>
+      <point x="387" y="151" type="line"/>
+      <point x="200" y="151" type="line"/>
+      <point x="205" y="180"/>
+      <point x="221" y="198"/>
+      <point x="264" y="224" type="curve"/>
+      <point x="314" y="251" type="line" smooth="yes"/>
+      <point x="364" y="277"/>
+      <point x="389" y="314"/>
+      <point x="389" y="358" type="curve" smooth="yes"/>
+      <point x="389" y="418"/>
+      <point x="343" y="462"/>
+      <point x="276" y="462" type="curve" smooth="yes"/>
+      <point x="203" y="462"/>
+      <point x="161" y="425"/>
+      <point x="159" y="339" type="curve" name="hr01"/>
+      <point x="203" y="339" type="line"/>
+      <point x="206" y="398"/>
+      <point x="231" y="423"/>
+      <point x="274" y="423" type="curve" smooth="yes"/>
+      <point x="314" y="423"/>
+      <point x="344" y="395"/>
+      <point x="344" y="357" type="curve" smooth="yes"/>
+      <point x="344" y="329"/>
+      <point x="328" y="305"/>
+      <point x="296" y="287" type="curve" smooth="yes"/>
+      <point x="250" y="261" type="line" smooth="yes"/>
+      <point x="176" y="219"/>
+      <point x="155" y="185"/>
+      <point x="151" y="107" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>55582c19675b8745b78af73aa53dbf9fc29066755cdde5c226be33be8c174cc0a493f76f4e088ab762fa7e9c5a237fb14f2774290946b4efce8d1b467fa1253c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 32</string>
+          <string>vstem 508 32</string>
+          <string>hstem 507 32</string>
+          <string>vstem 0 32</string>
+          <string>hstem 107 44</string>
+          <string>vstem 151 49</string>
+          <string>vstem 344 45</string>
+          <string>hstem 423 39</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 423 39</string>
+          <string>vstem 159 44</string>
+          <string>vstem 344 45</string>
+          <string>hstem 107 44</string>
+          <string>hstem 0 32</string>
+          <string>hstem 507 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 508 32</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 107 44</string>
+          <string>vstem 151 49</string>
+          <string>hstem 0 32</string>
+          <string>hstem 423 39</string>
+          <string>hstem 507 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 344 45</string>
+          <string>vstem 508 32</string>
+        </array>
+        <key>pointTag</key>
+        <string>rsb</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

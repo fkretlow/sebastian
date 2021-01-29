@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE619" format="2">
+  <advance width="197"/>
+  <unicode hex="E619"/>
+  <outline>
+    <contour>
+      <point x="197" y="-45" type="line"/>
+      <point x="149" y="9"/>
+      <point x="78" y="43"/>
+      <point x="0" y="43" type="curve" smooth="yes"/>
+      <point x="-78" y="43"/>
+      <point x="-149" y="9"/>
+      <point x="-197" y="-45" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w197m197,-45c149,9 78,43 0,43c-78,43 -149,9 -197,-45</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -45 88</string>
+          <string>vstem -197 394</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

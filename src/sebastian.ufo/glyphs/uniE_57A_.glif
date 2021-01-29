@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE57A" format="2">
+  <advance width="201"/>
+  <unicode hex="E57A"/>
+  <outline>
+    <contour>
+      <point x="164" y="-1" type="line"/>
+      <point x="198" y="19" type="line"/>
+      <point x="34" y="301" type="line"/>
+      <point x="0" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w201m164,-1l198,19l34,301l0,280</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 20 -21</string>
+          <string>vstem 0 198</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

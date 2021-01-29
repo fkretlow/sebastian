@@ -6,11 +6,11 @@
     <contour>
       <point x="0" y="340" type="line"/>
       <point x="38" y="340" type="line"/>
-      <point x="38" y="168" type="line" smooth="yes"/>
-      <point x="38" y="158"/>
-      <point x="50" y="148"/>
-      <point x="58" y="151" type="curve"/>
-      <point x="181" y="187" type="line"/>
+      <point x="38" y="178" type="line" smooth="yes"/>
+      <point x="38" y="168"/>
+      <point x="50" y="158"/>
+      <point x="58" y="161" type="curve"/>
+      <point x="181" y="200" type="line"/>
       <point x="181" y="-340" type="line"/>
       <point x="143" y="-340" type="line"/>
       <point x="143" y="-179" type="line" smooth="yes"/>
@@ -20,19 +20,19 @@
       <point x="122.263" y="-161.208"/>
       <point x="120.632" y="-161.456"/>
       <point x="119" y="-162" type="curve"/>
-      <point x="0" y="-197" type="line"/>
+      <point x="0" y="-201" type="line"/>
     </contour>
     <contour>
-      <point x="30" y="51" type="line"/>
+      <point x="30" y="61" type="line"/>
       <point x="30" y="-75" type="line" smooth="yes"/>
       <point x="30" y="-88"/>
       <point x="41" y="-93"/>
       <point x="50" y="-90" type="curve"/>
-      <point x="151" y="-61" type="line"/>
-      <point x="151" y="66" type="line" smooth="yes"/>
-      <point x="151" y="77"/>
-      <point x="139" y="83"/>
-      <point x="130" y="80" type="curve"/>
+      <point x="151" y="-57" type="line"/>
+      <point x="151" y="76" type="line" smooth="yes"/>
+      <point x="151" y="87"/>
+      <point x="139" y="96"/>
+      <point x="130" y="93" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -81,7 +81,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0e928fedb94f766bbf8616c9d59c84f9b00c64185fc82a17a8fe1160a6858cf4fe090d723d2b90a6f866cd430d5317dd3918b652c142d805c5b9d715d88a4e30</string>
+    <string>db5bd5dee2fb560f64f02a6a3b7ff1f03841cd47d805772896fac0f0391aec06457e55c5a5d826a501b4ceda7bb986188380feca6f4a1fe52f42fce2a2c19ec1</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -102,7 +102,7 @@
           <string>hstem -319 -21</string>
         </array>
         <key>pointTag</key>
-        <string>._.105554095511648</string>
+        <string>._.105553204199424</string>
       </dict>
     </array>
   </dict>

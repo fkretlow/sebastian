@@ -12,9 +12,9 @@
       <point x="60.585" y="148.51"/>
       <point x="42.735" y="148.51" type="curve" smooth="yes"/>
       <point x="24.885" y="148.51"/>
-      <point x="8.565" y="161.77"/>
-      <point x="8.565" y="185.23" type="curve" smooth="yes"/>
-      <point x="8.565" y="219.4"/>
+      <point x="8.56501" y="161.77"/>
+      <point x="8.56501" y="185.23" type="curve" smooth="yes"/>
+      <point x="8.56501" y="219.4"/>
       <point x="43.245" y="255.1"/>
       <point x="98.325" y="255.1" type="curve" smooth="yes"/>
       <point x="151.365" y="255.1"/>
@@ -45,8 +45,8 @@
       <point x="36.105" y="27.64"/>
       <point x="20.805" y="18.46"/>
       <point x="14.175" y="-2.45" type="curve"/>
-      <point x="0.915006" y="-2.45" type="line"/>
-      <point x="4.48501" y="48.55"/>
+      <point x="0.915001" y="-2.45" type="line"/>
+      <point x="4.48497" y="48.55"/>
       <point x="30.495" y="78.13"/>
       <point x="59.055" y="98.53" type="curve" smooth="yes"/>
       <point x="109.035" y="134.23"/>
@@ -105,15 +105,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6408b8e8c596047d82f3043f91e1b3d25bbc9d8548663ba39a4aa5bb322bfe20e0ce5eeac163e1fbedea516f1454c7d75298ea5ae9a4e1cf40f07db4369ebc50</string>
+    <string>f3e697b0a52d7d7be0483cad790052325693c1d9d15b4fbcf5dc11659383ac67395a8b35530e01e114fb8655fe1cf5d32f7231d67413b3147af72b0514a4ade0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 8.56 65.79</string>
+          <string>vstem 8.57 65.79</string>
           <string>hstem 148.51 106.59</string>
-          <string>vstem 133.01 51.51</string>
+          <string>vstem 133. 51.51</string>
           <string>hstem 27.64 38.25</string>
         </array>
       </dict>
@@ -122,8 +122,8 @@
         <array>
           <string>hstem -5 46.92</string>
           <string>hstem 148.51 106.59</string>
-          <string>vstem 133.01 51.51</string>
-          <string>vstem 8.56 65.79</string>
+          <string>vstem 133. 51.51</string>
+          <string>vstem 8.57 65.79</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -132,9 +132,9 @@
         <key>stems</key>
         <array>
           <string>hstem 27.64 38.25</string>
-          <string>vstem 133.01 51.51</string>
+          <string>vstem 133. 51.51</string>
           <string>hstem 148.51 106.59</string>
-          <string>vstem 8.56 65.79</string>
+          <string>vstem 8.57 65.79</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>
