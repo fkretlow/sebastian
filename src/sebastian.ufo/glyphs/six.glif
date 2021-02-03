@@ -2,7 +2,6 @@
 <glyph name="six" format="2">
   <advance width="418"/>
   <unicode hex="0036"/>
-  <note>Test Note.</note>
   <outline>
     <contour>
       <point x="233.629" y="163.574" type="curve" smooth="yes"/>
@@ -13,13 +12,13 @@
       <point x="245.053" y="215.485"/>
       <point x="235.671" y="215.485" type="curve" smooth="yes"/>
       <point x="158.439" y="215.485"/>
-      <point x="128.3" y="125.636"/>
-      <point x="128.3" y="44.2103" type="curve" smooth="yes"/>
-      <point x="128.3" y="21.3439" type="line"/>
-      <point x="149.557" y="41.9593"/>
-      <point x="189.443" y="65.4575"/>
-      <point x="238.629" y="65.4575" type="curve" smooth="yes"/>
-      <point x="323.191" y="65.4575"/>
+      <point x="128.3" y="118.636"/>
+      <point x="128.3" y="37.2103" type="curve" smooth="yes"/>
+      <point x="128.3" y="1.34388" type="line"/>
+      <point x="149.557" y="21.9593"/>
+      <point x="183.443" y="34.4575"/>
+      <point x="232.629" y="34.4575" type="curve" smooth="yes"/>
+      <point x="317.191" y="34.4575"/>
       <point x="392.471" y="12.7477" name="hr01"/>
       <point x="392.471" y="-86.7048" type="curve" smooth="yes"/>
       <point x="392.471" y="-184.933"/>
@@ -30,7 +29,7 @@
       <point x="25.6429" y="-4.88287" type="curve" smooth="yes"/>
       <point x="25.6429" y="132.512"/>
       <point x="101.374" y="250.279"/>
-      <point x="235.671" y="250.279" type="curve" smooth="yes"/>
+      <point x="235.672" y="250.279" type="curve" smooth="yes"/>
       <point x="305.51" y="250.279"/>
       <point x="359.943" y="210.497" name="hr02"/>
       <point x="359.943" y="163.574" type="curve" smooth="yes"/>
@@ -41,19 +40,19 @@
       <point x="233.629" y="129.077"/>
     </contour>
     <contour>
-      <point x="223.843" y="27.7762" type="curve" smooth="yes"/>
-      <point x="191.995" y="27.7762"/>
-      <point x="128.3" y="-3.2585"/>
-      <point x="128.3" y="-61.6769" type="curve" smooth="yes"/>
+      <point x="219.843" y="-21.2238" type="curve" smooth="yes"/>
+      <point x="180.995" y="-21.2238"/>
+      <point x="128.3" y="-16.2585"/>
+      <point x="128.3" y="-74.6769" type="curve" smooth="yes"/>
       <point x="128.3" y="-96.3309" type="line" smooth="yes"/>
       <point x="128.3" y="-152.741"/>
-      <point x="155.31" y="-215.625"/>
-      <point x="213.986" y="-215.625" type="curve" smooth="yes"/>
-      <point x="265.771" y="-215.625"/>
+      <point x="155.31" y="-210.625"/>
+      <point x="213.986" y="-210.625" type="curve" smooth="yes"/>
+      <point x="265.771" y="-210.625"/>
       <point x="289.814" y="-167.436"/>
       <point x="289.814" y="-89.5927" type="curve" smooth="yes"/>
-      <point x="289.814" y="-11.9628"/>
-      <point x="266.908" y="27.7762"/>
+      <point x="289.814" y="-44.9628"/>
+      <point x="274.908" y="-21.2238"/>
     </contour>
   </outline>
   <lib>
@@ -109,14 +108,12 @@
       </dict>
     </array>
   </dict>
-  <key>note</key>
-  <string>Test Note.</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c82c34db76144cb0cff3d84d48fe5ee4ab1a0597c46dff9b9d147bcee03977a021c958319717bf46e14b7df748305ff3268a54d14f3bc6fa0421b77ce33ade7f</string>
+    <string>2a56c79a03a74c9072717ec4b287d2cb02b8a7929bb4c9fd67cbf2eec4b904b81b64907215b31e793b6c1dd5001d83b86ed74a477ea1cee3d28077fef7b9a3c5</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -125,18 +122,18 @@
           <string>vstem 233.63 126.31</string>
           <string>hstem 215.49 34.79</string>
           <string>vstem 25.64 102.66</string>
-          <string>hstem 27.78 37.68</string>
-          <string>hstem -250.42 34.79</string>
+          <string>hstem -21.22 55.68</string>
+          <string>hstem -250.42 39.79</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>vstem 289.81 102.66</string>
-          <string>hstem -250.42 34.79</string>
+          <string>hstem -250.42 39.79</string>
           <string>vstem 25.64 102.66</string>
           <string>hstem 101.9 148.38</string>
-          <string>hstem 27.78 37.68</string>
+          <string>hstem -21.22 55.68</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>
@@ -146,9 +143,9 @@
         <array>
           <string>vstem 233.63 126.31</string>
           <string>hstem 101.9 148.38</string>
-          <string>hstem 27.78 37.68</string>
+          <string>hstem -21.22 55.68</string>
           <string>vstem 25.64 102.66</string>
-          <string>hstem -250.42 34.79</string>
+          <string>hstem -250.42 39.79</string>
         </array>
         <key>pointTag</key>
         <string>hr02</string>
@@ -157,13 +154,13 @@
         <key>stems</key>
         <array>
           <string>vstem 289.81 102.66</string>
-          <string>hstem 27.78 37.68</string>
-          <string>hstem -250.42 34.79</string>
+          <string>hstem -21.22 55.68</string>
+          <string>hstem -250.42 39.79</string>
           <string>hstem 101.9 148.38</string>
           <string>vstem 25.64 102.66</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553140497488</string>
+        <string>._.105553872572960</string>
       </dict>
     </array>
   </dict>

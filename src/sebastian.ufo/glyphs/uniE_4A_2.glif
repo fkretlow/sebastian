@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4A2" format="2">
-  <advance width="83"/>
+  <advance width="100"/>
   <unicode hex="E4A2"/>
   <outline>
     <contour>
-      <point x="0" y="42" type="curve" smooth="yes"/>
-      <point x="0" y="65"/>
-      <point x="19" y="84"/>
-      <point x="42" y="84" type="curve" smooth="yes"/>
-      <point x="65" y="84"/>
-      <point x="83" y="65"/>
-      <point x="83" y="42" type="curve" smooth="yes"/>
-      <point x="83" y="19"/>
-      <point x="65" y="0"/>
-      <point x="42" y="0" type="curve" smooth="yes"/>
-      <point x="19" y="0"/>
-      <point x="0" y="19"/>
+      <point x="0" y="50" type="curve" smooth="yes"/>
+      <point x="0" y="77.381"/>
+      <point x="22.8916" y="100"/>
+      <point x="50.6024" y="100" type="curve" smooth="yes"/>
+      <point x="78.3133" y="100"/>
+      <point x="100" y="77.381"/>
+      <point x="100" y="50" type="curve" smooth="yes"/>
+      <point x="100" y="22.619"/>
+      <point x="78.3133" y="0"/>
+      <point x="50.6024" y="0" type="curve" smooth="yes"/>
+      <point x="22.8916" y="0"/>
+      <point x="0" y="22.619"/>
     </contour>
   </outline>
   <lib>
@@ -46,14 +46,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w83m0,42c0,65 19,84 42,84c65,84 83,65 83,42c83,19 65,0 42,0c19,0 0,19 0,42</string>
+    <string>w100m0,50c0,77.38 22.89,100 50.6,100c78.31,100 100,77.38 100,50c100,22.62 78.31,0 50.6,0c22.89,0 0,22.62 0,50</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 84</string>
-          <string>vstem 0 83</string>
+          <string>hstem 0 100</string>
+          <string>vstem 0 100</string>
         </array>
       </dict>
     </array>
