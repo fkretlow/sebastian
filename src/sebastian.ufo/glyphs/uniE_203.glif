@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE203" format="2">
+  <advance width="318"/>
+  <unicode hex="E203"/>
+  <outline>
+    <contour>
+      <point x="318" y="1191" type="line"/>
+      <point x="0" y="1191" type="line"/>
+      <point x="0" y="1163" type="line"/>
+      <point x="290" y="1163" type="line"/>
+      <point x="290" y="985" type="line"/>
+      <point x="318" y="985" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w318m318,1191l0,1191l0,1163l290,1163l290,985l318,985</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1163 28</string>
+          <string>vstem 290 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

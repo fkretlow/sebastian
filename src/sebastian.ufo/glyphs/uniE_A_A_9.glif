@@ -2,6 +2,7 @@
 <glyph name="uniEAA9" format="2">
   <advance width="255"/>
   <unicode hex="EAA9"/>
+  <anchor x="227" y="44" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-20" y="29" type="curve" smooth="yes"/>
@@ -47,6 +48,50 @@
       <point x="-33" y="32"/>
       <point x="-27" y="29"/>
     </contour>
+    <contour>
+      <point x="-20" y="29" type="curve" smooth="yes"/>
+      <point x="-16" y="29"/>
+      <point x="-11" y="30"/>
+      <point x="-7" y="32" type="curve" smooth="yes"/>
+      <point x="8" y="39"/>
+      <point x="20" y="44"/>
+      <point x="39" y="44" type="curve" smooth="yes"/>
+      <point x="84" y="44"/>
+      <point x="94" y="0"/>
+      <point x="172" y="0" type="curve" smooth="yes" name="hr03"/>
+      <point x="251" y="0"/>
+      <point x="285" y="72"/>
+      <point x="291" y="88" type="curve" smooth="yes"/>
+      <point x="292" y="90"/>
+      <point x="292" y="91"/>
+      <point x="292" y="92" type="curve"/>
+      <point x="292" y="95"/>
+      <point x="289" y="97"/>
+      <point x="286" y="97" type="curve" smooth="yes"/>
+      <point x="280" y="97"/>
+      <point x="272" y="93"/>
+      <point x="268" y="90" type="curve" smooth="yes"/>
+      <point x="255" y="81"/>
+      <point x="245" y="74"/>
+      <point x="232" y="74" type="curve" smooth="yes"/>
+      <point x="229" y="74"/>
+      <point x="225" y="74"/>
+      <point x="221" y="75" type="curve" smooth="yes"/>
+      <point x="201" y="78"/>
+      <point x="184" y="89"/>
+      <point x="167" y="96" type="curve" smooth="yes"/>
+      <point x="145" y="106"/>
+      <point x="117" y="119"/>
+      <point x="90" y="119" type="curve" smooth="yes" name="hr04"/>
+      <point x="11" y="119"/>
+      <point x="-10" y="63"/>
+      <point x="-27" y="47" type="curve" smooth="yes"/>
+      <point x="-31" y="43"/>
+      <point x="-33" y="40"/>
+      <point x="-33" y="37" type="curve" smooth="yes"/>
+      <point x="-33" y="32"/>
+      <point x="-27" y="29"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -55,7 +100,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b98170eadea0ec309b951ab139f9c3dbf29776a83e886eb5bf312e4efc0b937aac05a4455447e9a09d3bef42f50996bc94494bafd408de3b4e0364d14d369283</string>
+    <string>2080cf35b9afc62fd0427dbc66d039e074968d83d967960d5b634a1b498f299c0ab3846ee10304766458139e95f4421da3b4ddaf10c1bb44a9c9e9fff29974df</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -84,6 +129,25 @@
         </array>
         <key>pointTag</key>
         <string>hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 74</string>
+          <string>vstem -33 325</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 44 75</string>
+          <string>vstem -33 325</string>
+          <string>hstem 21 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr04</string>
       </dict>
     </array>
   </dict>

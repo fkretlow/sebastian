@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1F1" format="2">
+  <advance width="332"/>
+  <unicode hex="E1F1"/>
+  <outline>
+    <contour>
+      <point x="109" y="-141" type="curve" smooth="yes"/>
+      <point x="209" y="-141"/>
+      <point x="331" y="-48"/>
+      <point x="332" y="46" type="curve"/>
+      <point x="332" y="878" type="line"/>
+      <point x="302" y="878" type="line"/>
+      <point x="302" y="115" type="line"/>
+      <point x="283" y="131"/>
+      <point x="255" y="141"/>
+      <point x="222" y="141" type="curve" smooth="yes"/>
+      <point x="99" y="141"/>
+      <point x="0" y="50"/>
+      <point x="0" y="-47" type="curve" smooth="yes"/>
+      <point x="0" y="-106"/>
+      <point x="48" y="-141"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w332m109,-141c209,-141 331,-48 332,46l332,878l302,878l302,115c283,131 255,141 222,141c99,141 0,50 0,-47c0,-106 48,-141 109,-141</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -141 1019</string>
+          <string>vstem 302 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

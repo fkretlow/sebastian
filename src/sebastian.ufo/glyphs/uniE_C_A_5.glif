@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniECA5" format="2">
-  <advance width="264"/>
+  <advance width="262"/>
   <unicode hex="ECA5"/>
   <outline>
     <contour>
@@ -14,8 +14,8 @@
       <point x="232.8" y="197.6"/>
       <point x="240" y="200.8"/>
       <point x="240" y="203.2" type="curve" smooth="yes"/>
-      <point x="240" y="780" type="line"/>
-      <point x="260.8" y="780" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="260.8" y="700" type="line"/>
       <point x="260.8" y="140" type="line"/>
       <point x="260.8" y="139.2" type="line"/>
       <point x="260" y="94.4004"/>
@@ -62,14 +62,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1bbac179383ee2821d96cae055379afddf6f4a7e86a0c0ad1833681d22b579fdc76ba3b1b3211a5bbab7663f077fc1537dfc04ca557de0c5a1c506186f91982d</string>
+    <string>8adf94c361c0cba8c9970cff7a2bd8fc16a59dc3c57bc5f837106de87068a8d6c8d5b958bb4df6fa7160227677a15a40145ed1f6bf4456cf665043939e295395</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 8.2 -21</string>
-          <string>hstem 780 -20</string>
+          <string>hstem 700 -20</string>
           <string>vstem 240 20.8</string>
         </array>
       </dict>
