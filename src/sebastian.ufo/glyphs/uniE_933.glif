@@ -4,27 +4,27 @@
   <unicode hex="E933"/>
   <outline>
     <contour>
-      <point x="490" y="-60" type="line" smooth="yes"/>
-      <point x="527" y="-60"/>
-      <point x="530" y="-62"/>
-      <point x="530" y="-17" type="curve" smooth="yes"/>
-      <point x="530" y="16" type="line" smooth="yes"/>
-      <point x="530" y="48"/>
-      <point x="523" y="60"/>
-      <point x="494" y="60" type="curve" smooth="yes"/>
-      <point x="68" y="60" type="line" smooth="yes"/>
-      <point x="34" y="60"/>
-      <point x="31" y="44"/>
-      <point x="31" y="18" type="curve" smooth="yes"/>
-      <point x="31" y="-23" type="line" smooth="yes"/>
-      <point x="31" y="-54"/>
-      <point x="50" y="-60"/>
-      <point x="64" y="-60" type="curve" smooth="yes"/>
+      <point x="490" y="-50" type="line" smooth="yes"/>
+      <point x="523" y="-50"/>
+      <point x="530" y="-44"/>
+      <point x="530" y="-7" type="curve" smooth="yes"/>
+      <point x="530" y="11" type="line" smooth="yes"/>
+      <point x="530" y="38"/>
+      <point x="523" y="50"/>
+      <point x="494" y="50" type="curve" smooth="yes"/>
+      <point x="68" y="50" type="line" smooth="yes"/>
+      <point x="34" y="50"/>
+      <point x="31" y="34"/>
+      <point x="31" y="13" type="curve" smooth="yes"/>
+      <point x="31" y="-13" type="line" smooth="yes"/>
+      <point x="31" y="-44"/>
+      <point x="49" y="-50"/>
+      <point x="64" y="-50" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="70" y="-130" type="line" smooth="yes"/>
-      <point x="33" y="-130"/>
-      <point x="31" y="-138"/>
+      <point x="70" y="-134" type="line" smooth="yes"/>
+      <point x="33" y="-134"/>
+      <point x="31" y="-142"/>
       <point x="31" y="-154" type="curve" smooth="yes"/>
       <point x="31" y="-168"/>
       <point x="29" y="-170"/>
@@ -39,15 +39,15 @@
       <point x="31" y="171"/>
       <point x="31" y="170"/>
       <point x="31" y="157" type="curve" smooth="yes"/>
-      <point x="31" y="130.889"/>
-      <point x="47.0556" y="129.997"/>
-      <point x="65.6879" y="129.997" type="curve"/>
-      <point x="66.784" y="129.997"/>
-      <point x="67.8889" y="130"/>
-      <point x="69" y="130" type="curve"/>
-      <point x="494" y="130" type="line" smooth="yes"/>
-      <point x="514" y="130"/>
-      <point x="530" y="131"/>
+      <point x="31" y="134.889"/>
+      <point x="47.0556" y="133.997"/>
+      <point x="65.6879" y="133.997" type="curve"/>
+      <point x="66.784" y="133.997"/>
+      <point x="67.8889" y="134"/>
+      <point x="69" y="134" type="curve"/>
+      <point x="494" y="134" type="line" smooth="yes"/>
+      <point x="514" y="134"/>
+      <point x="530" y="135"/>
       <point x="530" y="155" type="curve" smooth="yes"/>
       <point x="530" y="158" type="line" smooth="yes"/>
       <point x="530" y="171"/>
@@ -64,9 +64,9 @@
       <point x="530" y="-168"/>
       <point x="530" y="-154" type="curve"/>
       <point x="530" y="-153" type="line"/>
-      <point x="530" y="-131"/>
-      <point x="515" y="-130"/>
-      <point x="490" y="-130" type="curve" smooth="yes"/>
+      <point x="530" y="-135"/>
+      <point x="515" y="-134"/>
+      <point x="490" y="-134" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -115,15 +115,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>aab9f60549fe7f62d77789a08b7689e813f09cc61f28ab9021ff9a37b0daaa78696b904e1832d433c2c0f9697c71d46bb8c346ef67a10d22ea39c874c9e894b0</string>
+    <string>1dd381a006382289f54688f992dba689d1199530e91236e8acf84b3f52a641ceebcaf34f23d8a3edea3d9960d273941ae81a9943e272b027e5b85245ca16ed12</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -149 -21</string>
-          <string>hstem -130 70</string>
-          <string>hstem 60 70</string>
+          <string>hstem -134 84</string>
+          <string>hstem 50 84</string>
           <string>hstem 171 -20</string>
           <string>vstem 0 31</string>
           <string>vstem 530 31</string>
