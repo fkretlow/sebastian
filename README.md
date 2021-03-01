@@ -6,9 +6,9 @@ The fonts are licensed under the [SIL Open Font License](http://scripts.sil.org/
 
 **SMuFL compatible version**  
 
-This repository contains a variety of designs for musical symbols in FontForge sfd files. The project is being developed to use these designs and create a SMuFL-compliant font. (https://w3c.github.io/smufl/gitbook/).
+A SMuFL-compatible version has [now been released](https://github.com/fkretlow/sebastian/releases), with over 1100 glyphs (some taken from the Bravura reference font). SMuFL reference can be found here: (https://w3c.github.io/smufl/gitbook/).
 
-This work is being done using the Unified Font Object (UFO) data structure in the src folder.
+This version is based on the Unified Font Object (UFO) data structure in the src folder.
 
 Releases will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data.
 
@@ -18,7 +18,7 @@ Releases will contain an OTF font and the SMuFL *metadata.json* file that suppli
 
 The original designs in the FontForge files are a work in progress that I won't continue. That means, that there is in some cases a certain lack of consistency. For example I changed the style of accidentals several times, but didn't draw correspondent micro-tonal or smaller accidentals. The same goes for numbers and clefs and maybe everything else. There is, however, enough consistency left to use the fonts as is.
 
-The fonts have been used and tested with Finale 2009, they should work with later versions as well.
+The version 0.1 fonts have been used and tested with Finale 2009, they should work with later versions as well.
 
 The symbols in **Sebastian.otf** are mapped mostly in accordance to Finale's default font Maestro, thus any Finale user should be able to use Sebastian without greater effort just by changing said default music font. It is an open type font though, and some symbols stored in it are not accessible in Finale, but those were not important for me, and I didn't fix that.
 
