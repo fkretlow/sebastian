@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE015" format="2">
+  <advance width="500"/>
+  <unicode hex="E015"/>
+  <outline>
+    <contour>
+      <point x="500" y="1141" type="line"/>
+      <point x="0" y="1141" type="line"/>
+      <point x="0" y="1109" type="line"/>
+      <point x="500" y="1109" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="891" type="line"/>
+      <point x="0" y="891" type="line"/>
+      <point x="0" y="859" type="line"/>
+      <point x="500" y="859" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="609" type="line"/>
+      <point x="500" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="500" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="141" type="line"/>
+      <point x="0" y="141" type="line"/>
+      <point x="0" y="109" type="line"/>
+      <point x="500" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-109" type="line"/>
+      <point x="0" y="-109" type="line"/>
+      <point x="0" y="-141" type="line"/>
+      <point x="500" y="-141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8cf9a1998d50b98493ce22b5d2ae6a92c00092e3dd9ec3797e9eaa55f913dda2aa99423c61a2257e054ab5b44dc86183fcec66b14eeacf685d470a5adfc752ef</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -141 32</string>
+          <string>hstem 109 32</string>
+          <string>hstem 359 32</string>
+          <string>hstem 609 32</string>
+          <string>hstem 859 32</string>
+          <string>hstem 1109 32</string>
+          <string>vstem 0 500</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

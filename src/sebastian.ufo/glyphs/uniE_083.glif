@@ -4,8 +4,8 @@
   <unicode hex="E083"/>
   <outline>
     <contour>
-      <point x="267.66" y="5.64117" type="line"/>
-      <point x="345.707" y="-17.1252"/>
+      <point x="267.66" y="25.6412" type="line"/>
+      <point x="345.707" y="2.87483"/>
       <point x="397.4" y="-53.0851"/>
       <point x="397.4" y="-117.439" type="curve" smooth="yes"/>
       <point x="397.4" y="-188.391"/>
@@ -33,10 +33,10 @@
       <point x="281.929" y="-170.259"/>
       <point x="281.929" y="-102.037" type="curve" smooth="yes"/>
       <point x="281.929" y="-44.7729"/>
-      <point x="265.171" y="-19.3221"/>
-      <point x="154.771" y="-19.3221" type="curve"/>
-      <point x="154.771" y="19.3218" type="line"/>
-      <point x="259.257" y="19.3218"/>
+      <point x="265.171" y="0.67788"/>
+      <point x="154.771" y="0.67788" type="curve"/>
+      <point x="154.771" y="39.3219" type="line"/>
+      <point x="259.257" y="39.3219"/>
       <point x="281.929" y="76.394"/>
       <point x="281.929" y="126.102" type="curve" smooth="yes"/>
       <point x="281.929" y="178.102"/>
@@ -53,9 +53,9 @@
       <point x="173.643" y="155.221" name="hr01"/>
       <point x="173.643" y="125.139" type="curve" smooth="yes"/>
       <point x="173.643" y="92.5954"/>
-      <point x="146.768" y="66.3503"/>
-      <point x="113.443" y="66.3503" type="curve" smooth="yes"/>
-      <point x="80.1664" y="66.3503"/>
+      <point x="146.768" y="66.3502"/>
+      <point x="113.443" y="66.3502" type="curve" smooth="yes"/>
+      <point x="80.1664" y="66.3502"/>
       <point x="52.2571" y="90.3938"/>
       <point x="52.2571" y="128.027" type="curve" smooth="yes"/>
       <point x="52.2571" y="192.196"/>
@@ -65,8 +65,8 @@
       <point x="376.7" y="203.177"/>
       <point x="376.7" y="130.915" type="curve" smooth="yes"/>
       <point x="376.7" y="78.0973"/>
-      <point x="335.304" y="24.6727"/>
-      <point x="281.906" y="1.4853" type="curve"/>
+      <point x="335.304" y="44.6727"/>
+      <point x="281.906" y="21.4853" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -139,7 +139,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c3c699be8aa52edb376cd5e94fc02e808315454c406f836efa0b46f9f418eba4caf504cf968d44708d8a64ecb77ea104af0515804032436f9ca928d397f4f620</string>
+    <string>1dee3d76f66af42961d7b10420dfb3bd264566aec19641adab3f69d9b43a121b159018a27ba6d2ca5ec698a54477936cccbd613cc360b003d04d2aa9f0d31c2d</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -148,8 +148,8 @@
           <string>vstem 281.93 115.47</string>
           <string>hstem -250.35 37.68</string>
           <string>vstem 25.64 136.17</string>
-          <string>hstem -174.78 128.65</string>
-          <string>hstem -19.32 38.64</string>
+          <string>hstem -174.88 128.74</string>
+          <string>hstem 0.68 38.64</string>
           <string>hstem 214.59 35.76</string>
         </array>
       </dict>
@@ -160,8 +160,8 @@
           <string>hstem 66.35 184.</string>
           <string>vstem 281.93 94.77</string>
           <string>hstem -250.35 37.68</string>
-          <string>hstem -174.78 128.65</string>
-          <string>hstem -19.32 38.64</string>
+          <string>hstem -174.88 128.74</string>
+          <string>hstem 0.68 38.64</string>
         </array>
         <key>pointTag</key>
         <string>hr01</string>

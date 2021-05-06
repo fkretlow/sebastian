@@ -4,28 +4,28 @@
   <unicode hex="E504"/>
   <outline>
     <contour>
-      <point x="463" y="507" type="line" smooth="yes"/>
-      <point x="470" y="507"/>
-      <point x="473" y="501"/>
-      <point x="473" y="496" type="curve"/>
-      <point x="473" y="494"/>
-      <point x="472" y="492"/>
-      <point x="471" y="490" type="curve"/>
-      <point x="112" y="19" type="line" smooth="yes"/>
-      <point x="100" y="4"/>
-      <point x="96" y="0"/>
-      <point x="77" y="0" type="curve" smooth="yes"/>
-      <point x="18" y="0" type="line" smooth="yes"/>
-      <point x="9" y="0"/>
-      <point x="0" y="4"/>
-      <point x="0" y="11" type="curve" smooth="yes"/>
-      <point x="0" y="14"/>
-      <point x="2" y="18"/>
-      <point x="5" y="22" type="curve" smooth="yes"/>
-      <point x="374" y="500" type="line"/>
-      <point x="379" y="507"/>
-      <point x="385" y="507"/>
-      <point x="395" y="507" type="curve" smooth="yes"/>
+      <point x="463" y="254" type="line" smooth="yes"/>
+      <point x="470" y="254"/>
+      <point x="473" y="248"/>
+      <point x="473" y="243" type="curve"/>
+      <point x="473" y="241"/>
+      <point x="472" y="239"/>
+      <point x="471" y="237" type="curve"/>
+      <point x="112" y="-234" type="line" smooth="yes"/>
+      <point x="100.355" y="-249.278"/>
+      <point x="96" y="-253"/>
+      <point x="77" y="-253" type="curve" smooth="yes"/>
+      <point x="18" y="-253" type="line" smooth="yes"/>
+      <point x="9" y="-253"/>
+      <point x="0" y="-249"/>
+      <point x="0" y="-242" type="curve" smooth="yes"/>
+      <point x="0" y="-239"/>
+      <point x="1.9446" y="-234.958"/>
+      <point x="5" y="-231" type="curve" smooth="yes"/>
+      <point x="374" y="247" type="line"/>
+      <point x="379" y="254"/>
+      <point x="385" y="254"/>
+      <point x="395" y="254" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -47,14 +47,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>06f7f5657fcdc9a5c8272e6820356b760323be6f894cf081901961b112124a4c2369a5d8f4632c8984c4f6a4a4920b76486e1c1ae1279f48f1fa4c74055f7759</string>
+    <string>5e6a426b112aed2ff99aa461c698f61aea81d93af61431f7b6e2157242583916aea64a952d2372972026dc6f9ea63e9319a918d88ad358578be4bf133ac47f99</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 507 -20</string>
+          <string>hstem -232 -21</string>
+          <string>hstem 254 -20</string>
         </array>
       </dict>
     </array>

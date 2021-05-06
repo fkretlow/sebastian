@@ -12,6 +12,9 @@ feature salt {
     sub uniE000 from [uniF400 uniF401 uniF402 uniF403];
     sub uniE650 from [uniF434];
     sub uniE659 from [uniF435];
+    sub uniE050 from [uniF472];
+    sub uniE05C from [uniF473];
+    sub uniE062 from [uniF474];
 } salt;
 feature ss01 {
 # Stylistic Set 01–20
@@ -21,7 +24,7 @@ feature ss01 {
   sub uniE050 from [uniF472];
   sub uniE05C from [uniF473];
   sub uniE062 from [uniF474];
-
+  
 } ss01;
 feature ss05 {
 # Stylistic Set 01–20
@@ -31,6 +34,10 @@ feature ss05 {
   sub uniE0A2 from [uniF4BC];
   sub uniE0A3 from [uniF4BD];
   sub uniE0A4 from [uniF4BE];
+
+  sub uniE050 from [uniF472];
+  sub uniE05C from [uniF473];
+  sub uniE062 from [uniF474];
 #> feature
 #< feature
 } ss05;
