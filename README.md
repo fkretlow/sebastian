@@ -11,7 +11,7 @@ Releases will contain an OTF font and the SMuFL *metadata.json* file that suppli
  
 ### LEGACY FILES
 
-Also included are several 'legacy' files: FontForge .sfd files containing various designs for music characters, and a set of "version 0.1" OTF fonts using the alphanumeric "8-bit" range. These were intended for pre-SMuFL versions of Finale. They are 'abandoned', in terms of Sebastian's development, but may be useful to others. 
+Also included are several 'legacy' files: FontForge .sfd files containing various designs for music characters, and a set of version 0.1 OTF fonts using the alphanumeric '8-bit' range. These were intended for pre-SMuFL versions of Finale. They are abandoned, in terms of Sebastian's development, but may be useful to others. 
 
 The symbols in **Sebastian.otf** are mapped mostly in accordance to Finale's legacy default font, Maestro, thus any Finale user should be able to use Sebastian without greater effort just by changing said default music font. It is an open type font though, and some symbols stored in it are not accessible in Finale, but those were not important for me, and I didn't fix that.
 
