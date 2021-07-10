@@ -6,7 +6,7 @@ The fonts are licensed under the [SIL Open Font License](http://scripts.sil.org/
 
 The source files are provided as Unified Font Object (UFO) data structure in the src folder.
 
-Releases will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data. [They can be found here](https://github.com/fkretlow/sebastian/releases), 
+Releases will contain an OTF font and the SMuFL *metadata.json* file that supplies supplementary data. [They can be found here](https://github.com/fkretlow/sebastian/releases).
 
  
 ### LEGACY FILES
