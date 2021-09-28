@@ -10,6 +10,7 @@ Releases will contain an OTF font and the SMuFL *metadata.json* file that suppli
 
 The repository also includes glyphs in the 'legacy 8-bit' character slots, for use in non-SMuFL apps like Finale (26 and earlier), in the *legacy* folder.
  
+![image info](./Sebastian_sample.png)
 
 
 FK, BBW - September 2021
