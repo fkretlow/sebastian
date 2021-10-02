@@ -10,8 +10,8 @@ Releases will contain an OTF font and the SMuFL *metadata.json* file that suppli
 
 The JSON file needs to be installed in one of the following locations:
 
-Windows: `C:\Program Files\Common Files\SMuFL\Fonts\Sebastian\Sebastian.json`
-Mac: `/Library/Application Support/SMuFL/Fonts/Sebastian/Sebastian.json`
+Windows: `C:\Program Files\Common Files\SMuFL\Fonts\Sebastian\Sebastian.json`  
+Mac: `/Library/Application Support/SMuFL/Fonts/Sebastian/Sebastian.json`  
 Linux: `/usr/share/SMuFL/Fonts/Sebastian/Sebastian.json`
 
 For more detailed info about the metadata file's location, see here:  
