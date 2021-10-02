@@ -18,7 +18,7 @@ For more detailed info about the metadata file's location, see here:
 https://w3c.github.io/smufl/latest/specification/font-metadata-locations.html
 
 
-The repository also includes glyphs in the 'legacy 8-bit' character slots, for use in non-SMuFL apps like Finale (26 and earlier), in the *legacy* folder.
+The repository also includes 'version 0.1' Opentype fonts; as well as FontForge files containing various prototype designs for music symbols. These can be found in the *legacy* folder.
  
 ![image info](./Sebastian_sample.png)
 
