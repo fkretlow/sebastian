@@ -4,14 +4,14 @@
   <unicode hex="E000"/>
   <outline>
     <contour>
-      <point x="9" y="500" type="curve"/>
-      <point x="27" y="519"/>
-      <point x="62" y="558"/>
-      <point x="62" y="630" type="curve" smooth="yes"/>
-      <point x="62" y="721"/>
-      <point x="23" y="813"/>
-      <point x="23" y="870" type="curve" smooth="yes"/>
-      <point x="23" y="931"/>
+      <point x="6" y="500" type="curve"/>
+      <point x="19" y="519"/>
+      <point x="67" y="558"/>
+      <point x="67" y="630" type="curve" smooth="yes"/>
+      <point x="67" y="721"/>
+      <point x="13" y="813"/>
+      <point x="13" y="870" type="curve" smooth="yes"/>
+      <point x="13" y="931"/>
       <point x="58" y="988"/>
       <point x="60" y="990" type="curve" smooth="yes"/>
       <point x="61" y="992"/>
@@ -50,13 +50,13 @@
       <point x="61" y="8"/>
       <point x="60" y="10" type="curve" smooth="yes"/>
       <point x="58" y="12"/>
-      <point x="23" y="69"/>
-      <point x="23" y="130" type="curve" smooth="yes"/>
-      <point x="23" y="187"/>
-      <point x="62" y="279"/>
-      <point x="62" y="370" type="curve" smooth="yes"/>
-      <point x="62" y="443"/>
-      <point x="27" y="481"/>
+      <point x="13" y="69"/>
+      <point x="13" y="130" type="curve" smooth="yes"/>
+      <point x="13" y="187"/>
+      <point x="67" y="279"/>
+      <point x="67" y="370" type="curve" smooth="yes"/>
+      <point x="67" y="443"/>
+      <point x="19" y="481"/>
     </contour>
   </outline>
   <lib>
@@ -99,15 +99,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d16261ddcf9d0964d2d951b5f4e0b397edfc8b828b5dbe9d5e232c7b391733d1e89dfcd64a530e1c4139db1f6a6d97f0ead4e1012f8ad1fcdd0b061f28260000</string>
+    <string>039b008705424537401af8e96536287078a7de7891ac723ce7996951f6d3765fca9d7d6665e4141fd6cc1f9234d15d3a8f4e7e506da6414ea01471b922392902</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 995 -20</string>
-          <string>vstem 0 23</string>
-          <string>vstem 35 27</string>
+          <string>vstem 35 32</string>
         </array>
       </dict>
     </array>
