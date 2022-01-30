@@ -10,6 +10,7 @@ languagesystem latn dflt;
 feature salt {
 
     sub uniE000 from [uniF400 uniF401 uniF402 uniF403];
+  sub uniE0A0 from [uniF43F];
     sub uniE650 from [uniF434];
     sub uniE659 from [uniF435];
     sub uniE050 from [uniF472];
@@ -31,9 +32,8 @@ feature ss01 {
   sub uniE0A4 from [uniF46A];
   
 } ss01;
-feature ss05 {
+feature ss02 {
 # Stylistic Set 01–20
-
   sub uniE0A0 from [uniF4BA];
   sub uniE0A1 from [uniF4BB];
   sub uniE0A2 from [uniF4BC];
@@ -45,4 +45,4 @@ feature ss05 {
   sub uniE062 from [uniF474];
 #> feature
 #< feature
-} ss05;
+} ss02;
