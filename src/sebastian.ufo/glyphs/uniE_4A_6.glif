@@ -6,21 +6,21 @@
     <contour>
       <point x="32" y="-21" type="curve" smooth="yes"/>
       <point x="27" y="-21"/>
-      <point x="20" y="-15"/>
-      <point x="17" y="9" type="curve" smooth="yes"/>
-      <point x="7" y="96"/>
-      <point x="0" y="154"/>
-      <point x="0" y="201" type="curve" smooth="yes"/>
-      <point x="0" y="228"/>
-      <point x="12" y="244"/>
-      <point x="32" y="244" type="curve" smooth="yes"/>
-      <point x="52" y="244"/>
-      <point x="64" y="228"/>
-      <point x="64" y="201" type="curve" smooth="yes"/>
-      <point x="64" y="154"/>
-      <point x="56" y="97"/>
-      <point x="46" y="9" type="curve" smooth="yes"/>
-      <point x="43" y="-15"/>
+      <point x="19.8138" y="-15.3635"/>
+      <point x="17" y="7.30189" type="curve" smooth="yes"/>
+      <point x="6.81366" y="89.3544"/>
+      <point x="0" y="144.094"/>
+      <point x="0" y="188.434" type="curve" smooth="yes"/>
+      <point x="0" y="213.906"/>
+      <point x="12" y="229"/>
+      <point x="32" y="229" type="curve" smooth="yes"/>
+      <point x="52" y="229"/>
+      <point x="64" y="213.906"/>
+      <point x="64" y="188.434" type="curve" smooth="yes"/>
+      <point x="64" y="144.094"/>
+      <point x="56.2111" y="90.2951"/>
+      <point x="46" y="7.30189" type="curve" smooth="yes"/>
+      <point x="43.211" y="-15.3666"/>
       <point x="37" y="-21"/>
     </contour>
   </outline>
@@ -52,14 +52,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w64m32,-21c27,-21 20,-15 17,9c7,96 0,154 0,201c0,228 12,244 32,244c52,244 64,228 64,201c64,154 56,97 46,9c43,-15 37,-21 32,-21</string>
+    <string>9b26d1b02be3963cdd739cb2816147b4f2c7a7553515e38fe6b567ebe0468489a511d7fdbd78f79d3b33fa4566825bbe1825e43dd755f76e5e033640324f0fa2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 -21</string>
-          <string>hstem 244 -20</string>
+          <string>hstem 229 -20</string>
           <string>vstem 0 64</string>
         </array>
       </dict>

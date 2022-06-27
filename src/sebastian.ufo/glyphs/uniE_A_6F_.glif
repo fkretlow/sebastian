@@ -60,12 +60,12 @@
       <point x="148.05" y="197.102" type="curve" smooth="yes"/>
       <point x="36.0518" y="309.1" type="line" smooth="yes"/>
       <point x="24.4097" y="320.742"/>
-      <point x="23.0004" y="323.566"/>
-      <point x="30.0711" y="330.637" type="curve" smooth="yes"/>
-      <point x="34.3137" y="334.88" type="line" smooth="yes"/>
-      <point x="41.3844" y="341.951"/>
-      <point x="47.3837" y="337.366"/>
-      <point x="52.6757" y="332.074" type="curve" smooth="yes"/>
+      <point x="23" y="323.566"/>
+      <point x="30.0707" y="330.637" type="curve" smooth="yes"/>
+      <point x="34.3133" y="334.88" type="line" smooth="yes"/>
+      <point x="41.384" y="341.951"/>
+      <point x="47.3834" y="337.366"/>
+      <point x="52.6753" y="332.074" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -132,7 +132,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b715b360ce61cfe665c0d7db26a628421c15e011de60cefbeea9c5366ebdc0abf34e0113364f1503eeab1a78e4dc466c9c8d39fc0a73532fa3a4f9ea93bbf009</string>
+    <string>f1e6bc22a2ba3b553c3a34d958b9c4df7daa25830c2bc9485e3739686bf383c93e95408125e69ec03a9979c72f1ebfae3d8add151953ffb7152d75083c580303</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -140,13 +140,13 @@
         <array>
           <string>hstem 0 167.31</string>
           <string>vstem 139.4 48.74</string>
-          <string>vstem 1.4 50</string>
+          <string>vstem 1.4 50.</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 1.4 53</string>
+          <string>vstem 1.4 53.</string>
           <string>vstem 139.4 48.74</string>
           <string>hstem 0 167.31</string>
         </array>
@@ -156,22 +156,22 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 1.4 50</string>
+          <string>vstem 1.4 50.</string>
           <string>hstem 0 167.31</string>
           <string>vstem 139.4 48.74</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553825665248</string>
+        <string>._.105553964879776</string>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 1.4 53</string>
+          <string>vstem 1.4 53.</string>
           <string>vstem 139.4 48.74</string>
           <string>hstem 0 167.31</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553825668848</string>
+        <string>._.105553964880336</string>
       </dict>
     </array>
   </dict>

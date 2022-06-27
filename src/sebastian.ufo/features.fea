@@ -26,19 +26,9 @@ feature ss01 {
   sub uniE05C from [uniF473];
   sub uniE062 from [uniF474];
 
-  sub uniE0A0 from [uniF467];
-  sub uniE0A2 from [uniF468];
-  sub uniE0A3 from [uniF469];
-  sub uniE0A4 from [uniF46A];
-  
 } ss01;
 feature ss02 {
 # Stylistic Set 01–20
-  sub uniE0A0 from [uniF4BA];
-  sub uniE0A1 from [uniF4BB];
-  sub uniE0A2 from [uniF4BC];
-  sub uniE0A3 from [uniF4BD];
-  sub uniE0A4 from [uniF4BE];
 
   sub uniE050 from [uniF472];
   sub uniE05C from [uniF473];
@@ -46,3 +36,34 @@ feature ss02 {
 #> feature
 #< feature
 } ss02;
+feature ss05 {
+# GSUB feature: Stylistic Set 5
+# Lookups: 1
+
+  sub uniE0A0 from [uniF506];
+  sub uniE0A1 from [uniF506];
+  sub uniE0A2 from [uniF506];
+  sub uniE0A3 from [uniF506];
+  sub uniE0A4 from [uniF506];
+  
+
+} ss05;
+feature ss09 {
+# GSUB feature: Stylistic Set 9
+# Lookups: 1
+
+  sub uniE080 from [uniF506];
+  sub uniE081 from [uniF507];
+  sub uniE082 from [uniF508];
+  sub uniE083 from [uniF509];
+  sub uniE084 from [uniF50A];
+  sub uniE085 from [uniF50B];
+  sub uniE086 from [uniF50C];
+  sub uniE087 from [uniF50D];
+  sub uniE088 from [uniF50E];
+  sub uniE089 from [uniF50F];
+  sub uniE08A from [uniF510];
+  sub uniE08B from [uniF511];
+  sub uniE08C from [uniF512];
+
+} ss09;

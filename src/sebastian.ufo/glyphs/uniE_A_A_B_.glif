@@ -2,48 +2,49 @@
 <glyph name="uniEAAB" format="2">
   <advance width="529"/>
   <unicode hex="EAAB"/>
+  <anchor x="18" y="51" name="repeatOffset"/>
   <outline>
     <contour>
-      <point x="19" y="8" type="curve"/>
-      <point x="165" y="19"/>
-      <point x="202" y="93"/>
-      <point x="261" y="93" type="curve" smooth="yes"/>
-      <point x="307" y="93"/>
-      <point x="378" y="0"/>
-      <point x="456" y="0" type="curve" smooth="yes"/>
-      <point x="534" y="0"/>
-      <point x="570" y="73"/>
-      <point x="576" y="89" type="curve" smooth="yes"/>
-      <point x="577" y="91"/>
-      <point x="577" y="92"/>
-      <point x="577" y="93" type="curve"/>
-      <point x="577" y="96"/>
-      <point x="574" y="98"/>
-      <point x="571" y="98" type="curve" smooth="yes"/>
-      <point x="565" y="98"/>
-      <point x="557" y="94"/>
-      <point x="553" y="91" type="curve" smooth="yes"/>
-      <point x="550" y="89" type="line"/>
-      <point x="537" y="86"/>
-      <point x="529" y="75"/>
-      <point x="515" y="75" type="curve" smooth="yes"/>
-      <point x="512" y="75"/>
-      <point x="509" y="75"/>
-      <point x="505" y="76" type="curve" smooth="yes"/>
-      <point x="485" y="79"/>
-      <point x="468" y="90"/>
-      <point x="451" y="97" type="curve" smooth="yes"/>
-      <point x="429" y="107"/>
-      <point x="373" y="140"/>
-      <point x="313" y="140" type="curve" smooth="yes"/>
-      <point x="197" y="140"/>
-      <point x="132" y="57"/>
-      <point x="12" y="32" type="curve" smooth="yes"/>
-      <point x="4" y="30"/>
-      <point x="0" y="26"/>
-      <point x="0" y="22" type="curve" smooth="yes"/>
-      <point x="0" y="15"/>
-      <point x="9" y="8"/>
+      <point x="510" y="8" type="curve"/>
+      <point x="520" y="8"/>
+      <point x="529" y="15"/>
+      <point x="529" y="22" type="curve" smooth="yes"/>
+      <point x="529" y="26"/>
+      <point x="525.069" y="30.298"/>
+      <point x="517" y="32" type="curve" smooth="yes"/>
+      <point x="397.063" y="57.2993"/>
+      <point x="332" y="140"/>
+      <point x="216" y="140" type="curve" smooth="yes"/>
+      <point x="156" y="140"/>
+      <point x="100.153" y="106.656"/>
+      <point x="78" y="97" type="curve" smooth="yes"/>
+      <point x="61.1468" y="89.6537"/>
+      <point x="43.9486" y="79.3248"/>
+      <point x="24" y="76" type="curve" smooth="yes"/>
+      <point x="19.933" y="75.3222"/>
+      <point x="17" y="75"/>
+      <point x="14" y="75" type="curve" smooth="yes"/>
+      <point x="0" y="75"/>
+      <point x="-8" y="86"/>
+      <point x="-21" y="89" type="curve"/>
+      <point x="-24" y="91" type="line" smooth="yes"/>
+      <point x="-28.1603" y="93.7735"/>
+      <point x="-36" y="98"/>
+      <point x="-42" y="98" type="curve" smooth="yes"/>
+      <point x="-45" y="98"/>
+      <point x="-48" y="96"/>
+      <point x="-48" y="93" type="curve"/>
+      <point x="-48" y="92"/>
+      <point x="-47.8105" y="91.084"/>
+      <point x="-47" y="89" type="curve" smooth="yes"/>
+      <point x="-40.8065" y="73.0739"/>
+      <point x="-5" y="0"/>
+      <point x="73" y="0" type="curve" smooth="yes"/>
+      <point x="151" y="0"/>
+      <point x="222" y="93"/>
+      <point x="268" y="93" type="curve" smooth="yes"/>
+      <point x="327" y="93"/>
+      <point x="364" y="19"/>
     </contour>
   </outline>
   <lib>
@@ -53,16 +54,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6220926c8586d3709522d3fb34dcd26f276b2862c55c0a4827e99c0a08c37f963a6c426ee7607ebf0e328005702974a18d394be4c25620694151d0c1a23d7d51</string>
+    <string>ffaa25c0fe2e8740360849c9b180c3f78617612a329cca370e463a8430d558e5c5ad814b0f09c78b3afa5016168f545b3f6e616f1d2fd046db1d64e005c1cc6b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 75</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 93 47</string>
-          <string>vstem 0 577</string>
+          <string>hstem 0 -21</string>
+          <string>hstem 46 47</string>
         </array>
       </dict>
     </array>
