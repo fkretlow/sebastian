@@ -34,7 +34,7 @@
       <point x="481.566" y="-26.1261"/>
       <point x="436.669" y="-91.4409"/>
       <point x="374.935" y="-115.76" type="curve"/>
-      <point x="372.844" y="-116.502" type="line" smooth="yes" name="hr02"/>
+      <point x="372.844" y="-116.502" type="line" smooth="yes" name=".hr02"/>
       <point x="370.737" y="-117.25"/>
       <point x="369.05" y="-117.891"/>
       <point x="366.836" y="-117.891" type="curve" smooth="yes"/>
@@ -91,7 +91,7 @@
       <point x="298.21" y="1122.5"/>
       <point x="427.155" y="970.417"/>
       <point x="427.155" y="782.177" type="curve" smooth="yes"/>
-      <point x="427.155" y="717.126" name="hr04"/>
+      <point x="427.155" y="717.126" name=".hr04"/>
       <point x="406.795" y="625.687"/>
       <point x="397.516" y="584.011" type="curve" smooth="yes"/>
       <point x="396.233" y="578.248"/>
@@ -123,7 +123,7 @@
       <point x="392.862" y="-579.46"/>
       <point x="409.039" y="-571.82" type="curve"/>
       <point x="410.706" y="-570.301"/>
-      <point x="412.62" y="-566.279" name="hr05"/>
+      <point x="412.62" y="-566.279" name=".hr05"/>
       <point x="412.62" y="-563.599" type="curve"/>
       <point x="412.62" y="-562.586"/>
       <point x="411.933" y="-561.53"/>
@@ -131,7 +131,7 @@
       <point x="362.177" y="-548.994"/>
       <point x="325.562" y="-502.677"/>
       <point x="325.562" y="-451.149" type="curve" smooth="yes"/>
-      <point x="325.562" y="-387.551" name="hr06"/>
+      <point x="325.562" y="-387.551" name=".hr06"/>
       <point x="376.801" y="-339.14"/>
       <point x="438.478" y="-339.14" type="curve" smooth="yes"/>
       <point x="503.026" y="-339.14"/>
@@ -178,7 +178,7 @@
       <point x="370.029" y="647.727"/>
       <point x="374.532" y="681.913"/>
       <point x="374.532" y="722.324" type="curve" smooth="yes"/>
-      <point x="374.532" y="855.358" name="hr07"/>
+      <point x="374.532" y="855.358" name=".hr07"/>
       <point x="301.913" y="1009.62"/>
       <point x="200.582" y="1010.57" type="curve" smooth="yes"/>
       <point x="166.425" y="1010.89"/>
@@ -264,7 +264,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4fddc0966414bfbc98513dc83872cf47c6a4f2edda4a6f211cad363da5e1079bfee8c27bf9b152c2aa0e151a6880848c26f16d34caf3e3116820f0d565c50bb6</string>
+    <string>579149c2f8c88604d1b8cceaa62c4f4a258a9a2411c7ba322363f6b051541016f54e8da695d2da86a5525c0197be492df94690a09e20586f28f39c7d2de3ee93</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -293,7 +293,7 @@
           <string>vstem 580.39 72.57</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553971583712</string>
+        <string>._.105554204717328</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -308,7 +308,7 @@
           <string>vstem 580.39 72.57</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -323,7 +323,7 @@
           <string>vstem 0 78.01</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553971584992</string>
+        <string>._.105554204716528</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -338,7 +338,7 @@
           <string>vstem 0 78.01</string>
         </array>
         <key>pointTag</key>
-        <string>hr04</string>
+        <string>.hr04</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -353,7 +353,7 @@
           <string>vstem 580.39 72.57</string>
         </array>
         <key>pointTag</key>
-        <string>hr05</string>
+        <string>.hr05</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -368,7 +368,7 @@
           <string>vstem 580.39 72.57</string>
         </array>
         <key>pointTag</key>
-        <string>hr06</string>
+        <string>.hr06</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -383,7 +383,7 @@
           <string>vstem 580.39 72.57</string>
         </array>
         <key>pointTag</key>
-        <string>hr07</string>
+        <string>.hr07</string>
       </dict>
     </array>
   </dict>

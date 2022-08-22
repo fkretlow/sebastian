@@ -49,7 +49,7 @@
       <point x="613.6" y="-119.026"/>
       <point x="613.6" y="-144.36" type="curve" smooth="yes"/>
       <point x="613.6" y="-158.698"/>
-      <point x="606.634" y="-162.76" name="hr01"/>
+      <point x="606.634" y="-162.76" name=".hr01"/>
       <point x="593.36" y="-162.76" type="curve" smooth="yes"/>
       <point x="352.32" y="-162.76" type="line" smooth="yes"/>
       <point x="344.765" y="-162.76"/>
@@ -74,7 +74,7 @@
       <point x="78.9209" y="202.731"/>
       <point x="76.0823" y="206.843"/>
       <point x="69.8726" y="206.843" type="curve" smooth="yes"/>
-      <point x="41.1338" y="206.843" name="hr03"/>
+      <point x="41.1338" y="206.843" name=".hr03"/>
       <point x="21.8398" y="156.014"/>
       <point x="7.84414" y="156.014" type="curve" smooth="yes"/>
       <point x="2.3494" y="156.014"/>
@@ -89,7 +89,7 @@
       <point x="165.181" y="222.65"/>
       <point x="175.479" y="245.335"/>
       <point x="206.854" y="245.335" type="curve" smooth="yes"/>
-      <point x="249.466" y="245.335" name="hr05"/>
+      <point x="249.466" y="245.335" name=".hr05"/>
       <point x="259.704" y="216.236"/>
       <point x="268.991" y="216.236" type="curve" smooth="yes"/>
       <point x="279.422" y="216.236"/>
@@ -110,16 +110,16 @@
       <point x="409.375" y="79.9244"/>
       <point x="423.386" y="69.7784"/>
       <point x="423.386" y="63.2625" type="curve" smooth="yes"/>
-      <point x="423.386" y="34.5612" name="hr06"/>
+      <point x="423.386" y="34.5612" name=".hr06"/>
       <point x="357.791" y="-10.2586"/>
       <point x="328.327" y="-10.2586" type="curve" smooth="yes"/>
       <point x="295.468" y="-10.2586"/>
       <point x="271.566" y="6.03399"/>
       <point x="271.566" y="40.716" type="curve" smooth="yes"/>
-      <point x="271.566" y="94.3735" name="hr07"/>
+      <point x="271.566" y="94.3735" name=".hr07"/>
       <point x="335.364" y="155.159"/>
       <point x="335.364" y="193.686" type="curve" smooth="yes"/>
-      <point x="335.364" y="203.301" name="hr08"/>
+      <point x="335.364" y="203.301" name=".hr08"/>
       <point x="328.546" y="206.843"/>
       <point x="319.712" y="206.843" type="curve" smooth="yes"/>
       <point x="291.32" y="206.843"/>
@@ -261,7 +261,7 @@
           <string>vstem 271.57 151.82</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -272,7 +272,7 @@
           <string>vstem 271.57 151.82</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553970254928</string>
+        <string>._.105554202792960</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -283,7 +283,7 @@
           <string>vstem 271.57 151.82</string>
         </array>
         <key>pointTag</key>
-        <string>hr03</string>
+        <string>.hr03</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -294,7 +294,7 @@
           <string>vstem 271.57 151.82</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553970260928</string>
+        <string>._.105554202798960</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -306,7 +306,7 @@
           <string>vstem 721.24 77.28</string>
         </array>
         <key>pointTag</key>
-        <string>hr05</string>
+        <string>.hr05</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -317,7 +317,7 @@
           <string>vstem 721.24 77.28</string>
         </array>
         <key>pointTag</key>
-        <string>hr06</string>
+        <string>.hr06</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -328,7 +328,7 @@
           <string>vstem 721.24 77.28</string>
         </array>
         <key>pointTag</key>
-        <string>hr07</string>
+        <string>.hr07</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -340,7 +340,7 @@
           <string>vstem 271.57 61.37</string>
         </array>
         <key>pointTag</key>
-        <string>hr08</string>
+        <string>.hr08</string>
       </dict>
     </array>
   </dict>

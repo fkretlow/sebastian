@@ -6,13 +6,13 @@
     <contour>
       <point x="0" y="0" type="line"/>
       <point x="40" y="0" type="line"/>
-      <point x="40" y="155" type="line" name="hr01"/>
+      <point x="40" y="155" type="line" name=".hr01"/>
       <point x="174" y="155" type="line"/>
-      <point x="174" y="-1" type="line" name="hr02"/>
+      <point x="174" y="-1" type="line" name=".hr02"/>
       <point x="214" y="-1" type="line"/>
-      <point x="214" y="155" type="line" name="hr03"/>
+      <point x="214" y="155" type="line" name=".hr03"/>
       <point x="348" y="155" type="line"/>
-      <point x="348" y="0" type="line" name="hr04"/>
+      <point x="348" y="0" type="line" name=".hr04"/>
       <point x="388" y="0" type="line"/>
       <point x="388" y="175" type="line" smooth="yes"/>
       <point x="388" y="186"/>
@@ -52,7 +52,7 @@
           <string>vstem 348 40</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -63,7 +63,7 @@
           <string>vstem 348 40</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -74,7 +74,7 @@
           <string>vstem 0 40</string>
         </array>
         <key>pointTag</key>
-        <string>hr03</string>
+        <string>.hr03</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -85,7 +85,7 @@
           <string>vstem 174 40</string>
         </array>
         <key>pointTag</key>
-        <string>hr04</string>
+        <string>.hr04</string>
       </dict>
     </array>
   </dict>

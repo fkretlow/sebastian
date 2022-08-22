@@ -30,7 +30,7 @@
       <point x="55.485" y="65.89"/>
       <point x="64.665" y="65.89" type="curve" smooth="yes"/>
       <point x="90.165" y="65.89"/>
-      <point x="109.545" y="41.92" name="hr01"/>
+      <point x="109.545" y="41.92" name=".hr01"/>
       <point x="135.045" y="41.92" type="curve" smooth="yes"/>
       <point x="152.385" y="41.92"/>
       <point x="171.765" y="52.63"/>
@@ -40,7 +40,7 @@
       <point x="169.725" y="-5"/>
       <point x="122.805" y="-5" type="curve" smooth="yes"/>
       <point x="86.595" y="-5"/>
-      <point x="76.395" y="27.64" name="hr02"/>
+      <point x="76.395" y="27.64" name=".hr02"/>
       <point x="49.365" y="27.64" type="curve" smooth="yes"/>
       <point x="36.105" y="27.64"/>
       <point x="20.805" y="18.46"/>
@@ -126,7 +126,7 @@
           <string>vstem 8.57 65.79</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -137,7 +137,7 @@
           <string>vstem 8.57 65.79</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>
