@@ -18,10 +18,16 @@
   "repeatEndingLineThickness": 0.16,
   "slurEndpointThickness": 0.125,
   "slurMidpointThickness": 0.25,
-  "staffLineThickness": 0.125,
+  "staffLineThickness": 0.14,
   "stemThickness": 0.125,
   "subBracketThickness": 0.16,
   "textEnclosureThickness": 0.16,
+  "textFontFamily":[
+			"Nepomuk",
+			"Libre Bodoni",
+			"Palatino",
+			"serif"
+		],
   "thickBarlineThickness": 0.5,
   "thinBarlineThickness": 0.16,
   "tieEndpointThickness": 0.125,
@@ -29,7 +35,7 @@
   "tupletBracketThickness": 0.125
  }, 
  "fontName": "Sebastian", 
- "fontVersion": 1.07, 
+ "fontVersion": 1.08, 
  "glyphBBoxes": {
   "null": {
    "bBoxNE": [
