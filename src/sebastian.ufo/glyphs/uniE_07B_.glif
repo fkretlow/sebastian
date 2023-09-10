@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="309.54" y="-59.0996" type="curve"/>
-      <point x="267.748" y="-59.0996" name=".hr01"/>
+      <point x="267.748" y="-59.0996"/>
       <point x="246.515" y="-90.7803"/>
       <point x="235.955" y="-131.04" type="curve"/>
       <point x="215.23" y="-131.04" type="line"/>
@@ -223,30 +223,16 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -334.62 142.56</string>
           <string>hstem -56.1 21.12</string>
           <string>hstem 34.98 21.12</string>
+          <string>hstem 192.06 142.56</string>
           <string>vstem 6.6 75.24</string>
           <string>vstem 123.42 21.78</string>
-          <string>vstem 386.76 77.22</string>
-          <string>vstem 185.46 110.88</string>
-          <string>hstem -334.62 142.56</string>
-          <string>hstem 192.06 142.56</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -56.1 21.12</string>
-          <string>hstem 34.98 21.12</string>
           <string>vstem 185.46 81.84</string>
-          <string>vstem 6.6 75.24</string>
-          <string>vstem 123.42 21.78</string>
+          <string>vstem 185.46 110.88</string>
           <string>vstem 386.76 77.22</string>
-          <string>hstem 192.06 142.56</string>
-          <string>hstem -334.62 142.56</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

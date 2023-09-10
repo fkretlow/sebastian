@@ -12,7 +12,7 @@
       <point x="215.7" y="221.6"/>
       <point x="230.1" y="212" type="curve"/>
       <point x="233.3" y="210.4"/>
-      <point x="240.5" y="213.6"/>
+      <point x="240.5" y="213.938"/>
       <point x="240.5" y="216" type="curve" smooth="yes"/>
       <point x="240.5" y="700.2" type="line"/>
       <point x="262.1" y="700.2" type="line"/>
@@ -144,39 +144,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>31988d07c680250fed798bf5cbf75c5a3302d2da454176f7473e15af1025afeb932fe5929525d4459057f801ea0d0a8df66f2897a72c34a4c814cb9afbeb8e98</string>
+    <string>f8bc279c3346f2772d96e316baa4d6ce01cfb758addbebdd0e791df0adee4698462b7895c40964958938dab230c15fe983e65647277683242593c22986f6f73e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 240.5 21.53</string>
-          <string>hstem 700.2 -20</string>
-          <string>vstem 398.5 20.9</string>
           <string>hstem 21 -21</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 700.2 -20</string>
+          <string>vstem 240.5 21.53</string>
+          <string>vstem 398.5 20.9</string>
           <string>vstem 409.1 21.1</string>
-          <string>vstem 240.5 21.53</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 700.2 -20</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105554201482880</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 398.5 20.9</string>
-          <string>vstem 240.5 21.53</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 700.2 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105554201486000</string>
       </dict>
     </array>
   </dict>
