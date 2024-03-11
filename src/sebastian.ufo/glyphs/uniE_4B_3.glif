@@ -4,18 +4,18 @@
   <unicode hex="E4B3"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="curve" smooth="yes"/>
-      <point x="102" y="26"/>
-      <point x="124" y="48"/>
-      <point x="150" y="48" type="curve" smooth="yes"/>
-      <point x="176" y="48"/>
-      <point x="198" y="26"/>
-      <point x="198" y="0" type="curve" smooth="yes"/>
-      <point x="198" y="-26"/>
-      <point x="176" y="-48"/>
-      <point x="150" y="-48" type="curve" smooth="yes"/>
-      <point x="124" y="-48"/>
-      <point x="102" y="-26"/>
+      <point x="95" y="0" type="curve" smooth="yes"/>
+      <point x="95" y="29.7917"/>
+      <point x="120.208" y="55"/>
+      <point x="150" y="55" type="curve" smooth="yes"/>
+      <point x="179.792" y="55"/>
+      <point x="205" y="29.7917"/>
+      <point x="205" y="0" type="curve" smooth="yes"/>
+      <point x="205" y="-29.7917"/>
+      <point x="179.792" y="-55"/>
+      <point x="150" y="-55" type="curve" smooth="yes"/>
+      <point x="120.208" y="-55"/>
+      <point x="95" y="-29.7917"/>
     </contour>
     <contour>
       <point x="0" y="-158" type="curve" smooth="yes"/>
@@ -53,15 +53,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>aefc9799ac3c2bcafe2ebf1a9158683aa236f1c56046266ec4167f8dc1d4dc4d7159c697c9a25d6e1ca50f2f0af7044fc733a3b5595ae94540e4490a8dacc047</string>
+    <string>840ef25532534fac891991f80b3a969c345630f8ee4516e6edc6d84f7efda89208aec8ae9dec9ab89e157afb89bd40548157d7a21f9c1714efbc1752740bea68</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -186 56</string>
-          <string>hstem -48 96</string>
-          <string>vstem 102 96</string>
+          <string>hstem -55 110</string>
+          <string>vstem 95 110</string>
         </array>
       </dict>
     </array>

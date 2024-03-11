@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAA8" format="2">
-  <advance width="330"/>
+  <advance width="360"/>
   <unicode hex="EAA8"/>
+  <anchor x="363" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="65" y="188" type="curve" smooth="yes"/>
@@ -20,26 +21,26 @@
       <point x="25.9507" y="213.058"/>
       <point x="65" y="245"/>
       <point x="99" y="245" type="curve" smooth="yes"/>
-      <point x="160" y="245"/>
-      <point x="212" y="160"/>
-      <point x="265" y="160" type="curve" smooth="yes"/>
-      <point x="292" y="160"/>
-      <point x="312" y="176"/>
-      <point x="330" y="191" type="curve" smooth="yes"/>
-      <point x="336" y="196"/>
-      <point x="341" y="198"/>
-      <point x="345" y="198" type="curve" smooth="yes"/>
-      <point x="351" y="198"/>
-      <point x="354" y="194"/>
-      <point x="354" y="190" type="curve" smooth="yes"/>
-      <point x="354" y="183"/>
-      <point x="344.049" y="168.942"/>
-      <point x="330" y="157" type="curve" smooth="yes"/>
-      <point x="304.049" y="134.942"/>
-      <point x="264" y="103"/>
-      <point x="230" y="103" type="curve" smooth="yes"/>
-      <point x="169" y="103"/>
-      <point x="118" y="188"/>
+      <point x="180" y="245"/>
+      <point x="222" y="160"/>
+      <point x="295" y="160" type="curve" smooth="yes"/>
+      <point x="322" y="160"/>
+      <point x="342" y="176"/>
+      <point x="360" y="191" type="curve" smooth="yes"/>
+      <point x="366" y="196"/>
+      <point x="371" y="198"/>
+      <point x="375" y="198" type="curve" smooth="yes"/>
+      <point x="381" y="198"/>
+      <point x="384" y="194"/>
+      <point x="384" y="190" type="curve" smooth="yes"/>
+      <point x="384" y="183"/>
+      <point x="374.049" y="168.942"/>
+      <point x="360" y="157" type="curve" smooth="yes"/>
+      <point x="334.049" y="134.942"/>
+      <point x="294" y="103"/>
+      <point x="260" y="103" type="curve" smooth="yes"/>
+      <point x="179" y="103"/>
+      <point x="138" y="188"/>
     </contour>
   </outline>
   <lib>
@@ -79,14 +80,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>52f8f277d4205b8638e35e5818819045cb1fd7b4c91c20be132f66996237ae0b1f60ac9556ebf30f73b17177afccac834f3abee78222d4d2fcf8f9843d3e3170</string>
+    <string>617b4220f8c3021a1c77b3062f2c63027b546dfecc163d1ad23d46f46cdd1e94fdbd66c2271e8aa7cb1a9c8d9dae6871d992e3472221770695c01f454be35f95</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 0 245</string>
           <string>hstem 103 57</string>
-          <string>hstem 188 57</string>
         </array>
       </dict>
     </array>
