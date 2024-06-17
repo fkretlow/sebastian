@@ -63,12 +63,12 @@
       <point x="14.7001" y="142.45" type="line"/>
       <point x="12.0501" y="141.45"/>
       <point x="10.3001" y="141.45"/>
-      <point x="8.55006" y="141.45" type="curve"/>
-      <point x="4.15006" y="141.45"/>
-      <point x="0.650008" y="153.1"/>
-      <point x="0.650008" y="159.9" type="curve" smooth="yes"/>
-      <point x="0.650008" y="165.7"/>
-      <point x="3.30001" y="166.7"/>
+      <point x="8.5501" y="141.45" type="curve"/>
+      <point x="4.1501" y="141.45"/>
+      <point x="0.650048" y="153.1"/>
+      <point x="0.650048" y="159.9" type="curve" smooth="yes"/>
+      <point x="0.650048" y="165.7"/>
+      <point x="3.30005" y="166.7"/>
       <point x="11.2" y="169.6" type="curve"/>
       <point x="38.35" y="177.35" type="line" smooth="yes"/>
       <point x="48.0451" y="180.117"/>
@@ -136,9 +136,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Figured bass 9 raised by half-step</string>
+  <real>0</real>
   <key>_name</key>
-  <string>figbass9Raised</string>
+  <real>0</real>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

@@ -63,9 +63,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Somewhat relaxed embouchure</string>
+  <real>0</real>
   <key>_name</key>
-  <string>windLessRelaxedEmbouchure</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -79,7 +79,7 @@
         <array>
           <string>hstem 0 22</string>
           <string>hstem 74 22</string>
-          <string>hstem 202 21</string>
+          <string>hstem 223 -21</string>
           <string>hstem 277 22</string>
           <string>vstem 0 22</string>
           <string>vstem 75 22</string>

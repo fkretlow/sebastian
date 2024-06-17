@@ -2,6 +2,7 @@
 <glyph name="uniEAF1" format="2">
   <advance width="1994"/>
   <unicode hex="EAF1"/>
+  <anchor x="1994" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-3" y="-16" type="line"/>
@@ -234,9 +235,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Quasi-random squiggle 2</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleRandom2</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

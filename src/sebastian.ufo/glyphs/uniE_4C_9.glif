@@ -6,9 +6,9 @@
     <contour>
       <point x="255.828" y="-58.4178" type="curve" smooth="yes"/>
       <point x="255.828" y="-26.1178"/>
-      <point x="281.328" y="0.232201"/>
-      <point x="313.628" y="0.232201" type="curve" smooth="yes"/>
-      <point x="345.928" y="0.232201"/>
+      <point x="281.328" y="0.232199"/>
+      <point x="313.628" y="0.232199" type="curve" smooth="yes"/>
+      <point x="345.928" y="0.232199"/>
       <point x="373.128" y="-26.1178"/>
       <point x="373.128" y="-58.4178" type="curve" smooth="yes"/>
       <point x="373.128" y="-90.7178"/>
@@ -30,8 +30,8 @@
       <point x="613.828" y="1.23225" type="line"/>
       <point x="641.828" y="1.23225" type="line"/>
       <point x="641.828" y="-409.768" type="line"/>
-      <point x="7.82806" y="-409.768" type="line"/>
-      <point x="7.82806" y="1.23225" type="line"/>
+      <point x="7.828" y="-409.768" type="line"/>
+      <point x="7.828" y="1.23225" type="line"/>
     </contour>
     <contour>
       <point x="110.285" y="2.1522" type="line"/>
@@ -53,15 +53,15 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Very long fermata below</string>
+  <real>0</real>
   <key>_name</key>
-  <string>fermataVeryLongBelow</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e549f46abe3e5084b45b107e048c9f1c86331a7d2d139a306dbaeccb6497007a894471f22a9771ab75041b76553c645edd71feaca61740fbe52cf7b55f88e154</string>
+    <string>676d631ecd61a99223192bc2f575f915f029ae26c6539f36a57451e466178014303d40409bb23d53577d787055e39a90613f84a964ee814eed6c728d20037e67</string>
     <key>hintSetList</key>
     <array>
       <dict>

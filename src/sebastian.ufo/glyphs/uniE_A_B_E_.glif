@@ -2,6 +2,7 @@
 <glyph name="uniEABE" format="2">
   <advance width="125"/>
   <unicode hex="EABE"/>
+  <anchor x="125" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="1" y="768" type="curve" smooth="yes"/>
@@ -113,9 +114,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Group glissando 2</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleGlissandoGroup2</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

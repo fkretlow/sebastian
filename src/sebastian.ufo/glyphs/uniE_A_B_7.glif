@@ -2,6 +2,7 @@
 <glyph name="uniEAB7" format="2">
   <advance width="500"/>
   <unicode hex="EAB7"/>
+  <anchor x="500" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-16" y="125" type="curve" smooth="yes"/>
@@ -43,9 +44,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Narrow square wave line segment</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleSquareWaveNarrow</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

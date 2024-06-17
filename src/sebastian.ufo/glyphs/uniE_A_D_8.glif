@@ -2,6 +2,7 @@
 <glyph name="uniEAD8" format="2">
   <advance width="252"/>
   <unicode hex="EAD8"/>
+  <anchor x="252" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-25" y="31" type="curve"/>
@@ -53,9 +54,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Vibrato small, slow</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleVibratoSmallSlow</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

@@ -4,8 +4,8 @@
   <unicode hex="E626"/>
   <outline>
     <contour>
-      <point x="130.6" y="9.99982" type="line" smooth="yes"/>
-      <point x="130.6" y="3.29994"/>
+      <point x="130.6" y="10" type="line" smooth="yes"/>
+      <point x="130.6" y="3.30012"/>
       <point x="127.3" y="0"/>
       <point x="120.6" y="0" type="curve" smooth="yes"/>
       <point x="114" y="0" type="line" smooth="yes"/>
@@ -23,13 +23,13 @@
       <point x="434.6" y="329.199"/>
       <point x="434.6" y="322.498" type="curve" smooth="yes"/>
       <point x="434.6" y="10.0025" type="line" smooth="yes"/>
-      <point x="434.6" y="3.30082"/>
+      <point x="434.6" y="3.30081"/>
       <point x="431.3" y="0"/>
       <point x="424.6" y="0" type="curve" smooth="yes"/>
       <point x="418" y="0" type="line" smooth="yes"/>
       <point x="411.3" y="0"/>
       <point x="408" y="3.30012"/>
-      <point x="408" y="10.0004" type="curve" smooth="yes"/>
+      <point x="408" y="10" type="curve" smooth="yes"/>
       <point x="408" y="193.8" type="line" smooth="yes"/>
       <point x="408" y="202.35"/>
       <point x="398.05" y="204"/>
@@ -121,15 +121,15 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Change bow direction, indeterminate</string>
+  <real>0</real>
   <key>_name</key>
-  <string>stringsChangeBowDirection</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>58daa103402ce4772a71fb1e86dc4e8541fccb5f74de8700b796809594a375aa0976cb9afbb1db411416930b48259bbf9534517edfc90b759002e4139331eef1</string>
+    <string>b59b85e35c3506c84afb39ded3ce1587a9282a6d85c274c2a8a509733ac0e1662fc3014e7a07f9383e48e4f749ec8e4ba7ad9cf51abfb8c439eb4912222cc815</string>
     <key>hintSetList</key>
     <array>
       <dict>

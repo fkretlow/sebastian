@@ -11,8 +11,8 @@
       <point x="87.5" y="197.2"/>
       <point x="24.6" y="68"/>
       <point x="24.6" y="-51" type="curve"/>
-      <point x="-0.0500011" y="-51" type="line"/>
-      <point x="-0.0500011" y="153"/>
+      <point x="-0.0500031" y="-51" type="line"/>
+      <point x="-0.0500031" y="153"/>
       <point x="121.5" y="317.9"/>
       <point x="300" y="317.9" type="curve" smooth="yes"/>
       <point x="478.5" y="317.9"/>
@@ -37,9 +37,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Fermata above</string>
+  <real>0</real>
   <key>_name</key>
-  <string>fermataAbove</string>
+  <real>0</real>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

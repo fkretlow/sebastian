@@ -2,6 +2,7 @@
 <glyph name="uniEADE" format="2">
   <advance width="295"/>
   <unicode hex="EADE"/>
+  <anchor x="295" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-26" y="46" type="curve"/>
@@ -50,9 +51,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Vibrato medium, fast</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleVibratoMediumFast</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

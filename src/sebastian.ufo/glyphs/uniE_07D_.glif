@@ -22,9 +22,9 @@
       <point x="112.497" y="0"/>
       <point x="72.6175" y="0" type="curve" smooth="yes"/>
       <point x="35.8345" y="0"/>
-      <point x="0.418098" y="24.2205"/>
-      <point x="0.418098" y="63.0879" type="curve" smooth="yes"/>
-      <point x="0.418098" y="84.004"/>
+      <point x="0.418094" y="24.2205"/>
+      <point x="0.418094" y="63.0879" type="curve" smooth="yes"/>
+      <point x="0.418094" y="84.004"/>
       <point x="13.4075" y="104.506"/>
       <point x="38.7788" y="122.725" type="curve" smooth="yes"/>
       <point x="46.9364" y="128.583"/>
@@ -77,9 +77,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>8 for clefs</string>
+  <real>0</real>
   <key>_name</key>
-  <string>clef8</string>
+  <real>0</real>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -106,13 +106,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6d443952067cae7c243f24543699f59cbd46742aa75c7dd03e16d4fe2788cab81ab357d23ffb4c57a05d025b915d5f6d1f4f22e3f2364cae4e16cae00a5547bb</string>
+    <string>dec86616536c03a7709a0833588fa3243988f16de33f887939c68abbf95eb838274d0c9f0f7b09ad93dc5bb2ffd783ba96dbd2e87bbd0458176f24d5510f6adb</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 21</string>
+          <string>hstem 21 -21</string>
           <string>hstem 232 -20</string>
           <string>vstem 0 21</string>
           <string>vstem 113 33</string>

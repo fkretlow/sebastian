@@ -2,6 +2,7 @@
 <glyph name="uniEAA6" format="2">
   <advance width="303"/>
   <unicode hex="EAA6"/>
+  <anchor x="300" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="63" y="188" type="curve" smooth="yes"/>
@@ -45,9 +46,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Trill wiggle segment, slower</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleTrillSlower</string>
+  <real>0</real>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

@@ -2,6 +2,7 @@
 <glyph name="uniEABA" format="2">
   <advance width="499"/>
   <unicode hex="EABA"/>
+  <anchor x="499" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-18" y="250" type="curve"/>
@@ -37,9 +38,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Narrow sawtooth line segment</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleSawtoothNarrow</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

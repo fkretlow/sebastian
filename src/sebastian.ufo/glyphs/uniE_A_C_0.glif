@@ -2,6 +2,7 @@
 <glyph name="uniEAC0" format="2">
   <advance width="268"/>
   <unicode hex="EAC0"/>
+  <anchor x="268" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="55" y="-20" type="curve"/>
@@ -64,9 +65,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Constant circular motion segment</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleCircularConstant</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

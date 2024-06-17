@@ -12,15 +12,15 @@
       <point x="249.431" y="64.1691"/>
       <point x="223.631" y="38.3691" type="curve" smooth="yes"/>
       <point x="198.539" y="13.277"/>
-      <point x="164.724" y="0.178"/>
-      <point x="130.662" y="0.178" type="curve" smooth="yes"/>
-      <point x="97.5327" y="0.178"/>
+      <point x="164.724" y="0.177999"/>
+      <point x="130.662" y="0.177999" type="curve" smooth="yes"/>
+      <point x="97.5327" y="0.177999"/>
       <point x="64.1692" y="12.5691"/>
       <point x="38.3691" y="38.3691" type="curve" smooth="yes"/>
       <point x="13.2767" y="63.4613"/>
-      <point x="0.1777" y="97.2757"/>
-      <point x="0.1777" y="131.338" type="curve" smooth="yes"/>
-      <point x="0.1777" y="164.467"/>
+      <point x="0.177701" y="97.2757"/>
+      <point x="0.177701" y="131.338" type="curve" smooth="yes"/>
+      <point x="0.177701" y="164.467"/>
       <point x="12.5691" y="197.831"/>
       <point x="38.3691" y="223.631" type="curve" smooth="yes"/>
       <point x="63.4611" y="248.723"/>
@@ -60,9 +60,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Somewhat tight embouchure</string>
+  <real>0</real>
   <key>_name</key>
-  <string>windLessTightEmbouchure</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

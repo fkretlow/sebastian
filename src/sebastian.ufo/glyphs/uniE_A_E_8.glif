@@ -2,6 +2,7 @@
 <glyph name="uniEAE8" format="2">
   <advance width="763"/>
   <unicode hex="EAE8"/>
+  <anchor x="763" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-34" y="45" type="curve"/>
@@ -62,9 +63,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Vibrato large, slowest</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleVibratoLargeSlowest</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

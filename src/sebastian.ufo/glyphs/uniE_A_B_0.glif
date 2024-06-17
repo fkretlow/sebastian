@@ -2,6 +2,7 @@
 <glyph name="uniEAB0" format="2">
   <advance width="152"/>
   <unicode hex="EAB0"/>
+  <anchor x="152" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-7" y="29" type="curve"/>
@@ -51,9 +52,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Vibrato / shake wiggle segment</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleVibrato</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

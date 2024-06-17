@@ -8,8 +8,8 @@
       <point x="26.6" y="-3.79994"/>
       <point x="23.2999" y="-0.5"/>
       <point x="16.5998" y="-0.5" type="curve" smooth="yes"/>
-      <point x="10.0002" y="-0.5" type="line" smooth="yes"/>
-      <point x="3.30005" y="-0.5"/>
+      <point x="10" y="-0.5" type="line" smooth="yes"/>
+      <point x="3.29985" y="-0.5"/>
       <point x="0" y="-3.79998"/>
       <point x="0" y="-10.5" type="curve" smooth="yes"/>
       <point x="0" y="-127.911"/>
@@ -24,10 +24,10 @@
       <point x="330.6" y="-314.949" type="curve" smooth="yes"/>
       <point x="330.6" y="-10.5025" type="line" smooth="yes"/>
       <point x="330.6" y="-3.80082"/>
-      <point x="327.3" y="-0.5"/>
-      <point x="320.6" y="-0.5" type="curve" smooth="yes"/>
-      <point x="314" y="-0.5" type="line" smooth="yes"/>
-      <point x="307.3" y="-0.5"/>
+      <point x="327.3" y="-0.499997"/>
+      <point x="320.6" y="-0.499997" type="curve" smooth="yes"/>
+      <point x="314" y="-0.499997" type="line" smooth="yes"/>
+      <point x="307.3" y="-0.499997"/>
       <point x="304" y="-3.80012"/>
       <point x="304" y="-10.5004" type="curve" smooth="yes"/>
       <point x="304" y="-194.3" type="line" smooth="yes"/>
@@ -43,9 +43,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Turned down bow</string>
+  <real>0</real>
   <key>_name</key>
-  <string>stringsDownBowTurned</string>
+  <real>0</real>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -69,7 +69,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f70b94d6a2d3a6e2a92e9584d6defc5cc566f812773c4e658431b5b378da7427c51ac816344b68b9435e0b8906daa491ab4e972c556506c4f7c2ae2c4745da0d</string>
+    <string>686f6552173cad6b4c4e513f4939cb04edd5475d415cebf91012f330b61d22a29d300c921ab8895a5b98d5f8f4e3a9b064c27638835a10d81f7aa2b21c463420</string>
     <key>hintSetList</key>
     <array>
       <dict>

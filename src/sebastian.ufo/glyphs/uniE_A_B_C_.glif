@@ -2,6 +2,7 @@
 <glyph name="uniEABC" format="2">
   <advance width="1000"/>
   <unicode hex="EABC"/>
+  <anchor x="1000" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-17" y="250" type="curve" smooth="yes"/>
@@ -37,9 +38,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Wide sawtooth line segment</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleSawtoothWide</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

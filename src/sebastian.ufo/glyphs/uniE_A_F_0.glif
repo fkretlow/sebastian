@@ -2,6 +2,7 @@
 <glyph name="uniEAF0" format="2">
   <advance width="1994"/>
   <unicode hex="EAF0"/>
+  <anchor x="1994" y="0" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-3" y="16" type="curve"/>
@@ -173,9 +174,9 @@
   <lib>
   <dict>
   <key>_description</key>
-  <string>Quasi-random squiggle 1</string>
+  <real>0</real>
   <key>_name</key>
-  <string>wiggleRandom1</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
