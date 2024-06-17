@@ -248,33 +248,37 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>1024th rest</string>
+  <key>_name</key>
+  <string>rest1024th</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>885fdcc0b28d6d760eb81695c1bfbf699eac1c6b886ddce7a0f220470c811fd59f21a718d9052aabaafd486be5f72a9aa88f7c01d80ae7646517538196a24238</string>
+    <string>78b058d574d938813c3b532c291ba308832ad6f913b8999ea94c0f24631484bf951e583b098daf303f4e1852ebacb42694e8905a187989c7c4ec47acb4f5d96f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -691.58 149.87</string>
-          <string>hstem -445.09 149.9</string>
-          <string>hstem -198.49 149.9</string>
-          <string>hstem 47.77 150.16</string>
-          <string>hstem 294.23 150.31</string>
-          <string>hstem 540.72 150.25</string>
-          <string>hstem 787.33 150.16</string>
-          <string>hstem 1034.2 149.9</string>
-          <string>vstem 0 136.65</string>
-          <string>vstem 50.68 136.65</string>
-          <string>vstem 100.36 136.65</string>
-          <string>vstem 150.76 136.94</string>
-          <string>vstem 201.43 136.48</string>
-          <string>vstem 251.11 136.72</string>
-          <string>vstem 300.87 137.23</string>
-          <string>vstem 351.12 136.65</string>
+          <string>hstem -691 149</string>
+          <string>hstem -445 149</string>
+          <string>hstem -198 149</string>
+          <string>hstem 47 150</string>
+          <string>hstem 294 150</string>
+          <string>hstem 540 150</string>
+          <string>hstem 787 150</string>
+          <string>hstem 1034 149</string>
+          <string>vstem 0 136</string>
+          <string>vstem 50 136</string>
+          <string>vstem 100 136</string>
+          <string>vstem 150 136</string>
+          <string>vstem 201 136</string>
+          <string>vstem 251 136</string>
+          <string>vstem 300 137</string>
+          <string>vstem 351 136</string>
         </array>
       </dict>
     </array>

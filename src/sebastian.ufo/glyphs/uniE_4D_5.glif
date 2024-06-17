@@ -46,6 +46,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Breath mark (Salzedo)</string>
+  <key>_name</key>
+  <string>breathMarkSalzedo</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -57,10 +61,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 154.7 117.</string>
+          <string>hstem 154 117</string>
           <string>hstem 359 74</string>
-          <string>vstem 210 139.1</string>
-          <string>vstem 314 35.1</string>
+          <string>vstem 210 139</string>
+          <string>vstem 314 35</string>
         </array>
       </dict>
     </array>

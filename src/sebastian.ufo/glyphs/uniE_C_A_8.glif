@@ -58,6 +58,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Eighth note (quaver) stem down</string>
+  <key>_name</key>
+  <string>metNote8thDown</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -97,9 +101,9 @@
         <key>stems</key>
         <array>
           <string>hstem -546 -21</string>
-          <string>hstem 225.8 -20</string>
-          <string>vstem -0.4 20.8</string>
-          <string>vstem 192.4 27.2</string>
+          <string>hstem 225 -20</string>
+          <string>vstem 0 20</string>
+          <string>vstem 192 27</string>
         </array>
       </dict>
     </array>

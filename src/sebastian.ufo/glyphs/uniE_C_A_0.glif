@@ -110,6 +110,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Double whole note (breve)</string>
+  <key>_name</key>
+  <string>metNoteDoubleWhole</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -184,21 +188,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c155a743cc46af7d6aa8f72b24c0d8133acad5def98a1fc7e96be96c7b1477d7cb30932ea5eb41e199956520defc2ed7cb008d00267762482ccb2fe940ec0f6a</string>
+    <string>ac81e42941fa4e36c1913ec096dea1e5f8c3f75f5b109625dc2cded2d88237d7510cf460d006f26da206170ce2b28e66c3913f4be7606f4239b25e6a99aca471</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 232</string>
-          <string>hstem 5.6 224.</string>
-          <string>hstem 210.4 19.2</string>
-          <string>vstem 0.4 24.8</string>
-          <string>vstem 41.34 114.06</string>
-          <string>vstem 41.34 24.8</string>
-          <string>vstem 311.98 114.32</string>
-          <string>vstem 401.5 24.8</string>
-          <string>vstem 442.8 24.8</string>
+          <string>hstem 5 224</string>
+          <string>hstem 210 19</string>
+          <string>vstem 0 24</string>
+          <string>vstem 41 114</string>
+          <string>vstem 41 24</string>
+          <string>vstem 311 114</string>
+          <string>vstem 401 24</string>
+          <string>vstem 442 24</string>
         </array>
       </dict>
     </array>

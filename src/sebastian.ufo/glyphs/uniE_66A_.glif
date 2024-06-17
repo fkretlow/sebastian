@@ -68,6 +68,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Clavichord bebung, 3 finger movements (above)</string>
+  <key>_name</key>
+  <string>keyboardBebung3DotsAbove</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -121,8 +125,8 @@
           <string>hstem -42 84</string>
           <string>hstem 146 31</string>
           <string>vstem 0 83</string>
-          <string>vstem 146.35 78.65</string>
-          <string>vstem 287. 83.</string>
+          <string>vstem 146 78</string>
+          <string>vstem 287 83</string>
         </array>
       </dict>
     </array>

@@ -349,6 +349,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Quindicesima bassa</string>
+  <key>_name</key>
+  <string>quindicesimaBassa</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -483,7 +487,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fba81119cf6229f652edbba21303c88e34347da1175887e4b02194df312987e3ef8f8530080f73eab809dbb7e292e37a14c3e738c5ba9930cb6fc7f527f58860</string>
+    <string>4010fe94a22873d5551cf1553a7188417ad1ce309e9f5b785c5bd35be4f48e7d600196ee764ab5f69e2e2244bd2a0f8a8221a88df90d92ed3d3291b81b0dcdb3</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -491,12 +495,12 @@
         <array>
           <string>hstem -4 32</string>
           <string>hstem 410 -20</string>
-          <string>vstem 231.97 74</string>
-          <string>vstem 325.97 111</string>
-          <string>vstem 436.97 69</string>
-          <string>vstem 738.83 134.84</string>
-          <string>vstem 810.29 155.22</string>
-          <string>vstem 840.05 33.62</string>
+          <string>vstem 231 74</string>
+          <string>vstem 325 111</string>
+          <string>vstem 436 69</string>
+          <string>vstem 738 134</string>
+          <string>vstem 810 155</string>
+          <string>vstem 840 33</string>
         </array>
       </dict>
     </array>

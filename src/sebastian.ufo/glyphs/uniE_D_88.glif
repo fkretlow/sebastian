@@ -61,23 +61,27 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering 8 italic</string>
+  <key>_name</key>
+  <string>fingering8Italic</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c20aa00f8820bd2e99e15369e1543a65b4d750680f128a1880fa821a79408ae31191b28e899e3fe2651257d3f2ba54f153f9fef08cfa227ae4b51d54fa1afb6e</string>
+    <string>377ede297b536355ec7318eeb5832bd7b92cecb354e54670ff07708173d626d8e5fc881deb1e08f6754966668a7d45c85f300e04a29f382dc5d058f8afe05e5a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 17 -21</string>
-          <string>hstem 249.74 -20</string>
-          <string>vstem 0 30.47</string>
-          <string>vstem 53 35.11</string>
-          <string>vstem 132.5 35.11</string>
-          <string>vstem 167.61 27.16</string>
+          <string>hstem 249 -20</string>
+          <string>vstem 0 30</string>
+          <string>vstem 53 35</string>
+          <string>vstem 132 35</string>
+          <string>vstem 167 27</string>
         </array>
       </dict>
     </array>

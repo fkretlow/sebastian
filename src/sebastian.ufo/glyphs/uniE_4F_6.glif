@@ -116,6 +116,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Z-style quarter (crotchet) rest</string>
+  <key>_name</key>
+  <string>restQuarterZ</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -166,16 +170,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3044a73de0b9a7a1ca929031e36e1bc992783baf03a00d2326d3003decf1cff1c6129bda5e39de42d3aaec6d5f52d3234e2dce5905c824f695c1ad1a8cb4f307</string>
+    <string>d56c5ca0f2677baec6e5c1a48b4e3c621d5802718a4fcc663c04157922442b7ff304aaa91605deb9f2098ca41d8aac5d47c5284694fa592e371e5ad9fcb072f9</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -242.55 151.33</string>
-          <string>hstem 92.33 151.33</string>
-          <string>vstem 15.34 137.52</string>
-          <string>vstem 224.96 137.51</string>
+          <string>hstem -242 151</string>
+          <string>hstem 92 151</string>
+          <string>vstem 15 137</string>
+          <string>vstem 224 137</string>
         </array>
       </dict>
     </array>

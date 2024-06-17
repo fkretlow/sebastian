@@ -43,6 +43,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Marcato below</string>
+  <key>_name</key>
+  <string>articMarcatoBelow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -67,7 +71,7 @@
         <key>stems</key>
         <array>
           <string>hstem -283 -21</string>
-          <string>hstem 9.65 -20</string>
+          <string>hstem 9 -20</string>
         </array>
       </dict>
     </array>

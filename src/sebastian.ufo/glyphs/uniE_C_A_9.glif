@@ -92,6 +92,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>16th note (semiquaver) stem up</string>
+  <key>_name</key>
+  <string>metNote16thUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -142,11 +146,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 8.2 -21</string>
+          <string>hstem 8 -21</string>
           <string>hstem 700 -20</string>
-          <string>vstem 240 21.16</string>
-          <string>vstem 417.5 23.8</string>
-          <string>vstem 426.15 24.5</string>
+          <string>vstem 240 21</string>
+          <string>vstem 417 23</string>
+          <string>vstem 426 24</string>
         </array>
       </dict>
     </array>

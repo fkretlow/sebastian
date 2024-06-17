@@ -50,6 +50,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Tempus imperfectum cum prolatione imperfecta diminution 1 (2/2)</string>
+  <key>_name</key>
+  <string>mensuralProlation7</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -61,9 +65,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -204 33.59</string>
-          <string>hstem 171 33.59</string>
-          <string>vstem 319 70.59</string>
+          <string>hstem -204 33</string>
+          <string>hstem 171 33</string>
+          <string>vstem 319 70</string>
         </array>
       </dict>
     </array>

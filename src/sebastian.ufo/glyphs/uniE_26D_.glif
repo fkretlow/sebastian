@@ -22,6 +22,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Accidental bracket, right</string>
+  <key>_name</key>
+  <string>accidentalBracketRight</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -66,9 +70,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -199.75 21.75</string>
-          <string>hstem 179 21.75</string>
-          <string>vstem 63.88 21.75</string>
+          <string>hstem -199 21</string>
+          <string>hstem 179 21</string>
+          <string>vstem 63 21</string>
         </array>
       </dict>
     </array>

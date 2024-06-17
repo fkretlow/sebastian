@@ -248,6 +248,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Sforzando-piano</string>
+  <key>_name</key>
+  <string>dynamicSforzandoPiano</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -382,33 +386,33 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>55b7147d0c60220b688ed49f54ac7cf624aa81f68ae240a5689762b0d1a44d0adf899c713527be7ef5b01745408dffd3185e8276ab6546b5ee89ee5d724b5423</string>
+    <string>bddf698cbf41c4f62e933fdef0f91ead82eaed5d6bddf19ac02d8f079dbea2bea209974272859d25980997993b28823754aea6c706bce2ea33161e1eb58fa35a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -165.24 128.8</string>
-          <string>hstem -165.24 27.6</string>
-          <string>hstem -156.04 28.52</string>
-          <string>hstem -16.2 246.56</string>
-          <string>hstem -16.2 29.44</string>
+          <string>hstem -165 128</string>
+          <string>hstem -165 27</string>
+          <string>hstem -156 28</string>
+          <string>hstem -16 246</string>
+          <string>hstem -16 29</string>
           <string>hstem -8 29</string>
           <string>hstem -8 108</string>
           <string>hstem 154 100</string>
-          <string>hstem 203.68 57.04</string>
-          <string>hstem 214.72 31.28</string>
+          <string>hstem 203 57</string>
+          <string>hstem 214 31</string>
           <string>hstem 226 28</string>
-          <string>hstem 229.44 31.28</string>
-          <string>hstem 278.2 128.8</string>
-          <string>hstem 379.4 27.6</string>
+          <string>hstem 229 31</string>
+          <string>hstem 278 128</string>
+          <string>hstem 379 27</string>
           <string>vstem 0 56</string>
           <string>vstem 42 46</string>
-          <string>vstem 120.6 88.32</string>
+          <string>vstem 120 88</string>
           <string>vstem 143 51</string>
           <string>vstem 156 65</string>
-          <string>vstem 514.36 88.32</string>
-          <string>vstem 805.08 77.28</string>
+          <string>vstem 514 88</string>
+          <string>vstem 805 77</string>
         </array>
       </dict>
     </array>

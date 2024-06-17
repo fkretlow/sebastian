@@ -25,6 +25,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Accidental parenthesis, left</string>
+  <key>_name</key>
+  <string>accidentalParensLeft</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -48,7 +52,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 0.1 26.4</string>
+          <string>vstem 0 26</string>
         </array>
       </dict>
     </array>

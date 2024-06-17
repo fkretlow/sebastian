@@ -14,7 +14,7 @@
       <point x="3" y="30" type="curve"/>
       <point x="12" y="30"/>
       <point x="33" y="55"/>
-      <point x="34" y="64" type="curve" smooth="yes"/>
+      <point x="34" y="64" type="curve"/>
       <point x="57" y="227"/>
       <point x="101" y="396"/>
       <point x="137" y="469" type="curve"/>
@@ -52,6 +52,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Vibrato largest, faster</string>
+  <key>_name</key>
+  <string>wiggleVibratoLargestFaster</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

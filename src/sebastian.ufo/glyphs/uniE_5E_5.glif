@@ -56,6 +56,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Muted (closed)</string>
+  <key>_name</key>
+  <string>brassMuteClosed</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -91,7 +95,7 @@
           <string>hstem 24 -21</string>
           <string>hstem 118 32</string>
           <string>hstem 265 -20</string>
-          <string>vstem 96.42 32.</string>
+          <string>vstem 96 32</string>
         </array>
       </dict>
     </array>

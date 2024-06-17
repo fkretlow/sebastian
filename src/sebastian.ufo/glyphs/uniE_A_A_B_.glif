@@ -10,34 +10,34 @@
       <point x="529" y="15"/>
       <point x="529" y="22" type="curve" smooth="yes"/>
       <point x="529" y="26"/>
-      <point x="525.069" y="30.298"/>
+      <point x="525" y="30"/>
       <point x="517" y="32" type="curve" smooth="yes"/>
-      <point x="397.063" y="57.2993"/>
+      <point x="397" y="57"/>
       <point x="332" y="140"/>
       <point x="216" y="140" type="curve" smooth="yes"/>
       <point x="156" y="140"/>
-      <point x="100.153" y="106.656"/>
+      <point x="100" y="107"/>
       <point x="78" y="97" type="curve" smooth="yes"/>
-      <point x="61.1468" y="89.6537"/>
-      <point x="43.9486" y="79.3248"/>
+      <point x="61" y="90"/>
+      <point x="44" y="79"/>
       <point x="24" y="76" type="curve" smooth="yes"/>
-      <point x="19.933" y="75.3222"/>
+      <point x="20" y="75"/>
       <point x="17" y="75"/>
       <point x="14" y="75" type="curve" smooth="yes"/>
       <point x="0" y="75"/>
       <point x="-8" y="86"/>
       <point x="-21" y="89" type="curve"/>
       <point x="-24" y="91" type="line" smooth="yes"/>
-      <point x="-28.1603" y="93.7735"/>
+      <point x="-28" y="94"/>
       <point x="-36" y="98"/>
       <point x="-42" y="98" type="curve" smooth="yes"/>
       <point x="-45" y="98"/>
       <point x="-48" y="96"/>
       <point x="-48" y="93" type="curve"/>
       <point x="-48" y="92"/>
-      <point x="-47.8105" y="91.084"/>
+      <point x="-48" y="91"/>
       <point x="-47" y="89" type="curve" smooth="yes"/>
-      <point x="-40.8065" y="73.0739"/>
+      <point x="-41" y="73"/>
       <point x="-5" y="0"/>
       <point x="73" y="0" type="curve" smooth="yes"/>
       <point x="151" y="0"/>
@@ -49,12 +49,16 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Arpeggiato upward swash</string>
+  <key>_name</key>
+  <string>wiggleArpeggiatoUpSwash</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ffaa25c0fe2e8740360849c9b180c3f78617612a329cca370e463a8430d558e5c5ad814b0f09c78b3afa5016168f545b3f6e616f1d2fd046db1d64e005c1cc6b</string>
+    <string>8312e8782fe94d8152f8dd570616943db15a93fae024185a62742448f972b59fb3ca3be5967378d9d5966406b65ddc011d52466ed2f2b4bd3174dd36c3f1b93c</string>
     <key>hintSetList</key>
     <array>
       <dict>

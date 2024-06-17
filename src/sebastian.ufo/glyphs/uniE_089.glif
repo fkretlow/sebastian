@@ -57,6 +57,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature 9</string>
+  <key>_name</key>
+  <string>timeSig9</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -107,19 +111,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5ee755820f8ca160e0910475e23aabc8327bff3f2c347f9c1af2aa6728cf6c569102711e10854c022273ace288b21269ffc312ce3884ab96646f132d04662b67</string>
+    <string>6c24a02fe3c49c42ea00951e9ae7fb2f141b915e297205bea9525eb45dd42d5aef0c7a070f9f88212431a8c88b8201f423cfad60651b035f79004ac0ac20c305</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -250.42 34.79</string>
-          <string>hstem -250.42 148.38</string>
-          <string>hstem -34.6 55.68</string>
-          <string>hstem 210.49 39.79</string>
-          <string>vstem 20.64 102.66</string>
-          <string>vstem 33.17 126.31</string>
-          <string>vstem 284.81 102.66</string>
+          <string>hstem -250 34</string>
+          <string>hstem -250 148</string>
+          <string>hstem -34 55</string>
+          <string>hstem 210 39</string>
+          <string>vstem 20 102</string>
+          <string>vstem 33 126</string>
+          <string>vstem 284 102</string>
         </array>
       </dict>
     </array>

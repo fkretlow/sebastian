@@ -30,6 +30,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Comma</string>
+  <key>_name</key>
+  <string>ornamentComma</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -62,9 +66,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 133.88 101.25</string>
-          <string>vstem 0 120.38</string>
-          <string>vstem 90 30.38</string>
+          <string>hstem 133 101</string>
+          <string>vstem 0 120</string>
+          <string>vstem 90 30</string>
         </array>
       </dict>
     </array>

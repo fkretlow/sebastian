@@ -57,6 +57,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Marcato-staccato below</string>
+  <key>_name</key>
+  <string>articMarcatoStaccatoBelow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -90,8 +94,8 @@
         <key>stems</key>
         <array>
           <string>hstem -279 -21</string>
-          <string>hstem -42.35 84</string>
-          <string>vstem 131.55 83</string>
+          <string>hstem -42 84</string>
+          <string>vstem 131 83</string>
         </array>
       </dict>
     </array>

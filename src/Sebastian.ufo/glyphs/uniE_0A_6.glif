@@ -37,9 +37,9 @@
       <point x="351" y="125" type="line" smooth="yes"/>
       <point x="346" y="125"/>
       <point x="340" y="123"/>
-      <point x="336" y="120" type="curve" smooth="yes"/>
+      <point x="336" y="120" type="curve"/>
       <point x="273" y="66" type="line"/>
-      <point x="208" y="120" type="line" smooth="yes"/>
+      <point x="208" y="120" type="line"/>
       <point x="204" y="123"/>
       <point x="199" y="125"/>
       <point x="194" y="125" type="curve" smooth="yes"/>
@@ -70,9 +70,9 @@
       <point x="194" y="-125" type="line" smooth="yes"/>
       <point x="199" y="-125"/>
       <point x="204" y="-123"/>
-      <point x="208" y="-119" type="curve" smooth="yes"/>
+      <point x="208" y="-119" type="curve"/>
       <point x="273" y="-66" type="line"/>
-      <point x="337" y="-119" type="line" smooth="yes"/>
+      <point x="337" y="-119" type="line"/>
       <point x="341" y="-123"/>
       <point x="346" y="-125"/>
       <point x="351" y="-125" type="curve" smooth="yes"/>
@@ -134,6 +134,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>X notehead double whole</string>
+  <key>_name</key>
+  <string>noteheadXDoubleWhole</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

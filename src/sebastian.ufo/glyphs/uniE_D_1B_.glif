@@ -65,22 +65,26 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering a (anular; right-hand ring finger for guitar)</string>
+  <key>_name</key>
+  <string>fingeringALower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1510fe5242ad58591412023d7d1eb0d5c20baa739613482530f62afd629a81a4e888d4238887b99c7da00348d9a4af9bafc732e533cd062e314601f9ce2bacc6</string>
+    <string>1070e1e146adb8bdaeb23fda73c3a2678c5c216e7df0346d18585c6a76e90888909177b4e01431ad942c5819ce713284bf59fc01bc12553e2f66776adb20da3d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6.45 24.17</string>
-          <string>hstem -4.3 22.02</string>
-          <string>hstem -4.3 246.</string>
-          <string>hstem 227.73 20.41</string>
-          <string>vstem 29.54 44.04</string>
+          <string>hstem -6 24</string>
+          <string>hstem -4 22</string>
+          <string>hstem -4 246</string>
+          <string>hstem 227 20</string>
+          <string>vstem 29 44</string>
         </array>
       </dict>
     </array>

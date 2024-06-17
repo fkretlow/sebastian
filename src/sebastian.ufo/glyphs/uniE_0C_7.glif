@@ -8,17 +8,21 @@
     <contour>
       <point x="0" y="126" type="line"/>
       <point x="290" y="126" type="line"/>
-      <point x="144.638" y="-126" type="line"/>
+      <point x="145" y="-126" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Triangle notehead down black</string>
+  <key>_name</key>
+  <string>noteheadTriangleDownBlack</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w290m0,126l290,126l144.64,-126</string>
+    <string>w290m0,126l290,126l145,-126</string>
     <key>hintSetList</key>
     <array>
       <dict>

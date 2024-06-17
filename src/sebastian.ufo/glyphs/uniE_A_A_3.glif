@@ -5,31 +5,35 @@
   <anchor x="210" y="0" name="repeatOffset"/>
   <outline>
     <contour>
-      <point x="198" y="173.814" type="curve" smooth="yes"/>
-      <point x="220.841" y="173.814"/>
-      <point x="232.044" y="203.254"/>
-      <point x="242" y="207.034" type="curve"/>
-      <point x="244" y="202.288" type="line"/>
-      <point x="242.353" y="164.677"/>
-      <point x="175.506" y="105"/>
+      <point x="198" y="174" type="curve" smooth="yes"/>
+      <point x="221" y="174"/>
+      <point x="232" y="203"/>
+      <point x="242" y="207" type="curve"/>
+      <point x="244" y="202" type="line"/>
+      <point x="242" y="165"/>
+      <point x="176" y="105"/>
       <point x="144" y="105" type="curve" smooth="yes"/>
-      <point x="82.8078" y="105"/>
-      <point x="80.5698" y="176.186"/>
-      <point x="46" y="176.186" type="curve" smooth="yes"/>
-      <point x="28.7007" y="176.186"/>
-      <point x="17.7972" y="157.342"/>
-      <point x="7" y="144.153" type="curve"/>
-      <point x="2" y="142.966" type="line"/>
-      <point x="0" y="146.525" type="line"/>
-      <point x="1.8053" y="184.557"/>
-      <point x="67.9909" y="245"/>
+      <point x="83" y="105"/>
+      <point x="81" y="176"/>
+      <point x="46" y="176" type="curve" smooth="yes"/>
+      <point x="29" y="176"/>
+      <point x="18" y="157"/>
+      <point x="7" y="144" type="curve"/>
+      <point x="2" y="143" type="line"/>
+      <point x="0" y="147" type="line"/>
+      <point x="2" y="185"/>
+      <point x="68" y="245"/>
       <point x="100" y="245" type="curve" smooth="yes"/>
-      <point x="152.381" y="245"/>
-      <point x="154.381" y="173.814"/>
+      <point x="152" y="245"/>
+      <point x="154" y="174"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Trill wiggle segment, fast</string>
+  <key>_name</key>
+  <string>wiggleTrillFast</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -80,13 +84,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>62289bdca229ec57d6df8e507315486150a8341123e9d15e7e1673a1ab1e20f5b6e3248a273438b0397d274afc0d3a7cd8955a87f03ec9ceb7a78591e5e6d9c8</string>
+    <string>602b14c56e74a6612b2c34f48f3eb16fa79cdd63de49f9f1acd3c6463912f39008d03c9b57d70b7c672a2324c599dd9910b773e48473c9e11df8dc212ad49e9e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 146.53 27.29</string>
+          <string>hstem 146 27</string>
           <string>hstem 236 9</string>
         </array>
       </dict>

@@ -101,6 +101,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass 7 raised by half-step</string>
+  <key>_name</key>
+  <string>figbass7Raised1</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -151,15 +155,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>783624b42ac3cc109c1b057453793e7ce196ac856e2624064c91f66e2c89b38f9990ab7d1c1c378be58961dee0f8c19c3175822ce5e733251d4fb92bc6eff16d</string>
+    <string>8571bb7f389ab10235a812b6e45c798d707821e84f69909f4102027bccfcc81797aa2220d93341900fbdcf01cb943b5d3c2121de8dd011c9dee5d8acbab76d7c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 200 40.95</string>
-          <string>hstem 230.95 49.15</string>
-          <string>vstem 26.8 202.05</string>
+          <string>hstem 200 40</string>
+          <string>hstem 230 49</string>
+          <string>vstem 26 202</string>
         </array>
       </dict>
     </array>

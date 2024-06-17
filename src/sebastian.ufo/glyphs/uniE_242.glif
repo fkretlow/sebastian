@@ -72,6 +72,10 @@
   <guideline angle="0" x="0" y="-831"/>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Combining flag 2 (16th) above</string>
+  <key>_name</key>
+  <string>flag16thUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -101,13 +105,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a0e3be5b84e0ea96a76d68dc822005a6d0861cc8287f2a8c7e830e3eb14d310cc3677948a51701eff35f88228c9d9dda103dbc33c2b43c20db7e857795bc71ac</string>
+    <string>2aadb2a17b9d44689a135c9c1bffadb777945c616a8773991c4afc39059c1e29669b32f0c36f77b1a31e9253785310b1e4a17039ef4df97d97b390ede577cb5a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -822.99 -21</string>
+          <string>hstem -822 -21</string>
           <string>vstem 0 26</string>
           <string>vstem 242 33</string>
           <string>vstem 254 34</string>

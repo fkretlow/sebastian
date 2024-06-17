@@ -62,21 +62,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering i (indicio; right-hand index finger for guitar)</string>
+  <key>_name</key>
+  <string>fingeringILower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6e5e2ab19f3b2c9b7703ed0fffd4336f25fad14bb6c360880169a6bd65c9d4b2bbc3471da0bac899bb2fd6ce6037b25e3a19bfaeb65145dbeaaca9da80e50ba6</string>
+    <string>c5713f49bc325e9c4d915ff83557fb93be06da1c307fae6839f92a66011e7f4adf09c3ec5f920360faa3531d43f98237ee08aed53d344e7737380661e56fa86c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6.45 23.63</string>
-          <string>hstem 224.51 23.63</string>
-          <string>hstem 299.71 62.3</string>
-          <string>vstem 126.76 62.3</string>
+          <string>hstem -6 23</string>
+          <string>hstem 224 23</string>
+          <string>hstem 299 62</string>
+          <string>vstem 126 62</string>
         </array>
       </dict>
     </array>

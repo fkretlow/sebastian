@@ -126,26 +126,30 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Half barré</string>
+  <key>_name</key>
+  <string>guitarBarreHalf</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>706619aa0dc3da7202a15c7cfa69b1451ee6a643a24bfc2b58359c3eacb6ff6dcea5329852d0d9cf3a0b7b9cd456095931957a9671bb35bbaa0b4baa0155df63</string>
+    <string>de3ae4b18b3a0080dbd11dc9fdfec5c9545b36708b292b7c1e8a0b3e92d9846f523701bc6a6984c6977ad71b88e1767ac30cd2155d47f82f396f9b1556f912bb</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -12 29.77</string>
+          <string>hstem -12 29</string>
           <string>hstem 7 -21</string>
-          <string>hstem 22.53 238.62</string>
-          <string>hstem 151.35 109.8</string>
-          <string>hstem 461.45 25.52</string>
-          <string>vstem 60.14 36.86</string>
-          <string>vstem 239.27 62.08</string>
-          <string>vstem 363.04 44.23</string>
-          <string>vstem 450 82.92</string>
+          <string>hstem 22 238</string>
+          <string>hstem 151 109</string>
+          <string>hstem 461 25</string>
+          <string>vstem 60 36</string>
+          <string>vstem 239 62</string>
+          <string>vstem 363 44</string>
+          <string>vstem 450 82</string>
         </array>
       </dict>
     </array>

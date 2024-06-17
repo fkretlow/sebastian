@@ -117,6 +117,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Wood xylophone stick right</string>
+  <key>_name</key>
+  <string>pictBeaterWoodXylophoneRight</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -173,18 +177,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>292ba9acbb55d89b8396bf80172010fe1252deef953fdfccd524930ebe327993c92be2240dff489b0c48a58557924593dcbd6f72507842177ec76462091942fd</string>
+    <string>def8851c3be3d98b4fbefa4de15f27723b1b3e45138b623d229e8c8a997813df9f616f114dcd11b4110ea40f8976e9a3f2a57957ee2b92236effbb2a76b181f3</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 18 -21</string>
-          <string>hstem 273 32.85</string>
-          <string>hstem 327.09 27.96</string>
-          <string>hstem 376.9 28.19</string>
-          <string>hstem 426.95 27.96</string>
-          <string>hstem 476.15 32.85</string>
+          <string>hstem 273 32</string>
+          <string>hstem 327 27</string>
+          <string>hstem 376 28</string>
+          <string>hstem 426 27</string>
+          <string>hstem 476 32</string>
           <string>vstem 345 236</string>
         </array>
       </dict>

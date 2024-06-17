@@ -51,6 +51,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering 5 italic (little finger)</string>
+  <key>_name</key>
+  <string>fingering5Italic</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -107,10 +111,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -4 86.36</string>
-          <string>hstem -4 153.68</string>
-          <string>vstem 0 55.08</string>
-          <string>vstem 124.44 40.8</string>
+          <string>hstem -4 86</string>
+          <string>hstem -4 153</string>
+          <string>vstem 0 55</string>
+          <string>vstem 124 40</string>
         </array>
       </dict>
     </array>

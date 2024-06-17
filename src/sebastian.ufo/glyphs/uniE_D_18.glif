@@ -35,6 +35,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering t (right-hand thumb for guitar)</string>
+  <key>_name</key>
+  <string>fingeringTLower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -46,8 +50,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -7.81 23.63</string>
-          <string>hstem -7.81 246.</string>
+          <string>hstem -7 23</string>
+          <string>hstem -7 246</string>
         </array>
       </dict>
     </array>

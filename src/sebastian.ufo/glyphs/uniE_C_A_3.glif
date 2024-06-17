@@ -52,6 +52,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Half note (minim) stem up</string>
+  <key>_name</key>
+  <string>metNoteHalfUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -102,9 +106,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -12.8 31.2</string>
+          <string>hstem -12 31</string>
           <string>hstem 700 -20</string>
-          <string>vstem 262.4 20.8</string>
+          <string>vstem 262 20</string>
         </array>
       </dict>
     </array>

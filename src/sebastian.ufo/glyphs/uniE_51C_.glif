@@ -204,6 +204,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Ottava bassa (8vb)</string>
+  <key>_name</key>
+  <string>ottavaBassaVb</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -314,7 +318,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>351134a6ea1fcb53cbd3f62ccaad95122175f2bbacdd5ab0ac7c534a25fb1d3951c117cd337b73b8d7645ecce88e60984adcb2a3d6564589fd30cf7aaf2c7463</string>
+    <string>91fdf292c5d0924a7085d1ff3f6ef5b536fbd549a5615418465f846e99680037305d400521f9e2de80669f642a6070a3fca566cbabbb6e1555b49e25c3169eba</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -325,13 +329,13 @@
           <string>vstem -10 66</string>
           <string>vstem 72 93</string>
           <string>vstem 271 87</string>
-          <string>vstem 271 200.35</string>
+          <string>vstem 271 200</string>
           <string>vstem 360 55</string>
-          <string>vstem 405.7 35.84</string>
-          <string>vstem 504.82 51.25</string>
-          <string>vstem 535.16 20.91</string>
-          <string>vstem 573.1 28.29</string>
-          <string>vstem 702.24 34.44</string>
+          <string>vstem 405 35</string>
+          <string>vstem 504 51</string>
+          <string>vstem 535 20</string>
+          <string>vstem 573 28</string>
+          <string>vstem 702 34</string>
         </array>
       </dict>
     </array>

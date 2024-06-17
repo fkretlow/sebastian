@@ -64,6 +64,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering 3 italic (middle finger)</string>
+  <key>_name</key>
+  <string>fingering3Italic</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -120,19 +124,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fcf0c79f7941f49e88dc088c18593808827a0903d0bd0a705cfbbd1f56091ff4bd81e96aa9403577e83cb558c2b845666d53fe050ddfc479134be42fab04cc4b</string>
+    <string>404c716e47bac06ea2faf160e5dad218f400d20840b51c1614f1f1cffbf8662d8c197fead754b447ff33045013d4c955417f9763582ee9b7ce629a345a3e3f0e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -4 139.12</string>
-          <string>hstem -4 88.77</string>
-          <string>hstem 180.84 68.9</string>
-          <string>vstem 0 53.66</string>
-          <string>vstem 62.28 45.05</string>
-          <string>vstem 118.59 41.07</string>
-          <string>vstem 156.35 39.75</string>
+          <string>hstem -4 139</string>
+          <string>hstem -4 88</string>
+          <string>hstem 180 68</string>
+          <string>vstem 0 53</string>
+          <string>vstem 62 45</string>
+          <string>vstem 118 41</string>
+          <string>vstem 156 39</string>
         </array>
       </dict>
     </array>

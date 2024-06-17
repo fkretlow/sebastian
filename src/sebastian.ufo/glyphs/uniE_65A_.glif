@@ -80,6 +80,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Pedal S</string>
+  <key>_name</key>
+  <string>keyboardPedalS</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -136,23 +140,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c8bdd8eefed9270f021fd46801f95cfe2c09aced2a35383b329aa26848574f2624bf3ea4513c3e889d3daea55058862ceb5b4f130c57e458791e28c4ec6842ab</string>
+    <string>802916294ffae9b5e81f7af3d89dae0dcbd0696ff53f137901f83d960955500ea9f25301cf361ec46933e609b0df005167081a57eaaf7796ac34217ccf76bef5</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10.17 93.64</string>
+          <string>hstem -10 93</string>
           <string>hstem 6 -21</string>
-          <string>hstem 77.67 83.02</string>
-          <string>hstem 217.65 90.74</string>
-          <string>hstem 261.09 86.88</string>
-          <string>hstem 407.82 82.05</string>
-          <string>hstem 461.88 68.54</string>
-          <string>hstem 544.9 25.1</string>
-          <string>vstem 23.6 36.39</string>
-          <string>vstem 356.98 27.54</string>
-          <string>vstem 374.68 37.37</string>
+          <string>hstem 77 83</string>
+          <string>hstem 217 90</string>
+          <string>hstem 261 86</string>
+          <string>hstem 407 82</string>
+          <string>hstem 461 68</string>
+          <string>hstem 544 25</string>
+          <string>vstem 23 36</string>
+          <string>vstem 356 27</string>
+          <string>vstem 374 37</string>
         </array>
       </dict>
     </array>

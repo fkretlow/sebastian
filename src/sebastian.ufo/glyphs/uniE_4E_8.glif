@@ -113,6 +113,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>32nd (demisemiquaver) rest</string>
+  <key>_name</key>
+  <string>rest32nd</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -175,18 +179,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ace3e8e2c76abf4f04cb0449cd35b7c86f539f2aaa2c92451e29a8f3e43deafff80e1b0a8d7c30775615b03ba8f9c2ea55a0376d856828539cfbfe5f13c64a09</string>
+    <string>ba66600c7d769ff0194997bab126d84ce7fc248c1a2a41f4c42b2443b7d44d3ca8d6d7f7161be8d2d30f0e0742b7e4eecc4efc09e82cd7c14c80cd8b6e54e64b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -190.95 149.87</string>
-          <string>hstem 55.54 149.9</string>
-          <string>hstem 302.14 149.9</string>
-          <string>vstem -0.24 136.65</string>
-          <string>vstem 50.44 136.65</string>
-          <string>vstem 100.12 136.65</string>
+          <string>hstem -190 149</string>
+          <string>hstem 55 149</string>
+          <string>hstem 302 149</string>
+          <string>vstem 0 136</string>
+          <string>vstem 50 136</string>
+          <string>vstem 100 136</string>
         </array>
       </dict>
     </array>

@@ -114,6 +114,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>C clef</string>
+  <key>_name</key>
+  <string>cClef</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -206,7 +210,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>499b3b8c009a5907b6c1f41d8e93eef43f1781746ceb56c5d77060e500d70e93f8d2104b1ecb0d3a8be1ca9902cec1f5d7940af67e1a82fd6afb7845e6a9460e</string>
+    <string>0b6c52953288557e10bef53a71c0286e2b1876d4354a9dc83fcd59f044b1223a8b8cc8f3024b51b892b5317aed94708793781796abab9e75412dabe38ae4f01a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -220,9 +224,9 @@
           <string>hstem 479 28</string>
           <string>vstem 0 114</string>
           <string>vstem 177 33</string>
-          <string>vstem 268.55 158.63</string>
-          <string>vstem 268.55 116.14</string>
-          <string>vstem 556.53 110.47</string>
+          <string>vstem 268 158</string>
+          <string>vstem 268 116</string>
+          <string>vstem 556 110</string>
         </array>
       </dict>
     </array>

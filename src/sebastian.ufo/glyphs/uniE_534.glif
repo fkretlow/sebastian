@@ -192,6 +192,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Forte-piano</string>
+  <key>_name</key>
+  <string>dynamicFortePiano</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -296,25 +300,25 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4893709dbe8319b205aeac57b6724558049c34034105d5bc9034612e78f9cd14ea68e152ab1aa722a3674b331241880ccdb0d7debc874792af398570af358d8d</string>
+    <string>29db598fdca3382ee3da475ba51ba73efbf8276a09d7fd137854ff9fe415e44baee1df934d5d14a94c18f260e765e17f3b5580010c41b1a1bb15483f6e9333e0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -172.24 128.8</string>
-          <string>hstem -172.24 27.6</string>
-          <string>hstem -163.04 28.52</string>
-          <string>hstem -23.2 246.56</string>
-          <string>hstem -23.2 29.44</string>
-          <string>hstem 196.68 57.04</string>
-          <string>hstem 207.72 31.28</string>
-          <string>hstem 222.44 31.28</string>
-          <string>hstem 271.2 128.8</string>
-          <string>hstem 372.4 27.6</string>
-          <string>vstem -98.4 88.32</string>
-          <string>vstem 295.36 88.32</string>
-          <string>vstem 586.08 77.28</string>
+          <string>hstem -172 128</string>
+          <string>hstem -172 27</string>
+          <string>hstem -163 28</string>
+          <string>hstem -23 246</string>
+          <string>hstem -23 29</string>
+          <string>hstem 196 57</string>
+          <string>hstem 207 31</string>
+          <string>hstem 222 31</string>
+          <string>hstem 271 128</string>
+          <string>hstem 372 27</string>
+          <string>vstem -98 88</string>
+          <string>vstem 295 88</string>
+          <string>vstem 586 77</string>
         </array>
       </dict>
     </array>

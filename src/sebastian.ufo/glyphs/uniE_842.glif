@@ -18,7 +18,7 @@
       <point x="16" y="56" type="curve" smooth="yes"/>
       <point x="19" y="56"/>
       <point x="22" y="57"/>
-      <point x="24" y="58" type="curve" smooth="yes"/>
+      <point x="24" y="58" type="curve"/>
       <point x="119" y="113" type="line"/>
       <point x="119" y="16" type="line" smooth="yes"/>
       <point x="119" y="7"/>
@@ -28,13 +28,13 @@
       <point x="151" y="7"/>
       <point x="151" y="16" type="curve" smooth="yes"/>
       <point x="151" y="113" type="line"/>
-      <point x="246" y="58" type="line" smooth="yes"/>
+      <point x="246" y="58" type="line"/>
       <point x="248" y="57"/>
       <point x="251" y="56"/>
       <point x="254" y="56" type="curve" smooth="yes"/>
       <point x="259" y="56"/>
       <point x="265" y="59"/>
-      <point x="268" y="64" type="curve" smooth="yes"/>
+      <point x="268" y="64" type="curve"/>
       <point x="269" y="67"/>
       <point x="270" y="69"/>
       <point x="270" y="72" type="curve" smooth="yes"/>
@@ -48,13 +48,13 @@
       <point x="270" y="210" type="curve" smooth="yes"/>
       <point x="270" y="213"/>
       <point x="269" y="215"/>
-      <point x="268" y="218" type="curve" smooth="yes"/>
+      <point x="268" y="218" type="curve"/>
       <point x="265" y="223"/>
       <point x="259" y="225"/>
       <point x="254" y="225" type="curve" smooth="yes"/>
       <point x="251" y="225"/>
       <point x="249" y="225"/>
-      <point x="246" y="223" type="curve" smooth="yes"/>
+      <point x="246" y="223" type="curve"/>
       <point x="151" y="169" type="line"/>
       <point x="151" y="266" type="line" smooth="yes"/>
       <point x="151" y="275"/>
@@ -74,6 +74,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Golpe (tapping the pick guard)</string>
+  <key>_name</key>
+  <string>guitarGolpe</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

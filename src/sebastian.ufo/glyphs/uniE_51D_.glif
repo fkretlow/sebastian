@@ -343,6 +343,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Quindicesima bassa (mb)</string>
+  <key>_name</key>
+  <string>quindicesimaBassaMb</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -483,21 +487,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>87092566572389aa7a6e1432f62182613054d3a5b025cd49736a950cea13fb29ceccc23efed9136b19c6518d0104592870aa119c2d04f807df2f3163408c4799</string>
+    <string>229d70f19a814148b2d7dbb91fa9c5e7b5af5d10a21fae5397e504e13fa2bfc01b1194d82e27ce184f7c1c378c79b9c2c2c3b96394a2c7a2891096061e3e08c4</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -3.9 32</string>
-          <string>hstem 410.1 -20</string>
-          <string>vstem 231.97 74</string>
-          <string>vstem 231.97 94</string>
-          <string>vstem 436.97 174.16</string>
-          <string>vstem 436.97 69</string>
-          <string>vstem 728.77 127.73</string>
-          <string>vstem 828.21 28.29</string>
-          <string>vstem 957.36 34.44</string>
+          <string>hstem -3 32</string>
+          <string>hstem 410 -20</string>
+          <string>vstem 231 74</string>
+          <string>vstem 231 94</string>
+          <string>vstem 436 174</string>
+          <string>vstem 436 69</string>
+          <string>vstem 728 127</string>
+          <string>vstem 828 28</string>
+          <string>vstem 957 34</string>
         </array>
       </dict>
     </array>

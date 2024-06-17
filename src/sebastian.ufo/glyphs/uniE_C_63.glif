@@ -46,6 +46,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Left-pointing arrow for metric modulation</string>
+  <key>_name</key>
+  <string>metricModulationArrowLeft</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -75,15 +79,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>88dc566bcd35f5fcb2722a1e5ac1bf677f0d057b3615544e6a071398a40886dc3088480372681bfb23418d73c5cd82c7faada6750379af2726d829a5a938f2c5</string>
+    <string>a839f751e3531d1c11ef34d3690124f23b0752b1e2d6ac906cc006c24cf4c25c5ef6385f00bc5fc60271bf476a759734c6056156fb7c19dbdd31ed2f62f518ff</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 71.4 -21</string>
+          <string>hstem 71 -21</string>
           <string>hstem 130 40</string>
-          <string>hstem 249.6 -20</string>
+          <string>hstem 249 -20</string>
         </array>
       </dict>
     </array>

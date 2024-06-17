@@ -259,7 +259,7 @@
       <point x="349.602" y="1339.34"/>
       <point x="349.602" y="1340.25"/>
       <point x="347.439" y="1339.01" type="curve"/>
-      <point x="347.439" y="1339.01" type="line" smooth="yes"/>
+      <point x="347.439" y="1339.01" type="line"/>
       <point x="343.792" y="1336.54"/>
       <point x="338.301" y="1331.47"/>
       <point x="332.238" y="1325.88" type="curve" smooth="yes"/>
@@ -308,6 +308,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>G clef quindicesima alta</string>
+  <key>_name</key>
+  <string>gClef15ma</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -430,30 +434,30 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ac3af57a40ef4e99049b1a5fe1c94cd5b5b21a10a76eb0f8cb329a95f768170d3498755b24f94e55dcc0a5cc4bea9b5a59258337b657f1394f95aed20dca4278</string>
+    <string>6ec7622048f69659a37f6df6df7c4af0d8a08a5e677bbc3b14ccaafa20f52579ba2044ba520b9e655d53955b25c5d45d552824ffa7d196096bfaaaa8247f6a19</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -645.31 40.83</string>
-          <string>hstem -244.43 38.11</string>
-          <string>hstem 135.54 127.89</string>
-          <string>hstem 1160 19.94</string>
-          <string>hstem 1160 86.31</string>
-          <string>hstem 1160 238.78</string>
-          <string>hstem 1160 246.91</string>
-          <string>hstem 1298.12 19.95</string>
-          <string>hstem 1410.44 -20</string>
-          <string>vstem 0.62 72.57</string>
-          <string>vstem 103.09 224.93</string>
-          <string>vstem 172.01 71.67</string>
-          <string>vstem 226.42 52.62</string>
-          <string>vstem 400.24 164.64</string>
-          <string>vstem 463.11 40.83</string>
-          <string>vstem 490.29 43.55</string>
-          <string>vstem 522.81 42.07</string>
-          <string>vstem 575.56 78.01</string>
+          <string>hstem -645 40</string>
+          <string>hstem -244 38</string>
+          <string>hstem 135 127</string>
+          <string>hstem 1160 19</string>
+          <string>hstem 1160 86</string>
+          <string>hstem 1160 238</string>
+          <string>hstem 1160 246</string>
+          <string>hstem 1298 19</string>
+          <string>hstem 1410 -20</string>
+          <string>vstem 0 72</string>
+          <string>vstem 103 224</string>
+          <string>vstem 172 71</string>
+          <string>vstem 226 52</string>
+          <string>vstem 400 164</string>
+          <string>vstem 463 40</string>
+          <string>vstem 490 43</string>
+          <string>vstem 522 42</string>
+          <string>vstem 575 78</string>
         </array>
       </dict>
     </array>

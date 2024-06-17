@@ -182,6 +182,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>C clef ottava bassa</string>
+  <key>_name</key>
+  <string>cClef8vb</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -316,25 +320,25 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -750 20.15</string>
-          <string>hstem -750 147.85</string>
-          <string>hstem -636.55 157.55</string>
-          <string>hstem -518.85 39.85</string>
-          <string>hstem -506.42 215.42</string>
-          <string>hstem -506.42 27.42</string>
+          <string>hstem -750 20</string>
+          <string>hstem -750 147</string>
+          <string>hstem -636 157</string>
+          <string>hstem -518 39</string>
+          <string>hstem -506 215</string>
+          <string>hstem -506 27</string>
           <string>hstem -85 32</string>
           <string>hstem 53 32</string>
           <string>hstem 291 216</string>
           <string>hstem 479 28</string>
           <string>vstem 0 114</string>
           <string>vstem 177 33</string>
-          <string>vstem 268.55 158.6</string>
-          <string>vstem 268.55 116.15</string>
-          <string>vstem 350.4 22.9</string>
-          <string>vstem 382.55 34.25</string>
-          <string>vstem 471.85 36.35</string>
-          <string>vstem 503.3 22.4</string>
-          <string>vstem 556.55 110.45</string>
+          <string>vstem 268 158</string>
+          <string>vstem 268 116</string>
+          <string>vstem 350 22</string>
+          <string>vstem 382 34</string>
+          <string>vstem 471 36</string>
+          <string>vstem 503 22</string>
+          <string>vstem 556 110</string>
         </array>
       </dict>
     </array>

@@ -6,50 +6,54 @@
   <anchor x="300" y="53" name="stemUpSE"/>
   <outline>
     <contour>
-      <point x="-36.0731" y="0" type="curve" smooth="yes"/>
-      <point x="-36.0731" y="-101.486"/>
-      <point x="45.4231" y="-185.289"/>
-      <point x="149.984" y="-185.289" type="curve" smooth="yes"/>
-      <point x="251.47" y="-185.289"/>
-      <point x="336.042" y="-103.792"/>
-      <point x="336.042" y="0" type="curve" smooth="yes"/>
-      <point x="336.042" y="101.486"/>
-      <point x="254.546" y="185.289"/>
-      <point x="149.984" y="185.289" type="curve" smooth="yes"/>
-      <point x="48.4985" y="185.289"/>
-      <point x="-36.0731" y="103.792"/>
+      <point x="-36" y="0" type="curve" smooth="yes"/>
+      <point x="-36" y="-101"/>
+      <point x="45" y="-185"/>
+      <point x="150" y="-185" type="curve" smooth="yes"/>
+      <point x="251" y="-185"/>
+      <point x="336" y="-104"/>
+      <point x="336" y="0" type="curve" smooth="yes"/>
+      <point x="336" y="101"/>
+      <point x="255" y="185"/>
+      <point x="150" y="185" type="curve" smooth="yes"/>
+      <point x="48" y="185"/>
+      <point x="-36" y="104"/>
     </contour>
     <contour>
-      <point x="-60.6757" y="0" type="curve" smooth="yes"/>
-      <point x="-60.6757" y="118.4"/>
-      <point x="35.429" y="209.891"/>
-      <point x="149.985" y="209.891" type="curve" smooth="yes"/>
-      <point x="267.616" y="209.891"/>
-      <point x="360.645" y="114.556"/>
-      <point x="360.645" y="0" type="curve" smooth="yes"/>
-      <point x="360.645" y="-118.4"/>
-      <point x="264.541" y="-209.891"/>
-      <point x="149.985" y="-209.891" type="curve" smooth="yes"/>
-      <point x="32.3537" y="-209.891"/>
-      <point x="-60.6757" y="-114.556"/>
+      <point x="-61" y="0" type="curve" smooth="yes"/>
+      <point x="-61" y="118"/>
+      <point x="35" y="210"/>
+      <point x="150" y="210" type="curve" smooth="yes"/>
+      <point x="268" y="210"/>
+      <point x="361" y="115"/>
+      <point x="361" y="0" type="curve" smooth="yes"/>
+      <point x="361" y="-118"/>
+      <point x="265" y="-210"/>
+      <point x="150" y="-210" type="curve" smooth="yes"/>
+      <point x="32" y="-210"/>
+      <point x="-61" y="-115"/>
     </contour>
     <contour>
-      <point x="0" y="-37.2175" type="curve" smooth="yes"/>
-      <point x="0" y="58.3419"/>
-      <point x="107.559" y="129.76"/>
-      <point x="194.361" y="129.76" type="curve" smooth="yes"/>
-      <point x="259.463" y="129.76"/>
-      <point x="300.033" y="91.5362"/>
-      <point x="300.033" y="38.2241" type="curve" smooth="yes"/>
-      <point x="300.033" y="-53.3117"/>
-      <point x="194.361" y="-129.76"/>
-      <point x="104.729" y="-129.76" type="curve" smooth="yes"/>
-      <point x="40.5705" y="-129.76"/>
-      <point x="0" y="-90.5299"/>
+      <point x="0" y="-37" type="curve" smooth="yes"/>
+      <point x="0" y="58"/>
+      <point x="108" y="130"/>
+      <point x="194" y="130" type="curve" smooth="yes"/>
+      <point x="259" y="130"/>
+      <point x="300" y="92"/>
+      <point x="300" y="38" type="curve" smooth="yes"/>
+      <point x="300" y="-53"/>
+      <point x="194" y="-130"/>
+      <point x="105" y="-130" type="curve" smooth="yes"/>
+      <point x="41" y="-130"/>
+      <point x="0" y="-91"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Black notehead in large circle</string>
+  <key>_name</key>
+  <string>noteheadCircledBlackLarge</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -94,16 +98,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>207e76056aa69281bf7c6b5527753a51c4c068e646c866d8ef6ad35c97dcc9e3d595161788cf7cfece2cf8d6e76eabd37a8d98052583bb6ca7da5aaa04038c62</string>
+    <string>1feec1e5ff62364dcc9d0e644163068fa91c1a80da1f336eaaeebdc7c18f04468dddeca64c52de3eeb8c2dab285f438f3c90569c29c73e4bd5dff3955eb3c200</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -209.89 24.6</string>
-          <string>hstem 185.29 24.6</string>
-          <string>vstem -60.68 24.6</string>
-          <string>vstem 336.04 24.6</string>
+          <string>hstem -209 24</string>
+          <string>hstem 185 24</string>
+          <string>vstem -60 24</string>
+          <string>vstem 336 24</string>
         </array>
       </dict>
     </array>

@@ -6,22 +6,26 @@
   <anchor x="4" y="127" name="stemDownNW"/>
   <outline>
     <contour>
-      <point x="306.75" y="130.25" type="line"/>
-      <point x="306.75" y="-123.25" type="line" smooth="yes"/>
-      <point x="306.75" y="-129.25"/>
-      <point x="304.5" y="-130"/>
-      <point x="300.75" y="-126.25" type="curve"/>
-      <point x="3.75" y="122" type="line"/>
-      <point x="0.75" y="124.25"/>
-      <point x="0" y="126.5"/>
-      <point x="0" y="127.25" type="curve"/>
-      <point x="0" y="129.5"/>
-      <point x="2.25" y="130.25"/>
-      <point x="8.25" y="130.25" type="curve" smooth="yes"/>
+      <point x="307" y="130" type="line"/>
+      <point x="307" y="-123" type="line" smooth="yes"/>
+      <point x="307" y="-129"/>
+      <point x="305" y="-130"/>
+      <point x="301" y="-126" type="curve"/>
+      <point x="4" y="122" type="line"/>
+      <point x="1" y="124"/>
+      <point x="0" y="127"/>
+      <point x="0" y="127" type="curve"/>
+      <point x="0" y="130"/>
+      <point x="2" y="130"/>
+      <point x="8" y="130" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Triangle notehead up right black</string>
+  <key>_name</key>
+  <string>noteheadTriangleUpRightBlack</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -48,13 +52,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6e3725af7d170c6a0bc2915bc0a6f65084bbfdbd722896422d5116a10c729c5eacfcd456915b3d87a1a032f1226533d53f6134bd6673ca324cac96875661ba3f</string>
+    <string>w307m307,130l307,-123c307,-129 305,-130 301,-126l4,122c1,124 0,127 0,127c0,130 2,130 8,130</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 130.25 -20</string>
+          <string>hstem 130 -20</string>
         </array>
       </dict>
     </array>

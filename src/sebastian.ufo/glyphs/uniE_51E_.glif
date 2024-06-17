@@ -305,29 +305,33 @@
   <guideline angle="0" x="0" y="410"/>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Ventiduesima bassa (mb)</string>
+  <key>_name</key>
+  <string>ventiduesimaBassaMb</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9bba902f922bead6425f680e65e97030a381c814005521a2523527003e70753c56cf63760b2a996d6656ebf1ef2084b6701f5eb80e2e7215ce2bd23ec9bd8c58</string>
+    <string>59dc96959cd9a12dba371c57ed5116952e4f13f680e1d613e8c0e2e7d9e7c7161dae4d84ac6135efc427551d14fd178641c84c7b1d9a52b333bd49348d4c3de5</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -11.78 66.94</string>
-          <string>hstem -2.95 194.33</string>
-          <string>hstem 1.97 189.41</string>
-          <string>hstem 174 99.5</string>
-          <string>hstem 376.35 33.77</string>
-          <string>vstem 95.81 97.78</string>
-          <string>vstem 272.7 71.01</string>
-          <string>vstem 412.81 97.78</string>
-          <string>vstem 589.7 71.01</string>
-          <string>vstem 848.77 127.73</string>
-          <string>vstem 948.21 28.29</string>
-          <string>vstem 1077.36 34.44</string>
+          <string>hstem -11 66</string>
+          <string>hstem -2 194</string>
+          <string>hstem 1 189</string>
+          <string>hstem 174 99</string>
+          <string>hstem 376 33</string>
+          <string>vstem 95 97</string>
+          <string>vstem 272 71</string>
+          <string>vstem 412 97</string>
+          <string>vstem 589 71</string>
+          <string>vstem 848 127</string>
+          <string>vstem 948 28</string>
+          <string>vstem 1077 34</string>
         </array>
       </dict>
     </array>

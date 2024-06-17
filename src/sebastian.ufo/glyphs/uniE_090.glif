@@ -24,6 +24,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature minus</string>
+  <key>_name</key>
+  <string>timeSigMinus</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -35,7 +39,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -24.5 50</string>
+          <string>hstem -24 50</string>
         </array>
       </dict>
     </array>

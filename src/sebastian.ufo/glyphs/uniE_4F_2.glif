@@ -57,6 +57,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Old-style quarter (crotchet) rest</string>
+  <key>_name</key>
+  <string>restQuarterOld</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -89,15 +93,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2adc022e97583ba44ee66b39c1fd176cda2f3fd35372502e6536d27cfd7938715745d6e339d750888e5d06c0608f543da7aecb522a789718eac90e05df89e2cf</string>
+    <string>65c98f635764cd5b7760f7e963014bd6564578a7f9e257c05078cba039fb9dade6789a1961225504361e3919a4543f7383c91d08dbec8d991def9cb924852955</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -234.23 -21</string>
-          <string>hstem 55.52 149.96</string>
-          <string>vstem 141.91 136.65</string>
+          <string>hstem -234 -21</string>
+          <string>hstem 55 149</string>
+          <string>vstem 141 136</string>
         </array>
       </dict>
     </array>

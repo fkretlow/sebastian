@@ -90,6 +90,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Piano</string>
+  <key>_name</key>
+  <string>dynamicPiano</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -164,12 +168,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -162.76 28.52</string>
-          <string>hstem -22.92 29.44</string>
-          <string>hstem -22.92 246.56</string>
-          <string>hstem 196.96 57.04</string>
-          <string>hstem 222.72 31.28</string>
-          <string>vstem 299.24 77.28</string>
+          <string>hstem -162 28</string>
+          <string>hstem -22 29</string>
+          <string>hstem -22 246</string>
+          <string>hstem 196 57</string>
+          <string>hstem 222 31</string>
+          <string>vstem 299 77</string>
         </array>
       </dict>
     </array>

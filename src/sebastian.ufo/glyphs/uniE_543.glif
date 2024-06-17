@@ -44,6 +44,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Right parenthesis (for hairpins)</string>
+  <key>_name</key>
+  <string>dynamicHairpinParenthesisRight</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -76,15 +80,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4b5227056884a47874a5c347047239b4e2e0df360419b1968e1644b2e7634849caf7da6a339ee0ca71fbb9c25e1a46ce1b77d401b3a53126e690ca361de083e1</string>
+    <string>351f0eec3dbe62d815f3f983375cb1b02d48a62de635c0f6900d1167155b34c134d1f6ac43bc009cd07444582e8a717bdf4c645d762077ee1be7060f49ac9f46</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -246.2 -21</string>
-          <string>hstem 432.69 -20</string>
-          <string>vstem 121.01 32.25</string>
+          <string>hstem -246 -21</string>
+          <string>hstem 432 -20</string>
+          <string>vstem 121 32</string>
         </array>
       </dict>
     </array>

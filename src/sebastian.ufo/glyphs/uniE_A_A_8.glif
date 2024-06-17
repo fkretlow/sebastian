@@ -16,9 +16,9 @@
       <point x="-24" y="154"/>
       <point x="-24" y="158" type="curve" smooth="yes"/>
       <point x="-24" y="165"/>
-      <point x="-14.0495" y="179.058"/>
+      <point x="-14" y="179"/>
       <point x="0" y="191" type="curve" smooth="yes"/>
-      <point x="25.9507" y="213.058"/>
+      <point x="26" y="213"/>
       <point x="65" y="245"/>
       <point x="99" y="245" type="curve" smooth="yes"/>
       <point x="180" y="245"/>
@@ -34,9 +34,9 @@
       <point x="384" y="194"/>
       <point x="384" y="190" type="curve" smooth="yes"/>
       <point x="384" y="183"/>
-      <point x="374.049" y="168.942"/>
+      <point x="374" y="169"/>
       <point x="360" y="157" type="curve" smooth="yes"/>
-      <point x="334.049" y="134.942"/>
+      <point x="334" y="135"/>
       <point x="294" y="103"/>
       <point x="260" y="103" type="curve" smooth="yes"/>
       <point x="179" y="103"/>
@@ -45,6 +45,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Trill wiggle segment, slowest</string>
+  <key>_name</key>
+  <string>wiggleTrillSlowest</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -80,7 +84,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>617b4220f8c3021a1c77b3062f2c63027b546dfecc163d1ad23d46f46cdd1e94fdbd66c2271e8aa7cb1a9c8d9dae6871d992e3472221770695c01f454be35f95</string>
+    <string>332c3c85cb8a6b4af4c72d1db0b2d9e781b49b1babb1825bd5fc8523874bd65593f33525c7bcd251fb3f8e2e2385c9fc5bf6f6eb267d274ce276d722ae30c4e8</string>
     <key>hintSetList</key>
     <array>
       <dict>

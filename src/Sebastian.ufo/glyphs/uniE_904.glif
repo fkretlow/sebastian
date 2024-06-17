@@ -88,21 +88,21 @@
       <point x="410" y="-291"/>
       <point x="419" y="-281"/>
       <point x="425" y="-271" type="curve" smooth="yes"/>
-      <point x="512" y="-121" type="line" smooth="yes"/>
+      <point x="512" y="-121" type="line"/>
       <point x="515" y="-117"/>
       <point x="517" y="-110"/>
       <point x="517" y="-104" type="curve"/>
       <point x="517" y="-102"/>
       <point x="517" y="-100"/>
-      <point x="516" y="-98" type="curve" smooth="yes"/>
+      <point x="516" y="-98" type="curve"/>
       <point x="448" y="19" type="line"/>
-      <point x="512" y="129" type="line" smooth="yes"/>
+      <point x="512" y="129" type="line"/>
       <point x="515" y="133"/>
       <point x="517" y="140"/>
       <point x="517" y="146" type="curve"/>
       <point x="517" y="148"/>
       <point x="517" y="150"/>
-      <point x="516" y="152" type="curve" smooth="yes"/>
+      <point x="516" y="152" type="curve"/>
       <point x="435" y="292" type="line"/>
       <point x="435" y="615" type="line" smooth="yes"/>
       <point x="435" y="622"/>
@@ -118,12 +118,12 @@
       <point x="288" y="121" type="line" smooth="yes"/>
       <point x="285" y="116"/>
       <point x="281" y="104"/>
-      <point x="284" y="98" type="curve" smooth="yes"/>
+      <point x="284" y="98" type="curve"/>
       <point x="352" y="-19" type="line"/>
       <point x="288" y="-129" type="line" smooth="yes"/>
       <point x="285" y="-134"/>
       <point x="281" y="-146"/>
-      <point x="284" y="-152" type="curve" smooth="yes"/>
+      <point x="284" y="-152" type="curve"/>
       <point x="365" y="-292" type="line"/>
       <point x="365" y="-1115" type="line" smooth="yes"/>
       <point x="365" y="-1122"/>
@@ -135,6 +135,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Petrucci F clef</string>
+  <key>_name</key>
+  <string>mensuralFclefPetrucci</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

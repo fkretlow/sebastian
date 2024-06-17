@@ -52,26 +52,30 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Very long fermata below</string>
+  <key>_name</key>
+  <string>fermataVeryLongBelow</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a5153e7f0bf363b8eb4a9b59b46dec409921a5d2411d93537d57f48ea56f4782b4fe0a16fbec79ef18da4b5335df48d621335cb2db612e04e6b9a995fbcbefe7</string>
+    <string>e549f46abe3e5084b45b107e048c9f1c86331a7d2d139a306dbaeccb6497007a894471f22a9771ab75041b76553c645edd71feaca61740fbe52cf7b55f88e154</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -409.77 101.15</string>
-          <string>hstem -254.96 91.87</string>
-          <string>hstem -117.07 117.3</string>
-          <string>hstem 2.15 -20</string>
-          <string>vstem 7.83 28.</string>
-          <string>vstem 90.08 20.2</string>
-          <string>vstem 255.83 117.3</string>
-          <string>vstem 526.44 20.16</string>
-          <string>vstem 613.83 28</string>
+          <string>hstem -409 101</string>
+          <string>hstem -254 91</string>
+          <string>hstem -117 117</string>
+          <string>hstem 2 -20</string>
+          <string>vstem 7 28</string>
+          <string>vstem 90 20</string>
+          <string>vstem 255 117</string>
+          <string>vstem 526 20</string>
+          <string>vstem 613 28</string>
         </array>
       </dict>
     </array>

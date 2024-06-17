@@ -66,6 +66,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass 8</string>
+  <key>_name</key>
+  <string>figbass8</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -124,10 +128,10 @@
         <array>
           <string>hstem 17 -21</string>
           <string>hstem 281 -20</string>
-          <string>vstem 20 33.6</string>
-          <string>vstem 31.52 42.24</string>
-          <string>vstem 167.88 30.68</string>
-          <string>vstem 167.88 44.12</string>
+          <string>vstem 20 33</string>
+          <string>vstem 31 42</string>
+          <string>vstem 167 30</string>
+          <string>vstem 167 44</string>
         </array>
       </dict>
     </array>

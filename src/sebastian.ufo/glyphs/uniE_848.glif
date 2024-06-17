@@ -40,20 +40,24 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Full barré</string>
+  <key>_name</key>
+  <string>guitarBarreFull</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>50d2f143fac641c9e1ca9c6ce5e61f659bd8297f6a3cdd77fbd2f86a05c23c8f222afabb52f6d998d5b8007931136297f5025d91b88b1f878f7c9877cd462a09</string>
+    <string>e7a83380deb3893b48f59bdafc74f47dd6a7a42342ed656c162ac63de1ad1d2bead9a82d0a2c27bc346c727ccc7c6b15754db179e276fa04f0d637b70a2f09b2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -12 29.77</string>
-          <string>hstem 461.45 25.52</string>
-          <string>vstem 0 82.92</string>
+          <string>hstem -12 29</string>
+          <string>hstem 461 25</string>
+          <string>vstem 0 82</string>
         </array>
       </dict>
     </array>

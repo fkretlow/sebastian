@@ -38,6 +38,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass (</string>
+  <key>_name</key>
+  <string>figbassParensLeft</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -63,7 +67,7 @@
         <array>
           <string>hstem -34 -21</string>
           <string>hstem 335 -20</string>
-          <string>vstem 1.5 30</string>
+          <string>vstem 1 30</string>
         </array>
       </dict>
     </array>

@@ -188,29 +188,33 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>256th rest</string>
+  <key>_name</key>
+  <string>rest256th</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>eb6b27c7a6cab07a3b9cc61cd497d119961608c9446549091d8d9a85e5131c95b13929ce440bbf8222a636c86b2cc8ce805c7250a0a75913182dc77ad73b6709</string>
+    <string>f56ea1721018b89fbb7b362f6f625964d624bcd4c5f6bf0071d51289b0b584166399407c398dc04ef2264b5ebcd6ecf034d2222cd83490d5a74a7e540de75b18</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -691.58 149.87</string>
-          <string>hstem -445.09 149.9</string>
-          <string>hstem -198.49 149.9</string>
-          <string>hstem 47.77 150.16</string>
-          <string>hstem 294.26 150.28</string>
-          <string>hstem 540.87 149.9</string>
-          <string>vstem 0 136.65</string>
-          <string>vstem 50.68 136.65</string>
-          <string>vstem 100.36 136.65</string>
-          <string>vstem 150.76 136.94</string>
-          <string>vstem 200.72 137.19</string>
-          <string>vstem 250.94 136.65</string>
+          <string>hstem -691 149</string>
+          <string>hstem -445 149</string>
+          <string>hstem -198 149</string>
+          <string>hstem 47 150</string>
+          <string>hstem 294 150</string>
+          <string>hstem 540 149</string>
+          <string>vstem 0 136</string>
+          <string>vstem 50 136</string>
+          <string>vstem 100 136</string>
+          <string>vstem 150 136</string>
+          <string>vstem 200 137</string>
+          <string>vstem 250 136</string>
         </array>
       </dict>
     </array>

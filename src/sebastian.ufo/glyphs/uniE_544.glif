@@ -22,6 +22,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Left bracket (for hairpins)</string>
+  <key>_name</key>
+  <string>dynamicHairpinBracketLeft</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -33,9 +37,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -205.83 -21</string>
-          <string>hstem 392.76 -20</string>
-          <string>vstem 0.11 37.6</string>
+          <string>hstem -205 -21</string>
+          <string>hstem 392 -20</string>
+          <string>vstem 0 37</string>
         </array>
       </dict>
     </array>

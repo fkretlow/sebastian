@@ -6,14 +6,18 @@
   <anchor x="0" y="-125" name="stemDownNW"/>
   <outline>
     <contour>
-      <point x="0" y="132.89" type="line"/>
-      <point x="265.78" y="132.89" type="line"/>
-      <point x="265.78" y="-132.89" type="line"/>
-      <point x="0" y="-132.89" type="line"/>
+      <point x="0" y="133" type="line"/>
+      <point x="266" y="133" type="line"/>
+      <point x="266" y="-133" type="line"/>
+      <point x="0" y="-133" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Square notehead black</string>
+  <key>_name</key>
+  <string>noteheadSquareBlack</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -40,14 +44,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w266m0,132.89l265.78,132.89l265.78,-132.89l0,-132.89</string>
+    <string>w266m0,133l266,133l266,-133l0,-133</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -111.89 -21</string>
-          <string>hstem 132.89 -20</string>
+          <string>hstem -111 -21</string>
+          <string>hstem 132 -20</string>
         </array>
       </dict>
     </array>

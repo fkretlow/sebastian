@@ -11,10 +11,10 @@
       <point x="0" y="-258"/>
       <point x="0" y="-248" type="curve" smooth="yes"/>
       <point x="0" y="-238"/>
-      <point x="5.97845" y="-224.978"/>
+      <point x="6" y="-225"/>
       <point x="25" y="-206" type="curve" smooth="yes"/>
       <point x="466" y="234" type="line" smooth="yes"/>
-      <point x="495.538" y="263.471"/>
+      <point x="496" y="263"/>
       <point x="497" y="263"/>
       <point x="534" y="263" type="curve" smooth="yes"/>
       <point x="831" y="263" type="line" smooth="yes"/>
@@ -32,10 +32,10 @@
     <contour>
       <point x="607" y="229" type="line" smooth="yes"/>
       <point x="562" y="229"/>
-      <point x="560.959" y="228.04"/>
+      <point x="561" y="228"/>
       <point x="529" y="196" type="curve" smooth="yes"/>
       <point x="135" y="-199" type="line" smooth="yes"/>
-      <point x="129.008" y="-205.008"/>
+      <point x="129" y="-205"/>
       <point x="126" y="-211"/>
       <point x="126" y="-216" type="curve" smooth="yes"/>
       <point x="126" y="-225"/>
@@ -43,10 +43,10 @@
       <point x="146" y="-231" type="curve" smooth="yes"/>
       <point x="240" y="-231" type="line" smooth="yes"/>
       <point x="284" y="-231"/>
-      <point x="283.128" y="-231.132"/>
+      <point x="283" y="-231"/>
       <point x="311" y="-204" type="curve" smooth="yes"/>
       <point x="725" y="199" type="line" smooth="yes"/>
-      <point x="734.12" y="207.878"/>
+      <point x="734" y="208"/>
       <point x="738" y="214"/>
       <point x="738" y="219" type="curve" smooth="yes"/>
       <point x="738" y="226"/>
@@ -56,6 +56,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>White slash half</string>
+  <key>_name</key>
+  <string>noteheadSlashWhiteHalf</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -79,7 +83,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0243494609bb97ff2cdebe26691337de19ec4a46fe6d8327454a18300ebddd4c56eafe4c94f9b71b88b4e4f79563532a0f559dc34483b75c70b449524bacac10</string>
+    <string>8c3031818359cf6644f65c129ed64bffa3bbfdb33aed46851292e6c6eb162188da708ed4bdd4fffb6b6a910bc8c702fdd1e8f673605953182eee0c1883e9f056</string>
     <key>hintSetList</key>
     <array>
       <dict>

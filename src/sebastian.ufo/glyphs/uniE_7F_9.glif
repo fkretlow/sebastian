@@ -174,6 +174,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Damp</string>
+  <key>_name</key>
+  <string>pictDamp1</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -200,18 +204,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>284cf6455b1e580d566c5f0f919ecbc5ac6a83106022569e88f7f9782ff2a0629ef3435c1988c532c06996bf4be726a463940d40d5d98a91979f5f402869b767</string>
+    <string>7b24010d416ffcb83e85f12557261bcebe6a3a943097df6d9c428b0092ef88f0464f7014141c592ded959d97591569e93e3d02904541de441e7ce38f4669cbf7</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -56.02 -21</string>
-          <string>hstem 42.7 116.83</string>
-          <string>hstem 188.98 120.14</string>
-          <string>hstem 428.38 -20</string>
-          <string>vstem 37. 119.27</string>
-          <string>vstem 185.72 118.24</string>
+          <string>hstem -56 -21</string>
+          <string>hstem 42 116</string>
+          <string>hstem 188 120</string>
+          <string>hstem 428 -20</string>
+          <string>vstem 37 119</string>
+          <string>vstem 185 118</string>
         </array>
       </dict>
     </array>

@@ -8,16 +8,16 @@
       <point x="184.7" y="211.33" type="line" smooth="yes"/>
       <point x="184.7" y="192.998"/>
       <point x="193" y="182.83"/>
-      <point x="210.351" y="182.83" type="curve" smooth="yes"/>
-      <point x="273.051" y="182.83" type="line" smooth="yes"/>
+      <point x="210.352" y="182.83" type="curve" smooth="yes"/>
+      <point x="273.052" y="182.83" type="line" smooth="yes"/>
       <point x="292.002" y="182.83"/>
-      <point x="302.937" y="189.989"/>
-      <point x="302.937" y="203.362" type="curve" smooth="yes"/>
-      <point x="302.937" y="206.864"/>
-      <point x="302.131" y="210.776"/>
-      <point x="300.601" y="215.13" type="curve" smooth="yes"/>
-      <point x="287.254" y="253.113"/>
-      <point x="257.83" y="286.321"/>
+      <point x="302.938" y="189.989"/>
+      <point x="302.938" y="203.362" type="curve" smooth="yes"/>
+      <point x="302.938" y="206.864"/>
+      <point x="302.132" y="210.776"/>
+      <point x="300.602" y="215.13" type="curve" smooth="yes"/>
+      <point x="287.255" y="253.113"/>
+      <point x="257.831" y="286.321"/>
       <point x="217" y="300.63" type="curve" smooth="yes"/>
       <point x="211.992" y="302.385"/>
       <point x="207.566" y="303.338"/>
@@ -126,6 +126,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Half-muted (half-closed)</string>
+  <key>_name</key>
+  <string>brassMuteHalfClosed</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -152,16 +156,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>789601ab10af4e126d97ccbb692d910f0e02ba0d24df31948e6065eac66bc48515f1809ddf669282bc31bd9e326150e09ac5687af32a3b241d93aea61dce81e4</string>
+    <string>6f737fe4bc4d3ab74120625ee8692f3bd2ebb4fe163652af669c4002f9a59e811c6a55a8040c36cd5ec47aea86d61df3181e89dbde5cfd285744ebdc8f7ecc71</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 37.32 117.01</string>
-          <string>hstem 182.83 120.14</string>
-          <string>vstem 37.36 117.89</string>
-          <string>vstem 184.7 118.24</string>
+          <string>hstem 37 117</string>
+          <string>hstem 182 120</string>
+          <string>vstem 37 117</string>
+          <string>vstem 184 118</string>
         </array>
       </dict>
     </array>

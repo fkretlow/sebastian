@@ -11,7 +11,7 @@
       <point x="23" y="-42" type="curve" smooth="yes"/>
       <point x="63" y="-57"/>
       <point x="382" y="-86"/>
-      <point x="454" y="-331" type="curve" smooth="yes"/>
+      <point x="454" y="-331" type="curve"/>
       <point x="457" y="-343"/>
       <point x="464" y="-350"/>
       <point x="473" y="-350" type="curve" smooth="yes"/>
@@ -28,6 +28,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Lip fall, medium</string>
+  <key>_name</key>
+  <string>brassFallLipMedium</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

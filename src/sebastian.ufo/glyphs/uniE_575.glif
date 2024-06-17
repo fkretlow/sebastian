@@ -13,7 +13,7 @@
       <point x="315" y="0" type="curve"/>
       <point x="337" y="0"/>
       <point x="362" y="0"/>
-      <point x="370" y="18" type="curve" smooth="yes"/>
+      <point x="370" y="18" type="curve"/>
       <point x="372" y="23"/>
       <point x="373" y="28"/>
       <point x="373" y="32" type="curve" smooth="yes"/>
@@ -38,6 +38,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Hook before note</string>
+  <key>_name</key>
+  <string>ornamentHookBeforeNote</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

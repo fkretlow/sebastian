@@ -55,6 +55,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Tenuto-accent below</string>
+  <key>_name</key>
+  <string>articTenutoAccentBelow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -72,13 +76,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2d73bdd376c93b3505ed2c2282d55674244de2c10eaa09cf6d5b5d9cff31f84aa723ec2db6685600f486e63560ff41c7482edb3c47a7ce1611a65bb5f3b8ff7d</string>
+    <string>7545bfc4c5c206a0ca55ae9a6bf6e85f174ed569f3cf4897817c03af1bd49cf282e61b487a94cb3b817edc60e7cfac4dc582dc87611cd2cde25a4160176fe48c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -306.62 -21</string>
+          <string>hstem -306 -21</string>
           <string>hstem -56 56</string>
         </array>
       </dict>

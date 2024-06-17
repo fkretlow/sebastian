@@ -59,20 +59,24 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Somewhat tight embouchure</string>
+  <key>_name</key>
+  <string>windLessTightEmbouchure</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6593da72c02aacac175397db175ca9a434d6278adcf78ce73965bd9083630ff47e858f67e7add0ed608913f8d870e6c3c4392fd1bd5cca6cda0d16459ccdff24</string>
+    <string>fcc776d576b504641db01515ecb094142e546adc3f40251f3741f30acf108aa63d107eabd6e44982008581c1a6e67255dda61c429b55f6eb41a87261b5e4693a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0.18 30.79</string>
-          <string>hstem 261.82 -20</string>
-          <string>vstem 230.99 30.83</string>
+          <string>hstem 0 30</string>
+          <string>hstem 261 -20</string>
+          <string>vstem 230 30</string>
         </array>
       </dict>
     </array>

@@ -10,7 +10,7 @@
       <point x="98" y="172" type="curve" smooth="yes"/>
       <point x="98" y="201"/>
       <point x="91" y="222"/>
-      <point x="82" y="236" type="curve" smooth="yes"/>
+      <point x="82" y="236" type="curve"/>
       <point x="61" y="272"/>
       <point x="23" y="271"/>
       <point x="23" y="271" type="curve"/>
@@ -29,6 +29,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering right parenthesis italic</string>
+  <key>_name</key>
+  <string>fingeringRightParenthesisItalic</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

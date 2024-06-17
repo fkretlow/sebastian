@@ -118,6 +118,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Trill key</string>
+  <key>_name</key>
+  <string>windTrillKey</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -192,27 +196,27 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fb9eb64fd76c38417d321665714cd9b62118cc8f63b012c88408dccfbb14a768b4b23a75ceadd35faa77cbf3cbc9198b5b1169f8da2cf5e8ad7000f4d64cdc1d</string>
+    <string>3accf60014688acd25fc060737fc41de1fe43eba21f8579ec0eff5edaab6bc46ed9c3399e86933ea13646b07c1af41179ded588656f1fca1905700aecdb743cf</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6 29.9</string>
+          <string>hstem -6 29</string>
           <string>hstem 141 55</string>
-          <string>hstem 172.1 81.1</string>
+          <string>hstem 172 81</string>
           <string>hstem 208 55</string>
-          <string>hstem 243.65 26.5</string>
-          <string>hstem 259.9 23.95</string>
-          <string>vstem -92 23.95</string>
-          <string>vstem -68.05 92.35</string>
-          <string>vstem -6.5 57.3</string>
-          <string>vstem 0.2 142.05</string>
-          <string>vstem 24.3 76.95</string>
-          <string>vstem 50.8 105.58</string>
-          <string>vstem 50.8 67.55</string>
-          <string>vstem 118.35 23.9</string>
-          <string>vstem 142.25 53.9</string>
+          <string>hstem 243 26</string>
+          <string>hstem 259 23</string>
+          <string>vstem -92 23</string>
+          <string>vstem -68 92</string>
+          <string>vstem -6 57</string>
+          <string>vstem 0 142</string>
+          <string>vstem 24 76</string>
+          <string>vstem 50 105</string>
+          <string>vstem 50 67</string>
+          <string>vstem 118 23</string>
+          <string>vstem 142 53</string>
         </array>
       </dict>
     </array>

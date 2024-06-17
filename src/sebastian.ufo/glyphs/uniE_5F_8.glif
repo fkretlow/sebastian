@@ -48,23 +48,27 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Half-open hole</string>
+  <key>_name</key>
+  <string>windHalfClosedHole3</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>245b66a72c8d01cd4efac2279b5e513a2ad04a72b0fc5ca228fb5595bcc811e2b9c374144fb35dcf12da28add3b809853cf58bd2e9251ce23d10a9523d8ad7de</string>
+    <string>6843664efdcad3ae06737dba6cdb32bb0c2ad8845d820147c2b9587adde093dd5adf6a822a2504cf96ab8125839b4200cc5fde15f703a224177fd2fc3942b865</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 31.48</string>
-          <string>hstem 90.49 119.02</string>
-          <string>hstem 268.52 31.48</string>
-          <string>vstem 0 31.48</string>
-          <string>vstem 90.49 119.02</string>
-          <string>vstem 269.51 30.49</string>
+          <string>hstem 0 31</string>
+          <string>hstem 90 119</string>
+          <string>hstem 268 31</string>
+          <string>vstem 0 31</string>
+          <string>vstem 90 119</string>
+          <string>vstem 269 30</string>
         </array>
       </dict>
     </array>

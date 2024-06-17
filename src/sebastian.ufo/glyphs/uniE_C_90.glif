@@ -162,6 +162,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Loco</string>
+  <key>_name</key>
+  <string>octaveLoco</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -248,21 +252,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>570d8754b9bab3b15c2fcade8b0d11c4df6f853d57f9908a4e8cf2476dec91d05f4366b2acacc90e88cebbf42075b58ab85888f3e20d99ad97565936e6c553e7</string>
+    <string>f6e314c4b291c9e08e457c1d0acb6e94833806493061b78fe89b2ad05ac6c5e5e9462193a8d4f138be3c94f4186c39c3ca9e3b88d1d53367768255cd81da31e8</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 243.02</string>
-          <string>hstem 2.05 22.56</string>
-          <string>hstem 143.55 99.46</string>
-          <string>vstem 152.05 42.55</string>
-          <string>vstem 312.01 42.04</string>
-          <string>vstem 368.44 47.7</string>
-          <string>vstem 497.13 58.45</string>
-          <string>vstem 564.85 42.55</string>
-          <string>vstem 724.81 42.04</string>
+          <string>hstem 0 243</string>
+          <string>hstem 2 22</string>
+          <string>hstem 143 99</string>
+          <string>vstem 152 42</string>
+          <string>vstem 312 42</string>
+          <string>vstem 368 47</string>
+          <string>vstem 497 58</string>
+          <string>vstem 564 42</string>
+          <string>vstem 724 42</string>
         </array>
       </dict>
     </array>

@@ -49,6 +49,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Tempus perfectum cum prolatione perfecta (9/8)</string>
+  <key>_name</key>
+  <string>mensuralProlation1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -60,12 +64,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -204.29 33.59</string>
-          <string>hstem -60.29 120.59</string>
-          <string>hstem 170.71 33.59</string>
-          <string>vstem -10.29 70.59</string>
-          <string>vstem 151.71 121.59</string>
-          <string>vstem 364.71 70.59</string>
+          <string>hstem -204 33</string>
+          <string>hstem -60 120</string>
+          <string>hstem 170 33</string>
+          <string>vstem -10 70</string>
+          <string>vstem 151 121</string>
+          <string>vstem 364 70</string>
         </array>
       </dict>
     </array>

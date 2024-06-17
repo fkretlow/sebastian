@@ -61,6 +61,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Reversed flat (quarter-tone flat) (Stein)</string>
+  <key>_name</key>
+  <string>accidentalQuarterToneFlatStein</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -118,9 +122,9 @@
         <key>stems</key>
         <array>
           <string>hstem -144 -21</string>
-          <string>hstem 112.94 33.06</string>
+          <string>hstem 112 33</string>
           <string>hstem 455 -20</string>
-          <string>vstem 0 82.35</string>
+          <string>vstem 0 82</string>
           <string>vstem 175 55</string>
           <string>vstem 180 50</string>
           <string>vstem 200 30</string>

@@ -49,6 +49,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Valve trill</string>
+  <key>_name</key>
+  <string>brassValveTrill</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -93,16 +97,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f4e7914225dcc12d81732ea922d3ff66c539378525a9e0ef433eac9303600944b40c1a40cfc3c43936d7aca82d9c55a20ab605ed046fa49c25f53ec606d83562</string>
+    <string>a3010b4bcec0061f42730302c1c6beb68de54fc73decaf08e290ee802432bb074d5804932d04165092d49d8b09338e09fe51d978d5a0301543cd3f16a3d574f5</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0.06 30.74</string>
-          <string>hstem 232.31 29.72</string>
-          <string>vstem 0.59 30.76</string>
-          <string>vstem 232.4 30.37</string>
+          <string>hstem 0 30</string>
+          <string>hstem 232 29</string>
+          <string>vstem 0 30</string>
+          <string>vstem 232 30</string>
         </array>
       </dict>
     </array>

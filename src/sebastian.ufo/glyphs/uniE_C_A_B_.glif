@@ -112,6 +112,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>32nd note (demisemiquaver) stem up</string>
+  <key>_name</key>
+  <string>metNote32ndUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -144,17 +148,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8bc279c3346f2772d96e316baa4d6ce01cfb758addbebdd0e791df0adee4698462b7895c40964958938dab230c15fe983e65647277683242593c22986f6f73e</string>
+    <string>5970d7a210b9c1d8330eab983375bf634c7cf83b8181f7d2b701eb37550f534a46ee8efe44da61d1e7e28d4e6433e011aae7b453533fa77244aae17352ef8f73</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 700.2 -20</string>
-          <string>vstem 240.5 21.53</string>
-          <string>vstem 398.5 20.9</string>
-          <string>vstem 409.1 21.1</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 240 21</string>
+          <string>vstem 398 20</string>
+          <string>vstem 409 21</string>
         </array>
       </dict>
     </array>

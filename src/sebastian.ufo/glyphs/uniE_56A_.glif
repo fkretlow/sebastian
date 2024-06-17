@@ -124,6 +124,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Turn up</string>
+  <key>_name</key>
+  <string>ornamentTurnUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -174,18 +178,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3448f0f11d5812619ef639ac5368b29d388eb6a2fe2b6e229c2fc2e001c94235eb71a4b476b364f9214cb02249b81d456fabc52da03f1a63919a9f35669d7458</string>
+    <string>c05ee9aebc84b47973ee4e394f5fc77c4466bd2996a0d40cca2a747d8bae07930ba506e4819109f230afdcfc0266e9357f514690ae05da2d69058f1752960da3</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -300.87 32.53</string>
-          <string>hstem 268.35 32.53</string>
-          <string>vstem -0.95 53.08</string>
-          <string>vstem -0.95 102.75</string>
-          <string>vstem 167.2 102.75</string>
-          <string>vstem 216.88 53.08</string>
+          <string>hstem -300 32</string>
+          <string>hstem 268 32</string>
+          <string>vstem 0 53</string>
+          <string>vstem 0 102</string>
+          <string>vstem 167 102</string>
+          <string>vstem 216 53</string>
         </array>
       </dict>
     </array>

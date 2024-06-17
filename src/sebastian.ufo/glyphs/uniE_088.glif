@@ -67,6 +67,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature 8</string>
+  <key>_name</key>
+  <string>timeSig8</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -117,18 +121,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>55b6ed1af7be38c6fc0ea6d8df9a4dd59e3bbc16d34a6b0244f6aed5bcb51c096e2054a504fdaf0e077683ae5de0dcb90f991dc9ef932a6f974ba1a313227517</string>
+    <string>a6878da51456fc8b8fd48cc208ed8e548824b0380f9223acfe2322e2db612f4bf126a6d72efade78604f7d1206fd09254b317f9a0311248394ede0eb4feb448b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -250.35 38.64</string>
-          <string>hstem 211.7 38.64</string>
-          <string>vstem 25.64 67.17</string>
-          <string>vstem 46.34 84.91</string>
-          <string>vstem 310.51 64.21</string>
-          <string>vstem 310.51 87.87</string>
+          <string>hstem -250 38</string>
+          <string>hstem 211 38</string>
+          <string>vstem 25 67</string>
+          <string>vstem 46 84</string>
+          <string>vstem 310 64</string>
+          <string>vstem 310 87</string>
         </array>
       </dict>
     </array>

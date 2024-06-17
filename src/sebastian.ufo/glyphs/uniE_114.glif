@@ -34,6 +34,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Round white notehead</string>
+  <key>_name</key>
+  <string>noteheadRoundWhite</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -78,10 +82,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -124.8 32.84</string>
-          <string>hstem 91.95 32.84</string>
-          <string>vstem -0.23 32.99</string>
-          <string>vstem 217.51 32.99</string>
+          <string>hstem -124 32</string>
+          <string>hstem 91 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 217 32</string>
         </array>
       </dict>
     </array>

@@ -68,21 +68,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering m (medio; right-hand middle finger for guitar)</string>
+  <key>_name</key>
+  <string>fingeringMLower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6dd4cac5afd75babcd7cb54951b49d11a417fb3f9cbdd3f7aa8dc2fd7046bc3e86dc9325b805f25337d6111677da69a26294b59be41e68239246a355eb1dae50</string>
+    <string>e16a97464e74ac2a59dd073fba10d4680e9a9bad2cbf701336f3e67ae975e9f2b6ac7b055d1b4cd35bce3ab4e2827912cbf5497ebec85c0fee2a547902fa15a9</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6.45 23.63</string>
-          <string>hstem 0 248.14</string>
-          <string>hstem 224.51 23.63</string>
-          <string>hstem 227.73 20.41</string>
+          <string>hstem -6 23</string>
+          <string>hstem 0 248</string>
+          <string>hstem 224 23</string>
+          <string>hstem 227 20</string>
         </array>
       </dict>
     </array>

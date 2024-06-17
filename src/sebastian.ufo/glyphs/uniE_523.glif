@@ -76,6 +76,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Rinforzando</string>
+  <key>_name</key>
+  <string>dynamicRinforzando</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -114,11 +118,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -0.25 229.5</string>
-          <string>hstem 137.45 91.8</string>
-          <string>hstem 195.95 33.3</string>
-          <string>hstem 202.25 27.</string>
-          <string>vstem 188.5 70.2</string>
+          <string>hstem 0 229</string>
+          <string>hstem 137 91</string>
+          <string>hstem 195 33</string>
+          <string>hstem 202 27</string>
+          <string>vstem 188 70</string>
         </array>
       </dict>
     </array>

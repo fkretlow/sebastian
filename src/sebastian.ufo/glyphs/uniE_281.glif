@@ -100,6 +100,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Reversed flat and flat (three-quarter-tones flat) (Zimmermann)</string>
+  <key>_name</key>
+  <string>accidentalThreeQuarterTonesFlatZimmermann</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -138,19 +142,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>03e687853302c302031bf47a34aa1e7092af3e83e859e85c7403f0760063cc4b1fcc2138a78bce299d8f42e60e668bdea35eaf60b4ad8be4591c6d5290b5623d</string>
+    <string>c6c047d26494648859c8468a10a22419c33d59a49c0b23da13f941a216a6220f3c10a5c188e297d72679ee3bee32372f13991d7fa2576a8ed635b3c6197fd2d3</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -141.99 -21</string>
-          <string>hstem 454.97 -20</string>
-          <string>vstem 0 75.46</string>
+          <string>hstem -141 -21</string>
+          <string>hstem 454 -20</string>
+          <string>vstem 0 75</string>
           <string>vstem 166 54</string>
           <string>vstem 168 50</string>
           <string>vstem 177 32</string>
-          <string>vstem 310.54 75.46</string>
+          <string>vstem 310 75</string>
         </array>
       </dict>
     </array>

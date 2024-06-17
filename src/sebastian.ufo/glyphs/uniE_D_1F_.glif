@@ -43,21 +43,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering o (right-hand little finger for guitar)</string>
+  <key>_name</key>
+  <string>fingeringOLower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0211b5c6a15cc289c6342c5670c48ccc5f468f77430a7f0828ff8e67d8e94fc98aa797ceee4cbcffe109ae39856b1192b5f40d378c4582f0042555913c4b19c8</string>
+    <string>cdecfcf17d7748dcb9c897f51d913e8aa23a36c2009b10c5a78873395b2e20dfb4c0e66e11a7398dc6b1345ea4ecdedd779afb3ca6459f4a3a5a1c428eda2845</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 14.55 -21</string>
-          <string>hstem 248.14 -20</string>
-          <string>vstem 26.86 44.58</string>
-          <string>vstem 194.43 44.04</string>
+          <string>hstem 14 -21</string>
+          <string>hstem 248 -20</string>
+          <string>vstem 26 44</string>
+          <string>vstem 194 44</string>
         </array>
       </dict>
     </array>

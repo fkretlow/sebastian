@@ -38,6 +38,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Unstress above</string>
+  <key>_name</key>
+  <string>articUnstressAbove</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -76,8 +80,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 31.45</string>
-          <string>hstem 132.6 -20</string>
+          <string>hstem 0 31</string>
+          <string>hstem 132 -20</string>
         </array>
       </dict>
     </array>

@@ -50,6 +50,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Long fermata (Henze) above</string>
+  <key>_name</key>
+  <string>fermataLongHenzeAbove</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -108,11 +112,11 @@
         <array>
           <string>hstem -47 132</string>
           <string>hstem -30 -21</string>
-          <string>hstem 197.2 120.7</string>
-          <string>vstem -0.05 24.65</string>
+          <string>hstem 197 120</string>
+          <string>vstem 0 24</string>
           <string>vstem 129 132</string>
           <string>vstem 339 132</string>
-          <string>vstem 575.4 24.65</string>
+          <string>vstem 575 24</string>
         </array>
       </dict>
     </array>

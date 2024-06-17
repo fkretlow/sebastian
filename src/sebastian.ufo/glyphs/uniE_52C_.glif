@@ -154,6 +154,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>mp</string>
+  <key>_name</key>
+  <string>dynamicMP</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -240,22 +244,22 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>079f82a41d88a6f51973f8f0a710ab21ce5a847c916cb983f6bd4fe236f49f04881ffec5a01ebe503bead91d6e4327362a0ec2fd6478168a27fbd34c8a6a5956</string>
+    <string>b05647593d6df2a2df88c3c7e75c0f74c18016c11cf79afb297aa1c42ea0e380888a01064e43a288d525aa45d9f19e62bcddab9815db6a5c133b64c6cf0c3e7a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -162.76 190.99</string>
-          <string>hstem -22.92 246.56</string>
-          <string>hstem -22.92 29.44</string>
-          <string>hstem -10.26 38.49</string>
-          <string>hstem 206.84 38.49</string>
-          <string>hstem 222.72 31.28</string>
-          <string>vstem 271.57 61.37</string>
-          <string>vstem 271.57 151.82</string>
-          <string>vstem 335.36 61.59</string>
-          <string>vstem 721.24 77.28</string>
+          <string>hstem -162 190</string>
+          <string>hstem -22 246</string>
+          <string>hstem -22 29</string>
+          <string>hstem -10 38</string>
+          <string>hstem 206 38</string>
+          <string>hstem 222 31</string>
+          <string>vstem 271 61</string>
+          <string>vstem 271 151</string>
+          <string>vstem 335 61</string>
+          <string>vstem 721 77</string>
         </array>
       </dict>
     </array>

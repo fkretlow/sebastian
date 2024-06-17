@@ -161,6 +161,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>G clef</string>
+  <key>_name</key>
+  <string>gClef</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -235,22 +239,22 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f019dc0efe76b40ed5c4cd1b53b5007e01dd19c71327bc93f27e7188ae5dadf2f56268e5d9cd5be5856b10a5b45cafb47cc05972d1b5dec9b2bf7d3048cec3d9</string>
+    <string>b8c68b808444d1301919a08ba447f2a03f707dd146b688473cdf9b95ef4ff03b401dbfae39df55d184d3f0000fb914fd8d450d4cac23436d8c264d5482bc2646</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -668.84 40.83</string>
-          <string>hstem -382.25 137.81</string>
-          <string>hstem -244.44 38.11</string>
-          <string>vstem 0.38 72.57</string>
-          <string>vstem 114.14 224.93</string>
-          <string>vstem 171.78 71.67</string>
-          <string>vstem 226.19 52.62</string>
-          <string>vstem 475.16 39.83</string>
-          <string>vstem 490.06 43.55</string>
-          <string>vstem 575.33 78.01</string>
+          <string>hstem -668 40</string>
+          <string>hstem -382 137</string>
+          <string>hstem -244 38</string>
+          <string>vstem 0 72</string>
+          <string>vstem 114 224</string>
+          <string>vstem 171 71</string>
+          <string>vstem 226 52</string>
+          <string>vstem 475 39</string>
+          <string>vstem 490 43</string>
+          <string>vstem 575 78</string>
         </array>
       </dict>
     </array>

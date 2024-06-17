@@ -21,7 +21,7 @@
       <point x="193.824" y="145.998"/>
       <point x="193.824" y="154" type="curve" smooth="yes"/>
       <point x="193.824" y="438" type="line" smooth="yes"/>
-      <point x="193.824" y="455"/>
+      <point x="193.824" y="455.001"/>
       <point x="193.824" y="455"/>
       <point x="221.378" y="455" type="curve" smooth="yes"/>
       <point x="247.981" y="455"/>
@@ -109,6 +109,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Double flat</string>
+  <key>_name</key>
+  <string>accidentalDoubleFlat</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -171,7 +175,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>efa3f43100ed181674646ad8a59dc98216036741fca2676955f3463b850db0acc5a37034eb923af3efb32fa85e8a601182636f4afa1ea4fd0738938d91d18ce4</string>
+    <string>8a957b8fd808e60cd1c7c67fa9029611ec6d71d4a068bc11d2381dca99c9ae184e4f02a8f51e06dbbb06b466fb49279a924fe19678848b870112f551d7b540e9</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -179,12 +183,12 @@
         <array>
           <string>hstem -142 -21</string>
           <string>hstem 455 -20</string>
-          <string>vstem 0 29.45</string>
-          <string>vstem 0 47.51</string>
-          <string>vstem 0 54.16</string>
-          <string>vstem 193.82 47.51</string>
-          <string>vstem 193.82 54.16</string>
-          <string>vstem 193.82 28.5</string>
+          <string>vstem 0 29</string>
+          <string>vstem 0 47</string>
+          <string>vstem 0 54</string>
+          <string>vstem 193 47</string>
+          <string>vstem 193 54</string>
+          <string>vstem 193 28</string>
         </array>
       </dict>
     </array>

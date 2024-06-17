@@ -78,6 +78,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>F clef change</string>
+  <key>_name</key>
+  <string>fClefChange</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -140,19 +144,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>291ca15ae32fe5a380cea908051a2fe57084986b70254fc4ecc04250c5483a664bcc40096f55f71cce48858c817612feae41ec810dff557095c67034cc9d518f</string>
+    <string>92bd64af1acc36a3d85c8aabe0d8c951c42a63f8d3beac8698c18ef6887f087c3041082f3995dcd5a4b8daa45ae64eb4cddf47213aaa5f1e130a31ed1902aa88</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -114.57 71.28</string>
-          <string>hstem -39.15 128.28</string>
-          <string>hstem 49.11 71.28</string>
-          <string>hstem 157.8 19.87</string>
-          <string>vstem 16.79 133.39</string>
-          <string>vstem 269.69 79.71</string>
-          <string>vstem 385.84 71.28</string>
+          <string>hstem -114 71</string>
+          <string>hstem -39 128</string>
+          <string>hstem 49 71</string>
+          <string>hstem 157 19</string>
+          <string>vstem 16 133</string>
+          <string>vstem 269 79</string>
+          <string>vstem 385 71</string>
         </array>
       </dict>
     </array>

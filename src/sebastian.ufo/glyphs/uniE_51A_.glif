@@ -38,6 +38,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Left parenthesis for octave signs</string>
+  <key>_name</key>
+  <string>octaveParensLeft</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -76,9 +80,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -8.25 -21</string>
-          <string>hstem 549.25 -20</string>
-          <string>vstem 0 22.75</string>
+          <string>hstem -8 -21</string>
+          <string>hstem 549 -20</string>
+          <string>vstem 0 22</string>
         </array>
       </dict>
     </array>

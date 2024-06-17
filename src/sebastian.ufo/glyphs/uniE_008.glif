@@ -54,6 +54,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Long system divider</string>
+  <key>_name</key>
+  <string>systemDividerLong</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -65,8 +69,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -503.72 -21</string>
-          <string>hstem 518.72 -20</string>
+          <string>hstem -503 -21</string>
+          <string>hstem 518 -20</string>
         </array>
       </dict>
     </array>

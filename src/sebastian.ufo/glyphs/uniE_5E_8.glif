@@ -80,6 +80,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Harmon mute, stem in</string>
+  <key>_name</key>
+  <string>brassHarmonMuteClosed</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -106,16 +110,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1f8f99efa748d810f6cf20279ea614113f688acfae802e9ab0834011a8c9d403017acd08914359f1cc3548a019ce0f4d1d9ad16fdfea1de4c5f5f59425b7e793</string>
+    <string>0ad9ac98ad06a3b2eba28b4c9fbba3718d1d509b94f225a48b6415e6609b4cbc1d12d30286cc2e80040f36282483035320f3d062e1d03f26ab0bb704d739df46</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -60 -21</string>
-          <string>hstem 155.55 30.4</string>
-          <string>hstem 424.4 -20</string>
-          <string>vstem 161.62 31.35</string>
+          <string>hstem 155 30</string>
+          <string>hstem 424 -20</string>
+          <string>vstem 161 31</string>
         </array>
       </dict>
     </array>

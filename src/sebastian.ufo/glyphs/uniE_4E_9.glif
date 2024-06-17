@@ -123,6 +123,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>64th (hemidemisemiquaver) rest</string>
+  <key>_name</key>
+  <string>rest64th</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -197,20 +201,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e1975ccb8449dd80b0743fa286f2f73c832dd07def90fc4cbbdc0bbd61c4bac5d8980d66966185d72156e134ce7ce850dad158591ed5520dfb038a8db8da69bc</string>
+    <string>786227d696684b5b0cce65a9e47c66f2bc86ff67720cd4fa3a8167accf1b1631f85c0fd732d475d767054681afe19231ea26ab4fa402f6a5b53b7624b004d795</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -439.22 149.87</string>
-          <string>hstem -192.73 149.9</string>
-          <string>hstem 53.88 149.9</string>
-          <string>hstem 300.4 149.9</string>
-          <string>vstem 0.92 136.65</string>
-          <string>vstem 51.6 136.65</string>
-          <string>vstem 101.28 136.65</string>
-          <string>vstem 151.96 136.65</string>
+          <string>hstem -439 149</string>
+          <string>hstem -192 149</string>
+          <string>hstem 53 149</string>
+          <string>hstem 300 149</string>
+          <string>vstem 0 136</string>
+          <string>vstem 51 136</string>
+          <string>vstem 101 136</string>
+          <string>vstem 151 136</string>
         </array>
       </dict>
     </array>

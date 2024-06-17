@@ -128,6 +128,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Pedal P</string>
+  <key>_name</key>
+  <string>keyboardPedalP</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -178,13 +182,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>16323601dd16be58f40025616a194b86ef30fa408ac0984752c56af6e4932b5ac8786c04811e3129820d33d66654baf3614398e9185ae95b1f628b491c7ea848</string>
+    <string>f6733d37a1a889363bca1f50cc3bf222a1e8e29313b92efc158088b121f949bed427cf38d190013940a25a0e94e382c4949d40ac676e2a31471ca36a3615c785</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -30.56 -21</string>
+          <string>hstem -30 -21</string>
           <string>hstem 220 27</string>
           <string>hstem 444 46</string>
           <string>vstem 0 29</string>

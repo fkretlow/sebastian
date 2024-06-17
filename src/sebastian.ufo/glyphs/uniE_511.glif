@@ -210,6 +210,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Ottava alta</string>
+  <key>_name</key>
+  <string>ottavaAlta</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -332,16 +336,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>48d986534fc02cc64f4a928e9624f9760660a3fb7d0194855fd2282811092de1fb67f84418d4ee46e3fcf705198e4da3d785a8da760249f644da2ce15d52a44a</string>
+    <string>a0ca7189b1459bacbde356569b54e6dd43e9e912e8128c5541653359f3477d1428fa1d812f0306956c90dbc222ee165d6da811f5fda724099385d7f9af40e3ac</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -10 25</string>
-          <string>hstem 280.25 194.33</string>
-          <string>hstem 285.17 194.33</string>
-          <string>hstem 286.81 192.69</string>
+          <string>hstem 280 194</string>
+          <string>hstem 285 194</string>
+          <string>hstem 286 192</string>
           <string>hstem 466 21</string>
           <string>vstem -10 66</string>
           <string>vstem 56 215</string>
@@ -349,15 +353,15 @@
           <string>vstem 165 195</string>
           <string>vstem 271 87</string>
           <string>vstem 360 55</string>
-          <string>vstem 415 173.39</string>
-          <string>vstem 415 43.93</string>
-          <string>vstem 458.93 35.84</string>
-          <string>vstem 494.77 128.08</string>
-          <string>vstem 524.58 33.47</string>
-          <string>vstem 558.05 51.25</string>
-          <string>vstem 588.39 20.91</string>
-          <string>vstem 609.3 139.01</string>
-          <string>vstem 622.85 33.62</string>
+          <string>vstem 415 173</string>
+          <string>vstem 415 43</string>
+          <string>vstem 458 35</string>
+          <string>vstem 494 128</string>
+          <string>vstem 524 33</string>
+          <string>vstem 558 51</string>
+          <string>vstem 588 20</string>
+          <string>vstem 609 139</string>
+          <string>vstem 622 33</string>
         </array>
       </dict>
     </array>

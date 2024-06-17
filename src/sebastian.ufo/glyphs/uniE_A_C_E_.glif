@@ -11,7 +11,7 @@
       <point x="-15" y="18" type="line"/>
       <point x="-13" y="18"/>
       <point x="-8" y="18"/>
-      <point x="-1" y="22" type="curve" smooth="yes"/>
+      <point x="-1" y="22" type="curve"/>
       <point x="7" y="26"/>
       <point x="12" y="30"/>
       <point x="21" y="39" type="curve"/>
@@ -20,7 +20,7 @@
       <point x="73" y="0" type="curve" smooth="yes"/>
       <point x="97" y="0"/>
       <point x="133" y="31"/>
-      <point x="148" y="51" type="curve" smooth="yes"/>
+      <point x="148" y="51" type="curve"/>
       <point x="151" y="56"/>
       <point x="153" y="59"/>
       <point x="153" y="61" type="curve"/>
@@ -33,7 +33,7 @@
       <point x="145" y="68" type="curve"/>
       <point x="143" y="68"/>
       <point x="141" y="67"/>
-      <point x="137" y="65" type="curve" smooth="yes"/>
+      <point x="137" y="65" type="curve"/>
       <point x="131" y="63"/>
       <point x="124" y="58"/>
       <point x="116" y="51" type="curve"/>
@@ -42,13 +42,17 @@
       <point x="61" y="92" type="curve" smooth="yes"/>
       <point x="36" y="92"/>
       <point x="-6" y="53"/>
-      <point x="-19" y="30" type="curve" smooth="yes"/>
+      <point x="-19" y="30" type="curve"/>
       <point x="-20" y="27"/>
       <point x="-21" y="26"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Vibrato smallest, faster still</string>
+  <key>_name</key>
+  <string>wiggleVibratoSmallestFasterStill</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

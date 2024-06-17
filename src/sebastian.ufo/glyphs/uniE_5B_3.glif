@@ -76,12 +76,16 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Supported appoggiatura trill with two-note suffix</string>
+  <key>_name</key>
+  <string>ornamentPrecompAppoggTrillSuffix</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e789f3d5d22a7d5c244682fd5c1c4ea4eecc057581e91e0ea8d8d663befbfd8593e2903b365932535e3a4357c068b0cb4053ff4c0a072c197bc16965dc446a5f</string>
+    <string>62f0f5970d6d723541744a35ce6c1660bbc343e95fbe802ba4854f2bb0c29cf017f1e57c0e7cc1fc265a8a2760c1457e641c522c535a32f6a79a40c03455d7a0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -89,7 +93,7 @@
         <array>
           <string>hstem 574 -20</string>
           <string>vstem 0 36</string>
-          <string>vstem 639.38 36.</string>
+          <string>vstem 639 36</string>
         </array>
       </dict>
     </array>

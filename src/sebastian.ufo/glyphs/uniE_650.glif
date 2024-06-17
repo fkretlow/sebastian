@@ -194,6 +194,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Pedal mark</string>
+  <key>_name</key>
+  <string>keyboardPedalPed</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -298,32 +302,32 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cb672be2860d963f1efcd8e0012b240fba4a9febc545026e7712379d8d6b09b83174773388a6bb62f3668bfdbcd1f2f6418efa90d9491a3232cb26c9f51d6d87</string>
+    <string>1190e7e95c346f0c8bc542c205538bc888fde0b51e15aa908b689cb1f5d9dde6c154ad837ede714e9885ef0765eafa13ae3172d9f8017c1d2e3f1d4475794952</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6.12 50.83</string>
-          <string>hstem -3.29 75.31</string>
-          <string>hstem -3.29 28.24</string>
-          <string>hstem -0.47 80.96</string>
+          <string>hstem -6 50</string>
+          <string>hstem -3 75</string>
+          <string>hstem -3 28</string>
+          <string>hstem 0 80</string>
           <string>hstem 13 -21</string>
-          <string>hstem 264.06 32.01</string>
-          <string>hstem 264.06 48.95</string>
-          <string>hstem 310.19 49.89</string>
-          <string>hstem 498.47 23.53</string>
-          <string>vstem 0 46.13</string>
-          <string>vstem 169.45 62.13</string>
-          <string>vstem 234.4 221.23</string>
-          <string>vstem 259.82 64.01</string>
-          <string>vstem 306.89 148.74</string>
-          <string>vstem 389.73 65.9</string>
-          <string>vstem 425.51 177.92</string>
-          <string>vstem 545.06 58.37</string>
-          <string>vstem 627.9 64.01</string>
-          <string>vstem 789.82 69.66</string>
-          <string>vstem 868.9 80.96</string>
+          <string>hstem 264 32</string>
+          <string>hstem 264 48</string>
+          <string>hstem 310 49</string>
+          <string>hstem 498 23</string>
+          <string>vstem 0 46</string>
+          <string>vstem 169 62</string>
+          <string>vstem 234 221</string>
+          <string>vstem 259 64</string>
+          <string>vstem 306 148</string>
+          <string>vstem 389 65</string>
+          <string>vstem 425 177</string>
+          <string>vstem 545 58</string>
+          <string>vstem 627 64</string>
+          <string>vstem 789 69</string>
+          <string>vstem 868 80</string>
         </array>
       </dict>
     </array>

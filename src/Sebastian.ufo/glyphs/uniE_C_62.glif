@@ -62,7 +62,7 @@
       <point x="894" y="342"/>
       <point x="858" y="315"/>
       <point x="834" y="281" type="curve"/>
-      <point x="814" y="284" type="line" smooth="yes"/>
+      <point x="814" y="284" type="line"/>
       <point x="803" y="286"/>
       <point x="789" y="286"/>
       <point x="775" y="286" type="curve" smooth="yes"/>
@@ -131,6 +131,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Eyeglasses</string>
+  <key>_name</key>
+  <string>miscEyeglasses</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

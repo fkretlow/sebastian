@@ -47,8 +47,8 @@
       <point x="20.8837" y="-28.5015"/>
       <point x="20.5898" y="-25.7693"/>
       <point x="20.5898" y="-19.6194" type="curve" smooth="yes"/>
-      <point x="20.5898" y="333.81" type="line"/>
-      <point x="55.4199" y="333.81" type="line"/>
+      <point x="20.5898" y="313.81" type="line"/>
+      <point x="55.4199" y="313.81" type="line"/>
       <point x="55.4199" y="168.163" type="line" smooth="yes"/>
       <point x="55.4199" y="163.449"/>
       <point x="62.71" y="154.806"/>
@@ -65,8 +65,8 @@
       <point x="139.076" y="155.386"/>
       <point x="145.33" y="157.003"/>
       <point x="145.33" y="162.663" type="curve" smooth="yes"/>
-      <point x="145.33" y="333.81" type="line"/>
-      <point x="180.16" y="333.81" type="line"/>
+      <point x="145.33" y="313.81" type="line"/>
+      <point x="180.16" y="313.81" type="line"/>
       <point x="180.16" y="168.163" type="line" smooth="yes"/>
       <point x="180.16" y="163.449"/>
       <point x="187.45" y="154.806"/>
@@ -101,6 +101,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass double flat</string>
+  <key>_name</key>
+  <string>figbassDoubleFlat</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -175,21 +179,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>612bc8f7c5b710c791b15cd89c9e28d431af13743ff1e8d8b1317042ca4094c6a27660526b09019aad85bbd47bc9a9a93845f8909bed31d6decf0995c3862108</string>
+    <string>0b0fe41d86e4306160acb005e05337b588d5019a7a71739bb720146c1c784ee3646739310d972864179844c4e52806957ac10092ab72e802db49a984f6d69ba9</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -7.5 -21</string>
-          <string>hstem 138.57 22.52</string>
-          <string>hstem 333.81 -20</string>
-          <string>vstem 20.59 21.06</string>
-          <string>vstem 20.59 34.83</string>
-          <string>vstem 105.84 60.55</string>
-          <string>vstem 145.33 21.06</string>
-          <string>vstem 145.33 34.83</string>
-          <string>vstem 230.58 50.83</string>
+          <string>hstem -7 -21</string>
+          <string>hstem 138 22</string>
+          <string>hstem 313 -20</string>
+          <string>vstem 20 21</string>
+          <string>vstem 20 34</string>
+          <string>vstem 105 60</string>
+          <string>vstem 145 21</string>
+          <string>vstem 145 34</string>
+          <string>vstem 230 50</string>
         </array>
       </dict>
     </array>

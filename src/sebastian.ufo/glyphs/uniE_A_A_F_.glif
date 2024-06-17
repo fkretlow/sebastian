@@ -6,13 +6,13 @@
   <outline>
     <contour>
       <point x="-19" y="39" type="curve" smooth="yes"/>
-      <point x="-17.7351" y="35.2053"/>
-      <point x="-15.7529" y="31.6158"/>
+      <point x="-18" y="35"/>
+      <point x="-16" y="32"/>
       <point x="-12" y="33" type="curve" smooth="yes"/>
-      <point x="-3" y="36.3196"/>
-      <point x="7.07461" y="47.2139"/>
+      <point x="-3" y="36"/>
+      <point x="7" y="47"/>
       <point x="21" y="57" type="curve" smooth="yes"/>
-      <point x="25.0909" y="59.8749"/>
+      <point x="25" y="60"/>
       <point x="33" y="63"/>
       <point x="39" y="63" type="curve" smooth="yes"/>
       <point x="91" y="63"/>
@@ -49,12 +49,16 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Glissando wiggle segment</string>
+  <key>_name</key>
+  <string>wiggleGlissando</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>786cdae8626e79c7d94066146c66e784f4557e1d342df53184a11bc23180252a0def0be9ee492843da9bee46295ebe91222f2cc7ce81a489db21c8be5d9eea34</string>
+    <string>b615d9df68cbc522cb3ac4ef7e3c17ec6b9e6d566e7876a4646f813997908445ffc5533f4a971ff0f14e28f12a892321b16c5ffd59da9f328206f03be5d5cc10</string>
     <key>hintSetList</key>
     <array>
       <dict>

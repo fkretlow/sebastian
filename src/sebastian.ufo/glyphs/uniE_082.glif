@@ -72,6 +72,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature 2</string>
+  <key>_name</key>
+  <string>timeSig2</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -134,17 +138,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>eb4abaa66e4b52a7b392007bbcca6343868124973d1543fa88067968f6b6d1f567467b34635bd71a55cfa3bca593c5e0cb34cab03442b388bb91ff02872f5eb6</string>
+    <string>5b040fcc108448684f3c407cf4b815e610924ec23954e3352a8f9a572ba7472e53a8f1bb9bd5842b7a01f040ff9f03feac449c6af017b303bf779f834bc4d3ab</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -250.35 100.25</string>
-          <string>hstem 39.4 128.77</string>
-          <string>hstem 212.67 37.68</string>
-          <string>vstem 40.43 137.16</string>
-          <string>vstem 356.21 35.27</string>
+          <string>hstem -250 100</string>
+          <string>hstem 39 128</string>
+          <string>hstem 212 37</string>
+          <string>vstem 40 137</string>
+          <string>vstem 356 35</string>
         </array>
       </dict>
     </array>

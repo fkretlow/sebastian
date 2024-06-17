@@ -330,6 +330,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Sforzando-pianissimo</string>
+  <key>_name</key>
+  <string>dynamicSforzandoPianissimo</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -470,33 +474,33 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7943340ec6be1b7c76d017152edf51896a3eb85ce17d255a3e595bb13d50612bfd30fe4d4b35e90ac0132de8f85f46c4ba6883c4e9d7dc36278237930e05d23f</string>
+    <string>471ce24f0bb2b389cc824bdb5a496157570d14b0100c5bc67925f526ba3e404432ad8972ac7fdf68b293d9d505c2eae789ca179960585a7908bb957263031199</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -165.24 128.8</string>
-          <string>hstem -165.24 27.6</string>
-          <string>hstem -162.76 28.52</string>
-          <string>hstem -22.92 246.56</string>
-          <string>hstem -22.92 29.44</string>
+          <string>hstem -165 128</string>
+          <string>hstem -165 27</string>
+          <string>hstem -162 28</string>
+          <string>hstem -22 246</string>
+          <string>hstem -22 29</string>
           <string>hstem -8 29</string>
           <string>hstem -8 108</string>
           <string>hstem 154 100</string>
-          <string>hstem 196.96 57.04</string>
-          <string>hstem 214.72 31.28</string>
-          <string>hstem 222.72 31.28</string>
+          <string>hstem 196 57</string>
+          <string>hstem 214 31</string>
+          <string>hstem 222 31</string>
           <string>hstem 226 28</string>
-          <string>hstem 278.2 128.8</string>
-          <string>hstem 379.4 27.6</string>
+          <string>hstem 278 128</string>
+          <string>hstem 379 27</string>
           <string>vstem 0 56</string>
           <string>vstem 42 46</string>
-          <string>vstem 120.68 88.32</string>
+          <string>vstem 120 88</string>
           <string>vstem 143 51</string>
           <string>vstem 156 65</string>
-          <string>vstem 514.44 88.32</string>
-          <string>vstem 1142.4 77.28</string>
+          <string>vstem 514 88</string>
+          <string>vstem 1142 77</string>
         </array>
       </dict>
     </array>

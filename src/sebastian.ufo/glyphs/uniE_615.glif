@@ -41,6 +41,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Half-harmonic</string>
+  <key>_name</key>
+  <string>stringsHalfHarmonic</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -79,15 +83,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b89b9dd90e3421a0959ec3c82cb070386fcf37315f2b476ef83afeebaa4ef5795323947c045e716922edbead251f1a1c06ce5e18b1d3df35c2f6d99669cfd150</string>
+    <string>c43a91bbf448596d1b2e00143f0bfefec9ac2ff78c6855fd7d23bb81d143ce302a3150197c588c6140ac9edd90e0fe6b656495f4c8f807021e28eb5b9501fd52</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 199.73</string>
-          <string>vstem 0 96.17</string>
-          <string>vstem 176.1 23.63</string>
+          <string>hstem 0 199</string>
+          <string>vstem 0 96</string>
+          <string>vstem 176 23</string>
         </array>
       </dict>
     </array>

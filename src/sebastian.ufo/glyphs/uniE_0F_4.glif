@@ -6,22 +6,26 @@
   <anchor x="6" y="123" name="stemDownNW"/>
   <outline>
     <contour>
-      <point x="285.305" y="129.76" type="line" smooth="yes"/>
-      <point x="294.511" y="129.76"/>
-      <point x="295.395" y="128.926"/>
-      <point x="291.442" y="122.088" type="curve" smooth="yes"/>
-      <point x="149.524" y="-123.392" type="line" smooth="yes"/>
-      <point x="147.285" y="-127.264"/>
-      <point x="146.456" y="-127.994"/>
-      <point x="144.154" y="-123.392" type="curve"/>
-      <point x="2.23631" y="122.856" type="line"/>
-      <point x="-0.83219" y="128.993"/>
-      <point x="-0.0650898" y="129.76"/>
-      <point x="6.8391" y="129.76" type="curve" smooth="yes"/>
+      <point x="285" y="130" type="line" smooth="yes"/>
+      <point x="295" y="130"/>
+      <point x="295" y="129"/>
+      <point x="291" y="122" type="curve" smooth="yes"/>
+      <point x="150" y="-123" type="line"/>
+      <point x="147" y="-127"/>
+      <point x="146" y="-128"/>
+      <point x="144" y="-123" type="curve"/>
+      <point x="2" y="123" type="line"/>
+      <point x="-1" y="129"/>
+      <point x="0" y="130"/>
+      <point x="7" y="130" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Large arrow down (lowest pitch) black notehead</string>
+  <key>_name</key>
+  <string>noteheadLargeArrowDownBlack</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -39,13 +43,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d0d5c11032b8a7eeb8d09f958e7edd5495f8ad6fffabb4ef37f17e641c045d40bdfd01c7467da7cdf840767b6540149ad539a34e441acb640256c38e6c8c1a01</string>
+    <string>w294m285,130c295,130 295,129 291,122l150,-123c147,-127 146,-128 144,-123l2,123c-1,129 0,130 7,130</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 129.76 -20</string>
+          <string>hstem 129 -20</string>
         </array>
       </dict>
     </array>

@@ -116,6 +116,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Triple sharp</string>
+  <key>_name</key>
+  <string>accidentalTripleSharp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -193,13 +197,13 @@
           <string>hstem -285 -21</string>
           <string>hstem -43 86</string>
           <string>hstem 306 -20</string>
-          <string>vstem -0.35 73.8</string>
-          <string>vstem 46.45 27</string>
-          <string>vstem 73.45 80.1</string>
-          <string>vstem 153.55 27</string>
-          <string>vstem 180.55 189.45</string>
+          <string>vstem 0 73</string>
+          <string>vstem 46 27</string>
+          <string>vstem 73 80</string>
+          <string>vstem 153 27</string>
+          <string>vstem 180 189</string>
           <string>vstem 357 86</string>
-          <string>vstem 370 59.98</string>
+          <string>vstem 370 59</string>
         </array>
       </dict>
     </array>

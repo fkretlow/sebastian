@@ -91,6 +91,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Quarter-tone flat</string>
+  <key>_name</key>
+  <string>accidentalQuarterToneFlatArrowUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -148,11 +152,11 @@
         <key>stems</key>
         <array>
           <string>hstem -144 -21</string>
-          <string>hstem 112.94 33.06</string>
+          <string>hstem 112 33</string>
           <string>hstem 575 -20</string>
           <string>vstem 56 30</string>
           <string>vstem 56 50</string>
-          <string>vstem 203.65 82.35</string>
+          <string>vstem 203 82</string>
         </array>
       </dict>
     </array>

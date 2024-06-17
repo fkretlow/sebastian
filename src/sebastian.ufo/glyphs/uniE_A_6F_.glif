@@ -73,6 +73,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass 6 raised by half-step 2</string>
+  <key>_name</key>
+  <string>figbass6Raised2</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -141,10 +145,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 167.31</string>
-          <string>vstem 1.4 50.</string>
-          <string>vstem 1.4 53.</string>
-          <string>vstem 139.4 48.74</string>
+          <string>hstem 0 167</string>
+          <string>vstem 1 50</string>
+          <string>vstem 1 53</string>
+          <string>vstem 139 48</string>
         </array>
       </dict>
     </array>

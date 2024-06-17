@@ -6,18 +6,18 @@
   <anchor x="320" y="46" name="stemUpSE"/>
   <outline>
     <contour>
-      <point x="0" y="-39.5078" type="curve" smooth="yes"/>
-      <point x="0" y="61.9322"/>
-      <point x="114.651" y="137.745"/>
-      <point x="207.176" y="137.745" type="curve" smooth="yes"/>
-      <point x="276.569" y="137.745"/>
-      <point x="319.815" y="97.1692"/>
-      <point x="319.815" y="40.5764" type="curve" smooth="yes"/>
-      <point x="319.815" y="-56.5924"/>
-      <point x="207.176" y="-137.745"/>
-      <point x="111.634" y="-137.745" type="curve" smooth="yes"/>
-      <point x="43.2454" y="-137.745"/>
-      <point x="0" y="-96.101"/>
+      <point x="0" y="-40" type="curve" smooth="yes"/>
+      <point x="0" y="62"/>
+      <point x="115" y="138"/>
+      <point x="207" y="138" type="curve" smooth="yes"/>
+      <point x="277" y="138"/>
+      <point x="320" y="97"/>
+      <point x="320" y="41" type="curve" smooth="yes"/>
+      <point x="320" y="-57"/>
+      <point x="207" y="-138"/>
+      <point x="112" y="-138" type="curve" smooth="yes"/>
+      <point x="43" y="-138"/>
+      <point x="0" y="-96"/>
     </contour>
   </outline>
   <lib>
@@ -39,14 +39,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5f8a8410e237e5c08d71fcfb90e88d186e3c69c4cac1381b3060cd4862ed64141d014508715bd6dad5f101c200ad58f538b8e90b02087a1bcb47814358d2d71d</string>
+    <string>w320m0,-40c0,62 115,138 207,138c277,138 320,97 320,41c320,-57 207,-138 112,-138c43,-138 0,-96 0,-40</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -116.74 -21</string>
-          <string>hstem 137.75 -20</string>
+          <string>hstem -116 -21</string>
+          <string>hstem 137 -20</string>
         </array>
       </dict>
     </array>

@@ -94,6 +94,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Three-quarter-tones sharp</string>
+  <key>_name</key>
+  <string>accidentalThreeQuarterTonesSharpArrowDown</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -105,10 +109,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -320.85 -21</string>
+          <string>hstem -320 -21</string>
           <string>hstem -43 86</string>
           <string>hstem -30 60</string>
-          <string>vstem 0 37.9</string>
+          <string>vstem 0 37</string>
           <string>vstem 100 86</string>
           <string>vstem 113 60</string>
         </array>

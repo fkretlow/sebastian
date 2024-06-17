@@ -34,6 +34,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Harmonic</string>
+  <key>_name</key>
+  <string>stringsHarmonic</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -72,16 +76,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e353a41c960b3b50bab2b5b0193328a4ebdf4445e86a457c26b69119e3fdb7bf0a08b547c43d990234b2b9c060520c1f3b56bb2711487c7da1b79bacd2b77eca</string>
+    <string>322af87d2c0a2402f61052d596bcc1a692604247ca45c2e542573fbb293f63f4cae9d88b27e325ecd551969372596c445014f190110778e74b22b5a6b414b24c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -0.32 23.74</string>
-          <string>hstem 176.58 23.74</string>
-          <string>vstem 0.69 23.74</string>
-          <string>vstem 177.58 23.74</string>
+          <string>hstem 0 23</string>
+          <string>hstem 176 23</string>
+          <string>vstem 0 23</string>
+          <string>vstem 177 23</string>
         </array>
       </dict>
     </array>

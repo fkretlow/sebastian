@@ -227,6 +227,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Combining flag 8 (1024th) below</string>
+  <key>_name</key>
+  <string>flag1024thDown</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -265,13 +269,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>56c68d780a9d6866a733499cd6909baa538f4031befd52d885d35de2c1f51713c3ad5ec3f730abe9a4b01b9277deeee3bc2660beec80652c0689cf281b122a8a</string>
+    <string>f53ddcae8a496417b60fc83219b6e3ddc9d46272231fadf86abab6fdc34445c30a92358422c0649c32b049999de082e5c3be585e23e8ab32942554b3503d6f3c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 796.73 -20</string>
+          <string>hstem 796 -20</string>
           <string>vstem 0 26</string>
           <string>vstem 242 33</string>
           <string>vstem 258 34</string>

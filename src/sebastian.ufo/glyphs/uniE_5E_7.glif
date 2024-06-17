@@ -34,6 +34,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Open</string>
+  <key>_name</key>
+  <string>brassMuteOpen</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -72,16 +76,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8bcfde06406e64c592f017490efa1de2a5d18287c7de1a57724c15b21958bd8372e7daddec1b20cd11963689346d9a34413644f84ebc8d49ffcf918b3785d989</string>
+    <string>5c8b1a606b1042543af1a715c1b9fd1088ef70b8d0515ed3ec389df4d2034454567ee5f7808f620152f9602ad69ef017bafe7c003eb620ff00c4e68fd093b37d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 9 31.</string>
-          <string>hstem 240.01 31.</string>
-          <string>vstem 0.75 31.</string>
-          <string>vstem 231.77 31.</string>
+          <string>hstem 9 31</string>
+          <string>hstem 240 31</string>
+          <string>vstem 0 31</string>
+          <string>vstem 231 31</string>
         </array>
       </dict>
     </array>

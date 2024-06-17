@@ -30,6 +30,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Large square white notehead</string>
+  <key>_name</key>
+  <string>noteheadSquareBlackWhite</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -74,10 +78,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -132.89 38.8</string>
-          <string>hstem 94.09 38.8</string>
-          <string>vstem 0 38.8</string>
-          <string>vstem 226.98 38.8</string>
+          <string>hstem -132 38</string>
+          <string>hstem 94 38</string>
+          <string>vstem 0 38</string>
+          <string>vstem 226 38</string>
         </array>
       </dict>
     </array>

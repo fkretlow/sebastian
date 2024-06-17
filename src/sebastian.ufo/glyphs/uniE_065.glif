@@ -145,6 +145,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>F clef ottava alta</string>
+  <key>_name</key>
+  <string>fClef8va</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -255,26 +259,26 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7e20193c29a467c5c9335d5812e66cd0e5f231a3dee22b0b33dbe8cb80aa502a829d4de06ff24a42f53245aa0d64a67cdd256ce5610a22707cf1c673faf9ae93</string>
+    <string>a61a158511f43437df4e3dd0c503138807081d662fa92a5fb3718b53cb14b7194fffe2933c125e2453f56e6c1a7721363bc1632f5c318b4e5638a32278179f2d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -173.61 108.</string>
-          <string>hstem -108.47 239.45</string>
-          <string>hstem 74.39 108.</string>
-          <string>hstem 199.4 53.86</string>
-          <string>hstem 283 147.86</string>
-          <string>hstem 283 249.89</string>
-          <string>hstem 283 20.17</string>
-          <string>vstem 0 218.3</string>
-          <string>vstem 170.42 22.87</string>
-          <string>vstem 202.53 34.26</string>
-          <string>vstem 291.85 36.35</string>
-          <string>vstem 323.32 22.39</string>
-          <string>vstem 399.2 123.44</string>
-          <string>vstem 573.21 108</string>
+          <string>hstem -173 108</string>
+          <string>hstem -108 239</string>
+          <string>hstem 74 108</string>
+          <string>hstem 199 53</string>
+          <string>hstem 283 147</string>
+          <string>hstem 283 249</string>
+          <string>hstem 283 20</string>
+          <string>vstem 0 218</string>
+          <string>vstem 170 22</string>
+          <string>vstem 202 34</string>
+          <string>vstem 291 36</string>
+          <string>vstem 323 22</string>
+          <string>vstem 399 123</string>
+          <string>vstem 573 108</string>
         </array>
       </dict>
     </array>

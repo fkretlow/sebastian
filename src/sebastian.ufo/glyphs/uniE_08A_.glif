@@ -53,6 +53,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Common time</string>
+  <key>_name</key>
+  <string>timeSigCommon</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -103,12 +107,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -250.6 41.6</string>
-          <string>hstem 32.8 217.1</string>
-          <string>hstem 209.6 40.3</string>
-          <string>vstem -0.5 129.9</string>
-          <string>vstem 253 157.3</string>
-          <string>vstem 293.3 117</string>
+          <string>hstem -250 41</string>
+          <string>hstem 32 217</string>
+          <string>hstem 209 40</string>
+          <string>vstem 0 129</string>
+          <string>vstem 253 157</string>
+          <string>vstem 293 117</string>
         </array>
       </dict>
     </array>

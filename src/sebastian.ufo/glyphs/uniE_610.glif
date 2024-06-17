@@ -42,6 +42,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Down bow</string>
+  <key>_name</key>
+  <string>stringsDownBow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -86,16 +90,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f3ec14bc052283c3f96650df8ef7adad9b5c0cebfc893be779387e0e175c6391b0fb5c2d6afcebc44815578eda6750a5fe03f22191d0517ded94e96aadd572e0</string>
+    <string>775bbd3168a2a40a66b6bcd4618bd4dbc642d64f9fd118d56b131a9616a75327aed484f94350fadbb2678c66e82500fb37523bf36902c920f4a647150814861e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 21 -21</string>
-          <string>hstem 204. 128.5</string>
-          <string>vstem 0 26.6</string>
-          <string>vstem 304 26.6</string>
+          <string>hstem 204 128</string>
+          <string>vstem 0 26</string>
+          <string>vstem 304 26</string>
         </array>
       </dict>
     </array>

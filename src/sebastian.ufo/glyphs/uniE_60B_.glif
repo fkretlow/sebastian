@@ -49,6 +49,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Rim only</string>
+  <key>_name</key>
+  <string>windRimOnly</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -93,16 +97,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d4a3fb4ee9304cf2721e7247b132a8446c72ac02cb35f09a07cb82191a8842aca984b9000d63c127b574a543ba3ff3be388cda3ae54560152564b03adf975ea1</string>
+    <string>52f72b1d6ba26999e980d34a8fba06eac453a6ec669187b0407040e073a59aa30ca7fd1919a0b164bef90dd358865fb2175a7c0302b9ab3b3867642cf8d9d921</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0.06 30.63</string>
-          <string>hstem 231.42 29.61</string>
-          <string>vstem 0.46 30.66</string>
-          <string>vstem 231.5 30.27</string>
+          <string>hstem 0 30</string>
+          <string>hstem 231 29</string>
+          <string>vstem 0 30</string>
+          <string>vstem 231 30</string>
         </array>
       </dict>
     </array>

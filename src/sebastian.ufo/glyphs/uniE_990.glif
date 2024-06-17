@@ -7,24 +7,32 @@
   <unicode hex="F064"/>
   <outline>
     <contour>
-      <point x="0.0015" y="89.25" type="qcurve"/>
-      <point x="34.1265" y="131.25"/>
-      <point x="115.502" y="131.25" type="qcurve" smooth="yes"/>
-      <point x="196.876" y="131.25"/>
-      <point x="231.001" y="89.25" type="qcurve"/>
-      <point x="231.001" y="60.375"/>
-      <point x="225.751" y="7.875"/>
-      <point x="225.751" y="-10.5" type="qcurve" smooth="yes"/>
-      <point x="225.751" y="-131.25" type="line"/>
-      <point x="217.876" y="-131.25"/>
-      <point x="157.501" y="-107.625"/>
-      <point x="115.501" y="-107.625" type="qcurve" smooth="yes"/>
-      <point x="73.5015" y="-107.625"/>
-      <point x="13.1265" y="-131.25"/>
-      <point x="5.25147" y="-131.25" type="qcurve"/>
-      <point x="5.25147" y="-10.5" type="line" smooth="yes"/>
-      <point x="5.25147" y="7.875"/>
-      <point x="0.00149619" y="60.375"/>
+      <point x="0" y="89" type="qcurve"/>
+      <point x="34" y="131"/>
+      <point x="116" y="131" type="qcurve" smooth="yes"/>
+      <point x="197" y="131"/>
+      <point x="231" y="89" type="qcurve"/>
+      <point x="231" y="60"/>
+      <point x="226" y="8"/>
+      <point x="226" y="-11" type="qcurve" smooth="yes"/>
+      <point x="226" y="-131" type="line"/>
+      <point x="218" y="-131"/>
+      <point x="158" y="-108"/>
+      <point x="116" y="-108" type="qcurve" smooth="yes"/>
+      <point x="74" y="-108"/>
+      <point x="13" y="-131"/>
+      <point x="5" y="-131" type="qcurve"/>
+      <point x="5" y="-11" type="line" smooth="yes"/>
+      <point x="5" y="8"/>
+      <point x="0" y="60"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>_description</key>
+  <string>Punctum</string>
+  <key>_name</key>
+  <string>chantPunctum</string>
+  </dict>
+  </lib>
 </glyph>

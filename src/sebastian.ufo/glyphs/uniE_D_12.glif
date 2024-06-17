@@ -61,6 +61,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering 2 (index finger)</string>
+  <key>_name</key>
+  <string>fingering2</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -105,17 +109,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f3e697b0a52d7d7be0483cad790052325693c1d9d15b4fbcf5dc11659383ac67395a8b35530e01e114fb8655fe1cf5d32f7231d67413b3147af72b0514a4ade0</string>
+    <string>dded93109272fd38d4a074cbdbc0bd39ca277eaf9f68e0124bc0e78342666ada0decbc78d026db6cb98a94529957afb5a62e419011b0fa77cd62d342a133e9f8</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -5 46.92</string>
-          <string>hstem 27.64 38.25</string>
-          <string>hstem 148.51 106.59</string>
-          <string>vstem 8.57 65.79</string>
-          <string>vstem 133. 51.51</string>
+          <string>hstem -5 46</string>
+          <string>hstem 27 38</string>
+          <string>hstem 148 106</string>
+          <string>vstem 8 65</string>
+          <string>vstem 133 51</string>
         </array>
       </dict>
     </array>

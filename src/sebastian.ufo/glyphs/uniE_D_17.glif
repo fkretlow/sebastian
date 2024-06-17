@@ -69,21 +69,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering p (pulgar; right-hand thumb for guitar)</string>
+  <key>_name</key>
+  <string>fingeringPLower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>052393b47d747ff6a4e3848fb08e2d64bdc3826f7f49a2cb7be42c57138eec69bad42e36939a5092bad08df3185f196f496c57281aef1a57a1d15040e6544844</string>
+    <string>24575d5cbebf9051ab7502defa8abf2551b150dd23721e7323f582773b765134a57214545ca09c801d4b041aa635fb28c29a57d64c0f0cc717b8f1411342c8b7</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -100.56 -21</string>
-          <string>hstem -4.47 23.1</string>
-          <string>hstem 226.49 23.63</string>
-          <string>hstem 228.1 22.02</string>
+          <string>hstem -100 -21</string>
+          <string>hstem -4 23</string>
+          <string>hstem 226 23</string>
+          <string>hstem 228 22</string>
         </array>
       </dict>
     </array>

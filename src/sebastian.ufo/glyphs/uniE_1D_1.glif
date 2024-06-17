@@ -71,6 +71,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Double whole note (square)</string>
+  <key>_name</key>
+  <string>noteDoubleWholeSquare</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -125,8 +129,8 @@
           <string>hstem -134 84</string>
           <string>hstem 50 84</string>
           <string>hstem 171 -20</string>
-          <string>vstem 0 29.89</string>
-          <string>vstem 420.11 29.89</string>
+          <string>vstem 0 29</string>
+          <string>vstem 420 29</string>
         </array>
       </dict>
     </array>

@@ -40,6 +40,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Whole note (semibreve)</string>
+  <key>_name</key>
+  <string>noteWhole</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -66,16 +70,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>620999c527aefbc2811c993d1f20003c3be3f53503e6be6de01c50e9bd3ea9167271dd7e7cf36c2b55d5200273e115196f3d7abec29cac46f5548e4d2ad99160</string>
+    <string>ed5a9fef5ab2ca145c593b9729f74c9a810dff64d4ff214e2bbd4e4d04fdb5f3572659ae413f0445b2bc1cd2ced9a18d7a272df39599ea13e34963ee470fb3c6</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -129.68 26.19</string>
-          <string>hstem 103.6 26.08</string>
-          <string>vstem 0 113.02</string>
-          <string>vstem 298.86 113.44</string>
+          <string>hstem -129 26</string>
+          <string>hstem 103 26</string>
+          <string>vstem 0 113</string>
+          <string>vstem 298 113</string>
         </array>
       </dict>
     </array>

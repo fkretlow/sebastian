@@ -20,7 +20,7 @@
       <point x="42" y="497" type="curve" smooth="yes"/>
       <point x="42" y="717"/>
       <point x="70" y="862"/>
-      <point x="120" y="960" type="curve" smooth="yes"/>
+      <point x="120" y="960" type="curve"/>
       <point x="122" y="965"/>
       <point x="122" y="976"/>
       <point x="122" y="976" type="curve"/>
@@ -37,6 +37,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Triple-height left parenthesis</string>
+  <key>_name</key>
+  <string>csymParensLeftVeryTall</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

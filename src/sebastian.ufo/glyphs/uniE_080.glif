@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature 0</string>
+  <key>_name</key>
+  <string>timeSig0</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -80,10 +84,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -250.35 36.72</string>
-          <string>hstem 213.63 36.72</string>
-          <string>vstem 25.64 111.53</string>
-          <string>vstem 288.83 111.53</string>
+          <string>hstem -250 36</string>
+          <string>hstem 213 36</string>
+          <string>vstem 25 111</string>
+          <string>vstem 288 111</string>
         </array>
       </dict>
     </array>

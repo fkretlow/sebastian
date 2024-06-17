@@ -140,6 +140,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Three-quarter-tones flat</string>
+  <key>_name</key>
+  <string>accidentalThreeQuarterTonesFlatArrowUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -202,20 +206,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3be5ec62791e90c0bc8a8ca3c20e766ea0ab7221197cffd9ad6f6141c60a247eff89a4801cd57d74fdd889aa1e67167a3620cfffbadc3945ceb2a6c311bc462f</string>
+    <string>bb31943751aa49229e1f263a1ecc77505619b9bde3787967ad1f4296beceaa84965ba0f11378240ca314280948934d6ee138a0bcbdc6d1ebd7184bb29873ab8e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -142 -21</string>
-          <string>hstem 574.15 -20</string>
-          <string>vstem 0 29.45</string>
-          <string>vstem 0 47.5</string>
-          <string>vstem 0 54.15</string>
-          <string>vstem 193.8 47.55</string>
-          <string>vstem 193.8 53.27</string>
-          <string>vstem 193.8 28.55</string>
+          <string>hstem 574 -20</string>
+          <string>vstem 0 29</string>
+          <string>vstem 0 47</string>
+          <string>vstem 0 54</string>
+          <string>vstem 193 47</string>
+          <string>vstem 193 53</string>
+          <string>vstem 193 28</string>
         </array>
       </dict>
     </array>

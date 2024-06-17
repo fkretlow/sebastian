@@ -78,18 +78,22 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Slide-trill with two-note suffix (Muffat)</string>
+  <key>_name</key>
+  <string>ornamentPrecompSlideTrillSuffixMuffat</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ff262bac388f0e4be1bd50a9054a0ff31e2cca737f773cbff07c05d78ba2cdfad06915f79d3d6265e7f1ae5286da8d28f9e808a1ca15b54d7faaba2858aaba5c</string>
+    <string>9cb5d805f005a66f8e6a4ee260a7b055b9786df73d9c0fa22a72c419cf06c982d65a5c924dba529203e32b51de9996b5213c931df03305aee485f3a590b22867</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -5.92 -21</string>
+          <string>hstem -5 -21</string>
           <string>hstem 591 -20</string>
           <string>vstem 912 36</string>
         </array>

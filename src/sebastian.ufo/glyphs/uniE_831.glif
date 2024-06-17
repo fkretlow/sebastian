@@ -8,13 +8,13 @@
       <point x="0" y="507"/>
       <point x="1" y="504"/>
       <point x="2" y="502" type="curve" smooth="yes"/>
-      <point x="248" y="8" type="line" smooth="yes"/>
+      <point x="248" y="8" type="line"/>
       <point x="251" y="3"/>
       <point x="256" y="0"/>
       <point x="263" y="0" type="curve" smooth="yes"/>
       <point x="269" y="0"/>
       <point x="274" y="3"/>
-      <point x="277" y="8" type="curve" smooth="yes"/>
+      <point x="277" y="8" type="curve"/>
       <point x="530" y="502" type="line" smooth="yes"/>
       <point x="531" y="504"/>
       <point x="532" y="507"/>
@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Guitar vibrato bar dip</string>
+  <key>_name</key>
+  <string>guitarVibratoBarDip</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

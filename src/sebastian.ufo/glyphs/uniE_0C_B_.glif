@@ -6,25 +6,29 @@
   <anchor x="4" y="16" name="stemDownNW"/>
   <outline>
     <contour>
-      <point x="364" y="25.8" type="line" smooth="yes"/>
-      <point x="364" y="-63.44"/>
-      <point x="277.596" y="-126"/>
+      <point x="364" y="26" type="line" smooth="yes"/>
+      <point x="364" y="-63"/>
+      <point x="278" y="-126"/>
       <point x="182" y="-126" type="curve" smooth="yes"/>
-      <point x="82.7273" y="-126"/>
-      <point x="0" y="-60.68"/>
-      <point x="0" y="25.8" type="curve" smooth="yes"/>
-      <point x="0" y="104.92" type="line" smooth="yes"/>
-      <point x="0" y="126.08"/>
+      <point x="83" y="-126"/>
+      <point x="0" y="-61"/>
+      <point x="0" y="26" type="curve" smooth="yes"/>
+      <point x="0" y="105" type="line" smooth="yes"/>
+      <point x="0" y="126"/>
       <point x="0" y="127"/>
-      <point x="21.1414" y="127" type="curve" smooth="yes"/>
-      <point x="335.505" y="127" type="line" smooth="yes"/>
-      <point x="361.242" y="127"/>
-      <point x="364" y="126.08"/>
-      <point x="364" y="98.48" type="curve" smooth="yes"/>
+      <point x="21" y="127" type="curve" smooth="yes"/>
+      <point x="336" y="127" type="line" smooth="yes"/>
+      <point x="361" y="127"/>
+      <point x="364" y="126"/>
+      <point x="364" y="98" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Moon notehead black</string>
+  <key>_name</key>
+  <string>noteheadMoonBlack</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -42,7 +46,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>240ac6f96c1cc23f7bdef5355b9addb471886847852c075d88ee40fa2a64cf4683863fe259c67f28a7f875c5470b0fa17e363761a96bc1cf0706df6148501049</string>
+    <string>w363m364,26c364,-63 278,-126 182,-126c83,-126 0,-61 0,26l0,105c0,126 0,127 21,127l336,127c361,127 364,126 364,98</string>
     <key>hintSetList</key>
     <array>
       <dict>

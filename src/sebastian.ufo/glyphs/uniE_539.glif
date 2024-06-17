@@ -253,6 +253,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Sforzato</string>
+  <key>_name</key>
+  <string>dynamicSforzato</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -363,29 +367,29 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fa1ef9c04d4f08d15eee8aaea79ccfbad0932390816d98914ce609437fd56b519a30749379dd648b3e49f14c14609adfdccc28d509a17ee59552df34974ea6b8</string>
+    <string>024bf2d79c7c9ef01e143529f26a9217175b1513f1bcfc9a1b1a19b6f42dc3f09f9a827ba5e4d327067a0c4391bb65b33fa88732aa149b1dc497f3ca3e6f3014</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -164.24 27.6</string>
+          <string>hstem -164 27</string>
           <string>hstem -12 47</string>
           <string>hstem -8 29</string>
           <string>hstem 29 218</string>
           <string>hstem 154 100</string>
           <string>hstem 196 51</string>
-          <string>hstem 215.72 31.28</string>
+          <string>hstem 215 31</string>
           <string>hstem 226 28</string>
-          <string>hstem 279.2 128.8</string>
-          <string>hstem 380.4 27.6</string>
+          <string>hstem 279 128</string>
+          <string>hstem 380 27</string>
           <string>vstem 0 71</string>
           <string>vstem 0 56</string>
           <string>vstem 42 46</string>
-          <string>vstem 120.68 88.32</string>
+          <string>vstem 120 88</string>
           <string>vstem 143 51</string>
           <string>vstem 156 65</string>
-          <string>vstem 514.44 88.32</string>
+          <string>vstem 514 88</string>
           <string>vstem 664 64</string>
         </array>
       </dict>

@@ -130,6 +130,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Reversed flat and flat with arrow up</string>
+  <key>_name</key>
+  <string>accidentalReversedFlatAndFlatArrowUp</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -174,18 +178,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bff1cdbd3409488647c01389ef3c76e7d0c3baf7de298beeb72677da4282585df66dd2650b96c89f3753655a837a40952c3d1e0f5156a3503941e9523cd109e5</string>
+    <string>33a4db79b0021884b6fafb0020ef6962ec9e810570cdfee9ea69c8f692e884ab877933fc78c529327b4271f7404b2cde0025344fbf9827c295c82cc808e14a0d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -142.27 -21</string>
+          <string>hstem -142 -21</string>
           <string>hstem 575 -20</string>
-          <string>vstem 0 75.46</string>
+          <string>vstem 0 75</string>
           <string>vstem 168 50</string>
           <string>vstem 177 32</string>
-          <string>vstem 310.54 75.46</string>
+          <string>vstem 310 75</string>
         </array>
       </dict>
     </array>

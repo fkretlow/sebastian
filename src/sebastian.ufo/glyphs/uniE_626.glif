@@ -120,24 +120,28 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Change bow direction, indeterminate</string>
+  <key>_name</key>
+  <string>stringsChangeBowDirection</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4cb231766957a45dd6924c718ef720d29b4b4b624c4c6f98cafb18bb5c62f9f4713a9e5f184d4ba031901f0263e868d0db01f5d7f691f7b260320fc98630ed91</string>
+    <string>58daa103402ce4772a71fb1e86dc4e8541fccb5f74de8700b796809594a375aa0976cb9afbb1db411416930b48259bbf9534517edfc90b759002e4139331eef1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -88.25 -21</string>
-          <string>hstem 204 128.5</string>
-          <string>hstem 469.25 -20</string>
-          <string>vstem 0 22.75</string>
-          <string>vstem 104 26.6</string>
-          <string>vstem 408 26.6</string>
-          <string>vstem 791.25 22.75</string>
+          <string>hstem -88 -21</string>
+          <string>hstem 204 128</string>
+          <string>hstem 469 -20</string>
+          <string>vstem 0 22</string>
+          <string>vstem 104 26</string>
+          <string>vstem 408 26</string>
+          <string>vstem 791 22</string>
         </array>
       </dict>
     </array>

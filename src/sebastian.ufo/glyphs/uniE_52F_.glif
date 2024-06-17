@@ -194,6 +194,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>ff</string>
+  <key>_name</key>
+  <string>dynamicFF</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -250,19 +254,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7c08c4bc47deee2515eed183be84bd6431c676dc13ca790bb3f05f55d52994a2d2ed7bdc4b7c008657ac00001a44b4848c8c44dda398d59478a932e650e4d7a7</string>
+    <string>af0752ab862c6f398e979c7eaeb48bbf0bb6d3211871965ecd366310f1bac5f9b629ced16d8b76675d919943bc26259494fe05792dfa43f4b5d5e2e35ed094ae</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -172.24 128.8</string>
-          <string>hstem -172.24 27.6</string>
-          <string>hstem 207.72 31.28</string>
-          <string>hstem 271.2 128.8</string>
-          <string>hstem 372.4 27.6</string>
-          <string>vstem -103 88.32</string>
-          <string>vstem 548.36 88.32</string>
+          <string>hstem -172 128</string>
+          <string>hstem -172 27</string>
+          <string>hstem 207 31</string>
+          <string>hstem 271 128</string>
+          <string>hstem 372 27</string>
+          <string>vstem -103 88</string>
+          <string>vstem 548 88</string>
         </array>
       </dict>
     </array>

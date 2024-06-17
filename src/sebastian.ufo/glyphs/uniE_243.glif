@@ -71,6 +71,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Combining flag 2 (16th) below</string>
+  <key>_name</key>
+  <string>flag16thDown</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -115,7 +119,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 798.43 -20</string>
+          <string>hstem 798 -20</string>
           <string>vstem 0 26</string>
           <string>vstem 242 33</string>
           <string>vstem 258 34</string>

@@ -92,6 +92,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature fraction ½</string>
+  <key>_name</key>
+  <string>timeSigFractionHalf</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -103,14 +107,14 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -12 38.02</string>
+          <string>hstem -12 38</string>
           <string>hstem 7 -21</string>
-          <string>hstem 22.53 238.62</string>
-          <string>hstem 151.35 109.8</string>
+          <string>hstem 22 238</string>
+          <string>hstem 151 109</string>
           <string>hstem 475 -20</string>
-          <string>vstem 60.14 36.86</string>
-          <string>vstem 239.27 62.08</string>
-          <string>vstem 363.04 44.23</string>
+          <string>vstem 60 36</string>
+          <string>vstem 239 62</string>
+          <string>vstem 363 44</string>
         </array>
       </dict>
     </array>

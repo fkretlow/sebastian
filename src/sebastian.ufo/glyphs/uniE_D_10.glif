@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering 0 (open string)</string>
+  <key>_name</key>
+  <string>fingering0</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -81,7 +85,7 @@
         <key>stems</key>
         <array>
           <string>hstem 18 -21</string>
-          <string>hstem 250.44 -20</string>
+          <string>hstem 250 -20</string>
           <string>vstem 0 53</string>
           <string>vstem 129 53</string>
         </array>

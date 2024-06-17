@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Accent below</string>
+  <key>_name</key>
+  <string>articAccentBelow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -53,13 +57,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>42be327ac434567b7cc1b9a7b04ee7aed4286eb750ef8c3a2ebed6de42d4cff19790e4995208c3612cd8b13787df2b4e822a8f5821becc5f7fbb31b5ef2400b5</string>
+    <string>6b84cebde6ac0b857723afe29a183118cdd663c5fbb2e292effe5d738b59797e501f865c2d7fc2a92cc31268e2554f0d79876747c79339c090a33a252106d892</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0.24 -20</string>
+          <string>hstem 0 -20</string>
         </array>
       </dict>
     </array>

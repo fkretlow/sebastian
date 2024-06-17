@@ -6,42 +6,46 @@
   <anchor x="4" y="16" name="stemDownNW"/>
   <outline>
     <contour>
-      <point x="32.2799" y="25.8" type="line" smooth="yes"/>
-      <point x="32.2804" y="-37.68"/>
-      <point x="94.8399" y="-94.72"/>
-      <point x="183.16" y="-94.72" type="curve" smooth="yes"/>
-      <point x="267.8" y="-94.72"/>
-      <point x="334.04" y="-40.44"/>
-      <point x="334.04" y="25.8" type="curve" smooth="yes"/>
-      <point x="334.04" y="72.72" type="line" smooth="yes"/>
-      <point x="334.04" y="91.12"/>
-      <point x="331.28" y="95.72"/>
-      <point x="307.36" y="95.72" type="curve" smooth="yes"/>
-      <point x="57.1199" y="95.72" type="line" smooth="yes"/>
-      <point x="35.9599" y="95.72"/>
-      <point x="32.2795" y="92.96"/>
-      <point x="32.2795" y="72.72" type="curve" smooth="yes"/>
+      <point x="32" y="26" type="line" smooth="yes"/>
+      <point x="32" y="-38"/>
+      <point x="95" y="-95"/>
+      <point x="183" y="-95" type="curve" smooth="yes"/>
+      <point x="268" y="-95"/>
+      <point x="334" y="-40"/>
+      <point x="334" y="26" type="curve" smooth="yes"/>
+      <point x="334" y="73" type="line" smooth="yes"/>
+      <point x="334" y="91"/>
+      <point x="331" y="96"/>
+      <point x="307" y="96" type="curve" smooth="yes"/>
+      <point x="57" y="96" type="line" smooth="yes"/>
+      <point x="36" y="96"/>
+      <point x="32" y="93"/>
+      <point x="32" y="73" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="365.32" y="25.8" type="line" smooth="yes"/>
-      <point x="365.319" y="-63.44"/>
-      <point x="278.84" y="-126"/>
-      <point x="183.16" y="-126" type="curve" smooth="yes"/>
-      <point x="83.7999" y="-126"/>
-      <point x="1" y="-60.68"/>
-      <point x="1" y="25.8" type="curve" smooth="yes"/>
-      <point x="1" y="104.92" type="line" smooth="yes"/>
-      <point x="1" y="126.08"/>
+      <point x="365" y="26" type="line" smooth="yes"/>
+      <point x="365" y="-63"/>
+      <point x="279" y="-126"/>
+      <point x="183" y="-126" type="curve" smooth="yes"/>
+      <point x="84" y="-126"/>
+      <point x="1" y="-61"/>
+      <point x="1" y="26" type="curve" smooth="yes"/>
+      <point x="1" y="105" type="line" smooth="yes"/>
+      <point x="1" y="126"/>
       <point x="1" y="127"/>
-      <point x="22.16" y="127" type="curve" smooth="yes"/>
-      <point x="336.8" y="127" type="line" smooth="yes"/>
-      <point x="362.56" y="127"/>
-      <point x="365.321" y="126.08"/>
-      <point x="365.32" y="98.48" type="curve" smooth="yes"/>
+      <point x="22" y="127" type="curve" smooth="yes"/>
+      <point x="337" y="127" type="line" smooth="yes"/>
+      <point x="363" y="127"/>
+      <point x="365" y="126"/>
+      <point x="365" y="98" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Moon notehead white</string>
+  <key>_name</key>
+  <string>noteheadMoonWhite</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -80,16 +84,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8d66730498d8232b4311359693474d02364d1e702145de2947c2696321cde4f1d4adf1873d27595f73d46584212c7e6d753c9fb9ff0961e404ecd95e41d5c61b</string>
+    <string>7f3c93cc5145bb7b7a5bdd317af472db02d9ab4ae30e6b2a7a7d7df61dc88ce4fafd2841307df337bd5e958b1bd561dde79e1b8edf2b1e61e007c81f9a47af39</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -126 31.28</string>
-          <string>hstem 95.72 31.28</string>
-          <string>vstem 1 31.28</string>
-          <string>vstem 334.04 31.28</string>
+          <string>hstem -126 31</string>
+          <string>hstem 95 31</string>
+          <string>vstem 1 31</string>
+          <string>vstem 334 31</string>
         </array>
       </dict>
     </array>

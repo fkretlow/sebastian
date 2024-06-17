@@ -124,6 +124,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Harmon mute, stem extended, left</string>
+  <key>_name</key>
+  <string>brassHarmonMuteStemHalfLeft</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -150,17 +154,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4c3b5b6e551af32e8022a86d570a628ed72051cd7c803c35fd3081ee6057863d66f7dec2feb4586c508eebf0b217d255f5fd8221b5b1689b2a57184e9bb6a4ea</string>
+    <string>dd8c76bb3cc3017de2787aed27100d80ea47cdbf59ef995987b7ec1a94411b2b47a8339e590f8ec3236b8cf6287d3b8e08cdc9f6e911bf3071d8db09a7026162</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -53.13 -21</string>
-          <string>hstem 163.37 30.4</string>
-          <string>hstem 163.37 28.5</string>
-          <string>hstem 431.27 -20</string>
-          <string>vstem 160.94 30.4</string>
+          <string>hstem -53 -21</string>
+          <string>hstem 163 30</string>
+          <string>hstem 163 28</string>
+          <string>hstem 431 -20</string>
+          <string>vstem 160 30</string>
         </array>
       </dict>
     </array>

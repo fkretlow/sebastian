@@ -32,7 +32,7 @@
       <point x="116" y="1" type="curve" smooth="yes"/>
       <point x="116" y="-216"/>
       <point x="76" y="-345"/>
-      <point x="4" y="-445" type="curve" smooth="yes"/>
+      <point x="4" y="-445" type="curve"/>
       <point x="2" y="-447"/>
       <point x="0" y="-452"/>
       <point x="0" y="-457" type="curve" smooth="yes"/>
@@ -40,6 +40,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Right parenthesis for whole time signature</string>
+  <key>_name</key>
+  <string>timeSigParensRight</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

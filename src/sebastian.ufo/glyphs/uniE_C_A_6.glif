@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Quarter note (crotchet) stem down</string>
+  <key>_name</key>
+  <string>metNoteQuarterDown</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -68,9 +72,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -465.8 -21</string>
+          <string>hstem -465 -21</string>
           <string>hstem 226 -20</string>
-          <string>vstem 0 20.8</string>
+          <string>vstem 0 20</string>
         </array>
       </dict>
     </array>

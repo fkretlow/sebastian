@@ -53,6 +53,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Accent-staccato above</string>
+  <key>_name</key>
+  <string>articAccentStaccatoAbove</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -79,14 +83,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6e097cbd8c55464fe2a2db8a16dc4325f8fa8b05c5e041a7b864e0a698b2d410d71c0d0e7aeaaa581e24f2d14b67fd1f041569593a5c3bdefa14bbe611dab158</string>
+    <string>d1485e9bf0d6e0bb5027cc234a0593df2903bcfef80756f0f9536e3ca51a26b8be0e3bd889be173e517028ed3b3e81b92a82e5e1971293e86a54200324ba2e5d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -48 110</string>
-          <string>hstem 328.25 -20</string>
+          <string>hstem 328 -20</string>
         </array>
       </dict>
     </array>

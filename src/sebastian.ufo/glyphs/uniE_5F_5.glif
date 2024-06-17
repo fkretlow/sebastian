@@ -33,6 +33,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Three-quarters closed hole</string>
+  <key>_name</key>
+  <string>windThreeQuartersClosedHole</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -78,8 +82,8 @@
         <key>stems</key>
         <array>
           <string>hstem 0 128</string>
-          <string>hstem 228.95 33.05</string>
-          <string>vstem 0 33.02</string>
+          <string>hstem 228 33</string>
+          <string>vstem 0 33</string>
           <string>vstem 134 128</string>
         </array>
       </dict>

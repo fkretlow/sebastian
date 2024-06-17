@@ -170,6 +170,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Segno (serpent with vertical lines)</string>
+  <key>_name</key>
+  <string>segnoSerpent2</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -256,15 +260,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ba22116d697664c0f13e0ed9ea04031532879f0075d82d551f1450c69c743e29d49c3f182efb89a04be54f7f0523e9e7b44da96c9864a7f52a31360bfff63dcc</string>
+    <string>338967c008917782a030032fbd6a981e0834940ee1e1b5a2a7f752cb7085941818876d998f2a5756e2fcfe86645067e8215a1fb1b0065e1444ea9e0d483c290d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -12 24</string>
-          <string>hstem 68.51 138.49</string>
-          <string>hstem 943 138.49</string>
+          <string>hstem 68 138</string>
+          <string>hstem 943 138</string>
           <string>hstem 1138 24</string>
           <string>vstem 0 64</string>
           <string>vstem 0 131</string>

@@ -16,7 +16,7 @@
       <point x="298" y="14" type="curve"/>
       <point x="298" y="14"/>
       <point x="275" y="76"/>
-      <point x="269" y="91" type="curve" smooth="yes"/>
+      <point x="269" y="91" type="curve"/>
       <point x="265" y="100"/>
       <point x="263" y="106"/>
       <point x="263" y="112" type="curve" smooth="yes"/>
@@ -58,6 +58,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>White arrowhead left (W)</string>
+  <key>_name</key>
+  <string>arrowheadWhiteLeft</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

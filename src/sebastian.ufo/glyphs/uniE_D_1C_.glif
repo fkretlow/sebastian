@@ -42,21 +42,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fingering c (right-hand little finger for guitar)</string>
+  <key>_name</key>
+  <string>fingeringCLower</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>06284200d6a8c57ba204de2126bfd411ff0bda0b37363e29b6275f33972126d969ee87727f5b4e8e4adfb88110dc0eefd711ae9e3f94250feacdf91fa1f02b00</string>
+    <string>3612eb55bb894aa015bda17260279c5b157ee2b6dbb4e3a53a320f7e468c975243f8d2e402541e96328f6fc115327c79f29fd477eb6850c2f5e0e26a02e352bd</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6.45 20.41</string>
-          <string>hstem 143.95 104.2</string>
-          <string>vstem 26.86 196.04</string>
-          <string>vstem 161.67 61.23</string>
+          <string>hstem -6 20</string>
+          <string>hstem 143 104</string>
+          <string>vstem 26 196</string>
+          <string>vstem 161 61</string>
         </array>
       </dict>
     </array>

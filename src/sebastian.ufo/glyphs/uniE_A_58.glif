@@ -117,6 +117,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass 5 raised by half-step</string>
+  <key>_name</key>
+  <string>figbass5Raised1</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -167,22 +171,22 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6aebbfc3ea1bbf4ba456d686dbeddb8cdf73df6f7ddbced652ddaca1c038696a35589416a9287078634144b6c8ba542ee9df383cdca1d6124f0dd0233f370f06</string>
+    <string>2e9612c88c8934bdca22daba7c224f6fedcccc9170c1415c676bc73438f2e5415d450723417f9c9c5fd6d383590bf5b11d6d8f7e4ced0c0b34bcdf39a044ecca</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -6 24.6</string>
-          <string>hstem 156.25 24.6</string>
-          <string>hstem 231 41.95</string>
-          <string>hstem 248.95 27.2</string>
-          <string>hstem 355.65 -20</string>
-          <string>vstem 20 57.66</string>
-          <string>vstem 20 55.93</string>
-          <string>vstem 30.5 26.22</string>
-          <string>vstem 156.31 48.93</string>
-          <string>vstem 247.55 27.15</string>
+          <string>hstem -6 24</string>
+          <string>hstem 156 24</string>
+          <string>hstem 231 41</string>
+          <string>hstem 248 27</string>
+          <string>hstem 355 -20</string>
+          <string>vstem 20 57</string>
+          <string>vstem 20 55</string>
+          <string>vstem 30 26</string>
+          <string>vstem 156 48</string>
+          <string>vstem 247 27</string>
         </array>
       </dict>
     </array>

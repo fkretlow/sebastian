@@ -58,6 +58,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Figured bass 6</string>
+  <key>_name</key>
+  <string>figbass6</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -108,19 +112,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b09f5dc5227eeb3362a29ce7ac934b0be3c0a1fc84276626ef23db08d631718a189ac1e65733939c10a4ae87c28003e363b2477a03b0af5f77c3692fbd67ee45</string>
+    <string>42fa8f472eadf9dfb612bec8a4a07142a9e43f654d361f70c4bcf88173ea7f0f86460397891602abb8cb863c363fc7a8510c8525823d32b505c0bc6f41309b79</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -4 167.31</string>
-          <string>hstem 144.5 137.61</string>
-          <string>hstem 202.91 79.2</string>
-          <string>vstem 20 52.41</string>
-          <string>vstem 20 55.55</string>
-          <string>vstem 137.39 64.98</string>
-          <string>vstem 167.64 48.36</string>
+          <string>hstem -4 167</string>
+          <string>hstem 144 137</string>
+          <string>hstem 202 79</string>
+          <string>vstem 20 52</string>
+          <string>vstem 20 55</string>
+          <string>vstem 137 64</string>
+          <string>vstem 167 48</string>
         </array>
       </dict>
     </array>

@@ -93,20 +93,24 @@
   <guideline angle="0" x="0" y="373"/>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Quarter (crotchet) rest</string>
+  <key>_name</key>
+  <string>restQuarter</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3d1e97e800dc0fd7622cdb36e3a71e6e3c5d4993f8987f5bc1c3009041f55f2e76cea04076c7a0cf6bf679da2b1132280317e9305915dcaebdfec4cc9cc18cd5</string>
+    <string>0aeb9cb03929013b3c041287589f23cf0cfe11d078217f5a4e4423a6207506d70265e7c10824485d5a5ab666f821b4433a1898f12df5ae5f5ecc012e3c6f78d1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -335.46 -21</string>
-          <string>hstem 374.12 -20</string>
-          <string>vstem -1.99 73.7</string>
+          <string>hstem -335 -21</string>
+          <string>hstem 374 -20</string>
+          <string>vstem -1 73</string>
         </array>
       </dict>
     </array>

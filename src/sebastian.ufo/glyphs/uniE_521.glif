@@ -88,6 +88,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Mezzo</string>
+  <key>_name</key>
+  <string>dynamicMezzo</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -132,18 +136,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dd36af7b9b0a1a6b3752a1dd609786c0ca5ad45fb6a8cdb78ed6b9edd2759e5d4c82cb9c1f3f974cff5cf6a97e2371fd2c944c45e465aa21be0388ceb6ba4a29</string>
+    <string>41b8d656f64cdbdfa751b1cd1b4e26511e656566f02cf7203c863f5003b1c3753ca08dac1e2e45d281b09bf0189e124ecd926e03b6678c1fdcc49b72d2f2e3db</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10.01 38.49</string>
-          <string>hstem 207.09 38.49</string>
-          <string>vstem 225.75 191.69</string>
-          <string>vstem 292.05 61.37</string>
-          <string>vstem 292.05 151.82</string>
-          <string>vstem 356.56 60.88</string>
+          <string>hstem -10 38</string>
+          <string>hstem 207 38</string>
+          <string>vstem 225 191</string>
+          <string>vstem 292 61</string>
+          <string>vstem 292 151</string>
+          <string>vstem 356 60</string>
         </array>
       </dict>
     </array>

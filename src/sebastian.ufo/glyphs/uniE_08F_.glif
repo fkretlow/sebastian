@@ -42,6 +42,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Time signature equals</string>
+  <key>_name</key>
+  <string>timeSigEquals</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -71,8 +75,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -112.5 50</string>
-          <string>hstem 61.5 50</string>
+          <string>hstem -112 50</string>
+          <string>hstem 61 50</string>
         </array>
       </dict>
     </array>

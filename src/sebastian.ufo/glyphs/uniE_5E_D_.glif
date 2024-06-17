@@ -7,7 +7,7 @@
       <point x="0" y="28" type="curve" smooth="yes"/>
       <point x="0" y="21"/>
       <point x="3" y="14"/>
-      <point x="8" y="9" type="curve" smooth="yes"/>
+      <point x="8" y="9" type="curve"/>
       <point x="13" y="3"/>
       <point x="20" y="0"/>
       <point x="28" y="0" type="curve" smooth="yes"/>
@@ -20,7 +20,7 @@
       <point x="897" y="869" type="curve" smooth="yes"/>
       <point x="897" y="876"/>
       <point x="894" y="883"/>
-      <point x="889" y="889" type="curve" smooth="yes"/>
+      <point x="889" y="889" type="curve"/>
       <point x="884" y="894"/>
       <point x="876" y="897"/>
       <point x="869" y="897" type="curve" smooth="yes"/>
@@ -34,6 +34,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Smooth lift, medium</string>
+  <key>_name</key>
+  <string>brassLiftSmoothMedium</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

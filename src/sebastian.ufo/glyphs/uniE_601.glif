@@ -40,21 +40,25 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Very tight embouchure</string>
+  <key>_name</key>
+  <string>windVeryTightEmbouchure</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d88c2ca812e828e0e37b62c322b80821999f8ddca48748e481b64df1dbc0d073499b1fac2b89f84c0f3c8e84dfeb1738ad33b285f1224dca8f9a2b2413eead89</string>
+    <string>92c156186b4da0293c72161cf471d44fc9d7a78d369ff3510a22416c8cf78f2bf636b2653c5eb89fdc6461cff8b4a0b2100fce2d69e86285eb7b32b64bcc95f0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 91.33</string>
-          <string>hstem 206.67 91.33</string>
-          <string>vstem 0 91.53</string>
-          <string>vstem 208.47 91.53</string>
+          <string>hstem -2 91</string>
+          <string>hstem 206 91</string>
+          <string>vstem 0 91</string>
+          <string>vstem 208 91</string>
         </array>
       </dict>
     </array>

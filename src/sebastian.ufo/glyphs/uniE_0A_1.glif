@@ -71,6 +71,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Double whole (breve) notehead (square)</string>
+  <key>_name</key>
+  <string>noteheadDoubleWholeSquare</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -115,7 +119,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>238aeb6b665253217a3e63cad4b76478b4d667daf5e32beba7b2cdf26a14c965a6003e56cc4b0a331d5cd31b94978bca6f392c8f53b13b93e9cf639022a12dd6</string>
+    <string>39982eceda60b85b29486d1b9b23afef86efd8f0ef56e6f3eb579a9812e24d2b36906664720e4af4da69c744101525c2d74a11f3772b6ed74bd5964683e9e98a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -125,8 +129,8 @@
           <string>hstem -145 91</string>
           <string>hstem 54 91</string>
           <string>hstem 181 -20</string>
-          <string>vstem 0 29.89</string>
-          <string>vstem 420.11 29.89</string>
+          <string>vstem 0 29</string>
+          <string>vstem 420 29</string>
         </array>
       </dict>
     </array>

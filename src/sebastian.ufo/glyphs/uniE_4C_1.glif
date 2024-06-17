@@ -36,6 +36,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Fermata below</string>
+  <key>_name</key>
+  <string>fermataBelow</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -86,11 +90,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -317.9 120.7</string>
+          <string>hstem -317 120</string>
           <string>hstem -88 138</string>
-          <string>vstem -0.05 24.65</string>
+          <string>vstem 0 24</string>
           <string>vstem 231 138</string>
-          <string>vstem 575.4 24.65</string>
+          <string>vstem 575 24</string>
         </array>
       </dict>
     </array>

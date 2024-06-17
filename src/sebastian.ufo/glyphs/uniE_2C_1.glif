@@ -87,6 +87,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Flat lowered by one syntonic comma</string>
+  <key>_name</key>
+  <string>accidentalFlatOneArrowDown</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -138,14 +142,14 @@
         <key>stems</key>
         <array>
           <string>hstem -312 -21</string>
-          <string>hstem 112.94 49.06</string>
-          <string>hstem 112.94 33.06</string>
+          <string>hstem 112 49</string>
+          <string>hstem 112 33</string>
           <string>hstem 455 -20</string>
           <string>vstem 64 30</string>
           <string>vstem 64 50</string>
           <string>vstem 64 57</string>
           <string>vstem 64 32</string>
-          <string>vstem 211.65 82.35</string>
+          <string>vstem 211 82</string>
         </array>
       </dict>
     </array>

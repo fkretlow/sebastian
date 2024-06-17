@@ -46,6 +46,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>Black arrow right (E)</string>
+  <key>_name</key>
+  <string>arrowBlackRight</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -69,9 +73,9 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 1.4 -21</string>
-          <string>hstem 58.4 39.6</string>
-          <string>hstem 179.6 -20</string>
+          <string>hstem 1 -21</string>
+          <string>hstem 58 39</string>
+          <string>hstem 179 -20</string>
         </array>
       </dict>
     </array>

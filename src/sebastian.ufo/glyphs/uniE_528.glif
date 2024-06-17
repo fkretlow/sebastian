@@ -421,6 +421,10 @@
   </outline>
   <lib>
   <dict>
+  <key>_description</key>
+  <string>ppppp</string>
+  <key>_name</key>
+  <string>dynamicPPPPP</string>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -513,17 +517,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cf8a3aa3f5398534cab1160858d0023242454187223055b7f31fc6cc9e85e5c7b521720a303f4a7428c70d9d5fc0ae3ff44dd4d025cbfd512f1085fde5b84a09</string>
+    <string>23e8114ca3869a4eb3eb1283503109ec2d27728ba2471d92e3b486339293001f97b7987885fddcc886e7f0d7bd95f5fe565ee8a3e95f16e3b8c9912677743676</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -162.76 28.52</string>
-          <string>hstem -22.92 29.44</string>
-          <string>hstem -22.92 246.56</string>
-          <string>hstem 222.72 31.28</string>
-          <string>vstem 1654.84 77.28</string>
+          <string>hstem -162 28</string>
+          <string>hstem -22 29</string>
+          <string>hstem -22 246</string>
+          <string>hstem 222 31</string>
+          <string>vstem 1654 77</string>
         </array>
       </dict>
     </array>
