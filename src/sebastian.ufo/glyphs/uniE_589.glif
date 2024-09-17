@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE589" format="2">
   <advance width="579"/>
   <unicode hex="E589"/>
@@ -6,78 +6,90 @@
     <contour>
       <point x="0" y="25" type="curve" smooth="yes"/>
       <point x="0" y="19"/>
-      <point x="2.85" y="11"/>
-      <point x="6.65" y="11" type="curve"/>
-      <point x="7.6" y="11"/>
-      <point x="11.4" y="15"/>
-      <point x="14.25" y="18" type="curve"/>
-      <point x="14.25" y="18"/>
-      <point x="52.25" y="97"/>
-      <point x="83.6" y="97" type="curve" smooth="yes"/>
-      <point x="132.05" y="97"/>
-      <point x="136.8" y="0"/>
-      <point x="183.35" y="0" type="curve" smooth="yes"/>
-      <point x="228.95" y="0"/>
-      <point x="265.05" y="76"/>
-      <point x="289.75" y="77" type="curve"/>
-      <point x="314.45" y="76"/>
-      <point x="350.55" y="0"/>
-      <point x="396.15" y="0" type="curve" smooth="yes"/>
-      <point x="442.7" y="0"/>
-      <point x="447.45" y="97"/>
-      <point x="495.9" y="97" type="curve" smooth="yes"/>
-      <point x="527.25" y="97"/>
-      <point x="565.25" y="18"/>
-      <point x="565.25" y="18" type="curve"/>
-      <point x="568.1" y="15"/>
-      <point x="571.9" y="11"/>
-      <point x="573.8" y="11" type="curve"/>
-      <point x="577.6" y="11"/>
-      <point x="579.5" y="19"/>
-      <point x="579.5" y="25" type="curve" smooth="yes"/>
-      <point x="579.5" y="50"/>
-      <point x="541.5" y="151"/>
-      <point x="491.15" y="151" type="curve" smooth="yes"/>
-      <point x="439.85" y="151"/>
-      <point x="415.15" y="63"/>
+      <point x="3" y="11"/>
+      <point x="7" y="11" type="curve"/>
+      <point x="8" y="11"/>
+      <point x="11" y="15"/>
+      <point x="14" y="18" type="curve"/>
+      <point x="14" y="18"/>
+      <point x="53" y="97"/>
+      <point x="84" y="97" type="curve" smooth="yes"/>
+      <point x="132" y="97"/>
+      <point x="136" y="0"/>
+      <point x="183" y="0" type="curve" smooth="yes"/>
+      <point x="229" y="0"/>
+      <point x="265" y="76"/>
+      <point x="290" y="77" type="curve" name="hr01"/>
+      <point x="315" y="76"/>
+      <point x="350" y="0"/>
+      <point x="396" y="0" type="curve" smooth="yes"/>
+      <point x="443" y="0"/>
+      <point x="448" y="97" name="hr02"/>
+      <point x="496" y="97" type="curve" smooth="yes"/>
+      <point x="527" y="97"/>
+      <point x="565" y="18"/>
+      <point x="565" y="18" type="curve"/>
+      <point x="568" y="15"/>
+      <point x="572" y="11"/>
+      <point x="574" y="11" type="curve"/>
+      <point x="578" y="11"/>
+      <point x="579" y="19"/>
+      <point x="579" y="25" type="curve" smooth="yes"/>
+      <point x="579" y="50"/>
+      <point x="541" y="151"/>
+      <point x="491" y="151" type="curve" smooth="yes"/>
+      <point x="440" y="151"/>
+      <point x="415" y="63"/>
       <point x="399" y="63" type="curve" smooth="yes"/>
-      <point x="376.2" y="63"/>
-      <point x="330.6" y="150"/>
-      <point x="290.7" y="151" type="curve"/>
-      <point x="244.15" y="146"/>
-      <point x="208.05" y="63"/>
-      <point x="180.5" y="63" type="curve" smooth="yes"/>
-      <point x="164.35" y="63"/>
-      <point x="139.65" y="151"/>
-      <point x="88.35" y="151" type="curve" smooth="yes"/>
+      <point x="376" y="63"/>
+      <point x="331" y="150"/>
+      <point x="291" y="151" type="curve"/>
+      <point x="244" y="146"/>
+      <point x="209" y="63"/>
+      <point x="181" y="63" type="curve" smooth="yes"/>
+      <point x="165" y="63"/>
+      <point x="139" y="151"/>
+      <point x="88" y="151" type="curve" smooth="yes"/>
       <point x="38" y="151"/>
       <point x="0" y="50"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b0db052d86e9915e8de6459a848a08cbc72f02b808b785d2fa10ccecb3bb156432b3a46b6f732e3759082721dbb1b6b89138b7989cdc8e6c97deeb392f748b80</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Tremblement appuyé (Couperin)</string>
+      <key>_name</key>
+      <string>ornamentTremblementCouperin</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 63</string>
-          <string>hstem 77 74</string>
-          <string>hstem 97 54</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 63</string>
+              <string>hstem 77 74</string>
+              <string>hstem 97 54</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e3067da3129cabdf59a48f196961328dff161136f68683d6fda31505070dfd80abf25a2e37cda9d81f9bff07bde764698c47497e9f0e147f105a3b73757a1ad5</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

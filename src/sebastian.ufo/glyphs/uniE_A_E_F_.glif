@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAEF" format="2">
   <advance width="1134"/>
   <unicode hex="EAEF"/>
@@ -57,29 +57,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>01c69ab60c66daac39c983849d303d043f7021538424ceaf3d63057b94461210aa26c3acb2f83b258185c2aa1a2a5097bd0385bc0b14afc00ca0ef3c146ee88c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesVibratoVariable</string>
+      </array>
+      <key>_description</key>
+      <string>Vibrato largest, slowest</string>
+      <key>_name</key>
+      <string>wiggleVibratoLargestSlowest</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -308 51</string>
-          <string>hstem 472 52</string>
-          <string>vstem -37 1205</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -308 51</string>
+              <string>hstem 472 52</string>
+              <string>vstem -37 1205</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>01c69ab60c66daac39c983849d303d043f7021538424ceaf3d63057b94461210aa26c3acb2f83b258185c2aa1a2a5097bd0385bc0b14afc00ca0ef3c146ee88c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

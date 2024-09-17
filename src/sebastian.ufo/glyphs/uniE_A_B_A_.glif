@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEABA" format="2">
   <advance width="499"/>
   <unicode hex="EABA"/>
@@ -36,28 +36,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d1b451b2f9bcfb259887ae83d50b1a9ee1528f0ff8939c5829cc6a666a7758f4d36baa6c1ad55c409ca4bf8deac5c83ed97e66db70cc3b551b3fb16f427a487b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Narrow sawtooth line segment</string>
+      <key>_name</key>
+      <string>wiggleSawtoothNarrow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -266 532</string>
-          <string>vstem -18 533</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -266 532</string>
+              <string>vstem -18 533</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d1b451b2f9bcfb259887ae83d50b1a9ee1528f0ff8939c5829cc6a666a7758f4d36baa6c1ad55c409ca4bf8deac5c83ed97e66db70cc3b551b3fb16f427a487b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

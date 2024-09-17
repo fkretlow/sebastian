@@ -5,23 +5,30 @@
   <outline>
     <contour>
       <point x="0" y="28" type="curve" smooth="yes"/>
-      <point x="0" y="53.4545"/>
-      <point x="7.69231" y="56"/>
-      <point x="23.0769" y="56" type="curve" smooth="yes"/>
-      <point x="278.846" y="56" type="line" smooth="yes"/>
-      <point x="295.192" y="56"/>
-      <point x="300" y="50.9091"/>
+      <point x="0" y="53"/>
+      <point x="8" y="56"/>
+      <point x="23" y="56" type="curve" smooth="yes"/>
+      <point x="279" y="56" type="line" smooth="yes"/>
+      <point x="295" y="56"/>
+      <point x="300" y="51"/>
       <point x="300" y="28" type="curve" smooth="yes"/>
-      <point x="300" y="2.5455"/>
-      <point x="295.192" y="0"/>
-      <point x="278.846" y="0" type="curve" smooth="yes"/>
-      <point x="22.1154" y="0" type="line" smooth="yes"/>
-      <point x="5.76924" y="0"/>
-      <point x="0" y="2.5455"/>
+      <point x="300" y="3"/>
+      <point x="295" y="0"/>
+      <point x="279" y="0" type="curve" smooth="yes"/>
+      <point x="22" y="0" type="line" smooth="yes"/>
+      <point x="6" y="0"/>
+      <point x="0" y="3"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -48,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w300m0,28c0,53.45 7.69,56 23.08,56l278.85,56c295.19,56 300,50.91 300,28c300,2.55 295.19,0 278.85,0l22.12,0c5.77,0 0,2.55 0,28</string>
+    <string>w300m0,28c0,53 8,56 23,56l279,56c295,56 300,51 300,28c300,3 295,0 279,0l22,0c6,0 0,3 0,28</string>
     <key>hintSetList</key>
     <array>
       <dict>

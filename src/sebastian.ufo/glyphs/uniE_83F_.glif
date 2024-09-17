@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE83F" format="2">
   <advance width="286"/>
   <unicode hex="E83F"/>
@@ -39,29 +39,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>21ce7fe9b1000bbddcfcb0a2916570f4ac550e938e35574b1e58cf95b126fd9eeb23ba7e3a346eb3ef719f8b17d832af87b0a75b6e15e0b17ecfe416aa88cc52</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Closed wah/volume pedal</string>
+      <key>_name</key>
+      <string>guitarClosePedal</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 20 -21</string>
-          <string>hstem 126 32</string>
-          <string>vstem 127 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 -21</string>
+              <string>hstem 126 32</string>
+              <string>vstem 127 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>21ce7fe9b1000bbddcfcb0a2916570f4ac550e938e35574b1e58cf95b126fd9eeb23ba7e3a346eb3ef719f8b17d832af87b0a75b6e15e0b17ecfe416aa88cc52</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

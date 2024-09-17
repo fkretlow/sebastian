@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE01A" format="2">
   <advance width="750"/>
   <unicode hex="E01A"/>
@@ -35,32 +35,45 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>29b8bf8d3509944e667404b91074d8bd9fae2134690af14ed11a005e67bdc07273f9f56d2079a6588595f1bf0f83e5ea5f9df3ed126d831e0748976c1b0c9d6d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>forTextBasedApplications</string>
+        <string>tf_zeroWidth</string>
+      </array>
+      <key>_description</key>
+      <string>5-line staff (wide)</string>
+      <key>_name</key>
+      <string>staff5LinesWide</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -16 32</string>
-          <string>hstem 234 32</string>
-          <string>hstem 484 32</string>
-          <string>hstem 734 32</string>
-          <string>hstem 984 32</string>
-          <string>vstem 0 750</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -16 32</string>
+              <string>hstem 234 32</string>
+              <string>hstem 484 32</string>
+              <string>hstem 734 32</string>
+              <string>hstem 984 32</string>
+              <string>vstem 0 750</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>29b8bf8d3509944e667404b91074d8bd9fae2134690af14ed11a005e67bdc07273f9f56d2079a6588595f1bf0f83e5ea5f9df3ed126d831e0748976c1b0c9d6d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

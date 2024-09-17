@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE1FD" format="2">
   <advance width="365"/>
   <unicode hex="E1FD"/>
@@ -21,28 +21,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w365m0,-183c29,-279 103,-326 178,-326c255,-326 333,-278 365,-183l361,-183c326,-244 252,-275 179,-275c106,-275 34,-244 4,-183</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Tie</string>
+      <key>_name</key>
+      <string>textTie</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -326 51</string>
-          <string>vstem 0 365</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -326 51</string>
+              <string>vstem 0 365</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w365m0,-183c29,-279 103,-326 178,-326c255,-326 333,-278 365,-183l361,-183c326,-244 252,-275 179,-275c106,-275 34,-244 4,-183</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

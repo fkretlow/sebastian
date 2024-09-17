@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE444" format="2">
   <advance width="249"/>
   <unicode hex="E444"/>
@@ -93,27 +93,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2ad104baaac48b85895253c989403d09ae31ff1d076435cf9829c4d9f1070ee198c4f831e2d800c9c3d7ca845a453a0c03f6b8b0e8572d6246cb965c927f2ca7</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsAEU</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Koma (sharp)</string>
+      <key>_name</key>
+      <string>accidentalKomaSharp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 109 31</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 109 31</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>2ad104baaac48b85895253c989403d09ae31ff1d076435cf9829c4d9f1070ee198c4f831e2d800c9c3d7ca845a453a0c03f6b8b0e8572d6246cb965c927f2ca7</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

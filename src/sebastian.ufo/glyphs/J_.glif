@@ -6,30 +6,30 @@
     <contour>
       <point x="41" y="-13" type="curve" smooth="yes"/>
       <point x="72" y="-13"/>
-      <point x="101.233" y="-6.363"/>
+      <point x="101" y="-6"/>
       <point x="131" y="13" type="curve" smooth="yes"/>
-      <point x="204.236" y="60.639"/>
+      <point x="204" y="61"/>
       <point x="258" y="145"/>
       <point x="258" y="261" type="curve" smooth="yes"/>
       <point x="258" y="350"/>
-      <point x="236.182" y="410.942"/>
+      <point x="236" y="411"/>
       <point x="221" y="450" type="curve"/>
-      <point x="220.604" y="451.583"/>
-      <point x="220.419" y="453.114"/>
-      <point x="220.419" y="454.576" type="curve"/>
-      <point x="220.419" y="463.558"/>
-      <point x="227.418" y="469.949"/>
-      <point x="235.673" y="469.949" type="curve" smooth="yes"/>
-      <point x="240.048" y="469.949"/>
-      <point x="244.775" y="468.155"/>
+      <point x="221" y="452"/>
+      <point x="220" y="454"/>
+      <point x="220" y="455" type="curve"/>
+      <point x="220" y="464"/>
+      <point x="228" y="470"/>
+      <point x="236" y="470" type="curve" smooth="yes"/>
+      <point x="240" y="470"/>
+      <point x="245" y="468"/>
       <point x="249" y="464" type="curve"/>
-      <point x="263.333" y="427.667"/>
+      <point x="263" y="428"/>
       <point x="292" y="368"/>
       <point x="292" y="262" type="curve" smooth="yes"/>
       <point x="292" y="47"/>
-      <point x="145.237" y="-55.1879"/>
+      <point x="145" y="-55"/>
       <point x="73" y="-146" type="curve" smooth="yes"/>
-      <point x="40.2361" y="-187.189"/>
+      <point x="40" y="-187"/>
       <point x="26" y="-236"/>
       <point x="26" y="-268" type="curve"/>
       <point x="26" y="-268"/>
@@ -47,6 +47,16 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>Bos</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -70,7 +80,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>49acb5e897ee81f1642129a1a73052ce894e9567fdf96b410a9f3c8310e15399570f10ad8f9b7cbc40b642de276d7f4d839b78c77e2b8190ec8ea8f77665e543</string>
+    <string>8a163fe17e4b517cdf1c95edd7a8d3541bedff6a87960a574c16c56af928259f32390df20a8beacca7fa72d0759ab867334dbecbed15c1b227e0477ebf3e2682</string>
     <key>hintSetList</key>
     <array>
       <dict>

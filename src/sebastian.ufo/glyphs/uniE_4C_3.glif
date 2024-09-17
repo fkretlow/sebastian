@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4C3" format="2">
   <advance width="836"/>
   <unicode hex="E4C3"/>
@@ -25,9 +25,9 @@
       <point x="701" y="-1" type="curve"/>
       <point x="653" y="-1" type="line"/>
       <point x="653" y="-1"/>
-      <point x="647.718" y="-1.5685"/>
-      <point x="646" y="-3" type="curve" smooth="yes"/>
-      <point x="617.669" y="-26.6089"/>
+      <point x="648" y="-2"/>
+      <point x="646" y="-3" type="curve"/>
+      <point x="618" y="-27"/>
       <point x="434" y="-165"/>
       <point x="418" y="-165" type="curve" smooth="yes"/>
       <point x="403" y="-165"/>
@@ -61,29 +61,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ff28e4108fba1c30473ec08c998740f8d85e2fc31cf373617b2f2667f7938306cac1a2f38b8a9d1e5ad2c3190a512a23422d69d8ca0d63aac60dae742d531d30</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+        <string>pausesBelow</string>
+      </array>
+      <key>_description</key>
+      <string>Very short fermata below</string>
+      <key>_name</key>
+      <string>fermataVeryShortBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -215 50</string>
-          <string>hstem -117 107</string>
-          <string>vstem 364 107</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -215 50</string>
+              <string>hstem -117 107</string>
+              <string>vstem 364 107</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e33ce48110c1d72d60f7e1a101248ceb6df26d833ee627d6e47558d4a1298141586d612ed91786fe2dfcda74566587842525033107402d33944f0be658c142c4</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

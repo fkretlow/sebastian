@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAF0" format="2">
   <advance width="1994"/>
   <unicode hex="EAF0"/>
@@ -54,7 +54,7 @@
       <point x="853" y="-115" type="curve"/>
       <point x="855" y="-112" type="line"/>
       <point x="886" y="-56"/>
-      <point x="959" y="65"/>
+      <point x="959" y="65" name="hr01"/>
       <point x="1032" y="65" type="curve" smooth="yes"/>
       <point x="1074" y="65"/>
       <point x="1103" y="25"/>
@@ -72,7 +72,7 @@
       <point x="1504" y="333"/>
       <point x="1543" y="333" type="curve" smooth="yes"/>
       <point x="1644" y="333"/>
-      <point x="1714" y="60"/>
+      <point x="1714" y="60" name="hr02"/>
       <point x="1732" y="-16" type="curve"/>
       <point x="1745" y="-60"/>
       <point x="1772" y="-149"/>
@@ -112,7 +112,7 @@
       <point x="1427" y="339"/>
       <point x="1407" y="236"/>
       <point x="1390" y="152" type="curve" smooth="yes"/>
-      <point x="1372" y="65"/>
+      <point x="1372" y="65" name="hr03"/>
       <point x="1355" y="-17"/>
       <point x="1279" y="-37" type="curve" smooth="yes"/>
       <point x="1261" y="-42"/>
@@ -150,7 +150,7 @@
       <point x="490" y="267"/>
       <point x="471" y="187" type="curve" smooth="yes"/>
       <point x="455" y="116"/>
-      <point x="412" y="-41"/>
+      <point x="412" y="-41" name="hr04"/>
       <point x="319" y="-41" type="curve" smooth="yes"/>
       <point x="302" y="-41"/>
       <point x="285" y="-36"/>
@@ -172,37 +172,50 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>23bfd18849635fb7c97496aa80aac659a22882b0315c5f6e7d866ed6afab3034699b1e6721d22e078ffa949207ef6c351ac61985022a9a1208db4129a762f599</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesQuasiRandom</string>
+      </array>
+      <key>_description</key>
+      <string>Quasi-random squiggle 1</string>
+      <key>_name</key>
+      <string>wiggleRandom1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -207 31</string>
-          <string>hstem -149 32</string>
-          <string>hstem -76 32</string>
-          <string>hstem -72 31</string>
-          <string>hstem -16 32</string>
-          <string>hstem 60 33</string>
-          <string>hstem 65 32</string>
-          <string>hstem 248 32</string>
-          <string>hstem 333 32</string>
-          <string>vstem 597 32</string>
-          <string>vstem 1893 30</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -207 31</string>
+              <string>hstem -149 32</string>
+              <string>hstem -76 32</string>
+              <string>hstem -72 31</string>
+              <string>hstem -16 32</string>
+              <string>hstem 60 33</string>
+              <string>hstem 65 32</string>
+              <string>hstem 248 32</string>
+              <string>hstem 333 32</string>
+              <string>vstem 597 32</string>
+              <string>vstem 1893 30</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>23bfd18849635fb7c97496aa80aac659a22882b0315c5f6e7d866ed6afab3034699b1e6721d22e078ffa949207ef6c351ac61985022a9a1208db4129a762f599</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

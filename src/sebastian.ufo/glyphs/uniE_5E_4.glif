@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5E4" format="2">
   <advance width="577"/>
   <unicode hex="E5E4"/>
@@ -9,35 +9,35 @@
       <point x="25" y="82"/>
       <point x="32" y="89" type="curve"/>
       <point x="54" y="114" type="line" smooth="yes"/>
-      <point x="68.9775" y="131.02"/>
+      <point x="69" y="131"/>
       <point x="78" y="139"/>
       <point x="86" y="139" type="curve" smooth="yes"/>
       <point x="94" y="139"/>
-      <point x="100.009" y="130.006"/>
+      <point x="100" y="130"/>
       <point x="111" y="113" type="curve" smooth="yes"/>
       <point x="164" y="31" type="line" smooth="yes"/>
-      <point x="177.407" y="10.2574"/>
+      <point x="177" y="10"/>
       <point x="183" y="0"/>
       <point x="191" y="0" type="curve" smooth="yes"/>
       <point x="198" y="0"/>
-      <point x="204.935" y="9.05767"/>
+      <point x="205" y="9"/>
       <point x="221" y="27" type="curve" smooth="yes"/>
       <point x="298" y="113" type="line" smooth="yes"/>
-      <point x="314.065" y="130.942"/>
+      <point x="314" y="131"/>
       <point x="323" y="139"/>
       <point x="331" y="139" type="curve" smooth="yes"/>
       <point x="339" y="139"/>
-      <point x="345.886" y="128.928"/>
+      <point x="346" y="129"/>
       <point x="358" y="110" type="curve" smooth="yes"/>
       <point x="406" y="35" type="line" smooth="yes"/>
-      <point x="420.802" y="11.872"/>
+      <point x="421" y="12"/>
       <point x="428" y="1"/>
       <point x="436" y="1" type="curve" smooth="yes"/>
       <point x="444" y="1"/>
-      <point x="453.031" y="12.9721"/>
+      <point x="453" y="13"/>
       <point x="471" y="33" type="curve" smooth="yes"/>
       <point x="567" y="140" type="line" smooth="yes"/>
-      <point x="574.099" y="147.912"/>
+      <point x="574" y="148"/>
       <point x="577" y="154"/>
       <point x="577" y="159" type="curve" smooth="yes"/>
       <point x="577" y="167"/>
@@ -47,32 +47,32 @@
       <point x="554" y="181"/>
       <point x="549" y="175" type="curve"/>
       <point x="529" y="153" type="line" smooth="yes"/>
-      <point x="510.443" y="132.588"/>
+      <point x="510" y="133"/>
       <point x="500" y="123"/>
       <point x="492" y="123" type="curve" smooth="yes"/>
       <point x="484" y="123"/>
       <point x="478" y="132"/>
       <point x="467" y="148" type="curve"/>
       <point x="413" y="234" type="line" smooth="yes"/>
-      <point x="400.315" y="254.201"/>
+      <point x="400" y="254"/>
       <point x="394" y="263"/>
       <point x="387" y="263" type="curve" smooth="yes"/>
       <point x="381" y="263"/>
       <point x="373" y="254"/>
       <point x="359" y="237" type="curve"/>
       <point x="284" y="154" type="line" smooth="yes"/>
-      <point x="266.907" y="135.084"/>
+      <point x="267" y="135"/>
       <point x="257" y="126"/>
       <point x="247" y="126" type="curve" smooth="yes"/>
       <point x="239" y="126"/>
-      <point x="230.771" y="133.854"/>
+      <point x="231" y="134"/>
       <point x="220" y="151" type="curve" smooth="yes"/>
       <point x="171" y="229" type="line" smooth="yes"/>
-      <point x="157.128" y="251.081"/>
+      <point x="157" y="251"/>
       <point x="151" y="262"/>
       <point x="143" y="262" type="curve" smooth="yes"/>
       <point x="137" y="262"/>
-      <point x="129.133" y="253.883"/>
+      <point x="129" y="254"/>
       <point x="115" y="238" type="curve" smooth="yes"/>
       <point x="10" y="120" type="line"/>
       <point x="3" y="113"/>
@@ -83,27 +83,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2e105cafaba49c20a40caf50a1b856e88202029f8a4d3874db3bb478b01e668ce5bb2ca6f8d39f8f7fc563447e39f579ce5cc85117eabcfef1eef24b999303d4</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Jazz turn</string>
+      <key>_name</key>
+      <string>brassJazzTurn</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>cb44756ddc310de640f63df7390126e04050e9de70008a20378b82d9aafbc970229aa96b3104747c033cc8e90b8236b0197b4083666e409096d800fe68c87902</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,124 +1,136 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE242" format="2">
   <advance width="289"/>
   <unicode hex="E242"/>
+  <guideline x="0" y="-831" angle="0"/>
   <outline>
     <contour>
-      <point x="0" y="-427.873" type="curve"/>
-      <point x="0" y="-1.56735" type="line"/>
-      <point x="0" y="-1.56735"/>
-      <point x="26" y="-1.56735"/>
-      <point x="26" y="-1.56735" type="curve"/>
-      <point x="26" y="-49.5674"/>
-      <point x="63.0651" y="-88.4855"/>
-      <point x="126" y="-138.567" type="curve" smooth="yes"/>
-      <point x="205.065" y="-201.485"/>
-      <point x="275" y="-287.567"/>
-      <point x="275" y="-405.567" type="curve" smooth="yes"/>
-      <point x="275" y="-441.988"/>
-      <point x="267.545" y="-472.27"/>
-      <point x="258.736" y="-495.247" type="curve"/>
-      <point x="278.959" y="-535.621"/>
-      <point x="288" y="-584.254"/>
-      <point x="288" y="-644.873" type="curve" smooth="yes"/>
-      <point x="288" y="-695.873"/>
-      <point x="264.551" y="-802.885"/>
-      <point x="256.168" y="-823.866" type="curve" smooth="yes"/>
-      <point x="250.47" y="-838.127"/>
-      <point x="242.309" y="-843.993"/>
-      <point x="235.575" y="-843.993" type="curve" smooth="yes"/>
-      <point x="228.684" y="-843.993"/>
-      <point x="223.235" y="-837.829"/>
-      <point x="223.235" y="-828.148" type="curve" smooth="yes"/>
-      <point x="223.235" y="-824.237"/>
-      <point x="224.125" y="-819.751"/>
-      <point x="226.168" y="-814.866" type="curve" smooth="yes"/>
-      <point x="235.578" y="-792.369"/>
-      <point x="254" y="-689.873"/>
-      <point x="254" y="-643.873" type="curve" smooth="yes"/>
-      <point x="254" y="-539.873"/>
-      <point x="215.93" y="-480.997"/>
-      <point x="148" y="-442.873" type="curve" smooth="yes"/>
-      <point x="117.93" y="-425.997"/>
-      <point x="75" y="-414.873"/>
-      <point x="41" y="-414.873" type="curve" smooth="yes"/>
-      <point x="32" y="-414.873"/>
-      <point x="25" y="-421.873"/>
-      <point x="25" y="-427.873" type="curve"/>
-      <point x="25" y="-427.873"/>
-      <point x="0" y="-427.873"/>
+      <point x="0" y="-428" type="curve"/>
+      <point x="0" y="-2" type="line"/>
+      <point x="0" y="-2"/>
+      <point x="26" y="-2"/>
+      <point x="26" y="-2" type="curve"/>
+      <point x="26" y="-50"/>
+      <point x="63" y="-89"/>
+      <point x="126" y="-139" type="curve" smooth="yes"/>
+      <point x="205" y="-202"/>
+      <point x="275" y="-288"/>
+      <point x="275" y="-406" type="curve" smooth="yes"/>
+      <point x="275" y="-442"/>
+      <point x="268" y="-472"/>
+      <point x="259" y="-495" type="curve"/>
+      <point x="279" y="-535"/>
+      <point x="288" y="-584" name="hr01"/>
+      <point x="288" y="-645" type="curve" smooth="yes"/>
+      <point x="288" y="-696"/>
+      <point x="264" y="-803"/>
+      <point x="256" y="-824" type="curve"/>
+      <point x="250" y="-838"/>
+      <point x="243" y="-844"/>
+      <point x="236" y="-844" type="curve" smooth="yes"/>
+      <point x="229" y="-844"/>
+      <point x="223" y="-838"/>
+      <point x="223" y="-828" type="curve" smooth="yes"/>
+      <point x="223" y="-824"/>
+      <point x="224" y="-820"/>
+      <point x="226" y="-815" type="curve" smooth="yes"/>
+      <point x="235" y="-793"/>
+      <point x="254" y="-690"/>
+      <point x="254" y="-644" type="curve" smooth="yes"/>
+      <point x="254" y="-540"/>
+      <point x="216" y="-481"/>
+      <point x="148" y="-443" type="curve" smooth="yes"/>
+      <point x="118" y="-426"/>
+      <point x="75" y="-415"/>
+      <point x="41" y="-415" type="curve" smooth="yes"/>
+      <point x="32" y="-415"/>
+      <point x="25" y="-422"/>
+      <point x="25" y="-428" type="curve"/>
+      <point x="25" y="-428"/>
+      <point x="0" y="-428"/>
     </contour>
     <contour>
-      <point x="235.575" y="-456.388" type="curve"/>
-      <point x="239.399" y="-440.843"/>
-      <point x="242" y="-423.533"/>
-      <point x="242" y="-404.567" type="curve" smooth="yes"/>
-      <point x="242" y="-331.567"/>
-      <point x="206.989" y="-257.589"/>
-      <point x="121" y="-216.567" type="curve" smooth="yes"/>
-      <point x="97.9893" y="-205.589"/>
-      <point x="67" y="-197.567"/>
-      <point x="42" y="-197.567" type="curve" smooth="yes"/>
-      <point x="34.6846" y="-197.567"/>
-      <point x="28.6914" y="-201.531"/>
-      <point x="26.7031" y="-206.236" type="curve"/>
-      <point x="30.4824" y="-242.242"/>
-      <point x="48.9231" y="-271.65"/>
-      <point x="63" y="-287.873" type="curve" smooth="yes"/>
-      <point x="105.191" y="-336.496"/>
-      <point x="182.467" y="-380.114"/>
+      <point x="236" y="-456" type="curve"/>
+      <point x="240" y="-440"/>
+      <point x="242" y="-424"/>
+      <point x="242" y="-405" type="curve" smooth="yes" name="hr02"/>
+      <point x="242" y="-332"/>
+      <point x="207" y="-258"/>
+      <point x="121" y="-217" type="curve" smooth="yes"/>
+      <point x="98" y="-206"/>
+      <point x="67" y="-198"/>
+      <point x="42" y="-198" type="curve" smooth="yes"/>
+      <point x="35" y="-198"/>
+      <point x="29" y="-201"/>
+      <point x="27" y="-206" type="curve"/>
+      <point x="31" y="-242"/>
+      <point x="49" y="-272"/>
+      <point x="63" y="-288" type="curve" smooth="yes"/>
+      <point x="105" y="-337"/>
+      <point x="183" y="-380"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-831"/>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>vhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Combining flag 2 (16th) above</string>
+      <key>_name</key>
+      <string>flag16thUp</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>25</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>242</integer>
-        <key>width</key>
-        <integer>33</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>258</integer>
-        <key>width</key>
-        <integer>34</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6c893f57f81aa27e1765577a4aaff405b2d65bc57274ae3b1fda90a8b6b930472953f2698456484be5a5a3c0052fa6f1ff98131c6f14fc89d58b903d487bf95d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>vhints</key>
         <array>
-          <string>hstem -822 -21</string>
-          <string>vstem 0 26</string>
-          <string>vstem 242 33</string>
-          <string>vstem 254 34</string>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>242</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>258</integer>
+            <key>width</key>
+            <integer>34</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -822 -21</string>
+              <string>vstem 0 26</string>
+              <string>vstem 242 33</string>
+              <string>vstem 254 34</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9b6e52ef686115be1525bbe10ac2c4ea785b9bf9ad2959f4f53f1243fffc72aeb28a2fa49d77d852515d57a1286e4f99787a1e8828c9d2e8ed3680fb5d0be2e9</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

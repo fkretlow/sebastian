@@ -11,12 +11,12 @@
       <point x="-5" y="-23"/>
       <point x="-8" y="-24"/>
       <point x="-12" y="-24" type="curve"/>
-      <point x="-17.5088" y="-25.1018"/>
-      <point x="-19.0693" y="-20.599"/>
-      <point x="-19.0693" y="-16.9655" type="curve" smooth="yes"/>
-      <point x="-19.0693" y="-9.51948"/>
-      <point x="-9.53464" y="5.55844"/>
-      <point x="0" y="17" type="curve" smooth="yes"/>
+      <point x="-18" y="-25"/>
+      <point x="-19" y="-21"/>
+      <point x="-19" y="-17" type="curve" smooth="yes"/>
+      <point x="-19" y="-10"/>
+      <point x="-10" y="6"/>
+      <point x="0" y="17" type="curve"/>
       <point x="22" y="43"/>
       <point x="54" y="78"/>
       <point x="91" y="78" type="curve" smooth="yes"/>
@@ -29,12 +29,12 @@
       <point x="295" y="23"/>
       <point x="298" y="24"/>
       <point x="302" y="24" type="curve"/>
-      <point x="307.509" y="25.1018"/>
-      <point x="309.069" y="20.599"/>
-      <point x="309.069" y="16.9655" type="curve" smooth="yes"/>
-      <point x="309.069" y="9.51948"/>
-      <point x="299.535" y="-5.55844"/>
-      <point x="290" y="-17" type="curve" smooth="yes"/>
+      <point x="308" y="25"/>
+      <point x="309" y="21"/>
+      <point x="309" y="17" type="curve" smooth="yes"/>
+      <point x="309" y="10"/>
+      <point x="300" y="-6"/>
+      <point x="290" y="-17" type="curve"/>
       <point x="268" y="-43"/>
       <point x="236" y="-78"/>
       <point x="199" y="-78" type="curve" smooth="yes"/>
@@ -44,6 +44,16 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>Bos</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -76,7 +86,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>402548948210028f0d832cd4707c6d10705b36fad09ee3802ef68ed336cc5f60fad84a4b0536eddec2cf1b818a4c4e9783f837a2b39f832dce3a65b2354eb7a2</string>
+    <string>4be242c1a1eacb1fa1e907097a8db4220123bfeb3fc08e9efada9a3cd55ab2548bd29ffad1d758a39f207bd075dd8b0980f95239c956aec48fea187a36fd8a9c</string>
     <key>hintSetList</key>
     <array>
       <dict>

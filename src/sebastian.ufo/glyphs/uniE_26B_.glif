@@ -1,71 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE26B" format="2">
   <advance width="106"/>
   <unicode hex="E26B"/>
   <outline>
     <contour>
-      <point x="9.1113" y="201.6" type="curve"/>
-      <point x="21.9121" y="213.6" type="line"/>
-      <point x="57.1113" y="177.6"/>
-      <point x="105.912" y="108"/>
-      <point x="105.912" y="0" type="curve"/>
-      <point x="105.919" y="-0.8613"/>
-      <point x="105.922" y="-1.7207"/>
-      <point x="105.922" y="-2.5772" type="curve"/>
-      <point x="105.922" y="-109.108"/>
-      <point x="56.831" y="-177.887"/>
-      <point x="21.912" y="-213.6" type="curve"/>
-      <point x="9.1113" y="-201.6" type="line"/>
-      <point x="32.12" y="-167.483"/>
-      <point x="79.5215" y="-103.467"/>
-      <point x="79.5215" y="-2.5254" type="curve" smooth="yes"/>
-      <point x="79.5215" y="101.184"/>
-      <point x="32.7841" y="166.5"/>
+      <point x="9" y="202" type="curve"/>
+      <point x="22" y="214" type="line"/>
+      <point x="57" y="178"/>
+      <point x="106" y="108"/>
+      <point x="106" y="0" type="curve"/>
+      <point x="106" y="-1"/>
+      <point x="106" y="-2"/>
+      <point x="106" y="-3" type="curve"/>
+      <point x="106" y="-110"/>
+      <point x="57" y="-178"/>
+      <point x="22" y="-214" type="curve"/>
+      <point x="9" y="-202" type="line"/>
+      <point x="32" y="-168"/>
+      <point x="80" y="-104"/>
+      <point x="80" y="-3" type="curve" smooth="yes"/>
+      <point x="80" y="101"/>
+      <point x="33" y="167"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsStandard</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Accidental parenthesis, right</string>
+      <key>_name</key>
+      <string>accidentalParensRight</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>194</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>71</integer>
-        <key>width</key>
-        <integer>26</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6f56234c3c49b8bc56dc78319e2a18b9c351465326384be97ec3e9c8471d1ccd6839398638c179d04673a9529d87a020a6a5876c076af3deb1ca37c1f54fca6d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>vstem 79 26</string>
+          <dict>
+            <key>position</key>
+            <integer>194</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>71</integer>
+            <key>width</key>
+            <integer>26</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 79 26</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>acab14949345489b866deaa5870583df47c0b47c8008df433c7f5893b895a2e43f5f6b235e9f4adaa9feaf96aecd24438fd4ba18b84206f13704b4fddd908951</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE069" format="2">
   <advance width="296"/>
   <unicode hex="E069"/>
@@ -17,48 +17,60 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>vhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>clefs</string>
+      </array>
+      <key>_description</key>
+      <string>Unpitched percussion clef 1</string>
+      <key>_name</key>
+      <string>unpitchedPercussionClef1</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>100</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>196</integer>
-        <key>width</key>
-        <integer>100</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w296m196,256l296,256l296,-254l196,-254m0,256l100,256l100,-254l0,-254</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>vhints</key>
         <array>
-          <string>hstem -233 -21</string>
-          <string>hstem 256 -20</string>
-          <string>vstem 0 100</string>
-          <string>vstem 196 100</string>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>196</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -233 -21</string>
+              <string>hstem 256 -20</string>
+              <string>vstem 0 100</string>
+              <string>vstem 196 100</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w296m196,256l296,256l296,-254l196,-254m0,256l100,256l100,-254l0,-254</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

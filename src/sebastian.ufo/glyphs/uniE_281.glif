@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE281" format="2">
   <advance width="386"/>
   <unicode hex="E281"/>
@@ -6,10 +6,10 @@
     <contour>
       <point x="220" y="435" type="curve" smooth="yes"/>
       <point x="220" y="370"/>
-      <point x="218" y="280"/>
+      <point x="218" y="280" name="hr01"/>
       <point x="218" y="168" type="curve" smooth="yes"/>
       <point x="218" y="158"/>
-      <point x="220" y="147"/>
+      <point x="220" y="147" name="hr02"/>
       <point x="230" y="147" type="curve" smooth="yes"/>
       <point x="249" y="147"/>
       <point x="270" y="162"/>
@@ -18,17 +18,17 @@
       <point x="386" y="134"/>
       <point x="386" y="66" type="curve" smooth="yes"/>
       <point x="386" y="-15"/>
-      <point x="305.967" y="-70.962"/>
+      <point x="306" y="-71"/>
       <point x="239" y="-129" type="curve" smooth="yes"/>
-      <point x="209" y="-155" type="line" smooth="yes"/>
-      <point x="202.62" y="-160.529"/>
-      <point x="197.588" y="-162.995"/>
-      <point x="192.843" y="-162.995" type="curve" smooth="yes"/>
-      <point x="187.678" y="-162.995"/>
-      <point x="182.853" y="-160.073"/>
+      <point x="209" y="-155" type="line" name="hr03"/>
+      <point x="203" y="-161"/>
+      <point x="198" y="-163"/>
+      <point x="193" y="-163" type="curve" smooth="yes"/>
+      <point x="188" y="-163"/>
+      <point x="183" y="-160"/>
       <point x="177" y="-155" type="curve" smooth="yes"/>
       <point x="147" y="-129" type="line" smooth="yes"/>
-      <point x="80.0331" y="-70.962"/>
+      <point x="80" y="-71"/>
       <point x="0" y="-15"/>
       <point x="0" y="66" type="curve" smooth="yes"/>
       <point x="0" y="134"/>
@@ -37,38 +37,38 @@
       <point x="116" y="162"/>
       <point x="137" y="147"/>
       <point x="156" y="147" type="curve" smooth="yes"/>
-      <point x="166" y="147"/>
-      <point x="168" y="158"/>
+      <point x="166" y="147" name="hr04"/>
+      <point x="168" y="158" name="hr05"/>
       <point x="168" y="168" type="curve" smooth="yes"/>
       <point x="168" y="280"/>
-      <point x="166" y="370"/>
+      <point x="166" y="370" name="hr06"/>
       <point x="166" y="435" type="curve" smooth="yes"/>
       <point x="166" y="454"/>
-      <point x="168" y="454.971"/>
-      <point x="193" y="454.971" type="curve" smooth="yes"/>
-      <point x="219" y="454.971"/>
-      <point x="220" y="454.5"/>
+      <point x="168" y="455" name="hr07"/>
+      <point x="193" y="455" type="curve" smooth="yes"/>
+      <point x="219" y="455"/>
+      <point x="220" y="455" name="hr08"/>
     </contour>
     <contour>
       <point x="167" y="82" type="curve"/>
-      <point x="156.944" y="103.549"/>
-      <point x="138.403" y="115.696"/>
-      <point x="120.711" y="115.696" type="curve" smooth="yes"/>
-      <point x="101.458" y="115.696"/>
-      <point x="83.2113" y="101.31"/>
+      <point x="157" y="104"/>
+      <point x="139" y="116"/>
+      <point x="121" y="116" type="curve" smooth="yes"/>
+      <point x="102" y="116"/>
+      <point x="83" y="101"/>
       <point x="78" y="69" type="curve" smooth="yes"/>
-      <point x="76.2733" y="58.1689"/>
-      <point x="75.4583" y="47.9784"/>
-      <point x="75.4583" y="38.3666" type="curve" smooth="yes"/>
-      <point x="75.4583" y="-13.2533"/>
-      <point x="98.965" y="-48.1801"/>
+      <point x="76" y="58"/>
+      <point x="75" y="48"/>
+      <point x="75" y="38" type="curve" smooth="yes"/>
+      <point x="75" y="-14"/>
+      <point x="99" y="-48"/>
       <point x="131" y="-76" type="curve" smooth="yes"/>
       <point x="146" y="-89"/>
       <point x="154" y="-94"/>
       <point x="163" y="-94" type="curve" smooth="yes"/>
       <point x="172" y="-94"/>
       <point x="177" y="-88"/>
-      <point x="177" y="-67" type="curve" smooth="yes"/>
+      <point x="177" y="-67" type="curve" smooth="yes" name="hr09"/>
       <point x="177" y="18" type="line" smooth="yes"/>
       <point x="177" y="44"/>
       <point x="174" y="68"/>
@@ -81,17 +81,17 @@
       <point x="232" y="-94"/>
       <point x="240" y="-89"/>
       <point x="255" y="-76" type="curve" smooth="yes"/>
-      <point x="287.035" y="-48.1801"/>
-      <point x="310.542" y="-13.2533"/>
-      <point x="310.542" y="38.3666" type="curve" smooth="yes"/>
-      <point x="310.542" y="47.9784"/>
-      <point x="309.727" y="58.1689"/>
+      <point x="287" y="-48"/>
+      <point x="311" y="-14"/>
+      <point x="311" y="38" type="curve" smooth="yes"/>
+      <point x="311" y="48"/>
+      <point x="310" y="58"/>
       <point x="308" y="69" type="curve" smooth="yes"/>
-      <point x="302.789" y="101.31"/>
-      <point x="284.542" y="115.696"/>
-      <point x="265.289" y="115.696" type="curve" smooth="yes"/>
-      <point x="247.597" y="115.696"/>
-      <point x="229.056" y="103.549"/>
+      <point x="303" y="101"/>
+      <point x="284" y="116"/>
+      <point x="265" y="116" type="curve" smooth="yes"/>
+      <point x="247" y="116"/>
+      <point x="229" y="104"/>
       <point x="219" y="82" type="curve"/>
       <point x="212" y="68"/>
       <point x="209" y="44"/>
@@ -99,66 +99,80 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsSteinZimmermann</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Reversed flat and flat (three-quarter-tones flat) (Zimmermann)</string>
+      <key>_name</key>
+      <string>accidentalThreeQuarterTonesFlatZimmermann</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>465</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>465</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>168</integer>
-        <key>width</key>
-        <integer>50</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>177</integer>
-        <key>width</key>
-        <integer>32</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6f2a02145d5ee5804708ac06178ba54e4ba4c6adbd2776c944f2abd76d379861a05cf72a8ce2b64eda22d1a51a7c2e71e580781fe7f87ddad0742b627a3e3497</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -141 -21</string>
-          <string>hstem 454 -20</string>
-          <string>vstem 0 75</string>
-          <string>vstem 166 54</string>
-          <string>vstem 168 50</string>
-          <string>vstem 177 32</string>
-          <string>vstem 310 75</string>
+          <dict>
+            <key>position</key>
+            <integer>465</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>465</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>168</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>177</integer>
+            <key>width</key>
+            <integer>32</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -141 -21</string>
+              <string>hstem 454 -20</string>
+              <string>vstem 0 75</string>
+              <string>vstem 166 54</string>
+              <string>vstem 168 50</string>
+              <string>vstem 177 32</string>
+              <string>vstem 310 75</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>93875b47a02da9be66639bb2b882c327c5ccc30e4e2c0f00c942efb5655426611732fdcaa95954335ec2f092f96c1e58630225e8d2895dc34aa7b1cc41742a55</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

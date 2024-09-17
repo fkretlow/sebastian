@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE643" format="2">
   <advance width="376"/>
   <unicode hex="E643"/>
@@ -17,30 +17,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w376m0,331l0,0l375,0l375,331m26,54l26,277l349,277l349,54</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Mouth wide open</string>
+      <key>_name</key>
+      <string>vocalMouthWideOpen</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 54</string>
-          <string>hstem 277 54</string>
-          <string>vstem 0 26</string>
-          <string>vstem 349 26</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 54</string>
+              <string>hstem 277 54</string>
+              <string>vstem 0 26</string>
+              <string>vstem 349 26</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w376m0,331l0,0l375,0l375,331m26,54l26,277l349,277l349,54</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

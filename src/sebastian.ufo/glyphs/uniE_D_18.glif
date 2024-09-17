@@ -1,61 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED18" format="2">
   <advance width="161"/>
   <unicode hex="ED18"/>
   <outline>
     <contour>
-      <point x="5.96439" y="72.7535" type="line" smooth="yes"/>
-      <point x="2.4368" y="61.9328"/>
-      <point x="0.5933" y="51.2691"/>
-      <point x="0.5933" y="41.6011" type="curve" smooth="yes"/>
-      <point x="0.5933" y="12.5972"/>
-      <point x="16.7066" y="-7.81295"/>
-      <point x="47.3218" y="-7.81295" type="curve" smooth="yes"/>
-      <point x="79.5484" y="-7.81295"/>
-      <point x="118.22" y="21.7281"/>
-      <point x="138.63" y="86.7183" type="curve"/>
-      <point x="121.443" y="91.0152" type="line"/>
-      <point x="102.644" y="35.1558"/>
-      <point x="70.9546" y="15.8199"/>
-      <point x="57.5269" y="15.8199" type="curve" smooth="yes"/>
-      <point x="37.6538" y="15.8199"/>
-      <point x="41.8795" y="34.6418"/>
-      <point x="54.3042" y="72.7535" type="curve" smooth="yes"/>
-      <point x="102.107" y="219.384" type="line"/>
-      <point x="155.281" y="219.384" type="line"/>
-      <point x="161.189" y="238.183" type="line"/>
-      <point x="108.015" y="238.183" type="line"/>
-      <point x="141.853" y="341.845" type="line"/>
-      <point x="87.0679" y="321.972" type="line"/>
-      <point x="59.6753" y="238.183" type="line"/>
-      <point x="15.6323" y="238.183" type="line"/>
-      <point x="9.72414" y="219.384" type="line"/>
-      <point x="53.7671" y="219.384" type="line"/>
+      <point x="6" y="73" type="line"/>
+      <point x="2" y="62"/>
+      <point x="1" y="52"/>
+      <point x="1" y="42" type="curve" smooth="yes"/>
+      <point x="1" y="13"/>
+      <point x="16" y="-8"/>
+      <point x="47" y="-8" type="curve" smooth="yes"/>
+      <point x="79" y="-8"/>
+      <point x="119" y="22"/>
+      <point x="139" y="87" type="curve"/>
+      <point x="121" y="91" type="line"/>
+      <point x="102" y="35"/>
+      <point x="71" y="16" name="hr01"/>
+      <point x="58" y="16" type="curve" smooth="yes"/>
+      <point x="38" y="16"/>
+      <point x="42" y="35"/>
+      <point x="54" y="73" type="curve" smooth="yes"/>
+      <point x="102" y="219" type="line"/>
+      <point x="155" y="219" type="line"/>
+      <point x="161" y="238" type="line"/>
+      <point x="108" y="238" type="line"/>
+      <point x="142" y="342" type="line"/>
+      <point x="87" y="322" type="line"/>
+      <point x="60" y="238" type="line"/>
+      <point x="16" y="238" type="line"/>
+      <point x="10" y="219" type="line"/>
+      <point x="54" y="219" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d890db50ebf936413f203f6c8f86742cafc807c36f70be49571645ba5e81b4bee8159d53ddcee526100b559fa073a9e930f0f115325b9a00ba614c6de918aa9b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering t (right-hand thumb for guitar)</string>
+      <key>_name</key>
+      <string>fingeringTLower</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -7 23</string>
-          <string>hstem -7 246</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -7 246</string>
+              <string>hstem -7 23</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>4e2af295b2c68bd92193a245bf070b047ed5af22cf27814418ba0172973ff8157b7452a120d089828ff7ef32b7fcc910b70f30d02655cd177ab521f2c7b59a6e</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

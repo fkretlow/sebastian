@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE037" format="2">
   <advance width="49"/>
   <unicode hex="E037"/>
@@ -173,39 +173,51 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c0e24ea8178d55239477658f78a76be2f9860f0ab615636ba759310f03688031f623e460a0896f71c558da7fbb94417842267a653885787b07f44a74fc6a27a4</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Dotted barline</string>
+      <key>_name</key>
+      <string>barlineDotted</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 49</string>
-          <string>hstem 86 49</string>
-          <string>hstem 172 50</string>
-          <string>hstem 259 49</string>
-          <string>hstem 345 49</string>
-          <string>hstem 431 49</string>
-          <string>hstem 517 49</string>
-          <string>hstem 603 50</string>
-          <string>hstem 690 49</string>
-          <string>hstem 776 49</string>
-          <string>hstem 862 49</string>
-          <string>hstem 948 49</string>
-          <string>vstem 0 49</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 49</string>
+              <string>hstem 86 49</string>
+              <string>hstem 172 50</string>
+              <string>hstem 259 49</string>
+              <string>hstem 345 49</string>
+              <string>hstem 431 49</string>
+              <string>hstem 517 49</string>
+              <string>hstem 603 50</string>
+              <string>hstem 690 49</string>
+              <string>hstem 776 49</string>
+              <string>hstem 862 49</string>
+              <string>hstem 948 49</string>
+              <string>vstem 0 49</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c0e24ea8178d55239477658f78a76be2f9860f0ab615636ba759310f03688031f623e460a0896f71c558da7fbb94417842267a653885787b07f44a74fc6a27a4</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

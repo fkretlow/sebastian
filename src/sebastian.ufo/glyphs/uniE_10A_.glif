@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE10A" format="2">
   <advance width="1161"/>
   <unicode hex="E10A"/>
@@ -89,32 +89,45 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>711d874a22add9b9c5fd5227cdeedd08a70612e59343ac0089f4c340a7891503d92fc56267ef8c26c200224118d28e0ce1accfc342ae82c538427f4863ae10f7</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>noteheadSetSlashHorizontalEnds</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>White slash double whole</string>
+      <key>_name</key>
+      <string>noteheadSlashWhiteDoubleWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -250 30</string>
-          <string>hstem 220 30</string>
-          <string>vstem 0 31</string>
-          <string>vstem 57 32</string>
-          <string>vstem 1072 31</string>
-          <string>vstem 1129 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -250 30</string>
+              <string>hstem 220 30</string>
+              <string>vstem 0 31</string>
+              <string>vstem 57 32</string>
+              <string>vstem 1072 31</string>
+              <string>vstem 1129 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>711d874a22add9b9c5fd5227cdeedd08a70612e59343ac0089f4c340a7891503d92fc56267ef8c26c200224118d28e0ce1accfc342ae82c538427f4863ae10f7</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

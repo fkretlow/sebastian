@@ -4,7 +4,7 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="314" y="207" type="curve"/>
+      <point x="314" y="207" type="curve" smooth="yes"/>
       <point x="296" y="216"/>
       <point x="275" y="222"/>
       <point x="251" y="222" type="curve" smooth="yes"/>
@@ -29,10 +29,10 @@
       <point x="95" y="255"/>
       <point x="235" y="255" type="curve" smooth="yes"/>
       <point x="342" y="255"/>
-      <point x="415.362" y="180.004"/>
+      <point x="415" y="180"/>
       <point x="416" y="113" type="curve" smooth="yes"/>
-      <point x="416.362" y="75.0017"/>
-      <point x="386" y="44"/>
+      <point x="416" y="75"/>
+      <point x="386" y="44" name="hr01"/>
       <point x="348" y="44" type="curve" smooth="yes"/>
       <point x="310" y="44"/>
       <point x="280" y="75"/>
@@ -40,15 +40,26 @@
       <point x="280" y="137"/>
       <point x="292" y="160"/>
       <point x="313" y="172" type="curve" smooth="yes"/>
-      <point x="319.75" y="175.634"/>
-      <point x="323.264" y="183.043"/>
-      <point x="323.264" y="190.306" type="curve" smooth="yes"/>
-      <point x="323.264" y="197.033"/>
-      <point x="320.25" y="203.634"/>
+      <point x="320" y="176"/>
+      <point x="323" y="183"/>
+      <point x="323" y="190" type="curve" smooth="yes"/>
+      <point x="323" y="197"/>
+      <point x="320" y="204"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>latn</string>
+    <string>bos</string>
+    <string>noncomposite</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>tos</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -93,7 +104,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>53bf8ded6722e4c905481dea4a1c77a8233a268db6e61f50ecb315daff85ce1f998282faa0cc62e8e72ca6815f9a506dcef33ab91040de9440cb67182645e6f0</string>
+    <string>5d4b5ce22b06d18da41aa2e80c209a9dd20e2770f68ce549eea1bb474306f5a6d8316475be06a17d49eb23443577985ae202c2a772a71dd1978ff02c51677678</string>
     <key>hintSetList</key>
     <array>
       <dict>

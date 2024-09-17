@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0F6" format="2">
   <advance width="73"/>
   <unicode hex="E0F6"/>
@@ -24,28 +24,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b4db3a179e7d3e75cd6251b87e7c76cc4a41ea1f54236251589e4db39e2c0aa6ce84e26ac9217a3c500ee07274cc4543f8568d7fa47ff91cea66eaeacb1dbda0</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheads</string>
+        <string>parenthesesNotehead</string>
+      </array>
+      <key>_description</key>
+      <string>Closing parenthesis</string>
+      <key>_name</key>
+      <string>noteheadParenthesisRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -181 362</string>
-          <string>vstem 37 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -181 362</string>
+              <string>vstem 37 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b4db3a179e7d3e75cd6251b87e7c76cc4a41ea1f54236251589e4db39e2c0aa6ce84e26ac9217a3c500ee07274cc4543f8568d7fa47ff91cea66eaeacb1dbda0</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

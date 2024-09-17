@@ -2,8 +2,8 @@
 <glyph name="uniF4BD" format="2">
   <advance width="360"/>
   <unicode hex="F4BD"/>
-  <anchor x="359" y="53" name="stemUpSE"/>
   <anchor x="0" y="-53" name="stemDownNW"/>
+  <anchor x="359" y="53" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="240" y="138" type="curve" smooth="yes"/>
@@ -48,6 +48,14 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

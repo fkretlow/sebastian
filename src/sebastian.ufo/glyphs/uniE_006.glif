@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE006" format="2">
   <advance width="124"/>
   <unicode hex="E006"/>
@@ -9,66 +9,74 @@
       <point x="121" y="-104"/>
       <point x="99" y="-104" type="curve" smooth="yes"/>
       <point x="82" y="-104"/>
-      <point x="44.1087" y="-102.851"/>
+      <point x="44" y="-103"/>
       <point x="21" y="-103" type="curve" smooth="yes"/>
-      <point x="-134.44" y="-104"/>
-      <point x="-241.344" y="-275"/>
-      <point x="-265.378" y="-275" type="curve" smooth="yes"/>
-      <point x="-268.151" y="-275"/>
+      <point x="-134" y="-104"/>
+      <point x="-241" y="-275"/>
+      <point x="-265" y="-275" type="curve" smooth="yes"/>
+      <point x="-268" y="-275"/>
       <point x="-270" y="-274"/>
       <point x="-270" y="-272" type="curve"/>
       <point x="-270" y="-252"/>
-      <point x="-231.456" y="-97.0327"/>
-      <point x="-46.2185" y="-40" type="curve" smooth="yes"/>
-      <point x="0" y="-25.7698"/>
+      <point x="-231" y="-97"/>
+      <point x="-46" y="-40" type="curve" smooth="yes"/>
+      <point x="0" y="-26"/>
       <point x="-1" y="0"/>
       <point x="-1" y="0" type="curve"/>
       <point x="124" y="0" type="line"/>
-      <point x="124.211" y="-18.2331"/>
-      <point x="125" y="-51.2734"/>
+      <point x="124" y="-18"/>
+      <point x="125" y="-51"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Reversed bracket bottom</string>
+      <key>_name</key>
+      <string>reversedBracketBottom</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-104</integer>
-        <key>width</key>
-        <integer>104</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>-103</integer>
-        <key>width</key>
-        <integer>66</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a2ffc0fabbb61502bb3a8badc539e3748797d305e129cd7013ce4fd0479c77a4b1d00aa9912d512acbeadfb3bf796e9ab8d1e57e9a4a70f2b9e277f62fdaf714</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -275 -21</string>
-          <string>hstem -206 103</string>
+          <dict>
+            <key>position</key>
+            <integer>-104</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-103</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -296 21</string>
+              <string>hstem -206 103</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>2616c8f62ac55147470dccfad3bb1d3591aa040893dd8c89a0ad877c276764c51ec9f4507bae5c67ecfeb9363e2bb91d87050d78f683dbc42de0937476b2689e</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

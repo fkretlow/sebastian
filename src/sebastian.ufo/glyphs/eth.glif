@@ -4,15 +4,15 @@
   <unicode hex="00F0"/>
   <outline>
     <contour>
-      <point x="7" y="219" type="curve" smooth="yes"/>
-      <point x="19.2744" y="215.939"/>
+      <point x="7" y="219" type="curve"/>
+      <point x="19" y="216"/>
       <point x="47" y="207"/>
       <point x="72" y="207" type="curve" smooth="yes"/>
       <point x="97" y="207"/>
-      <point x="123.804" y="215.71"/>
-      <point x="137" y="219" type="curve" smooth="yes"/>
-      <point x="142.308" y="220.322"/>
-      <point x="145.869" y="220.555"/>
+      <point x="124" y="216"/>
+      <point x="137" y="219" type="curve"/>
+      <point x="142" y="220"/>
+      <point x="146" y="221"/>
       <point x="144" y="214" type="curve" smooth="yes"/>
       <point x="79" y="-14" type="line" smooth="yes"/>
       <point x="77" y="-21"/>
@@ -22,12 +22,23 @@
       <point x="67" y="-21"/>
       <point x="65" y="-13" type="curve"/>
       <point x="1" y="211" type="line"/>
-      <point x="-1.5913" y="218.774"/>
-      <point x="0.1947" y="220.697"/>
+      <point x="-2" y="219"/>
+      <point x="0" y="221"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>asc</string>
+    <string>latn</string>
+    <string>bos</string>
+    <string>noncomposite</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -54,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c4b3e267de1f62cde257f56dea6a840d5992c2187a0114d1b5d2106b812fb6d156064707057660f70bb468b59e14273bc94f2a4febcbd019a6d2ce6aabfaff44</string>
+    <string>cf238b0566ccb0cd6fb817f3ea62ce058ad33faa258f7f14163d02ccb2be69ebc0ddfc1b8590bf3efdbb91b4f92d3e26952523abf023db6dd2f2ab128634426a</string>
     <key>hintSetList</key>
     <array>
       <dict>

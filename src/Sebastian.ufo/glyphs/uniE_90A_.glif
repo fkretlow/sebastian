@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE90A" format="2">
   <advance width="250"/>
   <unicode hex="E90A"/>
@@ -87,31 +87,39 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>89a2de44e052c474e0ffdb90dc6c00d8357297da2bfa8aa97f3e534b56abf4f5fb1ab32527fe9c61500314688aa793ca35c4f2dfa9f556b7c485337f70fc35e1</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Petrucci C clef, high position</string>
+      <key>_name</key>
+      <string>mensuralCclefPetrucciPosHigh</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -263 88</string>
-          <string>hstem -75 150</string>
-          <string>hstem 175 88</string>
-          <string>vstem 0 35</string>
-          <string>vstem 215 35</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 88</string>
+              <string>hstem -75 150</string>
+              <string>hstem 175 88</string>
+              <string>vstem 0 35</string>
+              <string>vstem 215 35</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>89a2de44e052c474e0ffdb90dc6c00d8357297da2bfa8aa97f3e534b56abf4f5fb1ab32527fe9c61500314688aa793ca35c4f2dfa9f556b7c485337f70fc35e1</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0B3" format="2">
   <advance width="249"/>
   <unicode hex="E0B3"/>
@@ -30,7 +30,7 @@
     <contour>
       <point x="125" y="-19" type="line"/>
       <point x="182" y="-77" type="line"/>
-      <point x="166" y="-89"/>
+      <point x="166" y="-89" name="hr01"/>
       <point x="146" y="-96"/>
       <point x="124" y="-96" type="curve" smooth="yes"/>
       <point x="103" y="-96"/>
@@ -40,7 +40,7 @@
     <contour>
       <point x="145" y="1" type="line"/>
       <point x="202" y="58" type="line"/>
-      <point x="213" y="42"/>
+      <point x="213" y="42" name="hr02"/>
       <point x="220" y="21"/>
       <point x="220" y="0" type="curve" smooth="yes"/>
       <point x="220" y="-21"/>
@@ -59,32 +59,46 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8dadf14f1dda928dc3fda44592b07d7dc605121a83bd9fdbc752fd3a67c53847d7f916aaefa42ea69fded6a80ed2d73579ddb3cb609321c0fe7e4342e7cca72b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircleX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circle X notehead</string>
+      <key>_name</key>
+      <string>noteheadCircleX</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -125 29</string>
-          <string>hstem 2 -21</string>
-          <string>hstem 22 -21</string>
-          <string>hstem 96 29</string>
-          <string>vstem 0 28</string>
-          <string>vstem 220 29</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -125 29</string>
+              <string>hstem 1 21</string>
+              <string>hstem 2 -21</string>
+              <string>hstem 96 29</string>
+              <string>vstem 0 28</string>
+              <string>vstem 220 29</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8dadf14f1dda928dc3fda44592b07d7dc605121a83bd9fdbc752fd3a67c53847d7f916aaefa42ea69fded6a80ed2d73579ddb3cb609321c0fe7e4342e7cca72b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

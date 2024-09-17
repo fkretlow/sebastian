@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE908" format="2">
   <advance width="250"/>
   <unicode hex="E908"/>
@@ -87,31 +87,39 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>81992a437f87f45ad5c78bdafcb50f23cdeca84d5b574bf9cfec1a3348fedf8325d94fdb4deaa34c1ca630354cfbe55827927a62e5c960972b9995e70493e626</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Petrucci C clef, low position</string>
+      <key>_name</key>
+      <string>mensuralCclefPetrucciPosLow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -263 88</string>
-          <string>hstem -75 150</string>
-          <string>hstem 175 88</string>
-          <string>vstem 0 35</string>
-          <string>vstem 215 35</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 88</string>
+              <string>hstem -75 150</string>
+              <string>hstem 175 88</string>
+              <string>vstem 0 35</string>
+              <string>vstem 215 35</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>81992a437f87f45ad5c78bdafcb50f23cdeca84d5b574bf9cfec1a3348fedf8325d94fdb4deaa34c1ca630354cfbe55827927a62e5c960972b9995e70493e626</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

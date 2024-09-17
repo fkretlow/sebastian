@@ -1,67 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE848" format="2">
   <advance width="367"/>
   <unicode hex="E848"/>
   <outline>
     <contour>
-      <point x="366.424" y="143.925" type="curve"/>
-      <point x="340.2" y="148.178" type="line"/>
-      <point x="328.151" y="68.7975"/>
-      <point x="274.995" y="17.7675"/>
-      <point x="204.12" y="17.7675" type="curve" smooth="yes"/>
-      <point x="142.459" y="17.7675"/>
-      <point x="82.9237" y="60.2925"/>
-      <point x="82.9237" y="237.48" type="curve" smooth="yes"/>
-      <point x="82.9237" y="414.668"/>
-      <point x="138.206" y="461.445"/>
-      <point x="200.576" y="461.445" type="curve" smooth="yes"/>
-      <point x="255.859" y="461.445"/>
-      <point x="313.976" y="428.134"/>
-      <point x="333.112" y="305.52" type="curve"/>
-      <point x="361.462" y="305.52" type="line"/>
-      <point x="361.462" y="486.96" type="line"/>
-      <point x="336.656" y="486.96" type="line"/>
-      <point x="330.986" y="477.038" type="line" smooth="yes"/>
-      <point x="317.115" y="452.764"/>
-      <point x="308.327" y="450.853"/>
-      <point x="277.121" y="467.115" type="curve" smooth="yes"/>
-      <point x="258.005" y="477.077"/>
-      <point x="238.14" y="486.96"/>
-      <point x="200.576" y="486.96" type="curve" smooth="yes"/>
-      <point x="75.1275" y="486.96"/>
-      <point x="0" y="375.686"/>
-      <point x="0" y="237.48" type="curve" smooth="yes"/>
-      <point x="0" y="82.2639"/>
-      <point x="87.1762" y="-12"/>
-      <point x="200.576" y="-12" type="curve" smooth="yes"/>
-      <point x="282.082" y="-12"/>
-      <point x="352.249" y="41.1562"/>
+      <point x="366" y="144" type="curve"/>
+      <point x="340" y="148" type="line"/>
+      <point x="328" y="69"/>
+      <point x="275" y="18"/>
+      <point x="204" y="18" type="curve" smooth="yes"/>
+      <point x="142" y="18"/>
+      <point x="83" y="60"/>
+      <point x="83" y="237" type="curve" smooth="yes"/>
+      <point x="83" y="414"/>
+      <point x="139" y="461"/>
+      <point x="201" y="461" type="curve" smooth="yes"/>
+      <point x="256" y="461"/>
+      <point x="314" y="429"/>
+      <point x="333" y="306" type="curve"/>
+      <point x="361" y="306" type="line"/>
+      <point x="361" y="487" type="line"/>
+      <point x="337" y="487" type="line"/>
+      <point x="331" y="477" type="line" smooth="yes"/>
+      <point x="317" y="453"/>
+      <point x="308" y="451"/>
+      <point x="277" y="467" type="curve" smooth="yes"/>
+      <point x="258" y="477"/>
+      <point x="239" y="487"/>
+      <point x="201" y="487" type="curve" smooth="yes"/>
+      <point x="76" y="487"/>
+      <point x="0" y="375"/>
+      <point x="0" y="237" type="curve" smooth="yes"/>
+      <point x="0" y="82"/>
+      <point x="88" y="-12"/>
+      <point x="201" y="-12" type="curve" smooth="yes"/>
+      <point x="283" y="-12"/>
+      <point x="352" y="41"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>daff1a695904166c074caa0f1f0a9136ed0c1a4f7345bbcbcea589b910d6377340dccea273e1a2aa12463adc05d93a3900f09fb0737462dea39e69c7a0ee289a</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Full barré</string>
+      <key>_name</key>
+      <string>guitarBarreFull</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -12 29</string>
-          <string>hstem 461 25</string>
-          <string>vstem 0 82</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 29</string>
+              <string>hstem 461 25</string>
+              <string>vstem 0 82</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>6c07eb49a180a05ed8627f0a12afe9bed623c1eb3a4c4415612306ecbec96d5b1a7285699be0de48db680cc85d9871fc99bc89329be9b180302661262043e16b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

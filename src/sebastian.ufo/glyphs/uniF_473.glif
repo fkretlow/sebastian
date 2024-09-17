@@ -40,7 +40,7 @@
       <point x="404" y="475"/>
       <point x="404" y="458" type="curve" smooth="yes"/>
       <point x="404" y="434"/>
-      <point x="449" y="422"/>
+      <point x="449" y="422" name="hr01"/>
       <point x="449" y="370" type="curve" smooth="yes"/>
       <point x="449" y="324"/>
       <point x="411" y="291"/>
@@ -88,13 +88,13 @@
       <point x="281" y="-449"/>
       <point x="281" y="-375" type="curve" smooth="yes"/>
       <point x="281" y="-329"/>
-      <point x="319" y="-291"/>
+      <point x="319" y="-291" name="hr02"/>
       <point x="365" y="-291" type="curve" smooth="yes"/>
       <point x="411" y="-291"/>
       <point x="449" y="-324"/>
       <point x="449" y="-370" type="curve" smooth="yes"/>
       <point x="449" y="-422"/>
-      <point x="404" y="-434"/>
+      <point x="404" y="-434" name="hr03"/>
       <point x="404" y="-458" type="curve" smooth="yes"/>
       <point x="404" y="-475"/>
       <point x="430" y="-479"/>
@@ -114,6 +114,14 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -212,8 +220,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -507 28</string>
           <string>hstem -507 216</string>
+          <string>hstem -507 28</string>
           <string>hstem -85 32</string>
           <string>hstem 53 32</string>
           <string>hstem 291 216</string>

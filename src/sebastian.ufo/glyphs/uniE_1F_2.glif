@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE1F2" format="2">
   <advance width="342"/>
   <unicode hex="E1F2"/>
@@ -24,28 +24,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dbf22dd3e2da352deb00ee1ffd9f2e83cb122674347c11a3101a637b8b60410f1b31ca52ba3953286cd5133f25add8d03d816fc61e5d165f29fc5837be960e28</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Black note, fractional 8th beam, short stem</string>
+      <key>_name</key>
+      <string>textBlackNoteFrac8thShortStem</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 563 125</string>
-          <string>vstem 312 30</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 563 125</string>
+              <string>vstem 312 30</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>dbf22dd3e2da352deb00ee1ffd9f2e83cb122674347c11a3101a637b8b60410f1b31ca52ba3953286cd5133f25add8d03d816fc61e5d165f29fc5837be960e28</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

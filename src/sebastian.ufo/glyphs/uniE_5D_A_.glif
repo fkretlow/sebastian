@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5DA" format="2">
   <advance width="408"/>
   <unicode hex="E5DA"/>
@@ -27,28 +27,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b457fa544e0a3edac6960defa525062b533d47760497ca587e8b802c37ee49e438a3840d51923f1d41db55110cad800713de1fb02425ec4d4a9018b490bfefcc</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Smooth fall, short</string>
+      <key>_name</key>
+      <string>brassFallSmoothShort</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>vstem 1 406</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>vstem 1 406</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b457fa544e0a3edac6960defa525062b533d47760497ca587e8b802c37ee49e438a3840d51923f1d41db55110cad800713de1fb02425ec4d4a9018b490bfefcc</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

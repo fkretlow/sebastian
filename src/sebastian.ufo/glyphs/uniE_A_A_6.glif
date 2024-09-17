@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAA6" format="2">
   <advance width="303"/>
   <unicode hex="EAA6"/>
@@ -16,9 +16,9 @@
       <point x="-24" y="154"/>
       <point x="-24" y="158" type="curve" smooth="yes"/>
       <point x="-24" y="165"/>
-      <point x="-14.0495" y="179.058"/>
+      <point x="-14" y="179"/>
       <point x="0" y="191" type="curve" smooth="yes"/>
-      <point x="25.9507" y="213.058"/>
+      <point x="26" y="213"/>
       <point x="60" y="245"/>
       <point x="99" y="245" type="curve" smooth="yes"/>
       <point x="159" y="245"/>
@@ -34,9 +34,9 @@
       <point x="327" y="194"/>
       <point x="327" y="190" type="curve" smooth="yes"/>
       <point x="327" y="183"/>
-      <point x="317.049" y="168.942"/>
+      <point x="317" y="169"/>
       <point x="303" y="157" type="curve" smooth="yes"/>
-      <point x="277.049" y="134.942"/>
+      <point x="277" y="135"/>
       <point x="243" y="103"/>
       <point x="204" y="103" type="curve" smooth="yes"/>
       <point x="144" y="103"/>
@@ -44,58 +44,71 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesTrill</string>
+      </array>
+      <key>_description</key>
+      <string>Trill wiggle segment, slower</string>
+      <key>_name</key>
+      <string>wiggleTrillSlower</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>79</integer>
-        <key>width</key>
-        <integer>57</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>126</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>154</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>164</integer>
-        <key>width</key>
-        <integer>57</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5d970a47c0753c755ab8228bc9cd601f26382e70374b5603b7c8bb84568263973559525a87db91f4ca83c33d2f72707608e783fd6b3bcd7580e89be38c8947a3</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem 103 57</string>
-          <string>hstem 188 57</string>
+          <dict>
+            <key>position</key>
+            <integer>79</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>126</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>154</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>164</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 103 57</string>
+              <string>hstem 188 57</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f7e4d7bb3738baea80cbc0a8d7134c1e2276fef48f411a40f05351deabae716ad5a9e4f3b878a10c40aa9b289cdbc1c82b965544bba4e5013b34b9c8c1822a94</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

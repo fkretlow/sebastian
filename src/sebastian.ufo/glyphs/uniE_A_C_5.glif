@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAC5" format="2">
   <advance width="1148"/>
   <unicode hex="EAC5"/>
@@ -21,7 +21,7 @@
       <point x="1035" y="336" type="curve"/>
       <point x="1035" y="341" type="line"/>
       <point x="1034" y="344"/>
-      <point x="1032" y="348"/>
+      <point x="1032" y="348" name="hr01"/>
       <point x="1029" y="351" type="curve"/>
       <point x="987" y="396" type="line"/>
       <point x="985" y="398"/>
@@ -40,7 +40,7 @@
       <point x="957" y="350"/>
     </contour>
     <contour>
-      <point x="683" y="478" type="curve"/>
+      <point x="683" y="478" type="curve" name="hr02"/>
       <point x="683" y="474"/>
       <point x="684" y="471"/>
       <point x="685" y="468" type="curve"/>
@@ -108,7 +108,7 @@
       <point x="857" y="488" type="line"/>
       <point x="855" y="489"/>
       <point x="854" y="489"/>
-      <point x="853" y="489" type="curve"/>
+      <point x="853" y="489" type="curve" name="hr03"/>
       <point x="852" y="489"/>
       <point x="851" y="489"/>
       <point x="850" y="488" type="curve"/>
@@ -135,7 +135,7 @@
       <point x="602" y="485"/>
       <point x="605" y="496" type="curve"/>
       <point x="609" y="507"/>
-      <point x="611" y="523"/>
+      <point x="611" y="523" name="hr04"/>
       <point x="611" y="535" type="curve"/>
       <point x="611" y="537"/>
       <point x="610" y="538"/>
@@ -144,7 +144,7 @@
       <point x="602" y="548"/>
       <point x="600" y="548" type="curve"/>
       <point x="548" y="548" type="line"/>
-      <point x="547" y="548"/>
+      <point x="547" y="548" name="hr05"/>
       <point x="546" y="548"/>
       <point x="545" y="547" type="curve"/>
       <point x="543" y="546"/>
@@ -188,7 +188,7 @@
       <point x="365" y="473"/>
       <point x="365" y="461" type="curve" smooth="yes"/>
       <point x="365" y="458"/>
-      <point x="365" y="455"/>
+      <point x="365" y="455" name="hr06"/>
     </contour>
     <contour>
       <point x="976" y="97" type="curve" smooth="yes"/>
@@ -254,7 +254,7 @@
       <point x="294" y="491"/>
       <point x="293" y="491" type="curve"/>
       <point x="292" y="491"/>
-      <point x="290" y="491"/>
+      <point x="290" y="491" name="hr07"/>
       <point x="289" y="490" type="curve"/>
       <point x="244" y="469" type="line"/>
       <point x="237" y="467"/>
@@ -417,37 +417,50 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b319c7b8a73573474bf9c15b39829f57120473aa87aa92200fff0c626df0d4b52bbfb9350f4809ee727e5a4d1f8ba01ae4a6196ea244b0d509510070d441ffdb</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesCircularMotion</string>
+      </array>
+      <key>_description</key>
+      <string>Circular motion segment, largest</string>
+      <key>_name</key>
+      <string>wiggleCircularLargest</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 465 20</string>
-          <string>hstem 469 20</string>
-          <string>hstem 469 79</string>
-          <string>vstem 38 18</string>
-          <string>vstem 96 70</string>
-          <string>vstem 683 88</string>
-          <string>vstem 828 83</string>
-          <string>vstem 956 79</string>
-          <string>vstem 976 56</string>
-          <string>vstem 1055 56</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 465 20</string>
+              <string>hstem 469 79</string>
+              <string>hstem 469 20</string>
+              <string>vstem 38 18</string>
+              <string>vstem 96 70</string>
+              <string>vstem 683 88</string>
+              <string>vstem 828 83</string>
+              <string>vstem 956 79</string>
+              <string>vstem 976 56</string>
+              <string>vstem 1055 56</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b319c7b8a73573474bf9c15b39829f57120473aa87aa92200fff0c626df0d4b52bbfb9350f4809ee727e5a4d1f8ba01ae4a6196ea244b0d509510070d441ffdb</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

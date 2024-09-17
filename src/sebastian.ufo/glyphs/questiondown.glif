@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="219" y="-80" type="curve" smooth="yes"/>
-      <point x="272" y="-36" type="line" smooth="yes"/>
-      <point x="275.556" y="-32.8889"/>
-      <point x="276.938" y="-27.2099"/>
-      <point x="276.938" y="-21.5089" type="curve" smooth="yes"/>
-      <point x="276.938" y="-14.3827"/>
-      <point x="274.778" y="-7.22221"/>
+      <point x="272" y="-36" type="line"/>
+      <point x="276" y="-33"/>
+      <point x="277" y="-28"/>
+      <point x="277" y="-22" type="curve" smooth="yes"/>
+      <point x="277" y="-15"/>
+      <point x="275" y="-7"/>
       <point x="272" y="-5" type="curve"/>
-      <point x="249.514" y="10.5669"/>
-      <point x="193.168" y="58.8325"/>
+      <point x="250" y="11"/>
+      <point x="193" y="59"/>
       <point x="173" y="79" type="curve" smooth="yes"/>
       <point x="170" y="82"/>
       <point x="158" y="83"/>
@@ -56,6 +56,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

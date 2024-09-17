@@ -4,58 +4,66 @@
   <unicode hex="F52F"/>
   <outline>
     <contour>
-      <point x="144.47" y="111.268" type="curve" smooth="yes"/>
-      <point x="144.47" y="91.687"/>
-      <point x="172.956" y="81.207"/>
-      <point x="216.81" y="81.207" type="curve"/>
-      <point x="218.959" y="54.7109"/>
-      <point x="223.255" y="20.3379"/>
-      <point x="225.403" y="9.59671" type="curve"/>
-      <point x="214.662" y="11.7451"/>
-      <point x="180.289" y="16.041"/>
-      <point x="153.793" y="18.1904" type="curve"/>
-      <point x="153.793" y="62.5879"/>
-      <point x="143.052" y="90.517"/>
-      <point x="123" y="90.517" type="curve" smooth="yes"/>
-      <point x="102.233" y="90.517"/>
-      <point x="92.207" y="62.5879"/>
-      <point x="92.207" y="18.1904" type="curve"/>
-      <point x="65.7109" y="16.041"/>
-      <point x="31.3379" y="11.7451"/>
-      <point x="20.5967" y="9.59671" type="curve"/>
-      <point x="22.7451" y="20.3379"/>
-      <point x="27.041" y="54.7109"/>
-      <point x="29.1904" y="81.207" type="curve"/>
-      <point x="73.5879" y="81.207"/>
-      <point x="101.517" y="91.948"/>
-      <point x="101.517" y="112" type="curve" smooth="yes"/>
-      <point x="101.517" y="132.052"/>
-      <point x="73.5879" y="142.793"/>
-      <point x="29.1904" y="142.793" type="curve"/>
-      <point x="27.041" y="169.289"/>
-      <point x="22.7451" y="203.662"/>
-      <point x="20.5967" y="214.403" type="curve"/>
-      <point x="31.3379" y="212.255"/>
-      <point x="65.7109" y="207.959"/>
-      <point x="92.207" y="205.81" type="curve"/>
-      <point x="92.207" y="161.412"/>
-      <point x="102.233" y="133.483"/>
-      <point x="123" y="133.483" type="curve" smooth="yes"/>
-      <point x="143.052" y="133.483"/>
-      <point x="153.793" y="161.412"/>
-      <point x="153.793" y="205.81" type="curve"/>
-      <point x="180.289" y="207.959"/>
-      <point x="214.662" y="212.255"/>
-      <point x="225.403" y="214.403" type="curve"/>
-      <point x="223.255" y="203.662"/>
-      <point x="218.959" y="169.289"/>
-      <point x="216.81" y="142.793" type="curve"/>
-      <point x="171.805" y="142.793"/>
-      <point x="144.47" y="132.142"/>
+      <point x="144" y="111" type="curve" smooth="yes"/>
+      <point x="144" y="91"/>
+      <point x="173" y="81"/>
+      <point x="217" y="81" type="curve"/>
+      <point x="219" y="55"/>
+      <point x="223" y="21"/>
+      <point x="225" y="10" type="curve"/>
+      <point x="214" y="12"/>
+      <point x="180" y="16"/>
+      <point x="154" y="18" type="curve"/>
+      <point x="154" y="62"/>
+      <point x="143" y="91"/>
+      <point x="123" y="91" type="curve" smooth="yes"/>
+      <point x="102" y="91"/>
+      <point x="92" y="62"/>
+      <point x="92" y="18" type="curve"/>
+      <point x="66" y="16"/>
+      <point x="32" y="12"/>
+      <point x="21" y="10" type="curve"/>
+      <point x="23" y="21"/>
+      <point x="27" y="55"/>
+      <point x="29" y="81" type="curve"/>
+      <point x="73" y="81"/>
+      <point x="102" y="92"/>
+      <point x="102" y="112" type="curve" smooth="yes"/>
+      <point x="102" y="132"/>
+      <point x="73" y="143"/>
+      <point x="29" y="143" type="curve"/>
+      <point x="27" y="169"/>
+      <point x="23" y="203"/>
+      <point x="21" y="214" type="curve"/>
+      <point x="32" y="212"/>
+      <point x="66" y="208"/>
+      <point x="92" y="206" type="curve"/>
+      <point x="92" y="162"/>
+      <point x="102" y="133"/>
+      <point x="123" y="133" type="curve" smooth="yes"/>
+      <point x="143" y="133"/>
+      <point x="154" y="162"/>
+      <point x="154" y="206" type="curve"/>
+      <point x="180" y="208"/>
+      <point x="214" y="212"/>
+      <point x="225" y="214" type="curve"/>
+      <point x="223" y="203"/>
+      <point x="219" y="169"/>
+      <point x="217" y="143" type="curve"/>
+      <point x="172" y="143"/>
+      <point x="144" y="132"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -106,7 +114,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2d4ec5e11b889f1e5e1693dfed5762729b5f84cdbc2a2406587826675987eef443dbd65730b73accfb6d3f7d86062e871eed4cc3cb4861cc405e4d0a1b22b322</string>
+    <string>5beefec0773dc830824e96ddf65b8efe2853dd98932ebade095d3d8a31cb6180305e1526848b3ae39dd58d9bd35ded7cd6248e11a7382ed514ba7d03eff3ab8e</string>
     <key>hintSetList</key>
     <array>
       <dict>

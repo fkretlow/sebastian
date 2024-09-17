@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE885" format="2">
   <advance width="308"/>
   <unicode hex="E885"/>
@@ -19,17 +19,17 @@
       <point x="96" y="183" type="curve"/>
       <point x="83" y="195" type="line"/>
       <point x="139" y="369" type="line"/>
-      <point x="162.875" y="364.602"/>
-      <point x="207.276" y="361.783"/>
-      <point x="247.155" y="361.783" type="curve" smooth="yes"/>
-      <point x="270.749" y="361.783"/>
-      <point x="292.76" y="362.77"/>
+      <point x="163" y="365"/>
+      <point x="207" y="362"/>
+      <point x="247" y="362" type="curve" smooth="yes"/>
+      <point x="271" y="362"/>
+      <point x="293" y="363"/>
       <point x="308" y="365" type="curve"/>
-      <point x="297.911" y="323.093"/>
-      <point x="252.29" y="305.879"/>
-      <point x="195.439" y="305.879" type="curve" smooth="yes"/>
-      <point x="179.033" y="305.879"/>
-      <point x="161.692" y="307.313"/>
+      <point x="298" y="323"/>
+      <point x="252" y="306"/>
+      <point x="195" y="306" type="curve" smooth="yes"/>
+      <point x="179" y="306"/>
+      <point x="162" y="307"/>
       <point x="144" y="310" type="curve"/>
       <point x="112" y="211" type="line"/>
       <point x="128" y="217"/>
@@ -45,90 +45,98 @@
       <point x="20" y="33"/>
       <point x="20" y="77" type="curve" smooth="yes"/>
       <point x="20" y="104"/>
-      <point x="41" y="123"/>
+      <point x="41" y="123" name="hr01"/>
       <point x="63" y="123" type="curve" smooth="yes"/>
       <point x="85" y="123"/>
       <point x="101" y="106"/>
       <point x="101" y="84" type="curve" smooth="yes"/>
-      <point x="101" y="64.6543"/>
-      <point x="86.3082" y="43.7621"/>
-      <point x="62.3642" y="43.7621" type="curve" smooth="yes"/>
-      <point x="59.0789" y="43.7621"/>
-      <point x="55.6195" y="44.1554"/>
+      <point x="101" y="65"/>
+      <point x="86" y="44"/>
+      <point x="62" y="44" type="curve" smooth="yes"/>
+      <point x="59" y="44"/>
+      <point x="56" y="44"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Tuplet 5</string>
+      <key>_name</key>
+      <string>tuplet5</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-4</integer>
-        <key>width</key>
-        <integer>29</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>205</integer>
-        <key>width</key>
-        <integer>28</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>301</integer>
-        <key>width</key>
-        <integer>57</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>303</integer>
-        <key>width</key>
-        <integer>65</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>15</integer>
-        <key>width</key>
-        <integer>70</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>200</integer>
-        <key>width</key>
-        <integer>64</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f249100426aba2bffd286740464ef24bc0d04b3147d9e40b60538ee3ad86ba3edae73c6e777c31993b5f71e8c5821cb9b1116603fb10a03f3a457ec98762e056</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -4 22</string>
-          <string>hstem -4 127</string>
-          <string>hstem 199 23</string>
-          <string>hstem 305 55</string>
-          <string>vstem 20 81</string>
-          <string>vstem 203 60</string>
+          <dict>
+            <key>position</key>
+            <integer>-4</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>205</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>301</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>303</integer>
+            <key>width</key>
+            <integer>65</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>15</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>64</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -4 22</string>
+              <string>hstem -4 127</string>
+              <string>hstem 199 23</string>
+              <string>hstem 305 55</string>
+              <string>vstem 20 81</string>
+              <string>vstem 203 60</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9d6860d4f38935ec97df55294be9a38ff645a893a864331a75c366bc97740e839c1c8718c493156a8c26a8c6f0fd17219ae14fbbadc7cad322478814d5413193</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

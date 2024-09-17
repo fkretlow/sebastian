@@ -10,11 +10,11 @@
       <point x="185" y="-112"/>
       <point x="189" y="-108" type="curve" smooth="yes"/>
       <point x="282" y="-16" type="line" smooth="yes"/>
-      <point x="285.248" y="-12.7517"/>
-      <point x="287.031" y="-5.9863"/>
-      <point x="287.031" y="0.487999" type="curve" smooth="yes"/>
-      <point x="287.031" y="5.9726"/>
-      <point x="285.752" y="11.2483"/>
+      <point x="285" y="-13"/>
+      <point x="287" y="-6"/>
+      <point x="287" y="0" type="curve" smooth="yes"/>
+      <point x="287" y="5"/>
+      <point x="286" y="11"/>
       <point x="283" y="14" type="curve" smooth="yes"/>
       <point x="191" y="106" type="line" smooth="yes"/>
       <point x="185" y="112"/>
@@ -33,6 +33,15 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

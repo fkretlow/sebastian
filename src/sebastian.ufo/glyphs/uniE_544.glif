@@ -1,49 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE544" format="2">
   <advance width="149"/>
   <unicode hex="E544"/>
   <outline>
     <contour>
-      <point x="37.7099" y="-181.169" type="curve" smooth="yes"/>
-      <point x="37.7099" y="347.1" type="line" smooth="yes"/>
-      <point x="37.7099" y="366.127"/>
-      <point x="45.7666" y="373.738"/>
-      <point x="64.5654" y="373.738" type="curve" smooth="yes"/>
-      <point x="114.517" y="373.738" type="line"/>
-      <point x="114.517" y="392.765" type="line"/>
-      <point x="0.112297" y="392.765" type="line"/>
-      <point x="0.112297" y="-226.834" type="line"/>
-      <point x="114.517" y="-226.834" type="line"/>
-      <point x="114.517" y="-207.807" type="line"/>
-      <point x="64.5654" y="-207.807" type="line" smooth="yes"/>
-      <point x="45.7666" y="-207.807"/>
-      <point x="37.7099" y="-200.196"/>
+      <point x="38" y="-181" type="curve" smooth="yes"/>
+      <point x="38" y="347" type="line" smooth="yes"/>
+      <point x="38" y="366"/>
+      <point x="46" y="374"/>
+      <point x="65" y="374" type="curve" smooth="yes"/>
+      <point x="115" y="374" type="line"/>
+      <point x="115" y="393" type="line"/>
+      <point x="0" y="393" type="line"/>
+      <point x="0" y="-227" type="line"/>
+      <point x="115" y="-227" type="line"/>
+      <point x="115" y="-208" type="line"/>
+      <point x="65" y="-208" type="line" smooth="yes"/>
+      <point x="46" y="-208"/>
+      <point x="38" y="-200"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9be354749314a31ed68d3c660c7794274333475e0ce8e412a985c2cc9576b2c188d19c8203e0a2c1b16f0cc1f43af296acc8c881ed9be1387c87cffefd83a70b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Left bracket (for hairpins)</string>
+      <key>_name</key>
+      <string>dynamicHairpinBracketLeft</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -205 -21</string>
-          <string>hstem 392 -20</string>
-          <string>vstem 0 37</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -205 -21</string>
+              <string>hstem 392 -20</string>
+              <string>vstem 0 37</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w149m38,-181l38,347c38,366 46,374 65,374l115,374l115,393l0,393l0,-227l115,-227l115,-208l65,-208c46,-208 38,-200 38,-181</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

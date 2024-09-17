@@ -1,68 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4A4" format="2">
   <advance width="300"/>
   <unicode hex="E4A4"/>
   <outline>
     <contour>
       <point x="0" y="28" type="curve" smooth="yes"/>
-      <point x="0" y="53.4545"/>
-      <point x="7.69231" y="56"/>
-      <point x="23.0769" y="56" type="curve" smooth="yes"/>
-      <point x="278.846" y="56" type="line" smooth="yes"/>
-      <point x="295.192" y="56"/>
-      <point x="300" y="50.9091"/>
+      <point x="0" y="53"/>
+      <point x="8" y="56"/>
+      <point x="23" y="56" type="curve" smooth="yes"/>
+      <point x="279" y="56" type="line" smooth="yes"/>
+      <point x="295" y="56"/>
+      <point x="300" y="51"/>
       <point x="300" y="28" type="curve" smooth="yes"/>
-      <point x="300" y="2.5455"/>
-      <point x="295.192" y="0"/>
-      <point x="278.846" y="0" type="curve" smooth="yes"/>
-      <point x="22.1154" y="0" type="line" smooth="yes"/>
-      <point x="5.76924" y="0"/>
-      <point x="0" y="2.5455"/>
+      <point x="300" y="3"/>
+      <point x="295" y="0"/>
+      <point x="279" y="0" type="curve" smooth="yes"/>
+      <point x="22" y="0" type="line" smooth="yes"/>
+      <point x="6" y="0"/>
+      <point x="0" y="3"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsAbove</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tenuto above</string>
+      <key>_name</key>
+      <string>articTenutoAbove</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-22</integer>
-        <key>width</key>
-        <integer>44</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>312</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w300m0,28c0,53.45 7.69,56 23.08,56l278.85,56c295.19,56 300,50.91 300,28c300,2.55 295.19,0 278.85,0l22.12,0c5.77,0 0,2.55 0,28</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem 0 56</string>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>44</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>312</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 56</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300m0,28c0,53 8,56 23,56l279,56c295,56 300,51 300,28c300,3 295,0 279,0l22,0c6,0 0,3 0,28</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

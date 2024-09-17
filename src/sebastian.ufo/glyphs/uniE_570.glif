@@ -1,23 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE570" format="2">
   <advance width="366"/>
   <unicode hex="E570"/>
   <outline>
     <contour>
       <point x="0" y="472" type="line"/>
-      <point x="39" y="488.763" type="line"/>
-      <point x="188" y="89.1953" type="line"/>
-      <point x="323.878" y="508" type="line"/>
+      <point x="39" y="489" type="line"/>
+      <point x="188" y="89" type="line"/>
+      <point x="324" y="508" type="line"/>
       <point x="366" y="498" type="line"/>
       <point x="188" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  </dict>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Port de voix</string>
+      <key>_name</key>
+      <string>ornamentPortDeVoixV</string>
+    </dict>
   </lib>
 </glyph>

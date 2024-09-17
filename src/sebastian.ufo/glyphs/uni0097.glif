@@ -12,7 +12,7 @@
       <point x="151" y="93"/>
       <point x="161" y="89" type="curve"/>
       <point x="166" y="86"/>
-      <point x="178" y="91"/>
+      <point x="178" y="91" name="hr01"/>
       <point x="178" y="96" type="curve" smooth="yes"/>
       <point x="178" y="241" type="line"/>
       <point x="67" y="201" type="line"/>
@@ -48,7 +48,7 @@
       <point x="141" y="-95"/>
       <point x="74" y="-95" type="curve" smooth="yes"/>
       <point x="35" y="-95"/>
-      <point x="0" y="-68"/>
+      <point x="0" y="-68" name="hr02"/>
     </contour>
     <contour>
       <point x="202" y="276" type="line"/>
@@ -66,6 +66,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

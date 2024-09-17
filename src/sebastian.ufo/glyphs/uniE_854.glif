@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE854" format="2">
   <advance width="699"/>
   <unicode hex="E854"/>
@@ -107,36 +107,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>56fbb7f695fb7fc797950927337d3c4d2df6318e9468678c29e39a5515c3581f8b8d65367e722fa62727ab005b27d0fea499be602d9953bf7fe3ec53f2c0a32c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>5-string fretboard</string>
+      <key>_name</key>
+      <string>fretboard5String</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 24</string>
-          <string>hstem 250 24</string>
-          <string>hstem 500 24</string>
-          <string>hstem 750 24</string>
-          <string>hstem 1000 24</string>
-          <string>vstem 0 24</string>
-          <string>vstem 168 24</string>
-          <string>vstem 334 26</string>
-          <string>vstem 502 24</string>
-          <string>vstem 670 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 24</string>
+              <string>hstem 250 24</string>
+              <string>hstem 500 24</string>
+              <string>hstem 750 24</string>
+              <string>hstem 1000 24</string>
+              <string>vstem 0 24</string>
+              <string>vstem 168 24</string>
+              <string>vstem 334 26</string>
+              <string>vstem 502 24</string>
+              <string>vstem 670 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>56fbb7f695fb7fc797950927337d3c4d2df6318e9468678c29e39a5515c3581f8b8d65367e722fa62727ab005b27d0fea499be602d9953bf7fe3ec53f2c0a32c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

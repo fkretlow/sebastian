@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4AE" format="2">
   <advance width="292"/>
   <unicode hex="E4AE"/>
@@ -18,94 +18,108 @@
       <point x="77" y="-23"/>
     </contour>
     <contour>
-      <point x="19.5499" y="-14" type="curve" smooth="yes"/>
-      <point x="11.8999" y="-14"/>
-      <point x="0" y="-7.2"/>
-      <point x="0" y="-2.1" type="curve"/>
-      <point x="0" y="-0.4"/>
-      <point x="0.85" y="2.15"/>
-      <point x="2.55" y="5.55" type="curve"/>
-      <point x="129.2" y="276.7" type="line"/>
-      <point x="136.85" y="292"/>
-      <point x="141.95" y="299.65"/>
-      <point x="147.05" y="299.65" type="curve" smooth="yes"/>
-      <point x="152.15" y="299.65"/>
-      <point x="156.972" y="292.724"/>
-      <point x="164.05" y="277.55" type="curve" smooth="yes"/>
-      <point x="288.15" y="11.5" type="line"/>
-      <point x="290.7" y="6.40001"/>
-      <point x="291.55" y="2.15001"/>
-      <point x="291.55" y="-1.24999" type="curve" smooth="yes"/>
-      <point x="291.55" y="-7.19999"/>
-      <point x="287.3" y="-9.74999"/>
-      <point x="277.95" y="-9.74999" type="curve" smooth="yes"/>
-      <point x="226.1" y="-9.74999" type="line" smooth="yes"/>
-      <point x="209.95" y="-9.74999"/>
-      <point x="205.638" y="-4.67875"/>
-      <point x="198.9" y="9.80001" type="curve" smooth="yes"/>
-      <point x="136" y="144.95" type="line" smooth="yes"/>
-      <point x="129.261" y="159.429"/>
-      <point x="123.25" y="166.2"/>
-      <point x="118.15" y="166.2" type="curve" smooth="yes"/>
-      <point x="112.2" y="166.2"/>
-      <point x="106.274" y="158.539"/>
-      <point x="100.3" y="145.8" type="curve" smooth="yes"/>
-      <point x="29.75" y="-4.65001" type="line" smooth="yes"/>
-      <point x="26.5222" y="-11.5334"/>
-      <point x="23.8" y="-14"/>
+      <point x="20" y="-14" type="curve" smooth="yes"/>
+      <point x="12" y="-14"/>
+      <point x="0" y="-7"/>
+      <point x="0" y="-2" type="curve"/>
+      <point x="0" y="0"/>
+      <point x="1" y="3"/>
+      <point x="3" y="6" type="curve"/>
+      <point x="129" y="277" type="line"/>
+      <point x="137" y="292"/>
+      <point x="142" y="300"/>
+      <point x="147" y="300" type="curve" smooth="yes"/>
+      <point x="152" y="300"/>
+      <point x="157" y="293"/>
+      <point x="164" y="278" type="curve" smooth="yes"/>
+      <point x="288" y="12" type="line"/>
+      <point x="291" y="7"/>
+      <point x="292" y="2"/>
+      <point x="292" y="-1" type="curve" smooth="yes"/>
+      <point x="292" y="-7"/>
+      <point x="287" y="-10"/>
+      <point x="278" y="-10" type="curve" smooth="yes"/>
+      <point x="226" y="-10" type="line" smooth="yes"/>
+      <point x="210" y="-10"/>
+      <point x="206" y="-4"/>
+      <point x="199" y="10" type="curve"/>
+      <point x="136" y="145" type="line"/>
+      <point x="129" y="159"/>
+      <point x="123" y="166"/>
+      <point x="118" y="166" type="curve" smooth="yes"/>
+      <point x="112" y="166"/>
+      <point x="106" y="159"/>
+      <point x="100" y="146" type="curve" smooth="yes"/>
+      <point x="30" y="-5" type="line"/>
+      <point x="27" y="-12"/>
+      <point x="24" y="-14"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsAbove</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Marcato-staccato above</string>
+      <key>_name</key>
+      <string>articMarcatoStaccatoAbove</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-42</integer>
-        <key>width</key>
-        <integer>84</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>401</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>94</integer>
-        <key>width</key>
-        <integer>83</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>131243acdbf5587bee19bc675305947b63ad83d42a70fc3c66227781e7c1557fb46496b3ca6986fdeedb0380aa12efee35c56279996ac665831d45827919f232</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -42 84</string>
-          <string>hstem 299 -20</string>
-          <string>vstem 77 83</string>
+          <dict>
+            <key>position</key>
+            <integer>-42</integer>
+            <key>width</key>
+            <integer>84</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>401</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>94</integer>
+            <key>width</key>
+            <integer>83</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -42 84</string>
+              <string>hstem 299 -20</string>
+              <string>vstem 77 83</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>1474db45d05a1779c8ba89f3e73eb515da7f7866090bcb76476ff2f4ae368ce35c12212f012d9502c67d0bd0962fae618ebcc0d959400fb4901f264d530782d8</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

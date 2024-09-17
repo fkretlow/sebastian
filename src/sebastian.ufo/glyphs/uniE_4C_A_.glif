@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4CA" format="2">
   <advance width="600"/>
   <unicode hex="E4CA"/>
@@ -18,26 +18,26 @@
       <point x="129" y="-17"/>
     </contour>
     <contour>
-      <point x="575.4" y="-51" type="line"/>
-      <point x="575.4" y="68"/>
-      <point x="512.5" y="197.2"/>
-      <point x="300" y="197.2" type="curve" smooth="yes"/>
-      <point x="87.5" y="197.2"/>
-      <point x="24.6" y="68"/>
-      <point x="24.6" y="-51" type="curve"/>
-      <point x="-0.0500031" y="-51" type="line"/>
-      <point x="-0.0500031" y="153"/>
-      <point x="121.5" y="317.9"/>
-      <point x="300" y="317.9" type="curve" smooth="yes"/>
-      <point x="478.5" y="317.9"/>
-      <point x="600.05" y="153"/>
-      <point x="600.05" y="-51" type="curve"/>
+      <point x="575" y="-51" type="line"/>
+      <point x="575" y="68" name="hr01"/>
+      <point x="513" y="197"/>
+      <point x="300" y="197" type="curve" smooth="yes"/>
+      <point x="88" y="197"/>
+      <point x="25" y="68"/>
+      <point x="25" y="-51" type="curve"/>
+      <point x="0" y="-51" type="line"/>
+      <point x="0" y="153"/>
+      <point x="122" y="318"/>
+      <point x="300" y="318" type="curve" smooth="yes"/>
+      <point x="479" y="318"/>
+      <point x="600" y="153"/>
+      <point x="600" y="-51" type="curve"/>
     </contour>
     <contour>
       <point x="339" y="19" type="curve" smooth="yes"/>
       <point x="339" y="55"/>
       <point x="369" y="85"/>
-      <point x="405" y="85" type="curve" smooth="yes"/>
+      <point x="405" y="85" type="curve" smooth="yes" name="hr02"/>
       <point x="441" y="85"/>
       <point x="471" y="55"/>
       <point x="471" y="19" type="curve" smooth="yes"/>
@@ -49,78 +49,92 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+        <string>pausesAbove</string>
+      </array>
+      <key>_description</key>
+      <string>Long fermata (Henze) above</string>
+      <key>_name</key>
+      <string>fermataLongHenzeAbove</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-47</integer>
-        <key>width</key>
-        <integer>132</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>241</integer>
-        <key>width</key>
-        <integer>142</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>29</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>182</integer>
-        <key>width</key>
-        <integer>132</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>392</integer>
-        <key>width</key>
-        <integer>132</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>677</integer>
-        <key>width</key>
-        <integer>29</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b92d504b50026a4aac6908620b946a6fd8a11cc0ffd4b8a66e7be30bfa2526e85b42217c680521255bf3469592c4259ad1e35072375cb31cb5b847bba1f5e5e1</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -47 132</string>
-          <string>hstem -30 -21</string>
-          <string>hstem 197 120</string>
-          <string>vstem 0 24</string>
-          <string>vstem 129 132</string>
-          <string>vstem 339 132</string>
-          <string>vstem 575 24</string>
+          <dict>
+            <key>position</key>
+            <integer>-47</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>241</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>392</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>677</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -47 132</string>
+              <string>hstem -30 -21</string>
+              <string>hstem 197 120</string>
+              <string>vstem 0 24</string>
+              <string>vstem 129 132</string>
+              <string>vstem 339 132</string>
+              <string>vstem 575 24</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>6eef9cbaa421c4dec0301553300bb8342802dff4914669ba115d47a1c2f2e2103a200ac30e6fd9a81c9e3c1400f03b1a143faa8682a3e37dde0c3e8b5d30e60d</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

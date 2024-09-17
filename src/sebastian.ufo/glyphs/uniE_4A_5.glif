@@ -1,59 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4A5" format="2">
   <advance width="300"/>
   <unicode hex="E4A5"/>
   <outline>
     <contour>
       <point x="0" y="-28" type="curve" smooth="yes"/>
-      <point x="0" y="-2.5455"/>
-      <point x="7.69231" y="0"/>
-      <point x="23.0769" y="0" type="curve" smooth="yes"/>
-      <point x="278.846" y="0" type="line" smooth="yes"/>
-      <point x="295.192" y="0"/>
-      <point x="300" y="-5.09091"/>
+      <point x="0" y="-3"/>
+      <point x="8" y="0"/>
+      <point x="23" y="0" type="curve" smooth="yes"/>
+      <point x="279" y="0" type="line" smooth="yes"/>
+      <point x="295" y="0"/>
+      <point x="300" y="-5"/>
       <point x="300" y="-28" type="curve" smooth="yes"/>
-      <point x="300" y="-53.4545"/>
-      <point x="295.192" y="-56"/>
-      <point x="278.846" y="-56" type="curve" smooth="yes"/>
-      <point x="22.1154" y="-56" type="line" smooth="yes"/>
-      <point x="5.76924" y="-56"/>
-      <point x="0" y="-53.4545"/>
+      <point x="300" y="-53"/>
+      <point x="295" y="-56"/>
+      <point x="279" y="-56" type="curve" smooth="yes"/>
+      <point x="22" y="-56" type="line" smooth="yes"/>
+      <point x="6" y="-56"/>
+      <point x="0" y="-53"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsBelow</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tenuto below</string>
+      <key>_name</key>
+      <string>articTenutoBelow</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-33</integer>
-        <key>width</key>
-        <integer>66</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f2de46f8ffcfd8cd804750dce8f4f6f1e4a077da2cca788e5f2b352e9f6e54c677ea31c73f2f69b526ed0734141b9af284b78ecb71bad3001fe9ffadd3ce209d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -56 56</string>
+          <dict>
+            <key>position</key>
+            <integer>-33</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -56 56</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w300m0,-28c0,-3 8,0 23,0l279,0c295,0 300,-5 300,-28c300,-53 295,-56 279,-56l22,-56c6,-56 0,-53 0,-28</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,80 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED1E" format="2">
   <advance width="260"/>
   <unicode hex="ED1E"/>
   <outline>
     <contour>
-      <point x="162.744" y="248.145" type="curve" smooth="yes"/>
-      <point x="94.5312" y="248.145"/>
-      <point x="26.8555" y="170.801"/>
-      <point x="26.8555" y="85.9377" type="curve" smooth="yes"/>
-      <point x="26.8555" y="36.5237"/>
-      <point x="53.7109" y="-6.44506"/>
-      <point x="105.273" y="-6.44506" type="curve" smooth="yes"/>
-      <point x="146.631" y="-6.44506"/>
-      <point x="189.062" y="25.7815"/>
-      <point x="210.547" y="74.1213" type="curve"/>
-      <point x="194.434" y="79.4924" type="line"/>
-      <point x="168.652" y="35.4495"/>
-      <point x="141.797" y="17.1877"/>
-      <point x="113.867" y="17.1877" type="curve" smooth="yes"/>
-      <point x="84.8633" y="17.1877"/>
-      <point x="76.2695" y="41.3577"/>
-      <point x="76.2695" y="66.0647" type="curve" smooth="yes"/>
-      <point x="76.2695" y="79.4924"/>
-      <point x="79.4922" y="95.0686"/>
-      <point x="84.3262" y="109.571" type="curve"/>
-      <point x="96.1426" y="107.959"/>
-      <point x="105.811" y="106.885"/>
-      <point x="116.016" y="106.885" type="curve" smooth="yes"/>
-      <point x="190.137" y="106.885"/>
-      <point x="233.106" y="149.317"/>
-      <point x="233.106" y="188.526" type="curve" smooth="yes"/>
-      <point x="233.106" y="217.53"/>
-      <point x="208.398" y="248.145"/>
+      <point x="163" y="248" type="curve" smooth="yes"/>
+      <point x="95" y="248"/>
+      <point x="27" y="171"/>
+      <point x="27" y="86" type="curve" smooth="yes"/>
+      <point x="27" y="37"/>
+      <point x="53" y="-6"/>
+      <point x="105" y="-6" type="curve" smooth="yes"/>
+      <point x="146" y="-6"/>
+      <point x="190" y="26"/>
+      <point x="211" y="74" type="curve"/>
+      <point x="194" y="79" type="line"/>
+      <point x="168" y="35"/>
+      <point x="142" y="17"/>
+      <point x="114" y="17" type="curve" smooth="yes"/>
+      <point x="85" y="17"/>
+      <point x="76" y="41"/>
+      <point x="76" y="66" type="curve" smooth="yes"/>
+      <point x="76" y="79"/>
+      <point x="79" y="95"/>
+      <point x="84" y="110" type="curve"/>
+      <point x="96" y="108"/>
+      <point x="106" y="107"/>
+      <point x="116" y="107" type="curve" smooth="yes"/>
+      <point x="190" y="107"/>
+      <point x="233" y="150"/>
+      <point x="233" y="189" type="curve" smooth="yes"/>
+      <point x="233" y="218"/>
+      <point x="209" y="248"/>
     </contour>
     <contour>
-      <point x="89.6973" y="124.609" type="curve"/>
-      <point x="99.3652" y="153.076" type="line" smooth="yes"/>
-      <point x="110.645" y="186.377"/>
-      <point x="131.055" y="234.717"/>
-      <point x="163.818" y="234.717" type="curve" smooth="yes"/>
-      <point x="177.246" y="234.717"/>
-      <point x="185.84" y="220.752"/>
-      <point x="185.84" y="204.639" type="curve" smooth="yes"/>
-      <point x="185.84" y="166.504"/>
-      <point x="152.539" y="122.998"/>
-      <point x="104.199" y="122.998" type="curve" smooth="yes"/>
-      <point x="98.8281" y="122.998"/>
-      <point x="95.0684" y="123.535"/>
+      <point x="90" y="125" type="curve"/>
+      <point x="99" y="153" type="line" smooth="yes"/>
+      <point x="110" y="186"/>
+      <point x="131" y="235"/>
+      <point x="164" y="235" type="curve" smooth="yes"/>
+      <point x="177" y="235"/>
+      <point x="186" y="221"/>
+      <point x="186" y="205" type="curve" smooth="yes"/>
+      <point x="186" y="167"/>
+      <point x="152" y="123"/>
+      <point x="104" y="123" type="curve" smooth="yes"/>
+      <point x="99" y="123"/>
+      <point x="95" y="124"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>729475ac1b14a5345a2d8e290a12d7fe14683c6189a0136c3705ee38e325a1f59b68424a758cccb98b4a58573df91a83b6dce24e6055ea00290bd67e19549646</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering e (right-hand little finger for guitar)</string>
+      <key>_name</key>
+      <string>fingeringELower</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -6 23</string>
-          <string>hstem -6 129</string>
-          <string>hstem 106 141</string>
-          <string>vstem 26 49</string>
-          <string>vstem 185 47</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -6 23</string>
+              <string>hstem -6 129</string>
+              <string>hstem 106 141</string>
+              <string>vstem 26 49</string>
+              <string>vstem 185 47</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d7c639b72219b39a25ac3f5e3517093639b5c72bad966cf04f0817b1587945c78679789c7b0d91b50f5a68264d364615f0c9ebe86af75cf94649530488a31ea9</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

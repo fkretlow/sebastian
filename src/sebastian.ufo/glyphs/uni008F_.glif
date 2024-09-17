@@ -17,9 +17,9 @@
       <point x="300" y="850" type="line"/>
       <point x="326" y="850" type="line"/>
       <point x="326" y="583"/>
-      <point x="326.827" y="315.999"/>
+      <point x="327" y="316"/>
       <point x="326" y="49" type="curve" smooth="yes"/>
-      <point x="325.827" y="-7.00866"/>
+      <point x="326" y="-7"/>
       <point x="280" y="-68"/>
       <point x="231" y="-101" type="curve" smooth="yes"/>
       <point x="196" y="-125"/>
@@ -37,6 +37,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -63,7 +70,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>80e9321c4d4e5725d7e9fef68b1154ec9ded310edc2453bf52a9ab33379cb5581bc8c5dc38a679837a165f8637bd5777554802a66f2b75b89b59ad61b1c93510</string>
+    <string>56c2208b43798ea9aa2ba2187750e2cb3e67d4cbdcb7f1a4721b962d575b062a5a9a38d22194775f71f42f336589af19a87f9b50341aac6296652e05e29f7f58</string>
     <key>hintSetList</key>
     <array>
       <dict>

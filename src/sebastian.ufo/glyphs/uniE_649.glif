@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE649" format="2">
   <advance width="670"/>
   <unicode hex="E649"/>
@@ -25,30 +25,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>832ff6fd535e679e7ea80492f7060de79ab9ab5effb0b25b4aeefb1a3735d420a9140beea43ebbcf7c0d323395f1cdc5b0998b80e86068503a36deac69b6378c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Finger click (Stockhausen)</string>
+      <key>_name</key>
+      <string>vocalFingerClickStockhausen</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 298 48</string>
-          <string>hstem 452 48</string>
-          <string>vstem 350 68</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 298 48</string>
+              <string>hstem 452 48</string>
+              <string>vstem 350 68</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>832ff6fd535e679e7ea80492f7060de79ab9ab5effb0b25b4aeefb1a3735d420a9140beea43ebbcf7c0d323395f1cdc5b0998b80e86068503a36deac69b6378c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

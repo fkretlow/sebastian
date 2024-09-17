@@ -25,7 +25,7 @@
     </contour>
     <contour>
       <point x="328" y="850" type="line"/>
-      <point x="354" y="850" type="line"/>
+      <point x="354" y="850" type="line" name="hr01"/>
       <point x="354" y="62" type="line" smooth="yes"/>
       <point x="354" y="1"/>
       <point x="302" y="-79"/>
@@ -52,6 +52,17 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>asc</string>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>tos</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>

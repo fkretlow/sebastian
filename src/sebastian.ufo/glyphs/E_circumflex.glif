@@ -56,6 +56,15 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -85,7 +94,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -122 -21</string>
+          <string>hstem -143 21</string>
           <string>hstem 143 -20</string>
         </array>
       </dict>

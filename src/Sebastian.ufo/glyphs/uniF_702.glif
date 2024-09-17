@@ -5,16 +5,16 @@
   <outline>
     <contour>
       <point x="565" y="199" type="curve" smooth="yes"/>
-      <point x="578.809" y="227.095"/>
-      <point x="568.339" y="251.255"/>
-      <point x="563" y="258" type="curve" smooth="yes"/>
-      <point x="530.332" y="299.265"/>
+      <point x="579" y="227"/>
+      <point x="568" y="251"/>
+      <point x="563" y="258" type="curve"/>
+      <point x="530" y="299"/>
       <point x="469" y="263"/>
       <point x="445" y="241" type="curve"/>
       <point x="427" y="289"/>
-      <point x="379.979" y="291.051"/>
+      <point x="380" y="291"/>
       <point x="332" y="271" type="curve" smooth="yes"/>
-      <point x="312.979" y="263.051"/>
+      <point x="313" y="263"/>
       <point x="297" y="249"/>
       <point x="279" y="240" type="curve"/>
       <point x="297" y="287"/>
@@ -27,12 +27,12 @@
       <point x="245" y="308"/>
       <point x="231" y="272" type="curve"/>
       <point x="218" y="281"/>
-      <point x="170.834" y="304.318"/>
+      <point x="171" y="304"/>
       <point x="119" y="277" type="curve" smooth="yes"/>
-      <point x="96.8305" y="265.316"/>
-      <point x="72.1053" y="221.061"/>
+      <point x="97" y="265"/>
+      <point x="72" y="221"/>
       <point x="97" y="178" type="curve" smooth="yes"/>
-      <point x="109.106" y="157.061"/>
+      <point x="109" y="157"/>
       <point x="135" y="143"/>
       <point x="175" y="153" type="curve"/>
       <point x="166" y="134"/>
@@ -42,46 +42,46 @@
       <point x="174" y="-3"/>
       <point x="211" y="-3" type="curve" smooth="yes"/>
       <point x="247" y="-3"/>
-      <point x="266.466" y="18.7788"/>
-      <point x="281" y="50" type="curve" smooth="yes"/>
-      <point x="293.47" y="76.7864"/>
+      <point x="266" y="19"/>
+      <point x="281" y="50" type="curve"/>
+      <point x="293" y="77"/>
       <point x="298" y="123"/>
       <point x="290" y="163" type="curve" smooth="yes"/>
       <point x="287" y="178"/>
       <point x="281" y="199"/>
       <point x="276" y="213" type="curve"/>
       <point x="292" y="222"/>
-      <point x="364.099" y="275.061"/>
+      <point x="364" y="275"/>
       <point x="385" y="241" type="curve" smooth="yes"/>
-      <point x="391.099" y="231.06"/>
-      <point x="385.306" y="205.874"/>
+      <point x="391" y="231"/>
+      <point x="385" y="206"/>
       <point x="370" y="169" type="curve" smooth="yes"/>
-      <point x="341.306" y="99.8724"/>
+      <point x="341" y="100"/>
       <point x="292" y="0"/>
       <point x="292" y="0" type="curve"/>
       <point x="363" y="0" type="line"/>
       <point x="363" y="0"/>
-      <point x="423.622" y="134.179"/>
-      <point x="438" y="164" type="curve" smooth="yes"/>
-      <point x="450.625" y="190.184"/>
-      <point x="463.954" y="231.133"/>
+      <point x="424" y="134"/>
+      <point x="438" y="164" type="curve"/>
+      <point x="451" y="190"/>
+      <point x="464" y="231"/>
       <point x="490" y="240" type="curve" smooth="yes"/>
-      <point x="510.955" y="247.134"/>
-      <point x="491.928" y="201.947"/>
+      <point x="511" y="247"/>
+      <point x="492" y="202"/>
       <point x="503" y="187" type="curve" smooth="yes"/>
-      <point x="511.928" y="174.947"/>
-      <point x="549.809" y="168.093"/>
+      <point x="512" y="175"/>
+      <point x="550" y="168"/>
     </contour>
     <contour>
       <point x="214" y="235" type="curve"/>
       <point x="191" y="184" type="line"/>
       <point x="151" y="151"/>
-      <point x="115.264" y="178.08"/>
+      <point x="115" y="178"/>
       <point x="110" y="195" type="curve" smooth="yes"/>
-      <point x="101.263" y="223.083"/>
-      <point x="119.99" y="266.253"/>
+      <point x="101" y="223"/>
+      <point x="120" y="266"/>
       <point x="166" y="268" type="curve" smooth="yes"/>
-      <point x="198.991" y="269.253"/>
+      <point x="199" y="269"/>
       <point x="214" y="248"/>
     </contour>
     <contour>
@@ -118,12 +118,20 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>339be12348d616396f9895e7a47e239d3d03e64e91fc160f4e04d2db5e84b4fb21d1ac969c6aabe181202ea880505f043f1248fb8e93fc18eb0584553cdb3492</string>
+    <string>6ed74ada26c1012e53ef00ceef3c5afa47178948d353c0e0b44dfb0362f19b91815db4eeda75a87b56edf86618277b5276c97d1a256d2b595ba899567d41e44d</string>
     <key>hintSetList</key>
     <array>
       <dict>

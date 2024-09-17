@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE627" format="2">
   <advance width="621"/>
   <unicode hex="E627"/>
@@ -42,12 +42,12 @@
       <point x="592" y="-4" type="curve"/>
       <point x="540" y="89"/>
       <point x="459" y="144"/>
-      <point x="357" y="157" type="curve" smooth="yes"/>
-      <point x="353.624" y="157.44"/>
-      <point x="350.593" y="157.665"/>
-      <point x="347.878" y="157.665" type="curve" smooth="yes"/>
-      <point x="332.096" y="157.665"/>
-      <point x="327" y="150.065"/>
+      <point x="357" y="157" type="curve"/>
+      <point x="354" y="157"/>
+      <point x="351" y="158"/>
+      <point x="348" y="158" type="curve" smooth="yes"/>
+      <point x="332" y="158"/>
+      <point x="327" y="150"/>
       <point x="327" y="133" type="curve" smooth="yes"/>
       <point x="327" y="-3" type="line" smooth="yes"/>
       <point x="327" y="-17"/>
@@ -57,12 +57,12 @@
       <point x="294" y="-16"/>
       <point x="294" y="-2" type="curve" smooth="yes"/>
       <point x="294" y="132" type="line" smooth="yes"/>
-      <point x="294" y="151.101"/>
-      <point x="286.414" y="157.787"/>
-      <point x="270.668" y="157.787" type="curve" smooth="yes"/>
-      <point x="267.454" y="157.787"/>
-      <point x="263.899" y="157.509"/>
-      <point x="260" y="157" type="curve" smooth="yes"/>
+      <point x="294" y="151"/>
+      <point x="287" y="158"/>
+      <point x="271" y="158" type="curve" smooth="yes"/>
+      <point x="268" y="158"/>
+      <point x="264" y="158"/>
+      <point x="260" y="157" type="curve"/>
       <point x="160" y="143"/>
       <point x="81" y="88"/>
       <point x="29" y="-4" type="curve"/>
@@ -71,50 +71,58 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Bow behind bridge on one string</string>
+      <key>_name</key>
+      <string>stringsBowBehindBridgeOneString</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-19</integer>
-        <key>width</key>
-        <integer>21</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>294</integer>
-        <key>width</key>
-        <integer>33</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7ea7ea0ba70eccd84594b9b2c870b3ae1f42c94f80ad151346faff518f25a7bc61d1d409de29e35a2c98c0ea9ad8e43b3ba06efe66cc4c0cf3b5db0dc3f1bbba</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem 2 -21</string>
-          <string>hstem 423 -20</string>
-          <string>vstem 294 33</string>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>294</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2 -21</string>
+              <string>hstem 423 -20</string>
+              <string>vstem 294 33</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5486ba02b0dc8707342adcaead8bbb95e50efa5337dc40df3489cdacf4eab11e7187d6045495115cc9f39315d9551e6b9e79189ac31326aa0617ea1c9b8d21c4</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

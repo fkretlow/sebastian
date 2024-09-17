@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0EE" format="2">
   <advance width="293"/>
   <unicode hex="E0EE"/>
-  <anchor x="288" y="-130" name="stemUpSE"/>
   <anchor x="6" y="-130" name="stemDownNW"/>
+  <anchor x="288" y="-130" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="284" y="-130" type="curve" smooth="yes"/>
@@ -24,7 +24,7 @@
       <point x="213" y="-99" type="line" smooth="yes"/>
       <point x="222" y="-99"/>
       <point x="231" y="-92"/>
-      <point x="231" y="-84" type="curve" smooth="yes"/>
+      <point x="231" y="-84" type="curve"/>
       <point x="231" y="-82"/>
       <point x="231" y="-80"/>
       <point x="230" y="-78" type="curve" smooth="yes"/>
@@ -38,45 +38,59 @@
       <point x="62" y="-78" type="line"/>
       <point x="62" y="-80"/>
       <point x="61" y="-81"/>
-      <point x="61" y="-83" type="curve" smooth="yes"/>
+      <point x="61" y="-83" type="curve"/>
       <point x="61" y="-90"/>
       <point x="68" y="-99"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetLargeArrowUp</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Large arrow up (highest pitch) whole notehead</string>
+      <key>_name</key>
+      <string>noteheadLargeArrowUpWhole</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>97</integer>
-        <key>width</key>
-        <integer>40</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d522b964d589aad9485da068dd6258428bc8d47cf3def2c242dbf5f768c2105347f1dd075d074ff13c6ec21f722e5a5a426e429963675ea2e46c14561759c0a1</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -129 30</string>
+          <dict>
+            <key>position</key>
+            <integer>97</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -129 30</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>d522b964d589aad9485da068dd6258428bc8d47cf3def2c242dbf5f768c2105347f1dd075d074ff13c6ec21f722e5a5a426e429963675ea2e46c14561759c0a1</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

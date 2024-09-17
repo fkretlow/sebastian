@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4D2" format="2">
   <advance width="663"/>
   <unicode hex="E4D2"/>
@@ -59,28 +59,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>83d9a8b605a6037a84042502f8832e29b0315dc6e1e083e2cc6388d3f1cff953d4e5de1f9a9ef3803a48661e7b2123b74b1e15e6c4e8b78d5ca0e37acda0eeec</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+      </array>
+      <key>_description</key>
+      <string>Thick caesura</string>
+      <key>_name</key>
+      <string>caesuraThick</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>vstem 0 663</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>vstem 0 663</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>83d9a8b605a6037a84042502f8832e29b0315dc6e1e083e2cc6388d3f1cff953d4e5de1f9a9ef3803a48661e7b2123b74b1e15e6c4e8b78d5ca0e37acda0eeec</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,78 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5F8" format="2">
   <advance width="300"/>
   <unicode hex="E5F8"/>
   <outline>
     <contour>
-      <point x="149.508" y="0" type="curve" smooth="yes"/>
-      <point x="234.098" y="0"/>
-      <point x="300" y="66.8852"/>
-      <point x="300" y="149.508" type="curve" smooth="yes"/>
-      <point x="300" y="233.115"/>
-      <point x="234.098" y="300"/>
-      <point x="149.508" y="300" type="curve" smooth="yes"/>
-      <point x="66.8852" y="300"/>
-      <point x="0" y="233.115"/>
-      <point x="0" y="149.508" type="curve" smooth="yes"/>
-      <point x="0" y="66.8852"/>
-      <point x="66.8852" y="0"/>
+      <point x="150" y="0" type="curve" smooth="yes"/>
+      <point x="235" y="0"/>
+      <point x="300" y="67"/>
+      <point x="300" y="150" type="curve" smooth="yes"/>
+      <point x="300" y="234"/>
+      <point x="235" y="300"/>
+      <point x="150" y="300" type="curve" smooth="yes"/>
+      <point x="67" y="300"/>
+      <point x="0" y="234"/>
+      <point x="0" y="150" type="curve" smooth="yes"/>
+      <point x="0" y="67"/>
+      <point x="67" y="0"/>
     </contour>
     <contour>
-      <point x="149.508" y="268.525" type="curve" smooth="yes"/>
-      <point x="216.393" y="268.525"/>
-      <point x="269.508" y="214.426"/>
-      <point x="269.508" y="149.508" type="curve" smooth="yes"/>
-      <point x="269.508" y="85.5738"/>
-      <point x="216.393" y="31.4754"/>
-      <point x="149.508" y="31.4754" type="curve" smooth="yes"/>
-      <point x="85.5738" y="31.4754"/>
-      <point x="31.4754" y="85.5738"/>
-      <point x="31.4754" y="149.508" type="curve" smooth="yes"/>
-      <point x="31.4754" y="214.426"/>
-      <point x="85.5738" y="268.525"/>
+      <point x="150" y="269" type="curve" smooth="yes"/>
+      <point x="217" y="269"/>
+      <point x="270" y="215"/>
+      <point x="270" y="150" type="curve" smooth="yes"/>
+      <point x="270" y="86"/>
+      <point x="217" y="31"/>
+      <point x="150" y="31" type="curve" smooth="yes"/>
+      <point x="86" y="31"/>
+      <point x="31" y="86"/>
+      <point x="31" y="150" type="curve" smooth="yes"/>
+      <point x="31" y="215"/>
+      <point x="86" y="269"/>
     </contour>
     <contour>
-      <point x="90.4918" y="149.508" type="curve" smooth="yes"/>
-      <point x="90.4918" y="117.049"/>
-      <point x="118.033" y="90.4918"/>
-      <point x="149.508" y="90.4918" type="curve" smooth="yes"/>
-      <point x="182.951" y="90.4918"/>
-      <point x="209.508" y="117.049"/>
-      <point x="209.508" y="149.508" type="curve" smooth="yes"/>
-      <point x="209.508" y="182.951"/>
-      <point x="182.951" y="209.508"/>
-      <point x="149.508" y="209.508" type="curve" smooth="yes"/>
-      <point x="118.033" y="209.508"/>
-      <point x="90.4918" y="182.951"/>
+      <point x="90" y="150" type="curve" smooth="yes"/>
+      <point x="90" y="118"/>
+      <point x="119" y="90"/>
+      <point x="150" y="90" type="curve" smooth="yes"/>
+      <point x="183" y="90"/>
+      <point x="210" y="118"/>
+      <point x="210" y="150" type="curve" smooth="yes"/>
+      <point x="210" y="183"/>
+      <point x="183" y="210"/>
+      <point x="150" y="210" type="curve" smooth="yes"/>
+      <point x="119" y="210"/>
+      <point x="90" y="183"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>02b63f3501c29340dc6184217f990696ea366dc85562c7940c01b7853ea27bf2330ee49b6034df30dc923f0f6a90ca17b35874bac7355ce260439f65b5e24333</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Half-open hole</string>
+      <key>_name</key>
+      <string>windHalfClosedHole3</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 31</string>
-          <string>hstem 90 119</string>
-          <string>hstem 268 31</string>
-          <string>vstem 0 31</string>
-          <string>vstem 90 119</string>
-          <string>vstem 269 30</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 31</string>
+              <string>hstem 90 119</string>
+              <string>hstem 268 31</string>
+              <string>vstem 0 31</string>
+              <string>vstem 90 119</string>
+              <string>vstem 269 30</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b2a0ee6042a0401796c69b458c8100e5439b06d6857ae011e71ec04135f097683f7c112520d685508296e775ab438692ffb3a2fcca7f5d92343747bd8b98503c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

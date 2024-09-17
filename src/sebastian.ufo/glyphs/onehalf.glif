@@ -78,33 +78,33 @@
     <contour>
       <point x="700" y="-5" type="curve" smooth="yes"/>
       <point x="700" y="-85"/>
-      <point x="662.047" y="-150.415"/>
+      <point x="662" y="-150"/>
       <point x="642" y="-174" type="curve" smooth="yes"/>
-      <point x="636.029" y="-181.024"/>
+      <point x="636" y="-181"/>
       <point x="630" y="-184"/>
       <point x="626" y="-184" type="curve" smooth="yes"/>
       <point x="620" y="-184"/>
       <point x="618" y="-181"/>
       <point x="618" y="-174" type="curve" smooth="yes"/>
       <point x="618" y="-170"/>
-      <point x="620.459" y="-164.282"/>
-      <point x="624" y="-158" type="curve" smooth="yes"/>
-      <point x="639.5" y="-130.5"/>
+      <point x="620" y="-164"/>
+      <point x="624" y="-158" type="curve"/>
+      <point x="640" y="-131"/>
       <point x="670" y="-81"/>
       <point x="670" y="-5" type="curve" smooth="yes"/>
       <point x="670" y="72"/>
-      <point x="639.5" y="120.5"/>
-      <point x="624" y="148" type="curve" smooth="yes"/>
-      <point x="620.459" y="154.282"/>
+      <point x="640" y="121"/>
+      <point x="624" y="148" type="curve"/>
+      <point x="620" y="154"/>
       <point x="618" y="160"/>
       <point x="618" y="164" type="curve" smooth="yes"/>
       <point x="618" y="171"/>
       <point x="620" y="174"/>
       <point x="626" y="174" type="curve" smooth="yes"/>
       <point x="630" y="174"/>
-      <point x="636.029" y="171.024"/>
+      <point x="636" y="171"/>
       <point x="642" y="164" type="curve" smooth="yes"/>
-      <point x="662.047" y="140.415"/>
+      <point x="662" y="140"/>
       <point x="700" y="76"/>
     </contour>
     <contour>
@@ -182,6 +182,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -220,7 +227,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>aa398eb873e4fb4ba656411a77d0793cf2cde9b6eff8d368f4fcb42adde8173474cf145847cf30984fc52993ab2079dcb44af9ad1832e02bd2b53299d1c0601c</string>
+    <string>46960340184371bd9ddae85a2e0b514fb7288f9159856ba8d80b514c8fe3f75d7216c6693831ee3490008179b82e309e7837431cb697a44fb9800c22158b17b7</string>
     <key>hintSetList</key>
     <array>
       <dict>

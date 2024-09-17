@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE851" format="2">
   <advance width="363"/>
   <unicode hex="E851"/>
@@ -59,34 +59,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8c0d161c600c920a6a388bdab35e32e6e61f2df9cf56f80856caccc73602af5aadc2f754da8ffa134da356c9756a705b76ce2bada64c1eba69b77977e99ea26e</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>3-string fretboard at nut</string>
+      <key>_name</key>
+      <string>fretboard3StringNut</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 24</string>
-          <string>hstem 250 24</string>
-          <string>hstem 500 24</string>
-          <string>hstem 750 24</string>
-          <string>hstem 959 65</string>
-          <string>vstem 0 24</string>
-          <string>vstem 168 24</string>
-          <string>vstem 336 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 24</string>
+              <string>hstem 250 24</string>
+              <string>hstem 500 24</string>
+              <string>hstem 750 24</string>
+              <string>hstem 959 65</string>
+              <string>vstem 0 24</string>
+              <string>vstem 168 24</string>
+              <string>vstem 336 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8c0d161c600c920a6a388bdab35e32e6e61f2df9cf56f80856caccc73602af5aadc2f754da8ffa134da356c9756a705b76ce2bada64c1eba69b77977e99ea26e</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

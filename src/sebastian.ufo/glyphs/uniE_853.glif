@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE853" format="2">
   <advance width="530"/>
   <unicode hex="E853"/>
@@ -83,35 +83,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>359700b64c849cc2516e6c6242e711470eff78c5c4a02dda7774c720a0e61b981222fb0d131a49a72a391378659489ba3f9fb23c2da37d34f1e2185b61dbe0fd</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>4-string fretboard at nut</string>
+      <key>_name</key>
+      <string>fretboard4StringNut</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 24</string>
-          <string>hstem 250 24</string>
-          <string>hstem 500 24</string>
-          <string>hstem 750 24</string>
-          <string>hstem 959 65</string>
-          <string>vstem 0 24</string>
-          <string>vstem 168 24</string>
-          <string>vstem 334 26</string>
-          <string>vstem 502 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 24</string>
+              <string>hstem 250 24</string>
+              <string>hstem 500 24</string>
+              <string>hstem 750 24</string>
+              <string>hstem 959 65</string>
+              <string>vstem 0 24</string>
+              <string>vstem 168 24</string>
+              <string>vstem 334 26</string>
+              <string>vstem 502 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>359700b64c849cc2516e6c6242e711470eff78c5c4a02dda7774c720a0e61b981222fb0d131a49a72a391378659489ba3f9fb23c2da37d34f1e2185b61dbe0fd</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

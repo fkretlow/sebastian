@@ -4,50 +4,60 @@
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="41" y="12.949" type="curve" smooth="yes"/>
-      <point x="32" y="12.949"/>
-      <point x="25" y="5.949"/>
-      <point x="25" y="-0.0509996" type="curve"/>
-      <point x="25" y="-0.0509996"/>
-      <point x="0" y="-0.0509996"/>
-      <point x="0" y="-0.0509996" type="curve"/>
-      <point x="0" y="-0.0509996"/>
-      <point x="0" y="267.949"/>
-      <point x="0" y="267.949" type="curve"/>
-      <point x="0" y="267.949"/>
-      <point x="26" y="267.949"/>
-      <point x="26" y="267.949" type="curve"/>
-      <point x="26" y="235.949"/>
-      <point x="40.236" y="187.138"/>
-      <point x="73" y="145.949" type="curve" smooth="yes"/>
-      <point x="145.237" y="55.1369"/>
-      <point x="292" y="-47.051"/>
-      <point x="292" y="-262.051" type="curve" smooth="yes"/>
-      <point x="292" y="-368.051"/>
-      <point x="238.333" y="-507.717"/>
-      <point x="224" y="-544.051" type="curve"/>
-      <point x="219.775" y="-548.205"/>
-      <point x="215.048" y="-550"/>
-      <point x="210.673" y="-550" type="curve" smooth="yes"/>
-      <point x="202.418" y="-550"/>
-      <point x="195.419" y="-543.609"/>
-      <point x="195.419" y="-534.627" type="curve"/>
-      <point x="195.419" y="-533.165"/>
-      <point x="195.604" y="-531.634"/>
-      <point x="196" y="-530.051" type="curve"/>
-      <point x="211.182" y="-490.993"/>
-      <point x="258" y="-350.051"/>
-      <point x="258" y="-261.051" type="curve" smooth="yes"/>
-      <point x="258" y="-145.051"/>
-      <point x="204.236" y="-60.6903"/>
-      <point x="131" y="-13.0513" type="curve" smooth="yes"/>
-      <point x="101.233" y="6.31171"/>
-      <point x="72" y="12.9487"/>
+      <point x="41" y="13" type="curve" smooth="yes"/>
+      <point x="32" y="13"/>
+      <point x="25" y="6"/>
+      <point x="25" y="0" type="curve"/>
+      <point x="25" y="0"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0" type="curve"/>
+      <point x="0" y="0"/>
+      <point x="0" y="268"/>
+      <point x="0" y="268" type="curve"/>
+      <point x="0" y="268"/>
+      <point x="26" y="268"/>
+      <point x="26" y="268" type="curve"/>
+      <point x="26" y="236"/>
+      <point x="40" y="187"/>
+      <point x="73" y="146" type="curve" smooth="yes"/>
+      <point x="145" y="55"/>
+      <point x="292" y="-47"/>
+      <point x="292" y="-262" type="curve" smooth="yes"/>
+      <point x="292" y="-368"/>
+      <point x="238" y="-508"/>
+      <point x="224" y="-544" type="curve"/>
+      <point x="220" y="-548"/>
+      <point x="215" y="-550"/>
+      <point x="211" y="-550" type="curve" smooth="yes"/>
+      <point x="203" y="-550"/>
+      <point x="195" y="-544"/>
+      <point x="195" y="-535" type="curve"/>
+      <point x="195" y="-534"/>
+      <point x="196" y="-532"/>
+      <point x="196" y="-530" type="curve"/>
+      <point x="211" y="-491"/>
+      <point x="258" y="-350"/>
+      <point x="258" y="-261" type="curve" smooth="yes"/>
+      <point x="258" y="-145"/>
+      <point x="204" y="-61"/>
+      <point x="131" y="-13" type="curve" smooth="yes"/>
+      <point x="101" y="6"/>
+      <point x="72" y="13"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="-813"/>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>desc</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -71,7 +81,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>abd4e7a2bc06d1263cdbe0e7966dcca011747b7945401728e279da8fc7e292f0d9a406e24b5dc4b976f88e76772496e59b4d9941d5d31c471e078307d59d8ce9</string>
+    <string>e193942a5093228eafbb9bd5b8e381e2452721726ceb754bd3ac8e1f0c19716f3ae6d31f1c14dc7a7ca6c650b7de7c9502a89d86a13a95f14f36f066529c959f</string>
     <key>hintSetList</key>
     <array>
       <dict>

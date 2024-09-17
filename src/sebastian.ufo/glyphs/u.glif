@@ -4,20 +4,20 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="24.6" y="51" type="line"/>
-      <point x="24.6" y="-68"/>
-      <point x="87.5" y="-197.2"/>
-      <point x="300" y="-197.2" type="curve" smooth="yes"/>
-      <point x="512.5" y="-197.2"/>
-      <point x="575.4" y="-68"/>
-      <point x="575.4" y="51" type="curve"/>
-      <point x="600.05" y="51" type="line"/>
-      <point x="600.05" y="-153"/>
-      <point x="478.5" y="-317.9"/>
-      <point x="300" y="-317.9" type="curve" smooth="yes"/>
-      <point x="121.5" y="-317.9"/>
-      <point x="-0.0500031" y="-153"/>
-      <point x="-0.0500031" y="51" type="curve"/>
+      <point x="25" y="51" type="line"/>
+      <point x="25" y="-68"/>
+      <point x="88" y="-197"/>
+      <point x="300" y="-197" type="curve" smooth="yes"/>
+      <point x="513" y="-197"/>
+      <point x="575" y="-68"/>
+      <point x="575" y="51" type="curve"/>
+      <point x="600" y="51" type="line"/>
+      <point x="600" y="-153"/>
+      <point x="478" y="-318"/>
+      <point x="300" y="-318" type="curve" smooth="yes"/>
+      <point x="122" y="-318"/>
+      <point x="0" y="-153"/>
+      <point x="0" y="51" type="curve"/>
     </contour>
     <contour>
       <point x="369" y="-19" type="curve" smooth="yes"/>
@@ -36,6 +36,16 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>latn</string>
+    <string>bos</string>
+    <string>noncomposite</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -80,7 +90,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a881cf2692f957f37d31a949fd33cef28d1bd6c35388b46e8ad9e4216a3a2e4c2e67b1010fd970e33cd38fc1e76196e143369833c1a510cd9aeb6d25a5a81d06</string>
+    <string>20774823074ec98dbc6312de2aa50565563924652c13e32d57cf616392369da59a773f88556d49117e3482f73eca80b99878a550b1f6f37909f60146316c8c14</string>
     <key>hintSetList</key>
     <array>
       <dict>

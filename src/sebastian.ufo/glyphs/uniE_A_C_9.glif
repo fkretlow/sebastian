@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAC9" format="2">
   <advance width="459"/>
   <unicode hex="EAC9"/>
@@ -72,7 +72,7 @@
       <point x="160" y="341"/>
       <point x="165" y="341"/>
       <point x="171" y="342" type="curve"/>
-      <point x="175" y="342"/>
+      <point x="175" y="342" name="hr01"/>
       <point x="187" y="342"/>
       <point x="190" y="345" type="curve"/>
       <point x="196" y="349"/>
@@ -234,31 +234,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e7b0b61f97f718f4f29dcbaf78955299a833ff66a292fc2bddcc0e647c6cffdac6950cbf3ad08e4597cbce70c56b810b57c65d46316ebb893d876694ebb6e531</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesCircularMotion</string>
+      </array>
+      <key>_description</key>
+      <string>Circular motion segment</string>
+      <key>_name</key>
+      <string>wiggleCircular</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 85 337</string>
-          <string>hstem 342 80</string>
-          <string>vstem -53 17</string>
-          <string>vstem 305 36</string>
-          <string>vstem 413 35</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 85 337</string>
+              <string>hstem 342 80</string>
+              <string>vstem -53 17</string>
+              <string>vstem 305 36</string>
+              <string>vstem 413 35</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e7b0b61f97f718f4f29dcbaf78955299a833ff66a292fc2bddcc0e647c6cffdac6950cbf3ad08e4597cbce70c56b810b57c65d46316ebb893d876694ebb6e531</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

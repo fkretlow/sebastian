@@ -4,44 +4,52 @@
   <unicode hex="F515"/>
   <outline>
     <contour>
-      <point x="4" y="60.1667" type="line" smooth="yes"/>
-      <point x="4" y="55.5"/>
-      <point x="7" y="51.5"/>
-      <point x="11.125" y="51.5" type="curve" smooth="yes"/>
-      <point x="165.25" y="51.5" type="line" smooth="yes"/>
-      <point x="169" y="51.5"/>
-      <point x="172" y="55.5"/>
-      <point x="172" y="60.1667" type="curve" smooth="yes"/>
-      <point x="172" y="92.8333" type="line" smooth="yes"/>
-      <point x="172" y="97.5"/>
-      <point x="169" y="101.5"/>
-      <point x="165.25" y="101.5" type="curve" smooth="yes"/>
-      <point x="11.125" y="101.5" type="line" smooth="yes"/>
-      <point x="7" y="101.5"/>
-      <point x="4" y="97.5"/>
-      <point x="4" y="92.8333" type="curve" smooth="yes"/>
+      <point x="4" y="60" type="line" smooth="yes"/>
+      <point x="4" y="55"/>
+      <point x="7" y="51"/>
+      <point x="11" y="51" type="curve" smooth="yes"/>
+      <point x="165" y="51" type="line" smooth="yes"/>
+      <point x="169" y="51"/>
+      <point x="172" y="55"/>
+      <point x="172" y="60" type="curve" smooth="yes"/>
+      <point x="172" y="93" type="line" smooth="yes"/>
+      <point x="172" y="98"/>
+      <point x="169" y="101"/>
+      <point x="165" y="101" type="curve" smooth="yes"/>
+      <point x="11" y="101" type="line" smooth="yes"/>
+      <point x="7" y="101"/>
+      <point x="4" y="98"/>
+      <point x="4" y="93" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="11.125" y="-92.5" type="curve" smooth="yes"/>
-      <point x="165.25" y="-92.5" type="line" smooth="yes"/>
-      <point x="169" y="-92.5"/>
-      <point x="172" y="-88.5"/>
-      <point x="172" y="-83.8333" type="curve" smooth="yes"/>
-      <point x="172" y="-51.1667" type="line" smooth="yes"/>
-      <point x="172" y="-46.5"/>
-      <point x="169" y="-42.5"/>
-      <point x="165.25" y="-42.5" type="curve" smooth="yes"/>
-      <point x="11.125" y="-42.5" type="line" smooth="yes"/>
-      <point x="7" y="-42.5"/>
-      <point x="4" y="-46.5"/>
-      <point x="4" y="-51.1667" type="curve" smooth="yes"/>
-      <point x="4" y="-83.8333" type="line" smooth="yes"/>
-      <point x="4" y="-88.5"/>
-      <point x="7" y="-92.5"/>
+      <point x="11" y="-93" type="curve" smooth="yes"/>
+      <point x="165" y="-93" type="line" smooth="yes"/>
+      <point x="169" y="-93"/>
+      <point x="172" y="-89"/>
+      <point x="172" y="-84" type="curve" smooth="yes"/>
+      <point x="172" y="-51" type="line" smooth="yes"/>
+      <point x="172" y="-46"/>
+      <point x="169" y="-43"/>
+      <point x="165" y="-43" type="curve" smooth="yes"/>
+      <point x="11" y="-43" type="line" smooth="yes"/>
+      <point x="7" y="-43"/>
+      <point x="4" y="-46"/>
+      <point x="4" y="-51" type="curve" smooth="yes"/>
+      <point x="4" y="-84" type="line" smooth="yes"/>
+      <point x="4" y="-89"/>
+      <point x="7" y="-93"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -65,7 +73,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f6ccd3b99507aa20a5a9be3a587f6b80ff7f995bcfe5b735160660219e350f730ac32c2d81b549fbc87ba62e8ea7f04cc50f8b958fe6166c5f7625724b11cef2</string>
+    <string>4f76b0befb3b51e5bf14096f91bc716fdb2ee15fae37781dc8193fbda93e7bd3e33a2b1a0012666bdc7a3d1963546d5702c0d1a18dcc755263a6fd573a2a387a</string>
     <key>hintSetList</key>
     <array>
       <dict>

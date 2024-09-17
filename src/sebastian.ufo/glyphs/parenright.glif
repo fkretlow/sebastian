@@ -4,27 +4,34 @@
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="0.1113" y="201.6" type="curve"/>
-      <point x="12.9121" y="213.6" type="line"/>
-      <point x="48.1113" y="177.6"/>
-      <point x="96.9121" y="108"/>
-      <point x="96.9121" y="0" type="curve"/>
-      <point x="96.9189" y="-0.8613"/>
-      <point x="96.9219" y="-1.7207"/>
-      <point x="96.9219" y="-2.5772" type="curve"/>
-      <point x="96.9219" y="-109.108"/>
-      <point x="47.831" y="-177.887"/>
-      <point x="12.912" y="-213.6" type="curve"/>
-      <point x="0.111297" y="-201.6" type="line"/>
-      <point x="23.12" y="-167.483"/>
-      <point x="70.5215" y="-103.467"/>
-      <point x="70.5215" y="-2.5254" type="curve" smooth="yes"/>
-      <point x="70.5215" y="101.184"/>
-      <point x="23.7841" y="166.5"/>
+      <point x="0" y="202" type="curve"/>
+      <point x="13" y="214" type="line"/>
+      <point x="48" y="178"/>
+      <point x="97" y="108"/>
+      <point x="97" y="0" type="curve"/>
+      <point x="97" y="-1"/>
+      <point x="97" y="-2"/>
+      <point x="97" y="-3" type="curve"/>
+      <point x="97" y="-110"/>
+      <point x="48" y="-178"/>
+      <point x="13" y="-214" type="curve"/>
+      <point x="0" y="-202" type="line"/>
+      <point x="23" y="-168"/>
+      <point x="71" y="-104"/>
+      <point x="71" y="-3" type="curve" smooth="yes"/>
+      <point x="71" y="101"/>
+      <point x="24" y="167"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -51,7 +58,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e82877104bbe5c95d4c1c83d15c9e5c99d0e0c44fd8522a17c4a40f1460f58ec0c36990ff62f0b30a491dc076cf4ab32178fb7235810bcd0a6f916f912d51aa0</string>
+    <string>w97m0,202l13,214c48,178 97,108 97,0c97,-1 97,-2 97,-3c97,-110 48,-178 13,-214l0,-202c23,-168 71,-104 71,-3c71,101 24,167 0,202</string>
     <key>hintSetList</key>
     <array>
       <dict>

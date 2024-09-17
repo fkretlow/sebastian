@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEB8A" format="2">
   <advance width="279"/>
   <unicode hex="EB8A"/>
@@ -49,28 +49,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>31db14dcf5af922c99438ff4d09970c9287a341f9e242474d07d2fdb50f1f17c8e18dc530c9b70a43f7760fb6c7f016bef239ec353be7d1535e7d64869838b55</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Open arrowhead right (E)</string>
+      <key>_name</key>
+      <string>arrowheadOpenRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>vstem 0 279</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>vstem 0 279</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>31db14dcf5af922c99438ff4d09970c9287a341f9e242474d07d2fdb50f1f17c8e18dc530c9b70a43f7760fb6c7f016bef239ec353be7d1535e7d64869838b55</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

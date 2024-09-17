@@ -1,54 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0DE" format="2">
   <advance width="350"/>
   <unicode hex="E0DE"/>
   <outline>
     <contour>
-      <point x="66.1184" y="-11.1" type="curve" smooth="yes"/>
-      <point x="161.842" y="-111.9" type="line" smooth="yes"/>
-      <point x="167.794" y="-118.167"/>
-      <point x="182.545" y="-117.127"/>
-      <point x="186.513" y="-112.95" type="curve" smooth="yes"/>
-      <point x="278.29" y="-16.3501" type="line" smooth="yes"/>
-      <point x="281.512" y="-12.958"/>
-      <point x="283.254" y="-5.83564"/>
-      <point x="283.254" y="0.962297" type="curve" smooth="yes"/>
-      <point x="283.254" y="6.72121"/>
-      <point x="281.992" y="12.2605"/>
-      <point x="279.276" y="15.15" type="curve" smooth="yes"/>
-      <point x="188.487" y="111.75" type="line" smooth="yes"/>
-      <point x="182.566" y="118.05"/>
-      <point x="167.763" y="119.1"/>
-      <point x="161.842" y="112.8" type="curve" smooth="yes"/>
-      <point x="67.1052" y="12" type="line" smooth="yes"/>
-      <point x="63.1578" y="7.8"/>
-      <point x="63.1425" y="-7.96635"/>
+      <point x="66" y="-11" type="curve" smooth="yes"/>
+      <point x="162" y="-112" type="line" smooth="yes"/>
+      <point x="168" y="-118"/>
+      <point x="183" y="-117"/>
+      <point x="187" y="-113" type="curve"/>
+      <point x="278" y="-16" type="line"/>
+      <point x="281" y="-13"/>
+      <point x="283" y="-6"/>
+      <point x="283" y="1" type="curve" smooth="yes"/>
+      <point x="283" y="7"/>
+      <point x="282" y="12"/>
+      <point x="279" y="15" type="curve"/>
+      <point x="188" y="112" type="line"/>
+      <point x="182" y="118"/>
+      <point x="168" y="119"/>
+      <point x="162" y="113" type="curve"/>
+      <point x="67" y="12" type="line"/>
+      <point x="63" y="8"/>
+      <point x="63" y="-8"/>
     </contour>
     <contour>
-      <point x="0" y="0.45" type="line"/>
-      <point x="174.671" y="186.3" type="line"/>
-      <point x="349.342" y="0.45" type="line"/>
-      <point x="174.671" y="-185.4" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="175" y="186" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="175" y="-185" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Diamond white notehead (wide)</string>
+      <key>_name</key>
+      <string>noteheadDiamondWhiteWide</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>157</integer>
-        <key>width</key>
-        <integer>20</integer>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>157</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

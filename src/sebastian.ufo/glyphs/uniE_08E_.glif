@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE08E" format="2">
   <advance width="322"/>
   <unicode hex="E08E"/>
@@ -7,56 +7,64 @@
       <point x="0" y="-162" type="curve"/>
       <point x="0" y="-164"/>
       <point x="0" y="-166"/>
-      <point x="0.8519" y="-167" type="curve"/>
-      <point x="19.5926" y="-188" type="line"/>
-      <point x="20.4445" y="-189"/>
-      <point x="22.1482" y="-190"/>
-      <point x="23.8519" y="-190" type="curve"/>
-      <point x="27.2593" y="-190"/>
-      <point x="30.6668" y="-188"/>
-      <point x="33.2224" y="-184" type="curve"/>
-      <point x="316.889" y="149" type="line"/>
-      <point x="320.296" y="152"/>
+      <point x="1" y="-167" type="curve"/>
+      <point x="20" y="-188" type="line"/>
+      <point x="21" y="-189"/>
+      <point x="22" y="-190"/>
+      <point x="24" y="-190" type="curve"/>
+      <point x="27" y="-190"/>
+      <point x="30" y="-188"/>
+      <point x="33" y="-184" type="curve"/>
+      <point x="317" y="149" type="line"/>
+      <point x="320" y="152"/>
       <point x="322" y="157"/>
       <point x="322" y="161" type="curve"/>
       <point x="322" y="163"/>
-      <point x="321.148" y="165"/>
-      <point x="320.296" y="166" type="curve"/>
-      <point x="302.407" y="187" type="line"/>
-      <point x="301.555" y="188"/>
-      <point x="299.852" y="189"/>
-      <point x="298.148" y="189" type="curve"/>
-      <point x="294.741" y="189"/>
-      <point x="291.333" y="187"/>
-      <point x="287.926" y="183" type="curve" smooth="yes"/>
-      <point x="4.25913" y="-150" type="line"/>
-      <point x="1.70353" y="-154"/>
+      <point x="321" y="165"/>
+      <point x="320" y="166" type="curve"/>
+      <point x="302" y="187" type="line"/>
+      <point x="301" y="188"/>
+      <point x="300" y="189"/>
+      <point x="298" y="189" type="curve"/>
+      <point x="295" y="189"/>
+      <point x="291" y="187"/>
+      <point x="288" y="183" type="curve"/>
+      <point x="4" y="-150" type="line"/>
+      <point x="1" y="-154"/>
       <point x="0" y="-158"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>988c3ef7e4c76fbe90b374bf0bf197c57128c4c253454f70e046eb8940e6411df646f4b4034acffb62fc3da4f48eeeff2b7e63305a8dfa6096b048694b7b4d6a</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Time signature fraction slash</string>
+      <key>_name</key>
+      <string>timeSigFractionalSlash</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -169 -21</string>
-          <string>hstem 189 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -169 -21</string>
+              <string>hstem 189 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b6944b21529016258a668dff124b6cc6e354abf2e830b2213cc9db63ca92af36d6298b53e7354dc5dd1296d1791909f28192184a20e19c4516124c73c79613ff</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

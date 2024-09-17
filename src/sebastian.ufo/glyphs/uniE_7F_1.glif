@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE7F1" format="2">
   <advance width="781"/>
   <unicode hex="E7F1"/>
@@ -50,30 +50,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>912e73b6f533ecae28384715566943ae9210c1b0f12bbb468457fdaa942c2123776fc991be0200089cff6ba435e2c9025c83671543aeaf92794edf34578244c5</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pictograms</string>
+      </array>
+      <key>_description</key>
+      <string>Scrape from center to edge</string>
+      <key>_name</key>
+      <string>pictScrapeCenterToEdge</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 32</string>
-          <string>hstem 750 32</string>
-          <string>vstem 0 32</string>
-          <string>vstem 750 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 32</string>
+              <string>hstem 750 32</string>
+              <string>vstem 0 32</string>
+              <string>vstem 750 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>912e73b6f533ecae28384715566943ae9210c1b0f12bbb468457fdaa942c2123776fc991be0200089cff6ba435e2c9025c83671543aeaf92794edf34578244c5</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

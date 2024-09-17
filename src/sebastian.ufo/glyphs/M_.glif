@@ -28,11 +28,11 @@
       <point x="277" y="100"/>
       <point x="276" y="128"/>
       <point x="276" y="183" type="curve" smooth="yes"/>
-      <point x="276" y="198.696"/>
-      <point x="278.73" y="200.06"/>
-      <point x="289.826" y="200.06" type="curve" smooth="yes"/>
-      <point x="292.163" y="200.06"/>
-      <point x="294.87" y="200"/>
+      <point x="276" y="199"/>
+      <point x="279" y="200"/>
+      <point x="290" y="200" type="curve"/>
+      <point x="292" y="200"/>
+      <point x="295" y="200"/>
       <point x="298" y="200" type="curve" smooth="yes"/>
       <point x="309" y="200"/>
       <point x="311" y="199"/>
@@ -92,11 +92,11 @@
       <point x="276" y="-200"/>
       <point x="276" y="-183" type="curve" smooth="yes"/>
       <point x="276" y="-94" type="line"/>
-      <point x="276.102" y="-92.2646"/>
-      <point x="276.152" y="-90.5917"/>
-      <point x="276.152" y="-88.9866" type="curve"/>
-      <point x="276.152" y="-74.8688"/>
-      <point x="272.285" y="-66"/>
+      <point x="276" y="-92"/>
+      <point x="276" y="-91"/>
+      <point x="276" y="-89" type="curve"/>
+      <point x="276" y="-75"/>
+      <point x="272" y="-66"/>
       <point x="266" y="-66" type="curve" smooth="yes"/>
       <point x="261" y="-66"/>
       <point x="255" y="-70"/>
@@ -122,6 +122,15 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -160,7 +169,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>54266da1b724f4f55610271d18ee5b5da59faf2188df63a3736a69abda270e1aa0f162f396abbe5ee8a6773197d095cfef44ab5488ccb3659865fe62ff16333e</string>
+    <string>ecb2ffea07c5b4c10399d80be46cce11b3b17f7499fdc2c5201c0d5703bb0a23ee9c304ac6abd04f66aa4e8c5e5294b4f55879b59ab15b2515ee4fa8af19740f</string>
     <key>hintSetList</key>
     <array>
       <dict>

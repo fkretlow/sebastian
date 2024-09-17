@@ -1,85 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4C9" format="2">
   <advance width="645"/>
   <unicode hex="E4C9"/>
   <outline>
     <contour>
-      <point x="255.828" y="-58.4178" type="curve" smooth="yes"/>
-      <point x="255.828" y="-26.1178"/>
-      <point x="281.328" y="0.232199"/>
-      <point x="313.628" y="0.232199" type="curve" smooth="yes"/>
-      <point x="345.928" y="0.232199"/>
-      <point x="373.128" y="-26.1178"/>
-      <point x="373.128" y="-58.4178" type="curve" smooth="yes"/>
-      <point x="373.128" y="-90.7178"/>
-      <point x="345.928" y="-117.068"/>
-      <point x="313.628" y="-117.068" type="curve" smooth="yes"/>
-      <point x="281.328" y="-117.068"/>
-      <point x="255.828" y="-90.7178"/>
+      <point x="256" y="-58" type="curve" smooth="yes"/>
+      <point x="256" y="-26"/>
+      <point x="282" y="0"/>
+      <point x="314" y="0" type="curve" smooth="yes"/>
+      <point x="346" y="0"/>
+      <point x="373" y="-26"/>
+      <point x="373" y="-58" type="curve" smooth="yes"/>
+      <point x="373" y="-90"/>
+      <point x="346" y="-117"/>
+      <point x="314" y="-117" type="curve" smooth="yes"/>
+      <point x="282" y="-117"/>
+      <point x="256" y="-90"/>
     </contour>
     <contour>
-      <point x="35.8281" y="1.2322" type="line"/>
-      <point x="35.8281" y="-300.309" type="line" smooth="yes"/>
-      <point x="35.8281" y="-306.309"/>
-      <point x="48" y="-308.616"/>
-      <point x="52" y="-308.616" type="curve" smooth="yes"/>
-      <point x="602" y="-308.616" type="line" smooth="yes"/>
-      <point x="607" y="-308.616"/>
-      <point x="613.828" y="-302.768"/>
-      <point x="613.828" y="-293.768" type="curve" smooth="yes"/>
-      <point x="613.828" y="1.23225" type="line"/>
-      <point x="641.828" y="1.23225" type="line"/>
-      <point x="641.828" y="-409.768" type="line"/>
-      <point x="7.828" y="-409.768" type="line"/>
-      <point x="7.828" y="1.23225" type="line"/>
+      <point x="36" y="1" type="line"/>
+      <point x="36" y="-300" type="line" smooth="yes"/>
+      <point x="36" y="-306"/>
+      <point x="48" y="-309"/>
+      <point x="52" y="-309" type="curve" smooth="yes"/>
+      <point x="602" y="-309" type="line" smooth="yes"/>
+      <point x="607" y="-309"/>
+      <point x="614" y="-303"/>
+      <point x="614" y="-294" type="curve" smooth="yes"/>
+      <point x="614" y="1" type="line"/>
+      <point x="642" y="1" type="line"/>
+      <point x="642" y="-410" type="line"/>
+      <point x="8" y="-410" type="line"/>
+      <point x="8" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="110.285" y="2.1522" type="line"/>
-      <point x="110.285" y="-155.922" type="line" smooth="yes"/>
-      <point x="110.285" y="-160.242"/>
-      <point x="115.971" y="-163.092"/>
-      <point x="118.851" y="-163.092" type="curve" smooth="yes"/>
-      <point x="514.851" y="-163.092" type="line" smooth="yes"/>
-      <point x="518.451" y="-163.092"/>
-      <point x="526.445" y="-162.403"/>
-      <point x="526.445" y="-155.923" type="curve" smooth="yes"/>
-      <point x="526.445" y="2.15221" type="line"/>
-      <point x="546.605" y="2.15221" type="line"/>
-      <point x="546.563" y="-254.959" type="line"/>
-      <point x="90.083" y="-254.959" type="line"/>
-      <point x="90.1248" y="2.15221" type="line"/>
+      <point x="110" y="2" type="line"/>
+      <point x="110" y="-156" type="line" smooth="yes"/>
+      <point x="110" y="-160"/>
+      <point x="116" y="-163"/>
+      <point x="119" y="-163" type="curve" smooth="yes"/>
+      <point x="515" y="-163" type="line" smooth="yes"/>
+      <point x="519" y="-163"/>
+      <point x="526" y="-162"/>
+      <point x="526" y="-156" type="curve" smooth="yes"/>
+      <point x="526" y="2" type="line"/>
+      <point x="547" y="2" type="line"/>
+      <point x="547" y="-255" type="line"/>
+      <point x="90" y="-255" type="line"/>
+      <point x="90" y="2" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>676d631ecd61a99223192bc2f575f915f029ae26c6539f36a57451e466178014303d40409bb23d53577d787055e39a90613f84a964ee814eed6c728d20037e67</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+        <string>pausesBelow</string>
+      </array>
+      <key>_description</key>
+      <string>Very long fermata below</string>
+      <key>_name</key>
+      <string>fermataVeryLongBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -409 101</string>
-          <string>hstem -254 91</string>
-          <string>hstem -117 117</string>
-          <string>hstem 2 -20</string>
-          <string>vstem 7 28</string>
-          <string>vstem 90 20</string>
-          <string>vstem 255 117</string>
-          <string>vstem 526 20</string>
-          <string>vstem 613 28</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -409 101</string>
+              <string>hstem -254 91</string>
+              <string>hstem -117 117</string>
+              <string>hstem 2 -20</string>
+              <string>vstem 7 28</string>
+              <string>vstem 90 20</string>
+              <string>vstem 255 117</string>
+              <string>vstem 526 20</string>
+              <string>vstem 613 28</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3e3db99dde05b97b175ad978fdabe258002dc232369c6814ac0753ad621b8e93b9c324c1520b0671c452cedd770767f7f62a874c2a1904493041ec60839ea9b9</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEC62" format="2">
   <advance width="1163"/>
   <unicode hex="EC62"/>
@@ -38,7 +38,7 @@
       <point x="760" y="543"/>
       <point x="738" y="554"/>
       <point x="719" y="554" type="curve" smooth="yes"/>
-      <point x="714" y="554"/>
+      <point x="714" y="554" name="hr01"/>
       <point x="709" y="554"/>
       <point x="704" y="551" type="curve"/>
       <point x="683" y="544"/>
@@ -98,7 +98,7 @@
       <point x="44" y="457"/>
       <point x="46" y="458" type="curve"/>
       <point x="55" y="458"/>
-      <point x="69.8991" y="442.898"/>
+      <point x="70" y="443"/>
     </contour>
     <contour>
       <point x="983" y="319" type="curve"/>
@@ -119,7 +119,7 @@
       <point x="604" y="319"/>
       <point x="667" y="256"/>
       <point x="667" y="180" type="curve" smooth="yes"/>
-      <point x="667" y="103"/>
+      <point x="667" y="103" name="hr02"/>
       <point x="604" y="41"/>
       <point x="528" y="41" type="curve" smooth="yes"/>
       <point x="450" y="41"/>
@@ -130,36 +130,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a0ee589f157fb29f5e046b481b01ca787cc54e03c0829c1b3fe3726a88a9b86dbe6daafb556a486c263039a15a2a6e16de7b466b5dafc0f8ff80ddfcff1b7428</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Eyeglasses</string>
+      <key>_name</key>
+      <string>miscEyeglasses</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 41</string>
-          <string>hstem 245 41</string>
-          <string>hstem 319 41</string>
-          <string>hstem 554 -20</string>
-          <string>vstem 0 41</string>
-          <string>vstem 348 41</string>
-          <string>vstem 667 41</string>
-          <string>vstem 673 41</string>
-          <string>vstem 803 41</string>
-          <string>vstem 1122 41</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 41</string>
+              <string>hstem 245 41</string>
+              <string>hstem 319 41</string>
+              <string>hstem 554 -20</string>
+              <string>vstem 0 41</string>
+              <string>vstem 348 41</string>
+              <string>vstem 667 41</string>
+              <string>vstem 673 41</string>
+              <string>vstem 803 41</string>
+              <string>vstem 1122 41</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>63900c5fa8832e6251b400325c73af8d81f71c78705369dcb200181e359ebaa95b550ab0454ae99dd1704248aa53fb5ad57edb69a0be14aaf0ebc3c3177cc39c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

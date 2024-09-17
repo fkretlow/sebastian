@@ -1,92 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE240" format="2">
   <advance width="292"/>
   <unicode hex="E240"/>
+  <guideline x="0" y="-813" angle="0"/>
   <outline>
     <contour>
-      <point x="41" y="-255.051" type="curve" smooth="yes"/>
-      <point x="32" y="-255.051"/>
-      <point x="25" y="-262.051"/>
-      <point x="25" y="-268.051" type="curve"/>
-      <point x="25" y="-268.051"/>
-      <point x="0" y="-268.051"/>
-      <point x="0" y="-268.051" type="curve"/>
-      <point x="0" y="-268.051"/>
-      <point x="0" y="-0.0508118"/>
-      <point x="0" y="-0.0508118" type="curve"/>
-      <point x="0" y="-0.0508118"/>
-      <point x="26" y="-0.0508118"/>
-      <point x="26" y="-0.0508118" type="curve"/>
-      <point x="26" y="-32.0508"/>
-      <point x="40" y="-81.0508"/>
-      <point x="73" y="-122.051" type="curve" smooth="yes"/>
-      <point x="145" y="-213.051"/>
-      <point x="292" y="-315.051"/>
-      <point x="292" y="-530.051" type="curve" smooth="yes"/>
-      <point x="292" y="-636.051"/>
-      <point x="238.333" y="-775.717"/>
-      <point x="224" y="-812.051" type="curve"/>
-      <point x="219.775" y="-816.205"/>
-      <point x="215.048" y="-818"/>
-      <point x="210.673" y="-818" type="curve" smooth="yes"/>
-      <point x="202.418" y="-818"/>
-      <point x="195.419" y="-811.609"/>
-      <point x="195.419" y="-802.627" type="curve"/>
-      <point x="195.419" y="-801.165"/>
-      <point x="195.604" y="-799.634"/>
-      <point x="196" y="-798.051" type="curve"/>
-      <point x="211.182" y="-758.993"/>
-      <point x="258" y="-618.051"/>
-      <point x="258" y="-529.051" type="curve" smooth="yes"/>
-      <point x="258" y="-413.051"/>
-      <point x="204" y="-329.051"/>
-      <point x="131" y="-281.051" type="curve" smooth="yes"/>
-      <point x="101" y="-262.051"/>
-      <point x="72" y="-255.051"/>
+      <point x="41" y="-255" type="curve" smooth="yes"/>
+      <point x="32" y="-255"/>
+      <point x="25" y="-262"/>
+      <point x="25" y="-268" type="curve"/>
+      <point x="25" y="-268"/>
+      <point x="0" y="-268"/>
+      <point x="0" y="-268" type="curve"/>
+      <point x="0" y="-268"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0" type="curve"/>
+      <point x="0" y="0"/>
+      <point x="26" y="0"/>
+      <point x="26" y="0" type="curve"/>
+      <point x="26" y="-32"/>
+      <point x="40" y="-81"/>
+      <point x="73" y="-122" type="curve" smooth="yes"/>
+      <point x="145" y="-213"/>
+      <point x="292" y="-315"/>
+      <point x="292" y="-530" type="curve" smooth="yes"/>
+      <point x="292" y="-636"/>
+      <point x="238" y="-776"/>
+      <point x="224" y="-812" type="curve"/>
+      <point x="220" y="-816"/>
+      <point x="215" y="-818"/>
+      <point x="211" y="-818" type="curve" smooth="yes"/>
+      <point x="203" y="-818"/>
+      <point x="195" y="-812"/>
+      <point x="195" y="-803" type="curve"/>
+      <point x="195" y="-802"/>
+      <point x="196" y="-800"/>
+      <point x="196" y="-798" type="curve"/>
+      <point x="211" y="-759"/>
+      <point x="258" y="-618"/>
+      <point x="258" y="-529" type="curve" smooth="yes"/>
+      <point x="258" y="-413"/>
+      <point x="204" y="-329"/>
+      <point x="131" y="-281" type="curve" smooth="yes"/>
+      <point x="101" y="-262"/>
+      <point x="72" y="-255"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-813"/>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>vhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Combining flag 1 (8th) above</string>
+      <key>_name</key>
+      <string>flag8thUp</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>25</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>258</integer>
-        <key>width</key>
-        <integer>34</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>36cbc72784b30b34953b47de1079013d6404fb866b62bf4b96923b4d134bbe56f9c71a24829d31675a375bff9569311174bbc14e90b08c42be1ff3b1f7b7052d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>vhints</key>
         <array>
-          <string>hstem -797 -21</string>
-          <string>vstem 258 34</string>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>258</integer>
+            <key>width</key>
+            <integer>34</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -797 -21</string>
+              <string>vstem 258 34</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>95bd4d0d1bef96f873820a46e7e80105bc4b0bccbbf91643593d2c2389a76c240b3e3e991baa4f267f986b1869e4a599bd5fa2a3b99ece57f3b73191cb92a900</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

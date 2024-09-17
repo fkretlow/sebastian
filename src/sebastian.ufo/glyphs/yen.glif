@@ -30,7 +30,7 @@
       <point x="0" y="98" type="line"/>
       <point x="24" y="104" type="line"/>
       <point x="37" y="108"/>
-      <point x="42" y="116"/>
+      <point x="42" y="116" name="hr01"/>
       <point x="42" y="128" type="curve" smooth="yes"/>
       <point x="42" y="244" type="line"/>
       <point x="70" y="244" type="line"/>
@@ -46,9 +46,9 @@
       <point x="154" y="264" type="line"/>
       <point x="154" y="160" type="line" smooth="yes"/>
       <point x="154" y="152"/>
-      <point x="163.99" y="145.037"/>
+      <point x="164" y="145"/>
       <point x="171" y="147" type="curve" smooth="yes"/>
-      <point x="196" y="154" type="line"/>
+      <point x="196" y="154" type="line" name="hr02"/>
       <point x="196" y="93" type="line"/>
       <point x="165" y="84" type="line"/>
       <point x="158" y="83"/>
@@ -62,7 +62,7 @@
       <point x="196" y="-98" type="line"/>
       <point x="172" y="-104" type="line"/>
       <point x="159" y="-108"/>
-      <point x="154" y="-116"/>
+      <point x="154" y="-116" name="hr03"/>
       <point x="154" y="-128" type="curve" smooth="yes"/>
       <point x="154" y="-244" type="line"/>
       <point x="126" y="-244" type="line"/>
@@ -75,12 +75,12 @@
       <point x="70" y="-138"/>
       <point x="70" y="-146" type="curve" smooth="yes"/>
       <point x="70" y="-264" type="line"/>
-      <point x="42" y="-264" type="line"/>
+      <point x="42" y="-264" type="line" name="hr04"/>
       <point x="42" y="-160" type="line" smooth="yes"/>
       <point x="42" y="-152"/>
       <point x="32" y="-145"/>
       <point x="25" y="-147" type="curve" smooth="yes"/>
-      <point x="0" y="-154" type="line"/>
+      <point x="0" y="-154" type="line" name="hr05"/>
       <point x="0" y="-93" type="line"/>
       <point x="31" y="-84" type="line"/>
       <point x="38" y="-83"/>
@@ -90,6 +90,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -134,7 +141,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bd9a9b36f3a2abf82793632aaa901bc681b64f295fe105ac0f61563aa7aee5b790304bfd34d49011e1184570e8eb24297e0f8ec361942392905f01d375868642</string>
+    <string>d1376ebad38456db1dcd4aae126329cfc4991fd251c88c18e3d9bea41d542efc342b68dc82bd7ebe599b7c3f8f3b37b13550dec0b91b97c3a3c3af0880e9a67b</string>
     <key>hintSetList</key>
     <array>
       <dict>

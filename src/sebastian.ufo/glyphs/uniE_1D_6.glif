@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE1D6" format="2">
   <advance width="326"/>
   <unicode hex="E1D6"/>
   <outline>
     <contour>
       <point x="231" y="-101" type="curve" smooth="yes"/>
-      <point x="195.883" y="-124.829"/>
+      <point x="196" y="-125"/>
       <point x="148" y="-141"/>
       <point x="105" y="-141" type="curve" smooth="yes"/>
       <point x="80" y="-141"/>
@@ -19,9 +19,9 @@
       <point x="0" y="-50" type="line"/>
       <point x="0" y="-49" type="line"/>
       <point x="1" y="7"/>
-      <point x="46.1159" y="67.8286"/>
+      <point x="46" y="68"/>
       <point x="95" y="101" type="curve" smooth="yes"/>
-      <point x="130.117" y="124.829"/>
+      <point x="130" y="125"/>
       <point x="178" y="141"/>
       <point x="221" y="141" type="curve" smooth="yes"/>
       <point x="258" y="141"/>
@@ -31,54 +31,67 @@
       <point x="326" y="68"/>
       <point x="326" y="50" type="curve" smooth="yes"/>
       <point x="326" y="-6"/>
-      <point x="279.884" y="-67.8286"/>
+      <point x="280" y="-68"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Quarter note (crotchet) stem down</string>
+      <key>_name</key>
+      <string>noteQuarterDown</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>121</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>-326</integer>
-        <key>width</key>
-        <integer>26</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f5de5b7987ae7af6a58303b115a8c6e3a56a7e9d4ca22b16c2835bdb6ad8fa3faf07a826f603258da4bd413dc37dd314ae5504bd5bb23e4b2700bc128eb6f902</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -829 -21</string>
-          <string>hstem 141 -20</string>
-          <string>vstem 0 26</string>
+          <dict>
+            <key>position</key>
+            <integer>121</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-326</integer>
+            <key>width</key>
+            <integer>26</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -829 -21</string>
+              <string>hstem 141 -20</string>
+              <string>vstem 0 26</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>77a5566d5473c1b7b7660d8ac5f86042eef841e396d9d2272ff467e6f8dd64f58fdc467201569cdb44dc90a3b15fdd09f1b9b57bb46d251afc5621eb4da432cf</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

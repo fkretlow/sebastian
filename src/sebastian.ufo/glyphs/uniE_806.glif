@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE806" format="2">
   <advance width="282"/>
   <unicode hex="E806"/>
@@ -29,30 +29,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a3781f291b4d4c9a7c165952647cc09a62c39afc6726cf455fcca0a64b833f9996dc868085643cf0143298e4255aa6c6e6a22388f90912cdf2912892437cbee2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pictograms</string>
+      </array>
+      <key>_description</key>
+      <string>Left hand (Agostini)</string>
+      <key>_name</key>
+      <string>pictRightHandSquare</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 32</string>
-          <string>hstem 250 32</string>
-          <string>vstem 0 32</string>
-          <string>vstem 250 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 32</string>
+              <string>hstem 250 32</string>
+              <string>vstem 0 32</string>
+              <string>vstem 250 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a3781f291b4d4c9a7c165952647cc09a62c39afc6726cf455fcca0a64b833f9996dc868085643cf0143298e4255aa6c6e6a22388f90912cdf2912892437cbee2</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

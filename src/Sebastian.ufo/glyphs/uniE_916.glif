@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE916" format="2">
   <advance width="379"/>
   <unicode hex="E916"/>
@@ -49,29 +49,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>df19cf8b49b8e7c158ac7cca97f6162811aded5fa08be281e96bfe1cfa21205dcb7f91512523577254316b42a951b66301d992631813a3aec6cde944a17b5994</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tempus imperfectum cum prolatione imperfecta diminution 1 (2/2)</string>
+      <key>_name</key>
+      <string>mensuralProlation7</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -204 33</string>
-          <string>hstem 171 33</string>
-          <string>vstem 319 70</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -204 33</string>
+              <string>hstem 171 33</string>
+              <string>vstem 319 70</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>df19cf8b49b8e7c158ac7cca97f6162811aded5fa08be281e96bfe1cfa21205dcb7f91512523577254316b42a951b66301d992631813a3aec6cde944a17b5994</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

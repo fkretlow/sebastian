@@ -4,30 +4,40 @@
   <unicode hex="00F1"/>
   <outline>
     <contour>
-      <point x="137.526" y="-219" type="curve"/>
-      <point x="125.526" y="-216"/>
-      <point x="97.526" y="-207"/>
-      <point x="72.526" y="-207" type="curve" smooth="yes"/>
-      <point x="47.526" y="-207"/>
-      <point x="20.526" y="-216"/>
-      <point x="7.526" y="-219" type="curve"/>
-      <point x="2.526" y="-220"/>
-      <point x="-1.474" y="-221"/>
-      <point x="0.526001" y="-214" type="curve" smooth="yes"/>
-      <point x="65.526" y="14" type="line" smooth="yes"/>
-      <point x="67.526" y="21"/>
-      <point x="69.526" y="25"/>
-      <point x="72.526" y="25" type="curve"/>
-      <point x="74.526" y="25"/>
-      <point x="77.526" y="21"/>
-      <point x="79.526" y="13" type="curve"/>
-      <point x="143.526" y="-211" type="line"/>
-      <point x="146.526" y="-219"/>
-      <point x="144.526" y="-221"/>
+      <point x="138" y="-219" type="curve"/>
+      <point x="126" y="-216"/>
+      <point x="98" y="-207"/>
+      <point x="73" y="-207" type="curve" smooth="yes"/>
+      <point x="48" y="-207"/>
+      <point x="21" y="-216"/>
+      <point x="8" y="-219" type="curve"/>
+      <point x="3" y="-220"/>
+      <point x="-1" y="-221"/>
+      <point x="1" y="-214" type="curve" smooth="yes"/>
+      <point x="66" y="14" type="line" smooth="yes"/>
+      <point x="68" y="21"/>
+      <point x="70" y="25"/>
+      <point x="73" y="25" type="curve"/>
+      <point x="75" y="25"/>
+      <point x="78" y="21"/>
+      <point x="80" y="13" type="curve"/>
+      <point x="144" y="-211" type="line"/>
+      <point x="147" y="-219"/>
+      <point x="145" y="-221"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>lc</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>tos</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -54,7 +64,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b3bfd551c7e133e0445d9384e876b85c290e001ba7c9c006693595d4650dd1191e4679ac40f08b13622edc585ea6a5a154fdfb2193f5de2b80ec87944b0e6394</string>
+    <string>1deb00884988e9914eaa327c46ac9b5bc48b7355ad310adedd31699161f6e3c4fc230b859c46b38feb30260365e9b5464bafeed430874c2795707464dcbac375</string>
     <key>hintSetList</key>
     <array>
       <dict>

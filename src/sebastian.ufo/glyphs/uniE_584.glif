@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE584" format="2">
   <advance width="219"/>
   <unicode hex="E584"/>
@@ -12,7 +12,7 @@
       <point x="42" y="312"/>
       <point x="48" y="309" type="curve"/>
       <point x="52" y="309"/>
-      <point x="55" y="306"/>
+      <point x="55" y="306" name="hr01"/>
       <point x="55" y="302" type="curve"/>
       <point x="55" y="301"/>
       <point x="55" y="299"/>
@@ -106,32 +106,45 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c899eaf22fa4d4ceabc4e661bcd4f68f20097119a906a224089e523371a53df06e0e8ace5a04216ea523bd1f8ac8961bab8e4712f93139a6c30d9f1b22d029a4</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Shake (Muffat)</string>
+      <key>_name</key>
+      <string>ornamentShakeMuffat1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 64 33</string>
-          <string>hstem 201 9</string>
-          <string>hstem 306 33</string>
-          <string>hstem 309 30</string>
-          <string>vstem 15 41</string>
-          <string>vstem 206 12</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 64 33</string>
+              <string>hstem 201 9</string>
+              <string>hstem 306 33</string>
+              <string>hstem 309 30</string>
+              <string>vstem 15 41</string>
+              <string>vstem 206 12</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c899eaf22fa4d4ceabc4e661bcd4f68f20097119a906a224089e523371a53df06e0e8ace5a04216ea523bd1f8ac8961bab8e4712f93139a6c30d9f1b22d029a4</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

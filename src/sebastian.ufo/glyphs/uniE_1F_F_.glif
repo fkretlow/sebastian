@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE1FF" format="2">
   <advance width="236"/>
   <unicode hex="E1FF"/>
@@ -18,7 +18,7 @@
       <point x="170" y="949"/>
       <point x="176" y="951" type="curve"/>
       <point x="225" y="974"/>
-      <point x="235" y="1001"/>
+      <point x="235" y="1001" name="hr01"/>
       <point x="235" y="1026" type="curve" smooth="yes"/>
       <point x="235" y="1052"/>
       <point x="209" y="1093"/>
@@ -52,7 +52,7 @@
       <point x="64" y="977"/>
       <point x="64" y="957" type="curve" smooth="yes"/>
       <point x="64" y="932"/>
-      <point x="132" y="969"/>
+      <point x="132" y="969" name="hr02"/>
       <point x="132" y="911" type="curve" smooth="yes"/>
       <point x="132" y="850"/>
       <point x="83" y="835"/>
@@ -71,33 +71,46 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bfb8cb61f0449df53ffdfbdb79328f375bec957fa48278f8d0b1e068e4cfa8bd55dde9cdf93eceab05f9c751091fe6789f053423dfdab03bc22e70024ae53a9c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Tuplet number 3 for short stem</string>
+      <key>_name</key>
+      <string>textTuplet3ShortStem</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 818 17</string>
-          <string>hstem 945 33</string>
-          <string>hstem 1071 22</string>
-          <string>vstem 0 65</string>
-          <string>vstem 77 63</string>
-          <string>vstem 132 55</string>
-          <string>vstem 183 52</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 818 17</string>
+              <string>hstem 945 33</string>
+              <string>hstem 1071 22</string>
+              <string>vstem 0 65</string>
+              <string>vstem 77 63</string>
+              <string>vstem 132 55</string>
+              <string>vstem 183 52</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>bfb8cb61f0449df53ffdfbdb79328f375bec957fa48278f8d0b1e068e4cfa8bd55dde9cdf93eceab05f9c751091fe6789f053423dfdab03bc22e70024ae53a9c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

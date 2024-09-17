@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE221" format="2">
   <unicode hex="E221"/>
   <outline>
@@ -16,11 +16,23 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  </dict>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>stemDecorations</string>
+      </array>
+      <key>_description</key>
+      <string>Combining tremolo 2</string>
+      <key>_name</key>
+      <string>tremolo2</string>
+    </dict>
   </lib>
 </glyph>

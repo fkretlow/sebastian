@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE623" format="2">
   <advance width="267"/>
   <unicode hex="E623"/>
@@ -71,29 +71,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ef3455d38de5e1a289b5bcb1e55e5b7dde08fb489b4aa336122865dc71a4ddc033496a9f30c7c9e772c9fed0d1431910cfc4c69691db8eee9789c59aebe2b968</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>stemDecorations</string>
+      </array>
+      <key>_description</key>
+      <string>Vibrato pulse accent (Saunders) for stem</string>
+      <key>_name</key>
+      <string>stringsVibratoPulse</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -320 632</string>
-          <string>vstem -267 37</string>
-          <string>vstem 231 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -320 632</string>
+              <string>vstem -267 37</string>
+              <string>vstem 231 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>ef3455d38de5e1a289b5bcb1e55e5b7dde08fb489b4aa336122865dc71a4ddc033496a9f30c7c9e772c9fed0d1431910cfc4c69691db8eee9789c59aebe2b968</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

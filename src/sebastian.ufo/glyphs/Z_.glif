@@ -8,12 +8,12 @@
       <point x="70" y="-116"/>
       <point x="91" y="-47"/>
       <point x="143" y="151" type="curve" smooth="yes"/>
-      <point x="153" y="189" type="line" smooth="yes"/>
-      <point x="156.418" y="201.913"/>
-      <point x="158.538" y="210.787"/>
-      <point x="158.538" y="216.828" type="curve" smooth="yes"/>
-      <point x="158.538" y="226.692"/>
-      <point x="152.885" y="229"/>
+      <point x="153" y="189" type="line"/>
+      <point x="156" y="202"/>
+      <point x="159" y="211"/>
+      <point x="159" y="217" type="curve" smooth="yes"/>
+      <point x="159" y="227"/>
+      <point x="153" y="229"/>
       <point x="138" y="229" type="curve" smooth="yes"/>
       <point x="86" y="229" type="line" smooth="yes"/>
       <point x="74" y="229"/>
@@ -42,16 +42,16 @@
       <point x="392" y="397"/>
       <point x="392" y="408" type="curve" smooth="yes"/>
       <point x="392" y="415"/>
-      <point x="381" y="418"/>
+      <point x="381" y="418" name="hr01"/>
       <point x="372" y="418" type="curve" smooth="yes"/>
       <point x="325" y="418"/>
       <point x="302" y="382"/>
       <point x="273" y="287" type="curve" smooth="yes"/>
-      <point x="271.028" y="280.802"/>
-      <point x="270.008" y="276.111"/>
-      <point x="270.008" y="272.572" type="curve" smooth="yes"/>
-      <point x="270.008" y="263.548"/>
-      <point x="276.635" y="262"/>
+      <point x="271" y="281"/>
+      <point x="270" y="277"/>
+      <point x="270" y="273" type="curve" smooth="yes"/>
+      <point x="270" y="264"/>
+      <point x="277" y="262"/>
       <point x="291" y="262" type="curve" smooth="yes"/>
       <point x="341" y="262" type="line" smooth="yes"/>
       <point x="351" y="262"/>
@@ -62,17 +62,17 @@
       <point x="331" y="229" type="curve" smooth="yes"/>
       <point x="279" y="229" type="line" smooth="yes"/>
       <point x="258" y="229"/>
-      <point x="254.642" y="223.837"/>
-      <point x="248" y="199" type="curve" smooth="yes"/>
+      <point x="255" y="224"/>
+      <point x="248" y="199" type="curve" smooth="yes" name="hr02"/>
       <point x="225" y="113" type="line" smooth="yes"/>
-      <point x="180.631" y="-52.9017"/>
+      <point x="181" y="-53"/>
       <point x="109" y="-144"/>
       <point x="7" y="-144" type="curve" smooth="yes"/>
       <point x="-37" y="-144"/>
       <point x="-80" y="-112"/>
       <point x="-80" y="-71" type="curve" smooth="yes"/>
       <point x="-80" y="-43"/>
-      <point x="-60" y="-18"/>
+      <point x="-60" y="-18" name="hr03"/>
       <point x="-29" y="-18" type="curve" smooth="yes"/>
       <point x="-1" y="-18"/>
       <point x="13" y="-39"/>
@@ -81,7 +81,7 @@
       <point x="-14" y="-95"/>
       <point x="-14" y="-106" type="curve" smooth="yes"/>
       <point x="-14" y="-113"/>
-      <point x="-4" y="-116"/>
+      <point x="-4" y="-116" name="hr03"/>
     </contour>
     <contour>
       <point x="529" y="30" type="curve" smooth="yes"/>
@@ -96,7 +96,7 @@
       <point x="513" y="96" type="curve" smooth="yes"/>
       <point x="513" y="110"/>
       <point x="524" y="126"/>
-      <point x="543" y="126" type="curve" smooth="yes"/>
+      <point x="543" y="126" type="curve" smooth="yes" name="hr04"/>
       <point x="569" y="126"/>
       <point x="593" y="104"/>
       <point x="593" y="70" type="curve" smooth="yes"/>
@@ -150,7 +150,7 @@
       <point x="397" y="268" type="curve" smooth="yes"/>
       <point x="409" y="268"/>
       <point x="485" y="262"/>
-      <point x="536" y="262" type="curve" smooth="yes"/>
+      <point x="536" y="262" type="curve" smooth="yes" name="hr05"/>
       <point x="555" y="262"/>
       <point x="574" y="263"/>
       <point x="583" y="263" type="curve" smooth="yes"/>
@@ -173,6 +173,15 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>uc</string>
+    <string>latn</string>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>hhints</key>
@@ -259,16 +268,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>424c6664b3aca8c66b06f95838362715c4a6135591e4b0549217d685a365af3d3784609cac0aa155f5152dbeec56a6cf7e5926a19bab8939589763e5173d5cf0</string>
+    <string>4674f7dc3bdc76e029f31743e32adb9d5c62ba3323e433d04edf3b535f95561c647b68e07ad891952757ac80506b84c6efcaf226370eac42752f93ef371534dc</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -144 126</string>
           <string>hstem -144 28</string>
-          <string>hstem -17 143</string>
+          <string>hstem -144 126</string>
           <string>hstem -17 47</string>
+          <string>hstem -17 143</string>
           <string>hstem 199 69</string>
           <string>hstem 229 33</string>
           <string>hstem 320 126</string>

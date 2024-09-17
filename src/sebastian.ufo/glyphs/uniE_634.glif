@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE634" format="2">
   <advance width="228"/>
   <unicode hex="E634"/>
@@ -140,28 +140,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8c1bf8a9635a878e88c67d5766a33be059a1619fec854fbeee2a23722dde58a683675cb6bcc0096a3a360597d649f43e517f005d8b19625643adb5fc57def4bc</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Arpeggiato up</string>
+      <key>_name</key>
+      <string>arpeggiatoUp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 7 1504</string>
-          <string>vstem 41 75</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 7 1504</string>
+              <string>vstem 41 75</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8c1bf8a9635a878e88c67d5766a33be059a1619fec854fbeee2a23722dde58a683675cb6bcc0096a3a360597d649f43e517f005d8b19625643adb5fc57def4bc</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

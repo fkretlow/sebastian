@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE675" format="2">
   <advance width="888"/>
   <unicode hex="E675"/>
@@ -67,30 +67,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4f020d061ea10f8ca7ac93e1be7151d2b0dc7bc2d2f632cd805de8ce8ba02fb5b103434649ae9afeb42c6df36d377b9a3d5003459fdf99ac239bd2ac83cb5e02</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal toe to heel</string>
+      <key>_name</key>
+      <string>keyboardPedalToeToHeel</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 61</string>
-          <string>hstem 679 51</string>
-          <string>vstem 461 61</string>
-          <string>vstem 825 62</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 61</string>
+              <string>hstem 679 51</string>
+              <string>vstem 461 61</string>
+              <string>vstem 825 62</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>4f020d061ea10f8ca7ac93e1be7151d2b0dc7bc2d2f632cd805de8ce8ba02fb5b103434649ae9afeb42c6df36d377b9a3d5003459fdf99ac239bd2ac83cb5e02</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -4,32 +4,32 @@
   <unicode hex="266F"/>
   <outline>
     <contour>
-      <point x="1" y="39" type="line"/>
+      <point x="1" y="39" type="line" name="hr09"/>
       <point x="1" y="137" type="line"/>
-      <point x="49" y="152" type="line"/>
+      <point x="49" y="152" type="line" name="hr01"/>
       <point x="49" y="315" type="line"/>
       <point x="79" y="315" type="line"/>
       <point x="79" y="178" type="line" smooth="yes"/>
       <point x="79" y="173"/>
-      <point x="86.0548" y="162.817"/>
-      <point x="93" y="165" type="curve" smooth="yes"/>
+      <point x="86" y="163"/>
+      <point x="93" y="165" type="curve"/>
       <point x="163" y="187" type="line"/>
       <point x="163" y="340" type="line"/>
       <point x="193" y="340" type="line"/>
       <point x="193" y="213" type="line" smooth="yes"/>
       <point x="193" y="207"/>
-      <point x="201.055" y="197.817"/>
-      <point x="208" y="200" type="curve" smooth="yes"/>
-      <point x="243" y="211" type="line"/>
+      <point x="201" y="198"/>
+      <point x="208" y="200" type="curve"/>
+      <point x="243" y="211" type="line" name="hr02"/>
       <point x="243" y="113" type="line"/>
-      <point x="193" y="98" type="line"/>
+      <point x="193" y="98" type="line" name="hr03"/>
       <point x="193" y="-37" type="line" smooth="yes"/>
       <point x="193" y="-47"/>
-      <point x="205.071" y="-51.235"/>
-      <point x="212" y="-49" type="curve" smooth="yes"/>
-      <point x="243" y="-39" type="line"/>
+      <point x="205" y="-51"/>
+      <point x="212" y="-49" type="curve"/>
+      <point x="243" y="-39" type="line" name="hr04"/>
       <point x="243" y="-137" type="line"/>
-      <point x="193" y="-152" type="line"/>
+      <point x="193" y="-152" type="line" name="hr05"/>
       <point x="193" y="-315" type="line"/>
       <point x="163" y="-315" type="line"/>
       <point x="163" y="-178" type="line" smooth="yes"/>
@@ -38,14 +38,14 @@
       <point x="144" y="-167" type="curve"/>
       <point x="79" y="-187" type="line"/>
       <point x="79" y="-340" type="line"/>
-      <point x="49" y="-340" type="line"/>
+      <point x="49" y="-340" type="line" name="hr06"/>
       <point x="49" y="-213" type="line" smooth="yes"/>
       <point x="49" y="-204"/>
       <point x="40" y="-198"/>
       <point x="32" y="-201" type="curve"/>
-      <point x="1" y="-211" type="line"/>
+      <point x="1" y="-211" type="line" name="hr07"/>
       <point x="1" y="-113" type="line"/>
-      <point x="49" y="-98" type="line"/>
+      <point x="49" y="-98" type="line" name="hr08"/>
       <point x="49" y="40" type="line" smooth="yes"/>
       <point x="49" y="45"/>
       <point x="42" y="52"/>
@@ -55,8 +55,8 @@
       <point x="79" y="63" type="line"/>
       <point x="79" y="-69" type="line" smooth="yes"/>
       <point x="79" y="-76"/>
-      <point x="90.0626" y="-86.2074"/>
-      <point x="97" y="-84" type="curve" smooth="yes"/>
+      <point x="90" y="-86"/>
+      <point x="97" y="-84" type="curve"/>
       <point x="163" y="-63" type="line"/>
       <point x="163" y="70" type="line" smooth="yes"/>
       <point x="163" y="78"/>
@@ -66,6 +66,13 @@
   </outline>
   <lib>
   <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>otnone</string>
+  </array>
   <key>com.fontlab.hintData</key>
   <dict>
     <key>vhints</key>
@@ -89,7 +96,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a1aefc48b31adb4709e028af2c667d6c328ccad9525eebd9f1a6578771ca0a7863ff717c35fd2b457461055492df480efe6ea0fca689e99c44aa6fde2b81ce73</string>
+    <string>e14f3a7866e426c0ec7997810d706245c82537fcda1e677f0cf08ab687a40a7cbe861784f50a62fe91c29f584bf1e256b643fa08877cbdd6d29ffb620b46115e</string>
     <key>hintSetList</key>
     <array>
       <dict>
