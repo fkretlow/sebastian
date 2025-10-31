@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1FE" format="2">
+  <advance width="254"/>
+  <unicode hex="E1FE"/>
+  <outline>
+    <contour>
+      <point x="22" y="1153" type="line"/>
+      <point x="254" y="1153" type="line"/>
+      <point x="254" y="1175" type="line"/>
+      <point x="0" y="1175" type="line"/>
+      <point x="0" y="1010" type="line"/>
+      <point x="22" y="1010" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w254m22,1153l254,1153l254,1175l0,1175l0,1010l22,1010</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 753 22</string>
+          <string>vstem 0 22</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

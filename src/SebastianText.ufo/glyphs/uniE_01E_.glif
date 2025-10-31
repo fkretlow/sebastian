@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE01E" format="2">
+  <unicode hex="E01E"/>
+  <outline>
+    <contour>
+      <point x="200" y="613" type="line"/>
+      <point x="0" y="613" type="line"/>
+      <point x="0" y="587" type="line"/>
+      <point x="200" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="413" type="line"/>
+      <point x="0" y="413" type="line"/>
+      <point x="0" y="387" type="line"/>
+      <point x="200" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="213" type="line"/>
+      <point x="0" y="213" type="line"/>
+      <point x="0" y="187" type="line"/>
+      <point x="200" y="187" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m200,613l0,613l0,587l200,587m200,413l0,413l0,387l200,387m200,213l0,213l0,187l200,187</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 187 26</string>
+          <string>hstem 387 26</string>
+          <string>hstem 587 26</string>
+          <string>vstem 0 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

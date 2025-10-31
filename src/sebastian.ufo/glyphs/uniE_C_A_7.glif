@@ -1,130 +1,75 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniECA7" format="2">
-  <advance width="326"/>
+  <advance width="446"/>
   <unicode hex="ECA7"/>
   <outline>
     <contour>
-      <point x="177" y="213" type="curve" smooth="yes"/>
-      <point x="196" y="213"/>
-      <point x="228" y="199"/>
-      <point x="230" y="199" type="curve"/>
-      <point x="234" y="199"/>
-      <point x="237" y="200"/>
-      <point x="240" y="203" type="curve"/>
-      <point x="240" y="700" type="line"/>
-      <point x="262" y="700" type="line"/>
-      <point x="262" y="700" type="line"/>
-      <point x="262" y="678"/>
-      <point x="272" y="643"/>
-      <point x="295" y="615" type="curve" smooth="yes"/>
-      <point x="345" y="552"/>
-      <point x="446" y="482"/>
-      <point x="446" y="333" type="curve" smooth="yes"/>
-      <point x="446" y="260"/>
-      <point x="409" y="163"/>
-      <point x="399" y="138" type="curve"/>
-      <point x="396" y="135"/>
-      <point x="393" y="134"/>
-      <point x="390" y="134" type="curve" smooth="yes"/>
-      <point x="384" y="134"/>
-      <point x="379" y="138"/>
-      <point x="379" y="144" type="curve"/>
-      <point x="379" y="145"/>
-      <point x="379" y="147"/>
+      <point x="178" y="233" type="curve" smooth="yes"/>
+      <point x="99" y="233"/>
+      <point x="0" y="163"/>
+      <point x="0" y="80" type="curve" smooth="yes"/>
+      <point x="0" y="31"/>
+      <point x="39" y="7"/>
+      <point x="84" y="7" type="curve" smooth="yes"/>
+      <point x="163" y="7"/>
+      <point x="261" y="76"/>
+      <point x="261" y="159" type="curve" smooth="yes"/>
+      <point x="261" y="515" type="line"/>
+      <point x="263" y="519"/>
+      <point x="268" y="523"/>
+      <point x="273" y="523" type="curve" smooth="yes"/>
+      <point x="368" y="523"/>
+      <point x="423" y="418"/>
+      <point x="423" y="334" type="curve" smooth="yes"/>
+      <point x="423" y="273"/>
+      <point x="390" y="175"/>
       <point x="379" y="148" type="curve"/>
-      <point x="389" y="175"/>
-      <point x="422" y="273"/>
-      <point x="422" y="334" type="curve" smooth="yes"/>
-      <point x="422" y="414"/>
-      <point x="386" y="472"/>
-      <point x="335" y="505" type="curve" smooth="yes"/>
-      <point x="314" y="518"/>
-      <point x="293" y="523"/>
-      <point x="272" y="523" type="curve" smooth="yes"/>
-      <point x="266" y="523"/>
-      <point x="261" y="519"/>
-      <point x="261" y="515" type="curve"/>
-      <point x="261" y="139" type="line" smooth="yes"/>
-      <point x="261" y="56"/>
-      <point x="162" y="-13"/>
-      <point x="84" y="-13" type="curve" smooth="yes"/>
-      <point x="39" y="-13"/>
-      <point x="0" y="11"/>
-      <point x="0" y="60" type="curve" smooth="yes"/>
-      <point x="0" y="143"/>
-      <point x="100" y="213"/>
+      <point x="379" y="145" type="line" smooth="yes"/>
+      <point x="379" y="138"/>
+      <point x="384" y="134"/>
+      <point x="390" y="134" type="curve" smooth="yes"/>
+      <point x="393" y="134"/>
+      <point x="396" y="136"/>
+      <point x="399" y="138" type="curve"/>
+      <point x="409" y="163"/>
+      <point x="446" y="260"/>
+      <point x="446" y="333" type="curve" smooth="yes"/>
+      <point x="446" y="483"/>
+      <point x="344" y="553"/>
+      <point x="295" y="615" type="curve" smooth="yes"/>
+      <point x="273" y="644"/>
+      <point x="263" y="678"/>
+      <point x="263" y="700" type="curve"/>
+      <point x="240" y="700" type="line"/>
+      <point x="240" y="223" type="line"/>
+      <point x="238" y="221"/>
+      <point x="234" y="219"/>
+      <point x="230" y="219" type="curve" smooth="yes"/>
+      <point x="228" y="219"/>
+      <point x="196" y="233"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_metronomeMarks</string>
-      </array>
-      <key>_description</key>
-      <string>Eighth note (quaver) stem up</string>
-      <key>_name</key>
-      <string>metNote8thUp</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cf30011fed2d75a1f6e5cc2e908cff9c93c217f0b007bfd6521db630560bb773f0b49fbcf1311dfef882daddabde0a61dac6924bd82911269e5914787c7f574f</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>hhints</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>170</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>760</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>240</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>433</integer>
-            <key>width</key>
-            <integer>27</integer>
-          </dict>
+          <string>hstem -12.5 225</string>
+          <string>hstem 700 -20</string>
+          <string>vstem 240 21.25</string>
+          <string>vstem 422.5 23.75</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -12 225</string>
-              <string>hstem 700 -20</string>
-              <string>vstem 240 20</string>
-              <string>vstem 422 23</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>12e7f4e9a3a40dac592bac77f5c35eeb6068aac564137dc534ba5f58d162ff9d2a94c7b89a0582e5ff08524ad5992d447fd4b02beeb5f3f3e77732f64700692a</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

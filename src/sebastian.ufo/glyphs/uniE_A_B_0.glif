@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAB0" format="2">
   <advance width="152"/>
   <unicode hex="EAB0"/>
@@ -50,42 +50,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-        <string>wigglesVibrato</string>
-      </array>
-      <key>_description</key>
-      <string>Vibrato / shake wiggle segment</string>
-      <key>_name</key>
-      <string>wiggleVibrato</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+    <string>wigglesVibrato</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f4d2936334e2bf5613ce02cd3a84a2c0f2b6c9679affe660dec4dcf1b6d66534ebf026535510fc60aea54ce7ced4cb82ac654213114ecb6ba4fd3f4a74cc9362</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 44 75</string>
-              <string>vstem -14 181</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 44 75</string>
+          <string>vstem -14 181</string>
         </array>
-        <key>id</key>
-        <string>f4d2936334e2bf5613ce02cd3a84a2c0f2b6c9679affe660dec4dcf1b6d66534ebf026535510fc60aea54ce7ced4cb82ac654213114ecb6ba4fd3f4a74cc9362</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

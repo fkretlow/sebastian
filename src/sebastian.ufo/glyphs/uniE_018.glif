@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE018" format="2">
   <advance width="750"/>
   <unicode hex="E018"/>
@@ -23,43 +23,43 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>forTextBasedApplications</string>
-        <string>tf_zeroWidth</string>
-      </array>
-      <key>_description</key>
-      <string>3-line staff (wide)</string>
-      <key>_name</key>
-      <string>staff3LinesWide</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>forTextBasedApplications</string>
+    <string>tf_zeroWidth</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w750m750,766l0,766l0,734l750,734m750,516l0,516l0,484l750,484m750,266l0,266l0,234l750,234</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 234 32</string>
-              <string>hstem 484 32</string>
-              <string>hstem 734 32</string>
-              <string>vstem 0 750</string>
-            </array>
-          </dict>
+          <string>hstem 234 32</string>
+          <string>hstem 484 32</string>
+          <string>hstem 734 32</string>
+          <string>vstem 0 750</string>
         </array>
-        <key>id</key>
-        <string>w750m750,766l0,766l0,734l750,734m750,516l0,516l0,484l750,484m750,266l0,266l0,234l750,234</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

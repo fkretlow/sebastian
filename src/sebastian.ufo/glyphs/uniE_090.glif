@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE090" format="2">
   <advance width="300"/>
   <unicode hex="E090"/>
@@ -23,35 +23,35 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Time signature minus</string>
-      <key>_name</key>
-      <string>timeSigMinus</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w300m0,-17c0,-22 6,-24 13,-24l288,-24c295,-24 300,-22 300,-17l300,16c300,21 295,25 288,25l13,25c6,25 0,21 0,16</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -24 50</string>
-            </array>
-          </dict>
+          <string>hstem -24 50</string>
         </array>
-        <key>id</key>
-        <string>w300m0,-17c0,-22 6,-24 13,-24l288,-24c295,-24 300,-22 300,-17l300,16c300,21 295,25 288,25l13,25c6,25 0,21 0,16</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

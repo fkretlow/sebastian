@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE844" format="2">
+  <advance width="290"/>
+  <unicode hex="E844"/>
+  <outline>
+    <contour>
+      <point x="0" y="13" type="curve" smooth="yes"/>
+      <point x="0" y="9"/>
+      <point x="2" y="5"/>
+      <point x="6" y="2" type="curve" smooth="yes"/>
+      <point x="8" y="1"/>
+      <point x="10" y="0"/>
+      <point x="13" y="0" type="curve" smooth="yes"/>
+      <point x="17" y="0"/>
+      <point x="21" y="2"/>
+      <point x="23" y="6" type="curve"/>
+      <point x="38" y="27"/>
+      <point x="89" y="57"/>
+      <point x="165" y="89" type="curve" smooth="yes"/>
+      <point x="225" y="114"/>
+      <point x="280" y="134"/>
+      <point x="281" y="134" type="curve"/>
+      <point x="286" y="135"/>
+      <point x="290" y="141"/>
+      <point x="290" y="146" type="curve" smooth="yes"/>
+      <point x="290" y="151"/>
+      <point x="286" y="157"/>
+      <point x="281" y="158" type="curve"/>
+      <point x="280" y="158"/>
+      <point x="225" y="178"/>
+      <point x="165" y="203" type="curve" smooth="yes"/>
+      <point x="121" y="222"/>
+      <point x="43" y="258"/>
+      <point x="23" y="286" type="curve"/>
+      <point x="21" y="290"/>
+      <point x="17" y="292"/>
+      <point x="13" y="292" type="curve" smooth="yes"/>
+      <point x="10" y="292"/>
+      <point x="8" y="291"/>
+      <point x="6" y="290" type="curve" smooth="yes"/>
+      <point x="2" y="287"/>
+      <point x="0" y="283"/>
+      <point x="0" y="279" type="curve" smooth="yes"/>
+      <point x="0" y="247"/>
+      <point x="131" y="190"/>
+      <point x="155" y="179" type="curve" smooth="yes"/>
+      <point x="186" y="166"/>
+      <point x="218" y="154"/>
+      <point x="239" y="146" type="curve"/>
+      <point x="177" y="122"/>
+      <point x="35" y="70"/>
+      <point x="2" y="20" type="curve" smooth="yes"/>
+      <point x="1" y="18"/>
+      <point x="0" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d7a8ec341746f3dbdcd04ddc9b5884dfc70e6baab644f07bd6e237e9840c3fccf7b464d79d741137c125c1270ff3b5da8ad62eb66b0dfc5f1e18a183174099fb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 17 -21</string>
+          <string>vstem 0 290</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

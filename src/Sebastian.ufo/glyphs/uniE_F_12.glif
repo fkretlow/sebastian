@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF12" format="2">
+  <advance width="167"/>
+  <unicode hex="EF12"/>
+  <outline>
+    <contour>
+      <point x="23" y="180" type="curve" smooth="yes"/>
+      <point x="23" y="62"/>
+      <point x="102" y="-28"/>
+      <point x="159" y="-72" type="curve"/>
+      <point x="174" y="-56" type="line"/>
+      <point x="127" y="-11"/>
+      <point x="81" y="59"/>
+      <point x="81" y="180" type="curve" smooth="yes"/>
+      <point x="81" y="302"/>
+      <point x="127" y="371"/>
+      <point x="174" y="416" type="curve"/>
+      <point x="159" y="432" type="line"/>
+      <point x="102" y="388"/>
+      <point x="23" y="298"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w167m23,180c23,62 102,-28 159,-72l174,-56c127,-11 81,59 81,180c81,302 127,371 174,416l159,432c102,388 23,298 23,180</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -72 504</string>
+          <string>vstem 23 58</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

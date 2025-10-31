@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE830" format="2">
   <advance width="509"/>
   <unicode hex="E830"/>
@@ -38,36 +38,36 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Guitar vibrato bar scoop</string>
-      <key>_name</key>
-      <string>guitarVibratoBarScoop</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>59990cd9cc29e1232174bbcd264cdad160be763a9c0da3b20522905fea997d7e8132f948a008913e2620f3d60bc0e4528ea09a1b55b58d9f7c7745541cdb8869</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 22 -21</string>
-              <string>vstem 0 504</string>
-            </array>
-          </dict>
+          <string>hstem 22 -21</string>
+          <string>vstem 0 504</string>
         </array>
-        <key>id</key>
-        <string>59990cd9cc29e1232174bbcd264cdad160be763a9c0da3b20522905fea997d7e8132f948a008913e2620f3d60bc0e4528ea09a1b55b58d9f7c7745541cdb8869</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

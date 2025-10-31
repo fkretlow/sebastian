@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="at" format="2">
+  <advance width="136"/>
+  <unicode hex="0040"/>
+  <outline>
+    <contour>
+      <point x="-136" y="393" type="line"/>
+      <point x="136" y="473" type="line"/>
+      <point x="136" y="564" type="line"/>
+      <point x="-136" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="-136" y="236" type="line"/>
+      <point x="136" y="316" type="line"/>
+      <point x="136" y="407" type="line"/>
+      <point x="-136" y="327" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w136m-136,393l136,473l136,564l-136,484m-136,236l136,316l136,407l-136,327</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 236 328</string>
+          <string>vstem -136 272</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

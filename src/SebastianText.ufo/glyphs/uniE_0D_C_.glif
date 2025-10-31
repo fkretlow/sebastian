@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0DC" format="2">
+  <advance width="279"/>
+  <unicode hex="E0DC"/>
+  <outline>
+    <contour>
+      <point x="140" y="-149" type="line"/>
+      <point x="279" y="-1" type="line"/>
+      <point x="140" y="148" type="line"/>
+      <point x="0" y="-1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w279m140,-149l279,-1l140,148l0,-1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 16 -21</string>
+          <string>vstem 0 279</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

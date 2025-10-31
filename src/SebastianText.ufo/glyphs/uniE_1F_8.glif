@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1F8" format="2">
+  <advance width="274"/>
+  <unicode hex="E1F8"/>
+  <outline>
+    <contour>
+      <point x="274" y="810" type="line"/>
+      <point x="0" y="810" type="line"/>
+      <point x="0" y="710" type="line"/>
+      <point x="274" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w274m274,810l0,810l0,710l274,710</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 602 100</string>
+          <string>vstem 0 274</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

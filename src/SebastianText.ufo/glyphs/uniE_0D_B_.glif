@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0DB" format="2">
+  <advance width="213"/>
+  <unicode hex="E0DB"/>
+  <outline>
+    <contour>
+      <point x="106" y="251" type="line"/>
+      <point x="213" y="399" type="line"/>
+      <point x="106" y="548" type="line"/>
+      <point x="0" y="399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w213m106,251l213,399l106,548l0,399</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 16 -21</string>
+          <string>vstem 0 213</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

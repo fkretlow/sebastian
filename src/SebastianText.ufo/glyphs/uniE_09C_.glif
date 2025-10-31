@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE09C" format="2">
+  <advance width="305"/>
+  <unicode hex="E09C"/>
+  <outline>
+    <contour>
+      <point x="305" y="-300" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="305" y="301" type="line"/>
+      <point x="247" y="301" type="line"/>
+      <point x="152" y="70" type="line"/>
+      <point x="58" y="301" type="line"/>
+      <point x="0" y="301" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="0" y="-300" type="line"/>
+      <point x="58" y="-300" type="line"/>
+      <point x="152" y="-70" type="line"/>
+      <point x="247" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w305m305,-300l181,0l305,301l247,301l152,70l58,301l0,301l123,0l0,-300l58,-300l152,-70l247,-300</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -283 -21</string>
+          <string>hstem 301 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

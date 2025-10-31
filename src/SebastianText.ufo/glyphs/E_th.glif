@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="237"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="237" y="31" type="curve" smooth="yes"/>
+      <point x="237" y="85"/>
+      <point x="198" y="113"/>
+      <point x="150" y="113" type="curve" smooth="yes"/>
+      <point x="71" y="113"/>
+      <point x="0" y="44"/>
+      <point x="0" y="-31" type="curve" smooth="yes"/>
+      <point x="0" y="-85"/>
+      <point x="39" y="-113"/>
+      <point x="86" y="-113" type="curve" smooth="yes"/>
+      <point x="166" y="-113"/>
+      <point x="237" y="-44"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w237m237,31c237,85 198,113 150,113c71,113 0,44 0,-31c0,-85 39,-113 86,-113c166,-113 237,-44 237,31</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -96 -21</string>
+          <string>hstem 113 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

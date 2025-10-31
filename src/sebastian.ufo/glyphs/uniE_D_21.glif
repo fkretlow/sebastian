@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED21" format="2">
   <advance width="280"/>
   <unicode hex="ED21"/>
@@ -21,40 +21,40 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_figuredBass</string>
-      </array>
-      <key>_description</key>
-      <string>Finger substitution below</string>
-      <key>_name</key>
-      <string>fingeringSubstitutionBelow</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>tf_figuredBass</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w280m0,-25c18,-85 67,-115 137,-115c205,-115 260,-85 280,-25l271,-25c249,-63 184,-83 138,-83c92,-83 28,-63 9,-25</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -115 32</string>
-              <string>vstem 0 280</string>
-            </array>
-          </dict>
+          <string>hstem -115 32</string>
+          <string>vstem 0 280</string>
         </array>
-        <key>id</key>
-        <string>w280m0,-25c18,-85 67,-115 137,-115c205,-115 260,-85 280,-25l271,-25c249,-63 184,-83 138,-83c92,-83 28,-63 9,-25</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

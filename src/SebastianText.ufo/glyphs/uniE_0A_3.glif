@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0A3" format="2">
+  <advance width="256"/>
+  <unicode hex="E0A3"/>
+  <outline>
+    <contour>
+      <point x="170" y="510" type="curve" smooth="yes"/>
+      <point x="138" y="510"/>
+      <point x="102" y="501"/>
+      <point x="78" y="486" type="curve"/>
+      <point x="38" y="459"/>
+      <point x="0" y="399"/>
+      <point x="0" y="353" type="curve" smooth="yes"/>
+      <point x="0" y="306"/>
+      <point x="41" y="290"/>
+      <point x="86" y="290" type="curve" smooth="yes"/>
+      <point x="118" y="290"/>
+      <point x="154" y="299"/>
+      <point x="178" y="314" type="curve"/>
+      <point x="218" y="341"/>
+      <point x="256" y="401"/>
+      <point x="256" y="447" type="curve" smooth="yes"/>
+      <point x="256" y="494"/>
+      <point x="215" y="510"/>
+    </contour>
+    <contour>
+      <point x="231" y="458" type="curve"/>
+      <point x="235" y="426"/>
+      <point x="188" y="389"/>
+      <point x="130" y="351" type="curve"/>
+      <point x="130" y="351"/>
+      <point x="86" y="319"/>
+      <point x="62" y="317" type="curve"/>
+      <point x="43" y="314"/>
+      <point x="26" y="322"/>
+      <point x="23" y="342" type="curve"/>
+      <point x="19" y="379"/>
+      <point x="101" y="433"/>
+      <point x="132" y="453" type="curve" smooth="yes"/>
+      <point x="158" y="470"/>
+      <point x="176" y="482"/>
+      <point x="193" y="483" type="curve"/>
+      <point x="214" y="486"/>
+      <point x="230" y="475"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e7b45099c536fd9bfc15f321f1532583f1c0dc191ddfe89e2b791ed9789b3219fd1c40706c9a44d6b5350d4837b393beb49c83e7b7f25279d555fa7ae5d424b7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -94 -21</string>
+          <string>hstem 110 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

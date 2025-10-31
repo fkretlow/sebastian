@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEACA" format="2">
   <advance width="335"/>
   <unicode hex="EACA"/>
@@ -213,46 +213,46 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-        <string>wigglesCircularMotion</string>
-      </array>
-      <key>_description</key>
-      <string>Circular motion segment, small</string>
-      <key>_name</key>
-      <string>wiggleCircularSmall</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+    <string>wigglesCircularMotion</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4240d63bca34a9dd80471fc938fb987dcf5cc3cca4ad1e613d713feb5bf76e308e4c91629a8ed10b8472bf5fcbdbc5fadbca0ae0699c397efd0c883d18a4f8d5</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 96 330</string>
-              <string>hstem 344 82</string>
-              <string>vstem -99 65</string>
-              <string>vstem 88 8</string>
-              <string>vstem 139 81</string>
-              <string>vstem 163 54</string>
-              <string>vstem 248 51</string>
-            </array>
-          </dict>
+          <string>hstem 96 330</string>
+          <string>hstem 344 82</string>
+          <string>vstem -99 65</string>
+          <string>vstem 88 8</string>
+          <string>vstem 139 81</string>
+          <string>vstem 163 54</string>
+          <string>vstem 248 51</string>
         </array>
-        <key>id</key>
-        <string>4240d63bca34a9dd80471fc938fb987dcf5cc3cca4ad1e613d713feb5bf76e308e4c91629a8ed10b8472bf5fcbdbc5fadbca0ae0699c397efd0c883d18a4f8d5</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

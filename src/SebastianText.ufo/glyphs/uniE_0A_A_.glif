@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0AA" format="2">
+  <advance width="215"/>
+  <unicode hex="E0AA"/>
+  <outline>
+    <contour>
+      <point x="130" y="399" type="curve" smooth="yes"/>
+      <point x="130" y="430"/>
+      <point x="186" y="433"/>
+      <point x="206" y="432" type="curve"/>
+      <point x="208" y="458"/>
+      <point x="210" y="483"/>
+      <point x="215" y="508" type="curve"/>
+      <point x="190" y="503"/>
+      <point x="165" y="501"/>
+      <point x="140" y="498" type="curve"/>
+      <point x="140" y="478"/>
+      <point x="138" y="422"/>
+      <point x="108" y="422" type="curve" smooth="yes"/>
+      <point x="77" y="422"/>
+      <point x="75" y="478"/>
+      <point x="75" y="498" type="curve"/>
+      <point x="50" y="501"/>
+      <point x="25" y="503"/>
+      <point x="0" y="508" type="curve"/>
+      <point x="5" y="483"/>
+      <point x="7" y="458"/>
+      <point x="9" y="432" type="curve"/>
+      <point x="29" y="433"/>
+      <point x="85" y="430"/>
+      <point x="85" y="400" type="curve" smooth="yes"/>
+      <point x="85" y="370"/>
+      <point x="29" y="367"/>
+      <point x="9" y="368" type="curve"/>
+      <point x="7" y="342"/>
+      <point x="5" y="317"/>
+      <point x="0" y="292" type="curve"/>
+      <point x="25" y="297"/>
+      <point x="50" y="299"/>
+      <point x="75" y="302" type="curve"/>
+      <point x="75" y="322"/>
+      <point x="77" y="378"/>
+      <point x="108" y="378" type="curve" smooth="yes"/>
+      <point x="138" y="378"/>
+      <point x="140" y="322"/>
+      <point x="140" y="302" type="curve"/>
+      <point x="165" y="299"/>
+      <point x="190" y="297"/>
+      <point x="215" y="292" type="curve"/>
+      <point x="210" y="317"/>
+      <point x="208" y="342"/>
+      <point x="206" y="368" type="curve"/>
+      <point x="187" y="367"/>
+      <point x="130" y="370"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>64fc95dd1fc7dd24152e457568c67c60edf4fb8c97555bb50b920bc75a34b4c551be98ba548121b3ca0820b392a8a1af894f927d81a8a4878357ec3bd21c0f34</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -32 65</string>
+          <string>vstem 85 45</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

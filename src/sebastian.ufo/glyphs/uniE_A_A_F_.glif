@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAAF" format="2">
   <advance width="250"/>
   <unicode hex="EAAF"/>
@@ -48,40 +48,40 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-      </array>
-      <key>_description</key>
-      <string>Glissando wiggle segment</string>
-      <key>_name</key>
-      <string>wiggleGlissando</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b615d9df68cbc522cb3ac4ef7e3c17ec6b9e6d566e7876a4646f813997908445ffc5533f4a971ff0f14e28f12a892321b16c5ffd59da9f328206f03be5d5cc10</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 48</string>
-              <string>hstem 63 48</string>
-            </array>
-          </dict>
+          <string>hstem 0 48</string>
+          <string>hstem 63 48</string>
         </array>
-        <key>id</key>
-        <string>b615d9df68cbc522cb3ac4ef7e3c17ec6b9e6d566e7876a4646f813997908445ffc5533f4a971ff0f14e28f12a892321b16c5ffd59da9f328206f03be5d5cc10</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

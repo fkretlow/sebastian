@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE565" format="2">
   <advance width="505"/>
   <unicode hex="E565"/>
@@ -30,41 +30,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-        <string>tf_ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Slash for stem down grace note</string>
-      <key>_name</key>
-      <string>graceNoteSlashStemDown</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>ornaments</string>
+    <string>tf_ornaments</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0efe4c22e8091a330144744285a384126edea698196556bbcb2145f17ddf6eb040837f6aec75301e26ffce058f3b52c6454ec1a747ee592ec61331073662a6f1</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -380 -21</string>
-              <string>hstem 0 -20</string>
-            </array>
-          </dict>
+          <string>hstem -380 -21</string>
+          <string>hstem 0 -20</string>
         </array>
-        <key>id</key>
-        <string>0efe4c22e8091a330144744285a384126edea698196556bbcb2145f17ddf6eb040837f6aec75301e26ffce058f3b52c6454ec1a747ee592ec61331073662a6f1</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

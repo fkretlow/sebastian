@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE64B" format="2">
+  <advance width="60"/>
+  <unicode hex="E64B"/>
+  <outline>
+    <contour>
+      <point x="60" y="25" type="line"/>
+      <point x="60" y="74" type="line"/>
+      <point x="-60" y="50" type="line"/>
+      <point x="-60" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w60m60,25l60,74l-60,50l-60,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 17 -21</string>
+          <string>vstem -60 120</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

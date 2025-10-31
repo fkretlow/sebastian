@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="162"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <contour>
+      <point x="0" y="-21" type="curve" smooth="yes"/>
+      <point x="0" y="-54"/>
+      <point x="28" y="-76"/>
+      <point x="59" y="-76" type="curve" smooth="yes"/>
+      <point x="113" y="-76"/>
+      <point x="162" y="-30"/>
+      <point x="162" y="22" type="curve" smooth="yes"/>
+      <point x="162" y="55"/>
+      <point x="134" y="76"/>
+      <point x="103" y="76" type="curve" smooth="yes"/>
+      <point x="50" y="76"/>
+      <point x="0" y="30"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w162m0,-21c0,-54 28,-76 59,-76c113,-76 162,-30 162,22c162,55 134,76 103,76c50,76 0,30 0,-21</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -76 152</string>
+          <string>vstem 0 162</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

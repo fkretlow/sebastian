@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED1C" format="2">
   <advance width="250"/>
   <unicode hex="ED1C"/>
@@ -41,42 +41,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_figuredBass</string>
-      </array>
-      <key>_description</key>
-      <string>Fingering c (right-hand little finger for guitar)</string>
-      <key>_name</key>
-      <string>fingeringCLower</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>tf_figuredBass</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>77245ac600882af275b45427ac44c9d3292d5701fb86226aeacd7437942ec49f47fd64646f5cdf60a046121664d67119bb8bd82c5af9f21873db0d78693df68b</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -6 20</string>
-              <string>hstem 143 104</string>
-              <string>vstem 26 196</string>
-              <string>vstem 161 61</string>
-            </array>
-          </dict>
+          <string>hstem -6 20</string>
+          <string>hstem 143 104</string>
+          <string>vstem 26 196</string>
+          <string>vstem 161 61</string>
         </array>
-        <key>id</key>
-        <string>77245ac600882af275b45427ac44c9d3292d5701fb86226aeacd7437942ec49f47fd64646f5cdf60a046121664d67119bb8bd82c5af9f21873db0d78693df68b</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

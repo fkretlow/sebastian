@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE80C" format="2">
   <advance width="253"/>
   <unicode hex="E80C"/>
@@ -105,42 +105,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>stemDecorations</string>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Combining crush for stem</string>
-      <key>_name</key>
-      <string>pictCrushStem</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>stemDecorations</string>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ba16f3e8c8ffa87c652ef61a0dd9c5f028223ea598433df1670a2fcc3082274ba01572885de94d5e81a70519c9183edeed0970aada2e0c7c0fb09f2efa8f43df</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -81 162</string>
-              <string>hstem -78 78</string>
-              <string>vstem -258 511</string>
-            </array>
-          </dict>
+          <string>hstem -81 162</string>
+          <string>hstem -78 78</string>
+          <string>vstem -258 511</string>
         </array>
-        <key>id</key>
-        <string>ba16f3e8c8ffa87c652ef61a0dd9c5f028223ea598433df1670a2fcc3082274ba01572885de94d5e81a70519c9183edeed0970aada2e0c7c0fb09f2efa8f43df</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE552" format="2">
   <advance width="500"/>
   <unicode hex="E552"/>
@@ -25,48 +25,48 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Wide elision</string>
-      <key>_name</key>
-      <string>lyricsElisionWide</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
+        <key>position</key>
+        <integer>-123</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w500m250,-123c86,-123 0,-17 0,0c0,6 3,8 9,8c24,8 72,-87 250,-87c428,-87 476,8 491,8c497,8 500,6 500,0c500,-17 414,-123 250,-123</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>-123</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
+          <string>hstem -123 36</string>
+          <string>hstem 8 -20</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -123 36</string>
-              <string>hstem 8 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w500m250,-123c86,-123 0,-17 0,0c0,6 3,8 9,8c24,8 72,-87 250,-87c428,-87 476,8 491,8c497,8 500,6 500,0c500,-17 414,-123 250,-123</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

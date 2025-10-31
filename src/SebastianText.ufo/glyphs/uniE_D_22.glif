@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED22" format="2">
+  <advance width="158"/>
+  <unicode hex="ED22"/>
+  <outline>
+    <contour>
+      <point x="158" y="114" type="line"/>
+      <point x="6" y="114" type="line"/>
+      <point x="0" y="88" type="line"/>
+      <point x="152" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w158m158,114l6,114l0,88l152,88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 88 26</string>
+          <string>vstem 0 158</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

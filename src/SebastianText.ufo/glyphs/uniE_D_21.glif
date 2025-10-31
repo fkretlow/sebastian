@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED21" format="2">
+  <advance width="224"/>
+  <unicode hex="ED21"/>
+  <outline>
+    <contour>
+      <point x="0" y="-20" type="line"/>
+      <point x="14" y="-68"/>
+      <point x="54" y="-92"/>
+      <point x="110" y="-92" type="curve" smooth="yes"/>
+      <point x="164" y="-92"/>
+      <point x="208" y="-68"/>
+      <point x="224" y="-20" type="curve"/>
+      <point x="217" y="-20" type="line"/>
+      <point x="199" y="-50"/>
+      <point x="147" y="-66"/>
+      <point x="110" y="-66" type="curve" smooth="yes"/>
+      <point x="74" y="-66"/>
+      <point x="22" y="-50"/>
+      <point x="7" y="-20" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w224m0,-20c14,-68 54,-92 110,-92c164,-92 208,-68 224,-20l217,-20c199,-50 147,-66 110,-66c74,-66 22,-50 7,-20</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -92 26</string>
+          <string>vstem 0 224</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0C8" format="2">
+  <advance width="246"/>
+  <unicode hex="E0C8"/>
+  <outline>
+    <contour>
+      <point x="6" y="504" type="line" smooth="yes"/>
+      <point x="2" y="504"/>
+      <point x="0" y="504"/>
+      <point x="0" y="502" type="curve"/>
+      <point x="0" y="502"/>
+      <point x="1" y="499"/>
+      <point x="3" y="498" type="curve" smooth="yes"/>
+      <point x="241" y="299" type="line" smooth="yes"/>
+      <point x="244" y="296"/>
+      <point x="246" y="297"/>
+      <point x="246" y="302" type="curve" smooth="yes"/>
+      <point x="246" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="480" type="line" smooth="yes"/>
+      <point x="213" y="480"/>
+      <point x="222" y="472"/>
+      <point x="222" y="466" type="curve" smooth="yes"/>
+      <point x="222" y="364" type="line" smooth="yes"/>
+      <point x="222" y="359"/>
+      <point x="216" y="357"/>
+      <point x="212" y="357" type="curve" smooth="yes"/>
+      <point x="210" y="357"/>
+      <point x="208" y="358"/>
+      <point x="206" y="358" type="curve"/>
+      <point x="83" y="462" type="line" smooth="yes"/>
+      <point x="81" y="464"/>
+      <point x="79" y="467"/>
+      <point x="79" y="470" type="curve" smooth="yes"/>
+      <point x="79" y="475"/>
+      <point x="82" y="480"/>
+      <point x="88" y="480" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7fb1d3435051b666ad4e02523e72a7cc5009d3b8321ef3922678fc3b2404fa808384438a1652631983c0cded57f78c9efcac06a3eeadba69e8e713f5bb52f56c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 80 24</string>
+          <string>vstem 222 24</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

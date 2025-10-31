@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE77C" format="2">
   <advance width="296"/>
   <unicode hex="E77C"/>
@@ -96,54 +96,54 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Wood xylophone stick up</string>
-      <key>_name</key>
-      <string>pictBeaterWoodXylophoneUp</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>vhints</key>
+    <array>
       <dict>
-        <key>vhints</key>
+        <key>position</key>
+        <integer>129</integer>
+        <key>width</key>
+        <integer>38</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d4cb1bd40ce86a49dc67c12b121ee391d0df87fe09f7e94cfb944f4d0c1f2c4360d79a5d4508e37fd093fc434d8b9acc91ff6e25b43e5c23e7b5830e2dccb96b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>129</integer>
-            <key>width</key>
-            <integer>38</integer>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 545 -20</string>
+          <string>vstem 30 236</string>
+          <string>vstem 129 38</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 545 -20</string>
-              <string>vstem 30 236</string>
-              <string>vstem 129 38</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>d4cb1bd40ce86a49dc67c12b121ee391d0df87fe09f7e94cfb944f4d0c1f2c4360d79a5d4508e37fd093fc434d8b9acc91ff6e25b43e5c23e7b5830e2dccb96b</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

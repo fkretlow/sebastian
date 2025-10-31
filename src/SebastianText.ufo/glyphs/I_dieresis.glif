@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="261"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="76" y="81" type="curve" smooth="yes"/>
+      <point x="37" y="54"/>
+      <point x="0" y="5"/>
+      <point x="0" y="-40" type="curve" smooth="yes"/>
+      <point x="0" y="-54"/>
+      <point x="3" y="-68"/>
+      <point x="12" y="-80" type="curve"/>
+      <point x="27" y="-104"/>
+      <point x="54" y="-113"/>
+      <point x="84" y="-113" type="curve" smooth="yes"/>
+      <point x="118" y="-113"/>
+      <point x="157" y="-100"/>
+      <point x="185" y="-81" type="curve" smooth="yes"/>
+      <point x="224" y="-54"/>
+      <point x="261" y="-5"/>
+      <point x="261" y="40" type="curve" smooth="yes"/>
+      <point x="261" y="54"/>
+      <point x="258" y="68"/>
+      <point x="249" y="80" type="curve"/>
+      <point x="234" y="104"/>
+      <point x="206" y="113"/>
+      <point x="177" y="113" type="curve" smooth="yes"/>
+      <point x="142" y="113"/>
+      <point x="104" y="100"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7e3a8250d6a461cc428a14a8ca47bd019285fbdef35cd436876670501b6bc94168b9394d59903e6eb8ae47267fd19488bd97d9d753ac7b57267f470af5ab7f7c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -96 -21</string>
+          <string>hstem 113 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
