@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE09D" format="2">
   <advance width="845"/>
   <unicode hex="E09D"/>
@@ -45,38 +45,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7fe7e7768b64db986c1f78957bc7ce2f077f6323ac62cffdcc1a6c20d0cf32f800fc7db3398811984d7befd786b1683184481da0cbede176584c1639314ddca8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Open time signature (Penderecki)</string>
+      <key>_name</key>
+      <string>timeSigOpenPenderecki</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -248 99</string>
-          <string>hstem 117 133</string>
-          <string>vstem -1 50</string>
-          <string>vstem 796 50</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -248 99</string>
+              <string>hstem 117 133</string>
+              <string>vstem -1 50</string>
+              <string>vstem 796 50</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>7fe7e7768b64db986c1f78957bc7ce2f077f6323ac62cffdcc1a6c20d0cf32f800fc7db3398811984d7befd786b1683184481da0cbede176584c1639314ddca8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

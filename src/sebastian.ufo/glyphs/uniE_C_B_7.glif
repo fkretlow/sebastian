@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniECB7" format="2">
   <advance width="86"/>
   <unicode hex="ECB7"/>
@@ -19,24 +19,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w86m86,124c86,148 67,166 43,166c20,166 0,148 0,124c0,99 20,80 43,80c67,80 86,99 86,124</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_metronomeMarks</string>
+      </array>
+      <key>_description</key>
+      <string>Augmentation dot</string>
+      <key>_name</key>
+      <string>metAugmentationDot</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 80 80</string>
-          <string>vstem 3 80</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 80 80</string>
+              <string>vstem 3 80</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w86m86,124c86,148 67,166 43,166c20,166 0,148 0,124c0,99 20,80 43,80c67,80 86,99 86,124</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED20" format="2">
   <advance width="280"/>
   <unicode hex="ED20"/>
@@ -21,40 +21,40 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_figuredBass</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w280m9,275c28,313 92,333 138,333c184,333 249,313 271,275l280,275c260,335 205,365 137,365c67,365 18,335 0,275</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Finger substitution above</string>
+      <key>_name</key>
+      <string>fingeringSubstitutionAbove</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 333 32</string>
-          <string>vstem 0 280</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 333 32</string>
+              <string>vstem 0 280</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w280m9,275c28,313 92,333 138,333c184,333 249,313 271,275l280,275c260,335 205,365 137,365c67,365 18,335 0,275</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

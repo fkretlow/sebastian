@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE655" format="2">
   <advance width="450"/>
   <unicode hex="E655"/>
@@ -117,147 +117,147 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_pedals</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pedals</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal up mark</string>
+      <key>_name</key>
+      <string>keyboardPedalUp</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>31</integer>
-        <key>width</key>
-        <integer>97</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>129</integer>
-        <key>width</key>
-        <integer>25</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>158</integer>
-        <key>width</key>
-        <integer>80</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>182</integer>
-        <key>width</key>
-        <integer>32</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>242</integer>
-        <key>width</key>
-        <integer>22</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>266</integer>
-        <key>width</key>
-        <integer>99</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>297</integer>
-        <key>width</key>
-        <integer>68</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>398</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>398</integer>
-        <key>width</key>
-        <integer>20</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>53</integer>
-        <key>width</key>
-        <integer>98</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>53</integer>
-        <key>width</key>
-        <integer>68</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>152</integer>
-        <key>width</key>
-        <integer>24</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>180</integer>
-        <key>width</key>
-        <integer>80</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>205</integer>
-        <key>width</key>
-        <integer>30</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>264</integer>
-        <key>width</key>
-        <integer>26</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b129dab4ab1487ff94e5f061c189b4b7a6779730bb54f2d38206f7d5c21f2e2668aa69d76c47457dd8c06b439b2e9b8811445c0f22d95f0f867b2b87a44aad0d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -2 221</string>
-          <string>hstem 125 34</string>
-          <string>hstem 144 108</string>
-          <string>hstem 179 221</string>
-          <string>hstem 239 34</string>
-          <string>vstem 1 185</string>
-          <string>vstem 86 108</string>
-          <string>vstem 166 24</string>
-          <string>vstem 256 109</string>
-          <string>vstem 261 22</string>
+          <dict>
+            <key>position</key>
+            <integer>31</integer>
+            <key>width</key>
+            <integer>97</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>129</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>158</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>32</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>242</integer>
+            <key>width</key>
+            <integer>22</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>266</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>297</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>398</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>398</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>53</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>53</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>152</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>205</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>264</integer>
+            <key>width</key>
+            <integer>26</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -2 221</string>
+              <string>hstem 125 34</string>
+              <string>hstem 144 108</string>
+              <string>hstem 179 221</string>
+              <string>hstem 239 34</string>
+              <string>vstem 1 185</string>
+              <string>vstem 86 108</string>
+              <string>vstem 166 24</string>
+              <string>vstem 256 109</string>
+              <string>vstem 261 22</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b129dab4ab1487ff94e5f061c189b4b7a6779730bb54f2d38206f7d5c21f2e2668aa69d76c47457dd8c06b439b2e9b8811445c0f22d95f0f867b2b87a44aad0d</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

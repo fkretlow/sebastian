@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE282" format="2">
   <advance width="249"/>
   <unicode hex="E282"/>
@@ -117,58 +117,58 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>accidentals</string>
-    <string>accidentalsSteinZimmermann</string>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>vhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsSteinZimmermann</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Half sharp (quarter-tone sharp) (Stein)</string>
+      <key>_name</key>
+      <string>accidentalQuarterToneSharpStein</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>109</integer>
-        <key>width</key>
-        <integer>31</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f6924a2d24fda7e91e9bd0a6636547320d8b7df3dea33e29e1625be820cb958fd7febbb36005e3f2b893cebcb1124180f178dd5c8dec36c9cff7fc2498b4cc41</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>vhints</key>
         <array>
-          <string>hstem -344 -21</string>
-          <string>hstem 365 -20</string>
-          <string>vstem 0 140</string>
-          <string>vstem 105 39</string>
-          <string>vstem 109 31</string>
-          <string>vstem 109 140</string>
+          <dict>
+            <key>position</key>
+            <integer>109</integer>
+            <key>width</key>
+            <integer>31</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -344 -21</string>
+              <string>hstem 365 -20</string>
+              <string>vstem 0 140</string>
+              <string>vstem 105 39</string>
+              <string>vstem 109 31</string>
+              <string>vstem 109 140</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f6924a2d24fda7e91e9bd0a6636547320d8b7df3dea33e29e1625be820cb958fd7febbb36005e3f2b893cebcb1124180f178dd5c8dec36c9cff7fc2498b4cc41</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

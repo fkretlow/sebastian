@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE909" format="2">
   <advance width="250"/>
   <unicode hex="E909"/>
@@ -87,43 +87,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5eccb8ae5fcf5b9dd3b49e1be29af4539270efd75b2f90636b58fedab7613dda109316c973cf1aa3ff061f00e7edc9aafc1635b96349db8545d76082e5ae40a7</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Petrucci C clef, middle position</string>
+      <key>_name</key>
+      <string>mensuralCclefPetrucciPosMiddle</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -263 88</string>
-          <string>hstem -75 150</string>
-          <string>hstem 175 88</string>
-          <string>vstem 0 35</string>
-          <string>vstem 215 35</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -263 88</string>
+              <string>hstem -75 150</string>
+              <string>hstem 175 88</string>
+              <string>vstem 0 35</string>
+              <string>vstem 215 35</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5eccb8ae5fcf5b9dd3b49e1be29af4539270efd75b2f90636b58fedab7613dda109316c973cf1aa3ff061f00e7edc9aafc1635b96349db8545d76082e5ae40a7</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

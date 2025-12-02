@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAAC" format="2">
   <advance width="446"/>
   <unicode hex="EAAC"/>
@@ -50,42 +50,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesArpeggiato</string>
-    <string>wigglesArpeggiatoDown</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>347d95b89d6a4ee1ce24ebeef5eaca2e8518a9c6fa1fa6274911aa77e24d9a586ab065c9ad2d10f687435f953ee6697d9571f54aec02160715c2b8e81248a31d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesArpeggiato</string>
+        <string>wigglesArpeggiatoDown</string>
+      </array>
+      <key>_description</key>
+      <string>Arpeggiato downward swash</string>
+      <key>_name</key>
+      <string>wiggleArpeggiatoDownSwash</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -46 21</string>
-          <string>hstem 28 46</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -46 21</string>
+              <string>hstem 28 46</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>347d95b89d6a4ee1ce24ebeef5eaca2e8518a9c6fa1fa6274911aa77e24d9a586ab065c9ad2d10f687435f953ee6697d9571f54aec02160715c2b8e81248a31d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

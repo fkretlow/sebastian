@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0AB" format="2">
   <advance width="250"/>
   <unicode hex="E0AB"/>
@@ -159,33 +159,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d41c8fb968c6aece235cdb4a51ba5b2a00b4ae889ad30c46304b56a032619e582e8d6dc3eb2fad835d4b6e19fac09151d00bce896f339acdc93a106a0f595370</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>noteheadSetX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Ornate X notehead in ellipse</string>
+      <key>_name</key>
+      <string>noteheadXOrnateEllipse</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -169 24</string>
-          <string>hstem -126 93</string>
-          <string>hstem 117 9</string>
-          <string>hstem 145 24</string>
-          <string>vstem -67 24</string>
-          <string>vstem 1 16</string>
-          <string>vstem 1 90</string>
-          <string>vstem 105 39</string>
-          <string>vstem 158 90</string>
-          <string>vstem 232 16</string>
-          <string>vstem 292 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -169 24</string>
+              <string>hstem -126 93</string>
+              <string>hstem 117 9</string>
+              <string>hstem 145 24</string>
+              <string>vstem -67 24</string>
+              <string>vstem 1 16</string>
+              <string>vstem 1 90</string>
+              <string>vstem 105 39</string>
+              <string>vstem 158 90</string>
+              <string>vstem 232 16</string>
+              <string>vstem 292 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d41c8fb968c6aece235cdb4a51ba5b2a00b4ae889ad30c46304b56a032619e582e8d6dc3eb2fad835d4b6e19fac09151d00bce896f339acdc93a106a0f595370</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

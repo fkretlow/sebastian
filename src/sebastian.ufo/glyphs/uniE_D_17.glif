@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED17" format="2">
   <advance width="335"/>
   <unicode hex="ED17"/>
@@ -68,42 +68,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_figuredBass</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>17dd035627fa1eaa1813d91a072ef55b9fac3f0c455d981e38fe14203169bd0b4fc0ee676d8626aab1de6dc529ddd7949fdc8085e4bb6a3606f76c218115833d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering p (pulgar; right-hand thumb for guitar)</string>
+      <key>_name</key>
+      <string>fingeringPLower</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -121 21</string>
-          <string>hstem -4 23</string>
-          <string>hstem 226 23</string>
-          <string>hstem 228 22</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -121 21</string>
+              <string>hstem -4 23</string>
+              <string>hstem 226 23</string>
+              <string>hstem 228 22</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>17dd035627fa1eaa1813d91a072ef55b9fac3f0c455d981e38fe14203169bd0b4fc0ee676d8626aab1de6dc529ddd7949fdc8085e4bb6a3606f76c218115833d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

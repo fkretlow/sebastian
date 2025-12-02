@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED23" format="2">
   <advance width="157"/>
   <unicode hex="ED23"/>
@@ -21,41 +21,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_figuredBass</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w157m28,0l158,0l158,26l26,26l26,248l158,248l158,274l28,274c13,274 0,262 0,246l0,28c0,13 13,0 28,0</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Multiple notes played by thumb or single finger</string>
+      <key>_name</key>
+      <string>fingeringMultipleNotes</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 26</string>
-          <string>hstem 248 26</string>
-          <string>vstem 0 26</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 26</string>
+              <string>hstem 248 26</string>
+              <string>vstem 0 26</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w157m28,0l158,0l158,26l26,26l26,248l158,248l158,274l28,274c13,274 0,262 0,246l0,28c0,13 13,0 28,0</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

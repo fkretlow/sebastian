@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniECA3" format="2">
   <advance width="280"/>
   <unicode hex="ECA3"/>
@@ -45,25 +45,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>603ab1018ba28b56af9f772f1f2a9babc77846e52ead15583a2d8fc04248a11a3acf22f52e04d9320aa5e32badf8389301f9c2087c84a040d054e375e5363c2d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_metronomeMarks</string>
+      </array>
+      <key>_description</key>
+      <string>Half note (minim) stem up</string>
+      <key>_name</key>
+      <string>metNoteHalfUp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -12.5 30</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 262.5 20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12.5 30</string>
+              <string>hstem 700 -20</string>
+              <string>vstem 262.5 20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>603ab1018ba28b56af9f772f1f2a9babc77846e52ead15583a2d8fc04248a11a3acf22f52e04d9320aa5e32badf8389301f9c2087c84a040d054e375e5363c2d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

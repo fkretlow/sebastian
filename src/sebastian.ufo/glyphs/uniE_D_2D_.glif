@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED2D" format="2">
   <advance width="147"/>
   <unicode hex="ED2D"/>
@@ -45,38 +45,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bf44b7339d907f4db92ed2acfe77f959093fa2664cba502d025dccc5fb4d1df494de9bfb4e0f43fdc671a7d5d65c22e3336a99ab612b5c7ff1fb6d66f75d881d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering white middle dot separator</string>
+      <key>_name</key>
+      <string>fingeringSeparatorMiddleDotWhite</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 69 12</string>
-          <string>hstem 163 12</string>
-          <string>vstem 23 12</string>
-          <string>vstem 117 12</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 69 12</string>
+              <string>hstem 163 12</string>
+              <string>vstem 23 12</string>
+              <string>vstem 117 12</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>bf44b7339d907f4db92ed2acfe77f959093fa2664cba502d025dccc5fb4d1df494de9bfb4e0f43fdc671a7d5d65c22e3336a99ab612b5c7ff1fb6d66f75d881d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0CD" format="2">
   <advance width="278"/>
   <unicode hex="E0CD"/>
@@ -17,24 +17,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w278m139,-125l278,78l266,86c227,112 183,125 138,125c94,125 51,112 11,86l0,78</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Triangle-round notehead down black</string>
+      <key>_name</key>
+      <string>noteheadTriangleRoundDownBlack</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -125 250</string>
-          <string>vstem 0 278</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -125 250</string>
+              <string>vstem 0 278</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w278m139,-125l278,78l266,86c227,112 183,125 138,125c94,125 51,112 11,86l0,78</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

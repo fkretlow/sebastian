@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE951" format="2">
   <advance width="250"/>
   <unicode hex="E951"/>
@@ -49,42 +49,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e42abdfffa87e4782cf208bdcdb91084538eba6d41a5eb804178b69da8c78379dc408e8fab0fa3063c92c2e504f2d8fc241fdbabbe66577c2df5abed43c3c981</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Black mensural longa</string>
+      <key>_name</key>
+      <string>mensuralBlackLonga</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -138 276</string>
-          <string>vstem 0 33</string>
-          <string>vstem 209 49</string>
-          <string>vstem 217 33</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -138 276</string>
+              <string>vstem 0 33</string>
+              <string>vstem 209 49</string>
+              <string>vstem 217 33</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e42abdfffa87e4782cf208bdcdb91084538eba6d41a5eb804178b69da8c78379dc408e8fab0fa3063c92c2e504f2d8fc241fdbabbe66577c2df5abed43c3c981</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

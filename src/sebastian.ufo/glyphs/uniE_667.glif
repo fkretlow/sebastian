@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE667" format="2">
   <advance width="495"/>
   <unicode hex="E667"/>
@@ -92,41 +92,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a04193addfa94caa813149da29ba82ee4c7b0f7b2a4dda8b31b2518be753894869b2cdd53073a9314253fd7a1b41dd209a380770ae82e73a541d3863487e85bd</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Pluck strings inside piano (Maderna)</string>
+      <key>_name</key>
+      <string>keyboardPluckInside</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 30</string>
-          <string>hstem 456 39</string>
-          <string>hstem 463 32</string>
-          <string>vstem 0 30</string>
-          <string>vstem 143 68</string>
-          <string>vstem 402 63</string>
-          <string>vstem 465 30</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 30</string>
+              <string>hstem 456 39</string>
+              <string>hstem 463 32</string>
+              <string>vstem 0 30</string>
+              <string>vstem 143 68</string>
+              <string>vstem 402 63</string>
+              <string>vstem 465 30</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a04193addfa94caa813149da29ba82ee4c7b0f7b2a4dda8b31b2518be753894869b2cdd53073a9314253fd7a1b41dd209a380770ae82e73a541d3863487e85bd</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED2C" format="2">
   <advance width="147"/>
   <unicode hex="ED2C"/>
@@ -19,36 +19,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w147m23,122c23,93 47,69 76,69c105,69 129,93 129,122c129,151 105,175 76,175c47,175 23,151 23,122</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering middle dot separator</string>
+      <key>_name</key>
+      <string>fingeringSeparatorMiddleDot</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 69 106</string>
-          <string>vstem 23 106</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 69 106</string>
+              <string>vstem 23 106</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w147m23,122c23,93 47,69 76,69c105,69 129,93 129,122c129,151 105,175 76,175c47,175 23,151 23,122</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

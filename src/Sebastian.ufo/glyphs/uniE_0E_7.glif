@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0E7" format="2">
   <advance width="603"/>
   <unicode hex="E0E7"/>
@@ -144,30 +144,40 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8bfa1b0deb4c80966fc7e40193f7a848786a9f9f7803b34144b71fcce27a386d111282d01db915adc5615a9149d1c35d848bbc10120dac5e5f067dccc2994db1</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircled</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circled double whole notehead</string>
+      <key>_name</key>
+      <string>noteheadCircledDoubleWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -218 22</string>
-          <string>hstem -125 22</string>
-          <string>hstem 101 24</string>
-          <string>hstem 190 23</string>
-          <string>vstem 0 31</string>
-          <string>vstem 58 31</string>
-          <string>vstem 512 33</string>
-          <string>vstem 569 34</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -218 22</string>
+              <string>hstem -125 22</string>
+              <string>hstem 101 24</string>
+              <string>hstem 190 23</string>
+              <string>vstem 0 31</string>
+              <string>vstem 58 31</string>
+              <string>vstem 512 33</string>
+              <string>vstem 569 34</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8bfa1b0deb4c80966fc7e40193f7a848786a9f9f7803b34144b71fcce27a386d111282d01db915adc5615a9149d1c35d848bbc10120dac5e5f067dccc2994db1</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

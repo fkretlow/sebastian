@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4D4" format="2">
   <advance width="373"/>
   <unicode hex="E4D4"/>
@@ -54,36 +54,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e11058676bc202682a2c2765b14d1adaa282c99e9088113f5b763955ba521d2ef93e66087f3b51aff529bfdf21e7589cca9633a3c93d549bcef6c5c2b146ca1d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Curved caesura</string>
+      <key>_name</key>
+      <string>caesuraCurved</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>vstem 0 373</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>vstem 0 373</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e11058676bc202682a2c2765b14d1adaa282c99e9088113f5b763955ba521d2ef93e66087f3b51aff529bfdf21e7589cca9633a3c93d549bcef6c5c2b146ca1d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0C0" format="2">
   <advance width="307"/>
   <unicode hex="E0C0"/>
@@ -21,41 +21,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-    <string>noteheadSetTriangleLeft</string>
-    <string>noteheads</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w307m0,-128l0,125c0,131 2,132 6,128l303,-120c306,-122 307,-125 307,-125c307,-128 305,-128 299,-128</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetTriangleLeft</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Triangle notehead left black</string>
+      <key>_name</key>
+      <string>noteheadTriangleLeftBlack</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -107 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -107 -21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w307m0,-128l0,125c0,131 2,132 6,128l303,-120c306,-122 307,-125 307,-125c307,-128 305,-128 299,-128</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAD0" format="2">
   <advance width="175"/>
   <unicode hex="EAD0"/>
@@ -41,43 +41,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesVibratoVariable</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>628a48429688bbca0b1b027d9aff276e95a747cdd4e8b1253b78a406ce1e1d67f2dc56689d91a9b30e27bdbc6b5676baac0c515d17d9a406bb82270ab117da8c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesVibratoVariable</string>
+      </array>
+      <key>_description</key>
+      <string>Vibrato smallest, fast</string>
+      <key>_name</key>
+      <string>wiggleVibratoSmallestFast</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 21</string>
-          <string>hstem 0 51</string>
-          <string>hstem 40 52</string>
-          <string>vstem -26 224</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 0 51</string>
+              <string>hstem 40 52</string>
+              <string>vstem -26 224</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>628a48429688bbca0b1b027d9aff276e95a747cdd4e8b1253b78a406ce1e1d67f2dc56689d91a9b30e27bdbc6b5676baac0c515d17d9a406bb82270ab117da8c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

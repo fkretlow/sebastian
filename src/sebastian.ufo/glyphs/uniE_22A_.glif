@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE22A" format="2">
   <advance width="156"/>
   <unicode hex="E22A"/>
@@ -17,41 +17,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>stemDecorations</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w156m-155,116l-155,67l61,67l-155,-67l-155,-116l156,-116l156,-67l-64,-67l156,67l156,116</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>stemDecorations</string>
+      </array>
+      <key>_description</key>
+      <string>Buzz roll</string>
+      <key>_name</key>
+      <string>buzzRoll</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -116 49</string>
-          <string>hstem 67 49</string>
-          <string>vstem -155 311</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -116 49</string>
+              <string>hstem 67 49</string>
+              <string>vstem -155 311</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w156m-155,116l-155,67l61,67l-155,-67l-155,-116l156,-116l156,-67l-64,-67l156,67l156,116</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

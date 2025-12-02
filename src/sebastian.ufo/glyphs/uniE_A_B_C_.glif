@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEABC" format="2">
   <advance width="1000"/>
   <unicode hex="EABC"/>
@@ -36,36 +36,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>aa76e071b5045f8ea5d751a9bcb1eba685a9cea1fc6bfd25f0f9eccf74d5e7f5aa786e575e5e6ba1c1a14ff494449a208b5cd17ff3f46c3419f14c3822e30602</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Wide sawtooth line segment</string>
+      <key>_name</key>
+      <string>wiggleSawtoothWide</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -266 532</string>
-          <string>vstem -17 1032</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -266 532</string>
+              <string>vstem -17 1032</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>aa76e071b5045f8ea5d751a9bcb1eba685a9cea1fc6bfd25f0f9eccf74d5e7f5aa786e575e5e6ba1c1a14ff494449a208b5cd17ff3f46c3419f14c3822e30602</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

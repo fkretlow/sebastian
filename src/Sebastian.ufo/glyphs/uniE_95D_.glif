@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE95D" format="2">
   <advance width="250"/>
   <unicode hex="E95D"/>
@@ -67,43 +67,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>57ae7a4b437332587316b8398e9573fbd833948476c75a1819528a00cc09c74aad2386045f9cd029c0d74dbecec04caffb1f20dfb01759f3a72491af2ae2cf9c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>White mensural longa</string>
+      <key>_name</key>
+      <string>mensuralWhiteLonga</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -138 88</string>
-          <string>hstem 50 88</string>
-          <string>vstem 0 33</string>
-          <string>vstem 209 49</string>
-          <string>vstem 217 33</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -138 88</string>
+              <string>hstem 50 88</string>
+              <string>vstem 0 33</string>
+              <string>vstem 209 49</string>
+              <string>vstem 217 33</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>57ae7a4b437332587316b8398e9573fbd833948476c75a1819528a00cc09c74aad2386045f9cd029c0d74dbecec04caffb1f20dfb01759f3a72491af2ae2cf9c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

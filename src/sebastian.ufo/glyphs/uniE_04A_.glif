@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE04A" format="2">
   <advance width="400"/>
   <unicode hex="E04A"/>
@@ -113,113 +113,113 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Segno (serpent)</string>
+      <key>_name</key>
+      <string>segnoSerpent1</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-12</integer>
-        <key>width</key>
-        <integer>24</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>69</integer>
-        <key>width</key>
-        <integer>144</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>937</integer>
-        <key>width</key>
-        <integer>144</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>1138</integer>
-        <key>width</key>
-        <integer>24</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>146</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>64</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>10</integer>
-        <key>width</key>
-        <integer>68</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>254</integer>
-        <key>width</key>
-        <integer>146</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>322</integer>
-        <key>width</key>
-        <integer>68</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>336</integer>
-        <key>width</key>
-        <integer>64</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b3d649efc407fb6496260e90a861302bbb41137c3134746d4c787d8eb27ae6658e2cd35f7eeb502e334a0e601d38938a539212224f3d0c3ecbfeb53a9d7e62ec</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -12 24</string>
-          <string>hstem 67 145</string>
-          <string>hstem 937 145</string>
-          <string>hstem 1138 24</string>
-          <string>vstem 0 64</string>
-          <string>vstem 0 146</string>
-          <string>vstem 10 68</string>
-          <string>vstem 254 146</string>
-          <string>vstem 322 68</string>
-          <string>vstem 336 64</string>
+          <dict>
+            <key>position</key>
+            <integer>-12</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>69</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>937</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1138</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>64</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>10</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>254</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>322</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>336</integer>
+            <key>width</key>
+            <integer>64</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 24</string>
+              <string>hstem 67 145</string>
+              <string>hstem 937 145</string>
+              <string>hstem 1138 24</string>
+              <string>vstem 0 64</string>
+              <string>vstem 0 146</string>
+              <string>vstem 10 68</string>
+              <string>vstem 254 146</string>
+              <string>vstem 322 68</string>
+              <string>vstem 336 64</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b3d649efc407fb6496260e90a861302bbb41137c3134746d4c787d8eb27ae6658e2cd35f7eeb502e334a0e601d38938a539212224f3d0c3ecbfeb53a9d7e62ec</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE22F" format="2">
   <advance width="400"/>
   <unicode hex="E22F"/>
@@ -47,38 +47,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a6a7b05a98254e7b3675f0329ea94cd65aa70f8a5a0deecf26486ade14474039a4aa31b928dd5a4b679e7b0e6db81b7dfe52d4a02e2801d9d0f056e9111f6f74</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Divide measured tremolo by 3</string>
+      <key>_name</key>
+      <string>tremoloDivisiDots3</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 100</string>
-          <string>vstem 0 100</string>
-          <string>vstem 150 100</string>
-          <string>vstem 300 100</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 100</string>
+              <string>vstem 0 100</string>
+              <string>vstem 150 100</string>
+              <string>vstem 300 100</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a6a7b05a98254e7b3675f0329ea94cd65aa70f8a5a0deecf26486ade14474039a4aa31b928dd5a4b679e7b0e6db81b7dfe52d4a02e2801d9d0f056e9111f6f74</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

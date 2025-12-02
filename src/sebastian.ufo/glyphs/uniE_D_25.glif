@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED25" format="2">
   <advance width="183"/>
   <unicode hex="ED25"/>
@@ -46,56 +46,56 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>desc</string>
-    <string>grek</string>
-    <string>lc</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>tos</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>desc</string>
+        <string>grek</string>
+        <string>lc</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>tos</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering 7</string>
+      <key>_name</key>
+      <string>fingering7</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>343</integer>
-        <key>width</key>
-        <integer>75</integer>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>343</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>409</integer>
+            <key>width</key>
+            <integer>83</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>35</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>359</integer>
+            <key>width</key>
+            <integer>34</integer>
+          </dict>
+        </array>
       </dict>
-      <dict>
-        <key>position</key>
-        <integer>409</integer>
-        <key>width</key>
-        <integer>83</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>35</integer>
-        <key>width</key>
-        <integer>33</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>359</integer>
-        <key>width</key>
-        <integer>34</integer>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

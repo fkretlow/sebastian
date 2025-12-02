@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE230" format="2">
   <advance width="550"/>
   <unicode hex="E230"/>
@@ -61,39 +61,39 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bd235c8937b10f034160d6f718c35ca66904cf8b67b3893599ef1c6b3a7f4d334aeec65f4b0615e03c0eebcb89c9d4079f99c91f11453acf3fae123f9474d928</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Divide measured tremolo by 4</string>
+      <key>_name</key>
+      <string>tremoloDivisiDots4</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 100</string>
-          <string>vstem 0 100</string>
-          <string>vstem 150 100</string>
-          <string>vstem 300 100</string>
-          <string>vstem 450 100</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 100</string>
+              <string>vstem 0 100</string>
+              <string>vstem 150 100</string>
+              <string>vstem 300 100</string>
+              <string>vstem 450 100</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>bd235c8937b10f034160d6f718c35ca66904cf8b67b3893599ef1c6b3a7f4d334aeec65f4b0615e03c0eebcb89c9d4079f99c91f11453acf3fae123f9474d928</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

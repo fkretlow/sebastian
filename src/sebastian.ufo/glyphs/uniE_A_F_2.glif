@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAF2" format="2">
   <advance width="1994"/>
   <unicode hex="EAF2"/>
@@ -269,53 +269,53 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesQuasiRandom</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8c52575d1f078f0cc493f82366ed04c254b1763d21076a6f0e64e3c0b653ac854cb48466caab05ee8bc136f79de0d44b92d4c26d2995edbb64e6234ce2aceb4b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesQuasiRandom</string>
+      </array>
+      <key>_description</key>
+      <string>Quasi-random squiggle 3</string>
+      <key>_name</key>
+      <string>wiggleRandom3</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -282 31</string>
-          <string>hstem -234 32</string>
-          <string>hstem -183 32</string>
-          <string>hstem -152 32</string>
-          <string>hstem -42 32</string>
-          <string>hstem -16 8</string>
-          <string>hstem -16 32</string>
-          <string>hstem 6 32</string>
-          <string>hstem 24 32</string>
-          <string>hstem 32 32</string>
-          <string>hstem 67 32</string>
-          <string>hstem 76 32</string>
-          <string>hstem 376 32</string>
-          <string>vstem 460 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -282 31</string>
+              <string>hstem -234 32</string>
+              <string>hstem -183 32</string>
+              <string>hstem -152 32</string>
+              <string>hstem -42 32</string>
+              <string>hstem -16 8</string>
+              <string>hstem -16 32</string>
+              <string>hstem 6 32</string>
+              <string>hstem 24 32</string>
+              <string>hstem 32 32</string>
+              <string>hstem 67 32</string>
+              <string>hstem 76 32</string>
+              <string>hstem 376 32</string>
+              <string>vstem 460 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8c52575d1f078f0cc493f82366ed04c254b1763d21076a6f0e64e3c0b653ac854cb48466caab05ee8bc136f79de0d44b92d4c26d2995edbb64e6234ce2aceb4b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

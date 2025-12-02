@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5BE" format="2">
   <advance width="989"/>
   <unicode hex="E5BE"/>
@@ -103,39 +103,39 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_ornaments</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b307812fe941499a309d2787af68d9f43f374b5d8423c58eb2931789800c0216c342b9ff123e3a968c44355b925a41f88a91d59179d9ed9bb8c7020c4293b950</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Cadence</string>
+      <key>_name</key>
+      <string>ornamentPrecompCadence</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b307812fe941499a309d2787af68d9f43f374b5d8423c58eb2931789800c0216c342b9ff123e3a968c44355b925a41f88a91d59179d9ed9bb8c7020c4293b950</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

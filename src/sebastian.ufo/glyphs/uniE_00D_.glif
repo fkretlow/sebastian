@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE00D" format="2">
   <advance width="481"/>
   <unicode hex="E00D"/>
@@ -119,57 +119,57 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Staff divide arrows</string>
+      <key>_name</key>
+      <string>staffDivideArrowUpDown</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>341</integer>
-        <key>width</key>
-        <integer>119</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>362</integer>
-        <key>width</key>
-        <integer>119</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>96f7a0f61534722a451056017e39595dafad4563d436d3c3bf47cc1645e217d9c339f859d0c912d3ed731e128e1a70f9d1cf17bdd6dc84a323851b120eb5b707</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -439 -21</string>
-          <string>hstem 460 -20</string>
+          <dict>
+            <key>position</key>
+            <integer>341</integer>
+            <key>width</key>
+            <integer>119</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>362</integer>
+            <key>width</key>
+            <integer>119</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -439 -21</string>
+              <string>hstem 460 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>96f7a0f61534722a451056017e39595dafad4563d436d3c3bf47cc1645e217d9c339f859d0c912d3ed731e128e1a70f9d1cf17bdd6dc84a323851b120eb5b707</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

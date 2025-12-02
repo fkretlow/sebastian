@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5FC" format="2">
   <advance width="375"/>
   <unicode hex="E5FC"/>
@@ -33,37 +33,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5b02db90bbf0c0dcb1663ed230c29b5f337c3c3750597b7f25ac2db15e22d76087a7ab34726bf717a5fb51d28e3b2b33820a3381e9954501c992f859f9f07f1c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Sharper embouchure</string>
+      <key>_name</key>
+      <string>windSharpEmbouchure</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 359 34</string>
-          <string>vstem 0 372</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 359 34</string>
+              <string>vstem 0 372</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5b02db90bbf0c0dcb1663ed230c29b5f337c3c3750597b7f25ac2db15e22d76087a7ab34726bf717a5fb51d28e3b2b33820a3381e9954501c992f859f9f07f1c</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

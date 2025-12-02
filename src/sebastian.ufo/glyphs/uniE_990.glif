@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE990" format="2">
   <advance width="232"/>
   <unicode hex="E990"/>
@@ -28,28 +28,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>asc</string>
-    <string>latn</string>
-    <string>bos</string>
-    <string>noncomposite</string>
-    <string>lc</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>tos</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  </dict>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>asc</string>
+        <string>latn</string>
+        <string>bos</string>
+        <string>noncomposite</string>
+        <string>lc</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>tos</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Punctum</string>
+      <key>_name</key>
+      <string>chantPunctum</string>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE804" format="2">
   <advance width="534"/>
   <unicode hex="E804"/>
@@ -68,44 +68,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_pictograms</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>87389d392e4f5469a59c2c13ed9b02926b89c63d11bb118d03ee47d29d7defa71e7456375c4dd15381b9eaf65ffb911bf763161e7a5f58cc05dc39de99d65112</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pictograms</string>
+      </array>
+      <key>_description</key>
+      <string>Normal position (Caltabiano)</string>
+      <key>_name</key>
+      <string>pictNormalPosition</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 1 32</string>
-          <string>hstem 503 32</string>
-          <string>vstem 0 32</string>
-          <string>vstem 142 56</string>
-          <string>vstem 324 56</string>
-          <string>vstem 502 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1 32</string>
+              <string>hstem 503 32</string>
+              <string>vstem 0 32</string>
+              <string>vstem 142 56</string>
+              <string>vstem 324 56</string>
+              <string>vstem 502 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>87389d392e4f5469a59c2c13ed9b02926b89c63d11bb118d03ee47d29d7defa71e7456375c4dd15381b9eaf65ffb911bf763161e7a5f58cc05dc39de99d65112</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

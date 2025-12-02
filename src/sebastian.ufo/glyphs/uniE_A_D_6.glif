@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAD6" format="2">
   <advance width="179"/>
   <unicode hex="EAD6"/>
@@ -48,41 +48,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesVibratoVariable</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>626715a063d55d7b229c38b5fed1737128a32a3e15849a5d3b9ae2e46062bf7ede980d6d06a51a8fc13042821d392f83b1ea7242548873e90cb0347856eec124</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesVibratoVariable</string>
+      </array>
+      <key>_description</key>
+      <string>Vibrato small, faster</string>
+      <key>_name</key>
+      <string>wiggleVibratoSmallFaster</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 7 -21</string>
-          <string>vstem -28 231</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 7 -21</string>
+              <string>vstem -28 231</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>626715a063d55d7b229c38b5fed1737128a32a3e15849a5d3b9ae2e46062bf7ede980d6d06a51a8fc13042821d392f83b1ea7242548873e90cb0347856eec124</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

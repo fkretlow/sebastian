@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAC5" format="2">
   <advance width="1148"/>
   <unicode hex="EAC5"/>
@@ -417,50 +417,50 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesCircularMotion</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b319c7b8a73573474bf9c15b39829f57120473aa87aa92200fff0c626df0d4b52bbfb9350f4809ee727e5a4d1f8ba01ae4a6196ea244b0d509510070d441ffdb</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesCircularMotion</string>
+      </array>
+      <key>_description</key>
+      <string>Circular motion segment, largest</string>
+      <key>_name</key>
+      <string>wiggleCircularLargest</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 21</string>
-          <string>hstem 465 20</string>
-          <string>hstem 469 79</string>
-          <string>hstem 469 20</string>
-          <string>vstem 38 18</string>
-          <string>vstem 96 70</string>
-          <string>vstem 683 88</string>
-          <string>vstem 828 83</string>
-          <string>vstem 956 79</string>
-          <string>vstem 976 56</string>
-          <string>vstem 1055 56</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 21</string>
+              <string>hstem 465 20</string>
+              <string>hstem 469 79</string>
+              <string>hstem 469 20</string>
+              <string>vstem 38 18</string>
+              <string>vstem 96 70</string>
+              <string>vstem 683 88</string>
+              <string>vstem 828 83</string>
+              <string>vstem 956 79</string>
+              <string>vstem 976 56</string>
+              <string>vstem 1055 56</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b319c7b8a73573474bf9c15b39829f57120473aa87aa92200fff0c626df0d4b52bbfb9350f4809ee727e5a4d1f8ba01ae4a6196ea244b0d509510070d441ffdb</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

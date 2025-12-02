@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEABD" format="2">
   <advance width="306"/>
   <unicode hex="EABD"/>
@@ -113,41 +113,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c6dc5bc2bac0cbd3417e3af891f3917227efcaf47408dbb766dee916c2b094b67052d03a146dabcf67b2c38a86495e9ed0649e07f16b7555b8fb6b9637fc17cf</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+      </array>
+      <key>_description</key>
+      <string>Group glissando 1</string>
+      <key>_name</key>
+      <string>wiggleGlissandoGroup1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 37</string>
-          <string>hstem 574 37</string>
-          <string>vstem -16 341</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 37</string>
+              <string>hstem 574 37</string>
+              <string>vstem -16 341</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c6dc5bc2bac0cbd3417e3af891f3917227efcaf47408dbb766dee916c2b094b67052d03a146dabcf67b2c38a86495e9ed0649e07f16b7555b8fb6b9637fc17cf</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

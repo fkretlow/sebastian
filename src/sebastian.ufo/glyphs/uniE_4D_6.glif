@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4D6" format="2">
   <advance width="702"/>
   <unicode hex="E4D6"/>
@@ -68,41 +68,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-    <string>pauses</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d1b20ea46314088187b2d4b3650758970dc3e1871a238e3de8fc632aa32dd38d718d01a9a19d5585c04f4b73e72796f0ff317a7a6d7a6167c4285a21d30a20cf</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+      </array>
+      <key>_description</key>
+      <string>Curlew (Britten)</string>
+      <key>_name</key>
+      <string>curlewSign</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 187 51</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 187 51</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d1b20ea46314088187b2d4b3650758970dc3e1871a238e3de8fc632aa32dd38d718d01a9a19d5585c04f4b73e72796f0ff317a7a6d7a6167c4285a21d30a20cf</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

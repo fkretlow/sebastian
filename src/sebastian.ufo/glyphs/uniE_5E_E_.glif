@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5EE" format="2">
   <advance width="1370"/>
   <unicode hex="E5EE"/>
@@ -27,36 +27,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8db2049863176d756f1f820d83c268b2d2d4e3db67f2366df16f6eabffba37afc40bb4232f378051e8fc8bdd73bd38220eb878726ac7ba9899a0d577188f2bbf</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Smooth lift, long</string>
+      <key>_name</key>
+      <string>brassLiftSmoothLong</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>vstem 1 1363</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>vstem 1 1363</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8db2049863176d756f1f820d83c268b2d2d4e3db67f2366df16f6eabffba37afc40bb4232f378051e8fc8bdd73bd38220eb878726ac7ba9899a0d577188f2bbf</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

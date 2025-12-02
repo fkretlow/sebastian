@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE800" format="2">
   <advance width="536"/>
   <unicode hex="E800"/>
@@ -77,45 +77,45 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_pictograms</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5309ff25aab282f68668b5e726cba5212bbd30b55c41c3937a132dda51dbaba9c3ef5d5b33e518d3af1368c0a8a9f23f193c1131c5d47d1c8c65611b22593831</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pictograms</string>
+      </array>
+      <key>_description</key>
+      <string>Center (Caltabiano)</string>
+      <key>_name</key>
+      <string>pictCenter3</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 32</string>
-          <string>hstem 96 56</string>
-          <string>hstem 382 56</string>
-          <string>hstem 502 32</string>
-          <string>vstem 1 32</string>
-          <string>vstem 121 56</string>
-          <string>vstem 503 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 32</string>
+              <string>hstem 96 56</string>
+              <string>hstem 382 56</string>
+              <string>hstem 502 32</string>
+              <string>vstem 1 32</string>
+              <string>vstem 121 56</string>
+              <string>vstem 503 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5309ff25aab282f68668b5e726cba5212bbd30b55c41c3937a132dda51dbaba9c3ef5d5b33e518d3af1368c0a8a9f23f193c1131c5d47d1c8c65611b22593831</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

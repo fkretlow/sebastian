@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5B8" format="2">
   <advance width="883"/>
   <unicode hex="E5B8"/>
@@ -152,43 +152,43 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>ornaments</string>
-    <string>tf_ornaments</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a542750015a3213a986598ffae16e8f083a63050a82343b60dc0c7512c031b5e81096a04b4aeefb03916471fed5133cab6ef1ac6b177d8523e9a2767c1e25c57</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Slide-trill with two-note suffix (J.S. Bach)</string>
+      <key>_name</key>
+      <string>ornamentPrecompSlideTrillBach</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -291 -21</string>
-          <string>hstem 340 -20</string>
-          <string>vstem 0 36</string>
-          <string>vstem 578 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -291 -21</string>
+              <string>hstem 340 -20</string>
+              <string>vstem 0 36</string>
+              <string>vstem 578 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a542750015a3213a986598ffae16e8f083a63050a82343b60dc0c7512c031b5e81096a04b4aeefb03916471fed5133cab6ef1ac6b177d8523e9a2767c1e25c57</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

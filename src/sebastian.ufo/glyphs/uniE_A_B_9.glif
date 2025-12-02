@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAB9" format="2">
   <advance width="1000"/>
   <unicode hex="EAB9"/>
@@ -42,38 +42,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>54ac507d981e46e3d9ee8bed07c916fdfc3fb0fdcd6c3150eebbd19a07b368177e4c3cee9b93512f89c8229f2ce11f6519780446ee25f469ac7f3a5be18a9a69</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Wide square wave line segment</string>
+      <key>_name</key>
+      <string>wiggleSquareWaveWide</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -141 32</string>
-          <string>hstem 109 32</string>
-          <string>vstem 234 32</string>
-          <string>vstem 734 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -141 32</string>
+              <string>hstem 109 32</string>
+              <string>vstem 234 32</string>
+              <string>vstem 734 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>54ac507d981e46e3d9ee8bed07c916fdfc3fb0fdcd6c3150eebbd19a07b368177e4c3cee9b93512f89c8229f2ce11f6519780446ee25f469ac7f3a5be18a9a69</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

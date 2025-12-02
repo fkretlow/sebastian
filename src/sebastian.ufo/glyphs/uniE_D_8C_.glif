@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED8C" format="2">
   <advance width="109"/>
   <unicode hex="ED8C"/>
@@ -22,37 +22,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w109m0,-20l79,-20l82,-1c71,-1 40,0 40,21l40,25l74,218c80,250 114,250 124,250c124,250 127,267 127,269l50,269</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering left bracket italic</string>
+      <key>_name</key>
+      <string>fingeringLeftBracketItalic</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -20 19</string>
-          <string>hstem 250 19</string>
-          <string>vstem 0 127</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 19</string>
+              <string>hstem 250 19</string>
+              <string>vstem 0 127</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w109m0,-20l79,-20l82,-1c71,-1 40,0 40,21l40,25l74,218c80,250 114,250 124,250c124,250 127,267 127,269l50,269</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

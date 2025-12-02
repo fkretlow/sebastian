@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0A8" format="2">
   <advance width="334"/>
   <unicode hex="E0A8"/>
+  <anchor x="0" y="-103" name="stemDownNW"/>
+  <anchor x="334" y="103" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="93" y="136" type="line"/>
@@ -33,42 +35,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-    <string>noteheadSetX</string>
-    <string>noteheads</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b6f83c779a958d26fcfd2a7463637c816a434f2a9ea3cee4712fc2bd46f2749d8628f6970d191b332f469b2e5ab79a443220b2eed6c346195a11bd1a7f21c051</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>X notehead half</string>
+      <key>_name</key>
+      <string>noteheadXHalf</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -137 25</string>
-          <string>hstem 114 22</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -137 25</string>
+              <string>hstem 114 22</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b6f83c779a958d26fcfd2a7463637c816a434f2a9ea3cee4712fc2bd46f2749d8628f6970d191b332f469b2e5ab79a443220b2eed6c346195a11bd1a7f21c051</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

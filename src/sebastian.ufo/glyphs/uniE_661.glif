@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE661" format="2">
   <advance width="426"/>
   <unicode hex="E661"/>
@@ -37,37 +37,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>105fae3954d434bfd4942099c82b30f657801a97ec1f92ea2fad0805ba6ec551e7b62401d3272f57b13edf08b41f4b86c1130f494d5b3e22112bd7f754348be5</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal heel 1</string>
+      <key>_name</key>
+      <string>keyboardPedalHeel1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 61</string>
-          <string>vstem 0 61</string>
-          <string>vstem 364 62</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 61</string>
+              <string>vstem 0 61</string>
+              <string>vstem 364 62</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>105fae3954d434bfd4942099c82b30f657801a97ec1f92ea2fad0805ba6ec551e7b62401d3272f57b13edf08b41f4b86c1130f494d5b3e22112bd7f754348be5</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

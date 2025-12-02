@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE805" format="2">
   <advance width="153"/>
   <unicode hex="E805"/>
@@ -44,40 +44,40 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_pictograms</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c283fb201add6401f15c752eb807d7a86ab5f705367e18d5d22bec367dcb12a0bb89ec2ed72797d77a9255f6ce8ecc330b9cd826c06624e826236f97bc011309</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_pictograms</string>
+      </array>
+      <key>_description</key>
+      <string>Choke (Weinberg)</string>
+      <key>_name</key>
+      <string>pictChokeCymbal</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 132 119</string>
-          <string>vstem 1 151</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 132 119</string>
+              <string>vstem 1 151</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c283fb201add6401f15c752eb807d7a86ab5f705367e18d5d22bec367dcb12a0bb89ec2ed72797d77a9255f6ce8ecc330b9cd826c06624e826236f97bc011309</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

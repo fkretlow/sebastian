@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniECA0" format="2">
   <advance width="468"/>
   <unicode hex="ECA0"/>
@@ -106,30 +106,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e4ac8b1b7142497104c47bf739ddd791b0e23ced67aad9a00526c42f3d4edd31c0fc047c0ea135cec4959ca4d9fb86e315b49ada1b7c7e95ba77f47e83da7f11</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_metronomeMarks</string>
+      </array>
+      <key>_description</key>
+      <string>Double whole note (breve)</string>
+      <key>_name</key>
+      <string>metNoteDoubleWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 232.5</string>
-          <string>hstem 6.25 223.75</string>
-          <string>hstem 210 18.75</string>
-          <string>vstem 0 25</string>
-          <string>vstem 41.25 25</string>
-          <string>vstem 41.25 113.75</string>
-          <string>vstem 312.5 113.75</string>
-          <string>vstem 442.5 25</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 232.5</string>
+              <string>hstem 6.25 223.75</string>
+              <string>hstem 210 18.75</string>
+              <string>vstem 0 25</string>
+              <string>vstem 41.25 25</string>
+              <string>vstem 41.25 113.75</string>
+              <string>vstem 312.5 113.75</string>
+              <string>vstem 442.5 25</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e4ac8b1b7142497104c47bf739ddd791b0e23ced67aad9a00526c42f3d4edd31c0fc047c0ea135cec4959ca4d9fb86e315b49ada1b7c7e95ba77f47e83da7f11</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

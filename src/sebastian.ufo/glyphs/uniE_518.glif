@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE518" format="2">
   <advance width="1179"/>
   <unicode hex="E518"/>
+  <guideline x="0" y="410" angle="0"/>
   <outline>
     <contour>
       <point x="162" y="347" type="curve"/>
@@ -308,50 +309,49 @@
       <point x="867" y="363"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="410"/>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>octaves</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3d8f988f19e262435b322c483607400002c62c1a00d81f82989f577cf0f4c348925ddbe3f15d5ab294cd2b623fdc13a535bcf720debd53e8091234c765bbd131</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>octaves</string>
+      </array>
+      <key>_description</key>
+      <string>Ventiduesima alta</string>
+      <key>_name</key>
+      <string>ventiduesimaAlta</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -11 66</string>
-          <string>hstem 224 189</string>
-          <string>hstem 376 33</string>
-          <string>vstem 95 97</string>
-          <string>vstem 193 79</string>
-          <string>vstem 343 69</string>
-          <string>vstem 510 79</string>
-          <string>vstem 660 228</string>
-          <string>vstem 960 155</string>
-          <string>vstem 990 33</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -11 66</string>
+              <string>hstem 224 189</string>
+              <string>hstem 376 33</string>
+              <string>vstem 95 97</string>
+              <string>vstem 193 79</string>
+              <string>vstem 343 69</string>
+              <string>vstem 510 79</string>
+              <string>vstem 660 228</string>
+              <string>vstem 960 155</string>
+              <string>vstem 990 33</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3d8f988f19e262435b322c483607400002c62c1a00d81f82989f577cf0f4c348925ddbe3f15d5ab294cd2b623fdc13a535bcf720debd53e8091234c765bbd131</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

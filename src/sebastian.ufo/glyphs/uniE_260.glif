@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE260" format="2">
   <advance width="217"/>
   <unicode hex="E260"/>
+  <anchor x="63" y="164" name="cutOutNE"/>
+  <anchor x="129" y="-109" name="cutOutSE"/>
   <outline>
     <contour>
       <point x="0" y="438" type="line"/>
@@ -54,72 +56,72 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>accidentals</string>
-    <string>accidentalsSagittalMixed</string>
-    <string>accidentalsStandard</string>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsSagittalMixed</string>
+        <string>accidentalsStandard</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Flat</string>
+      <key>_name</key>
+      <string>accidentalFlat</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>100</integer>
-        <key>width</key>
-        <integer>53</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>50</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>157</integer>
-        <key>width</key>
-        <integer>69</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a7f54639142097bdbfb515ee19c31e4dac3645bf0dd949eee5bb0d14cfe7f5bb050f255445a5a9c527dcec0667427c82a203e950f33c5cfdd65df2979a71c46c</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -142 -21</string>
-          <string>hstem 455 -20</string>
-          <string>vstem 0 30</string>
-          <string>vstem 0 56</string>
+          <dict>
+            <key>position</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>53</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>157</integer>
+            <key>width</key>
+            <integer>69</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -142 -21</string>
+              <string>hstem 455 -20</string>
+              <string>vstem 0 30</string>
+              <string>vstem 0 56</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a7f54639142097bdbfb515ee19c31e4dac3645bf0dd949eee5bb0d14cfe7f5bb050f255445a5a9c527dcec0667427c82a203e950f33c5cfdd65df2979a71c46c</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>

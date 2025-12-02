@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED85" format="2">
   <advance width="196"/>
   <unicode hex="ED85"/>
@@ -50,86 +50,86 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>bos</string>
-    <string>noncomposite</string>
-    <string>grek</string>
-    <string>lc</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>bos</string>
+        <string>noncomposite</string>
+        <string>grek</string>
+        <string>lc</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering 5 italic (little finger)</string>
+      <key>_name</key>
+      <string>fingering5Italic</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-4</integer>
-        <key>width</key>
-        <integer>29</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>205</integer>
-        <key>width</key>
-        <integer>28</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>301</integer>
-        <key>width</key>
-        <integer>57</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>303</integer>
-        <key>width</key>
-        <integer>65</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>15</integer>
-        <key>width</key>
-        <integer>70</integer>
-      </dict>
-      <dict>
-        <key>position</key>
-        <integer>200</integer>
-        <key>width</key>
-        <integer>64</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9595f98b140648756da66627348d1469157973deac90882a024f63fd4601d773fa870f1c74da4f031bb7df7334af00e2a62e6964d6f7bb488f70cac6d6c51014</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>hstem -4 86</string>
-          <string>hstem -4 153</string>
-          <string>vstem 0 55</string>
-          <string>vstem 124 40</string>
+          <dict>
+            <key>position</key>
+            <integer>-4</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>205</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>301</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>303</integer>
+            <key>width</key>
+            <integer>65</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>15</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>64</integer>
+          </dict>
         </array>
       </dict>
-    </array>
-  </dict>
-  </dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -4 86</string>
+              <string>hstem -4 153</string>
+              <string>vstem 0 55</string>
+              <string>vstem 124 40</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9595f98b140648756da66627348d1469157973deac90882a024f63fd4601d773fa870f1c74da4f031bb7df7334af00e2a62e6964d6f7bb488f70cac6d6c51014</string>
+      </dict>
+    </dict>
   </lib>
 </glyph>
