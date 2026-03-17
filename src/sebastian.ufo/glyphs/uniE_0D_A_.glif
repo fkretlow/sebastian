@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE0DA" format="2">
   <advance width="348"/>
   <unicode hex="E0DA"/>
@@ -58,31 +58,31 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Diamond half notehead (wide)</string>
-      <key>_name</key>
-      <string>noteheadDiamondHalfWide</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>136</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>136</integer>
+        <key>width</key>
+        <integer>20</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE647" format="2">
   <advance width="345"/>
   <unicode hex="E647"/>
@@ -33,36 +33,36 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Nasal voice</string>
-      <key>_name</key>
-      <string>vocalNasalVoice</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b99b6550e07e28ff12992969279c4cff84eaa08d15addf04816e1504999ac18a44f83d523673682a4ab5c5d64be3d9968daad28535f1b8df7a954a4c826a5237</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 32</string>
-              <string>vstem 1 344</string>
-            </array>
-          </dict>
+          <string>hstem 0 32</string>
+          <string>vstem 1 344</string>
         </array>
-        <key>id</key>
-        <string>b99b6550e07e28ff12992969279c4cff84eaa08d15addf04816e1504999ac18a44f83d523673682a4ab5c5d64be3d9968daad28535f1b8df7a954a4c826a5237</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

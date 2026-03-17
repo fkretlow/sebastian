@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5D4" format="2">
   <advance width="318"/>
   <unicode hex="E5D4"/>
@@ -27,36 +27,36 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Doit, short</string>
-      <key>_name</key>
-      <string>brassDoitShort</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e3516967102e04c24bb6c65aef4b66023488c8071d9584beb9f1ca5655c904678b50bbdaa3ed08f2370392716764d4bc7d0c532012e8372fb5e5f21559a07203</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -33 386</string>
-              <string>vstem 1 319</string>
-            </array>
-          </dict>
+          <string>hstem -33 386</string>
+          <string>vstem 1 319</string>
         </array>
-        <key>id</key>
-        <string>e3516967102e04c24bb6c65aef4b66023488c8071d9584beb9f1ca5655c904678b50bbdaa3ed08f2370392716764d4bc7d0c532012e8372fb5e5f21559a07203</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

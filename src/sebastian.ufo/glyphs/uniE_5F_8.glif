@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5F8" format="2">
   <advance width="300"/>
   <unicode hex="E5F8"/>
@@ -47,40 +47,40 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Half-open hole</string>
-      <key>_name</key>
-      <string>windHalfClosedHole3</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b2a0ee6042a0401796c69b458c8100e5439b06d6857ae011e71ec04135f097683f7c112520d685508296e775ab438692ffb3a2fcca7f5d92343747bd8b98503c</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 31</string>
-              <string>hstem 90 119</string>
-              <string>hstem 268 31</string>
-              <string>vstem 0 31</string>
-              <string>vstem 90 119</string>
-              <string>vstem 269 30</string>
-            </array>
-          </dict>
+          <string>hstem 0 31</string>
+          <string>hstem 90 119</string>
+          <string>hstem 268 31</string>
+          <string>vstem 0 31</string>
+          <string>vstem 90 119</string>
+          <string>vstem 269 30</string>
         </array>
-        <key>id</key>
-        <string>b2a0ee6042a0401796c69b458c8100e5439b06d6857ae011e71ec04135f097683f7c112520d685508296e775ab438692ffb3a2fcca7f5d92343747bd8b98503c</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

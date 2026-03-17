@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE570" format="2">
   <advance width="366"/>
   <unicode hex="E570"/>
@@ -13,24 +13,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-        <string>tf_ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Port de voix</string>
-      <key>_name</key>
-      <string>ornamentPortDeVoixV</string>
-    </dict>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>ornaments</string>
+    <string>tf_ornaments</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEC62" format="2">
   <advance width="1163"/>
   <unicode hex="EC62"/>
@@ -130,44 +130,44 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Eyeglasses</string>
-      <key>_name</key>
-      <string>miscEyeglasses</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>63900c5fa8832e6251b400325c73af8d81f71c78705369dcb200181e359ebaa95b550ab0454ae99dd1704248aa53fb5ad57edb69a0be14aaf0ebc3c3177cc39c</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 41</string>
-              <string>hstem 245 41</string>
-              <string>hstem 319 41</string>
-              <string>hstem 554 -20</string>
-              <string>vstem 0 41</string>
-              <string>vstem 348 41</string>
-              <string>vstem 667 41</string>
-              <string>vstem 673 41</string>
-              <string>vstem 803 41</string>
-              <string>vstem 1122 41</string>
-            </array>
-          </dict>
+          <string>hstem 0 41</string>
+          <string>hstem 245 41</string>
+          <string>hstem 319 41</string>
+          <string>hstem 554 -20</string>
+          <string>vstem 0 41</string>
+          <string>vstem 348 41</string>
+          <string>vstem 667 41</string>
+          <string>vstem 673 41</string>
+          <string>vstem 803 41</string>
+          <string>vstem 1122 41</string>
         </array>
-        <key>id</key>
-        <string>63900c5fa8832e6251b400325c73af8d81f71c78705369dcb200181e359ebaa95b550ab0454ae99dd1704248aa53fb5ad57edb69a0be14aaf0ebc3c3177cc39c</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

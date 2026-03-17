@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEC63" format="2">
   <advance width="437"/>
   <unicode hex="EC63"/>
@@ -45,65 +45,65 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>forTextBasedApplications</string>
-      </array>
-      <key>_description</key>
-      <string>Left-pointing arrow for metric modulation</string>
-      <key>_name</key>
-      <string>metricModulationArrowLeft</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>forTextBasedApplications</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
+        <key>position</key>
+        <integer>50</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>128</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>230</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fcd609b4fac1a53a9a9178547751590d723a236adbdb548db224755564a033246b272df101f6237beade6fb20ef427b0afc00e00986c191fd707312d662b9a05</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>50</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>128</integer>
-            <key>width</key>
-            <integer>43</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>230</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
+          <string>hstem 71 -21</string>
+          <string>hstem 130 40</string>
+          <string>hstem 249 -20</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 71 -21</string>
-              <string>hstem 130 40</string>
-              <string>hstem 249 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>fcd609b4fac1a53a9a9178547751590d723a236adbdb548db224755564a033246b272df101f6237beade6fb20ef427b0afc00e00986c191fd707312d662b9a05</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

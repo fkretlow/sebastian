@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE808" format="2">
   <advance width="247"/>
   <unicode hex="E808"/>
@@ -14,41 +14,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>stemDecorations</string>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Combining swish for stem</string>
-      <key>_name</key>
-      <string>pictSwishStem</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>stemDecorations</string>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w247m248,247l55,196l111,139l-248,-219l-220,-248l139,111l196,54</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -248 495</string>
-              <string>vstem -248 496</string>
-            </array>
-          </dict>
+          <string>hstem -248 495</string>
+          <string>vstem -248 496</string>
         </array>
-        <key>id</key>
-        <string>w247m248,247l55,196l111,139l-248,-219l-220,-248l139,111l196,54</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

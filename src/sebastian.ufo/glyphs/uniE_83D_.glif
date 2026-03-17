@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE83D" format="2">
   <advance width="286"/>
   <unicode hex="E83D"/>
@@ -33,38 +33,38 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Open wah/volume pedal</string>
-      <key>_name</key>
-      <string>guitarOpenPedal</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5c132d5e3c8bb2d3096233b7dc23610b7224c8a62d8fa49caad4989acfeb4fbe21c9798200e7774c90d85c1a1d646f17fb0edeeda5394b14275be983b9cead1b</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 32</string>
-              <string>hstem 254 32</string>
-              <string>vstem 0 32</string>
-              <string>vstem 254 32</string>
-            </array>
-          </dict>
+          <string>hstem 0 32</string>
+          <string>hstem 254 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 254 32</string>
         </array>
-        <key>id</key>
-        <string>5c132d5e3c8bb2d3096233b7dc23610b7224c8a62d8fa49caad4989acfeb4fbe21c9798200e7774c90d85c1a1d646f17fb0edeeda5394b14275be983b9cead1b</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

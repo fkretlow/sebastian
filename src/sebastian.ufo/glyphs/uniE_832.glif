@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE832" format="2">
   <advance width="1144"/>
   <unicode hex="E832"/>
@@ -162,37 +162,37 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Guitar shake</string>
-      <key>_name</key>
-      <string>guitarShake</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>83c3c0ef5e03184ac2b8d07508baf472f1d3b32cbaf2c6d71eaa3cfae7996bfccd5830517f4c7a2eeca08b923a2273281aa3e8285b94b8623eb128ab10d90f11</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 22 -21</string>
-              <string>vstem -1 1144</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 22 -21</string>
+          <string>vstem -1 1144</string>
         </array>
-        <key>id</key>
-        <string>83c3c0ef5e03184ac2b8d07508baf472f1d3b32cbaf2c6d71eaa3cfae7996bfccd5830517f4c7a2eeca08b923a2273281aa3e8285b94b8623eb128ab10d90f11</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE80D" format="2">
   <advance width="161"/>
   <unicode hex="E80D"/>
@@ -19,41 +19,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>stemDecorations</string>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Combining X for stem (dead note)</string>
-      <key>_name</key>
-      <string>pictDeadNoteStem</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>stemDecorations</string>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w161m-28,0l-161,-133l-133,-161l0,-28l133,-161l161,-133l29,0l161,133l133,161l0,28l-133,161l-161,133</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>vstem -161 322</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>vstem -161 322</string>
         </array>
-        <key>id</key>
-        <string>w161m-28,0l-161,-133l-133,-161l0,-28l133,-161l161,-133l29,0l161,133l133,161l0,28l-133,161l-161,133</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

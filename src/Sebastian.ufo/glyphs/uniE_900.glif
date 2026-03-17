@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE900" format="2">
   <advance width="407"/>
   <unicode hex="E900"/>
-  <guideline x="0" y="-231" angle="0"/>
   <outline>
     <contour>
       <point x="378" y="200" type="curve" smooth="yes"/>
@@ -74,41 +73,42 @@
       <point x="371" y="189"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="-231"/>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-      </array>
-      <key>_description</key>
-      <string>Mensural G clef</string>
-      <key>_name</key>
-      <string>mensuralGclef</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>combiningStaffPositions</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>78f09cb727d07f0157070bf96a64c41b15aaf8877a1a46334d499f2104b622997a8e4fc51c863b11a103abb3c85b60e3d5e62bb14d4c8cbfac8df25be5d2988f</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 124 57</string>
-              <string>hstem 670 -20</string>
-            </array>
-          </dict>
+          <string>hstem 124 57</string>
+          <string>hstem 670 -20</string>
         </array>
-        <key>id</key>
-        <string>78f09cb727d07f0157070bf96a64c41b15aaf8877a1a46334d499f2104b622997a8e4fc51c863b11a103abb3c85b60e3d5e62bb14d4c8cbfac8df25be5d2988f</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>
