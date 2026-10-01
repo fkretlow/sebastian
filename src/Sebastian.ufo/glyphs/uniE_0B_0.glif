@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0B0" format="2">
   <advance width="422"/>
   <unicode hex="E0B0"/>
@@ -131,33 +131,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f3205b1c7c118fea691743410a1c15d944ee5c328e65e23afb82e7e08a91ad10bae0e0e540d8108ae1be05c3f77e875a2370132e09dd60dbe61f8ca6b35f04de</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircleX</string>
+        <string>noteheadSetPlus</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circle X double whole</string>
+      <key>_name</key>
+      <string>noteheadCircleXDoubleWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -125 29</string>
-          <string>hstem 1 154</string>
-          <string>hstem 2 -21</string>
-          <string>hstem 22 -21</string>
-          <string>hstem 97 28</string>
-          <string>vstem 0 31</string>
-          <string>vstem 56 30</string>
-          <string>vstem 88 62</string>
-          <string>vstem 270 65</string>
-          <string>vstem 336 31</string>
-          <string>vstem 391 31</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -125 29</string>
+              <string>hstem 1 154</string>
+              <string>hstem 2 -21</string>
+              <string>hstem 22 -21</string>
+              <string>hstem 97 28</string>
+              <string>vstem 0 31</string>
+              <string>vstem 56 30</string>
+              <string>vstem 88 62</string>
+              <string>vstem 270 65</string>
+              <string>vstem 336 31</string>
+              <string>vstem 391 31</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>f3205b1c7c118fea691743410a1c15d944ee5c328e65e23afb82e7e08a91ad10bae0e0e540d8108ae1be05c3f77e875a2370132e09dd60dbe61f8ca6b35f04de</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

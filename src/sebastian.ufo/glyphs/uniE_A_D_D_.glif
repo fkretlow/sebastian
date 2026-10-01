@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEADD" format="2">
   <advance width="242"/>
   <unicode hex="EADD"/>
@@ -51,41 +51,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-    <string>wigglesVibratoVariable</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>493ddb77615f9705ea82e7fc8a9a6af7876a6134fc5da2e0d5ef2bec2bf5ff9503fcd6f20661e6875412a0a5d14183fe3321c1c62d4f3b3d98c6079fde52a760</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesVibratoVariable</string>
+      </array>
+      <key>_description</key>
+      <string>Vibrato medium, faster</string>
+      <key>_name</key>
+      <string>wiggleVibratoMediumFaster</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -41 241</string>
-          <string>vstem -29 301</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -41 241</string>
+              <string>vstem -29 301</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>493ddb77615f9705ea82e7fc8a9a6af7876a6134fc5da2e0d5ef2bec2bf5ff9503fcd6f20661e6875412a0a5d14183fe3321c1c62d4f3b3d98c6079fde52a760</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

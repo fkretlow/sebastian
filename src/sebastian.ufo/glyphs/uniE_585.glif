@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE585" format="2">
   <advance width="1088"/>
   <unicode hex="E585"/>
@@ -265,50 +265,50 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>ornaments</string>
-    <string>tf_ornaments</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e76750514bb4e304d27d3df919945be9caf400e4828feb2740ad3e781265b8cbd054ab100f1cbb181d97b4bcde6dffbb82344c75cb448cb70644c429436445c9</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Glissando up</string>
+      <key>_name</key>
+      <string>glissandoUp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 2 1104</string>
-          <string>hstem 570 88</string>
-          <string>hstem 826 88</string>
-          <string>vstem 157 37</string>
-          <string>vstem 284 38</string>
-          <string>vstem 412 38</string>
-          <string>vstem 543 34</string>
-          <string>vstem 671 36</string>
-          <string>vstem 798 38</string>
-          <string>vstem 925 38</string>
-          <string>vstem 1056 34</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2 1104</string>
+              <string>hstem 570 88</string>
+              <string>hstem 826 88</string>
+              <string>vstem 157 37</string>
+              <string>vstem 284 38</string>
+              <string>vstem 412 38</string>
+              <string>vstem 543 34</string>
+              <string>vstem 671 36</string>
+              <string>vstem 798 38</string>
+              <string>vstem 925 38</string>
+              <string>vstem 1056 34</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e76750514bb4e304d27d3df919945be9caf400e4828feb2740ad3e781265b8cbd054ab100f1cbb181d97b4bcde6dffbb82344c75cb448cb70644c429436445c9</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

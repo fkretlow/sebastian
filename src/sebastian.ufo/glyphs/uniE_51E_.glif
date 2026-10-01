@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE51E" format="2">
   <advance width="1116"/>
   <unicode hex="E51E"/>
+  <guideline x="0" y="410" angle="0"/>
   <outline>
     <contour>
       <point x="162" y="347" type="curve"/>
@@ -302,51 +303,50 @@
       <point x="1018" y="158"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="410"/>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>octaves</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>39f48a1c3cc7efa0301015bae77321c97827934f9e413db9558e1503f00ccdf21bb07e4891956801faae5e2e10d0c3205f0bb0b1603f78297e96b67fe602883d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>octaves</string>
+      </array>
+      <key>_description</key>
+      <string>Ventiduesima bassa (mb)</string>
+      <key>_name</key>
+      <string>ventiduesimaBassaMb</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -11 66</string>
-          <string>hstem -2 194</string>
-          <string>hstem 174 99</string>
-          <string>hstem 376 33</string>
-          <string>vstem 95 97</string>
-          <string>vstem 272 71</string>
-          <string>vstem 412 97</string>
-          <string>vstem 589 71</string>
-          <string>vstem 848 127</string>
-          <string>vstem 948 28</string>
-          <string>vstem 1077 34</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -11 66</string>
+              <string>hstem -2 194</string>
+              <string>hstem 174 99</string>
+              <string>hstem 376 33</string>
+              <string>vstem 95 97</string>
+              <string>vstem 272 71</string>
+              <string>vstem 412 97</string>
+              <string>vstem 589 71</string>
+              <string>vstem 848 127</string>
+              <string>vstem 948 28</string>
+              <string>vstem 1077 34</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>39f48a1c3cc7efa0301015bae77321c97827934f9e413db9558e1503f00ccdf21bb07e4891956801faae5e2e10d0c3205f0bb0b1603f78297e96b67fe602883d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

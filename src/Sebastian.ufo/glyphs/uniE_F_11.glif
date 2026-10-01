@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEF11" format="2">
   <advance width="167"/>
   <unicode hex="EF11"/>
@@ -21,24 +21,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w167m126,249c126,102 68,-10 -6,-65l-6,-85c97,-29 172,73 172,212c172,282 148,347 118,400l94,400c112,358 126,307 126,249</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Closing parenthesis italic</string>
+      <key>_name</key>
+      <string>tupletParenthesisRightItalic</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -85 485</string>
-          <string>vstem 126 46</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -85 485</string>
+              <string>vstem 126 46</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w167m126,249c126,102 68,-10 -6,-65l-6,-85c97,-29 172,73 172,212c172,282 148,347 118,400l94,400c112,358 126,307 126,249</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

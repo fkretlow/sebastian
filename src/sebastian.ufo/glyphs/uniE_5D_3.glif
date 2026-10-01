@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5D3" format="2">
   <advance width="1197"/>
   <unicode hex="E5D3"/>
@@ -252,53 +252,53 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>398264b372e9d7c64df81e3a5fdb67afaeb7468a170a450238e3e9e0691d77376fbe6b656deafee6d46df29c2a078b56c1b94763ef1a804f80fe7ac5851718f8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Lift, long</string>
+      <key>_name</key>
+      <string>brassLiftLong</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 54 86</string>
-          <string>hstem 183 89</string>
-          <string>hstem 312 85</string>
-          <string>hstem 440 89</string>
-          <string>hstem 569 89</string>
-          <string>hstem 697 86</string>
-          <string>hstem 826 89</string>
-          <string>hstem 955 85</string>
-          <string>hstem 1084 89</string>
-          <string>vstem 131 35</string>
-          <string>vstem 258 36</string>
-          <string>vstem 388 35</string>
-          <string>vstem 515 37</string>
-          <string>vstem 644 36</string>
-          <string>vstem 774 35</string>
-          <string>vstem 901 36</string>
-          <string>vstem 1031 35</string>
-          <string>vstem 1160 12</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 54 86</string>
+              <string>hstem 183 89</string>
+              <string>hstem 312 85</string>
+              <string>hstem 440 89</string>
+              <string>hstem 569 89</string>
+              <string>hstem 697 86</string>
+              <string>hstem 826 89</string>
+              <string>hstem 955 85</string>
+              <string>hstem 1084 89</string>
+              <string>vstem 131 35</string>
+              <string>vstem 258 36</string>
+              <string>vstem 388 35</string>
+              <string>vstem 515 37</string>
+              <string>vstem 644 36</string>
+              <string>vstem 774 35</string>
+              <string>vstem 901 36</string>
+              <string>vstem 1031 35</string>
+              <string>vstem 1160 12</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>398264b372e9d7c64df81e3a5fdb67afaeb7468a170a450238e3e9e0691d77376fbe6b656deafee6d46df29c2a078b56c1b94763ef1a804f80fe7ac5851718f8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

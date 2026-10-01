@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniECA9" format="2">
   <advance width="451"/>
   <unicode hex="ECA9"/>
@@ -87,27 +87,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6d371c4dee19ae192d9685b62416e23c3faa5ccba4ebd9925d4aec2e6be4860b3623c75dea820249b4ce02afbe19b4a29ec36264500198db7011ecf274ecb5ba</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_metronomeMarks</string>
+      </array>
+      <key>_description</key>
+      <string>16th note (semiquaver) stem up</string>
+      <key>_name</key>
+      <string>metNote16thUp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 2.25 -21</string>
-          <string>hstem 700 -20</string>
-          <string>vstem 240 21.25</string>
-          <string>vstem 417.5 25</string>
-          <string>vstem 426.25 25</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2.25 -21</string>
+              <string>hstem 700 -20</string>
+              <string>vstem 240 21.25</string>
+              <string>vstem 417.5 25</string>
+              <string>vstem 426.25 25</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>6d371c4dee19ae192d9685b62416e23c3faa5ccba4ebd9925d4aec2e6be4860b3623c75dea820249b4ce02afbe19b4a29ec36264500198db7011ecf274ecb5ba</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEB82" format="2">
   <advance width="299"/>
   <unicode hex="EB82"/>
@@ -57,36 +57,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>89fd769efa6c421e1847bd6cad9269f992d4281d17007e1a1f5c6f9b3bcebcda7467b6c8ea40d86ae32b45460b61e21988c7ce8e3f4c3cade709dbad1874c1b8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>White arrowhead right (E)</string>
+      <key>_name</key>
+      <string>arrowheadWhiteRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 22 -21</string>
-          <string>vstem 36 26</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 22 -21</string>
+              <string>vstem 36 26</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>89fd769efa6c421e1847bd6cad9269f992d4281d17007e1a1f5c6f9b3bcebcda7467b6c8ea40d86ae32b45460b61e21988c7ce8e3f4c3cade709dbad1874c1b8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

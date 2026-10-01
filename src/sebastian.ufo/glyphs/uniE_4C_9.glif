@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4C9" format="2">
   <advance width="645"/>
   <unicode hex="E4C9"/>
@@ -51,49 +51,49 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-    <string>pauses</string>
-    <string>pausesBelow</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3e3db99dde05b97b175ad978fdabe258002dc232369c6814ac0753ad621b8e93b9c324c1520b0671c452cedd770767f7f62a874c2a1904493041ec60839ea9b9</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+        <string>pausesBelow</string>
+      </array>
+      <key>_description</key>
+      <string>Very long fermata below</string>
+      <key>_name</key>
+      <string>fermataVeryLongBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -409 101</string>
-          <string>hstem -254 91</string>
-          <string>hstem -117 117</string>
-          <string>hstem 2 -20</string>
-          <string>vstem 7 28</string>
-          <string>vstem 90 20</string>
-          <string>vstem 255 117</string>
-          <string>vstem 526 20</string>
-          <string>vstem 613 28</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -409 101</string>
+              <string>hstem -254 91</string>
+              <string>hstem -117 117</string>
+              <string>hstem 2 -20</string>
+              <string>vstem 7 28</string>
+              <string>vstem 90 20</string>
+              <string>vstem 255 117</string>
+              <string>vstem 526 20</string>
+              <string>vstem 613 28</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3e3db99dde05b97b175ad978fdabe258002dc232369c6814ac0753ad621b8e93b9c324c1520b0671c452cedd770767f7f62a874c2a1904493041ec60839ea9b9</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAC1" format="2">
   <advance width="268"/>
   <unicode hex="EAC1"/>
@@ -63,42 +63,42 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>multiGlyphForms</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e9fb39ad534a6c1cf565ecd6e988cd7da4eb04deb4a1bf706f03777208e1dd4406e0afb05a6c77c7e0ecb43baf61787cedf255c6c7eb0747a5519c5fb834a2df</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+      </array>
+      <key>_description</key>
+      <string>Constant circular motion segment (flipped)</string>
+      <key>_name</key>
+      <string>wiggleCircularConstantFlipped</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -12 24</string>
-          <string>hstem 271 24</string>
-          <string>vstem 59 25</string>
-          <string>vstem 182 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 24</string>
+              <string>hstem 271 24</string>
+              <string>vstem 59 25</string>
+              <string>vstem 182 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>e9fb39ad534a6c1cf565ecd6e988cd7da4eb04deb4a1bf706f03777208e1dd4406e0afb05a6c77c7e0ecb43baf61787cedf255c6c7eb0747a5519c5fb834a2df</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

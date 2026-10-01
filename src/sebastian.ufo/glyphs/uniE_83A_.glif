@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE83A" format="2">
   <advance width="540"/>
   <unicode hex="E83A"/>
@@ -46,40 +46,40 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5bc1ea6d42caacdfd82adb46b99f2461177a48af0c168e7785fd7f7da17915923df67a94ce14a560d4189aa3a675632f34a74e7faa5be5f8d806bc9f0523ff36</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>String number 7</string>
+      <key>_name</key>
+      <string>guitarString7</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 32</string>
-          <string>hstem 384 43</string>
-          <string>hstem 507 32</string>
-          <string>vstem 0 32</string>
-          <string>vstem 152 237</string>
-          <string>vstem 508 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 32</string>
+              <string>hstem 384 43</string>
+              <string>hstem 507 32</string>
+              <string>vstem 0 32</string>
+              <string>vstem 152 237</string>
+              <string>vstem 508 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5bc1ea6d42caacdfd82adb46b99f2461177a48af0c168e7785fd7f7da17915923df67a94ce14a560d4189aa3a675632f34a74e7faa5be5f8d806bc9f0523ff36</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE545" format="2">
   <advance width="124"/>
   <unicode hex="E545"/>
@@ -21,41 +21,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>dynamics</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w124m85,-181c85,-200 77,-208 58,-208l8,-208l8,-227l123,-227l123,393l8,393l8,374l58,374c77,374 85,366 85,347</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Right bracket (for hairpins)</string>
+      <key>_name</key>
+      <string>dynamicHairpinBracketRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -205 -21</string>
-          <string>hstem 392 -20</string>
-          <string>vstem 84 37</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -205 -21</string>
+              <string>hstem 392 -20</string>
+              <string>vstem 84 37</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w124m85,-181c85,-200 77,-208 58,-208l8,-208l8,-227l123,-227l123,393l8,393l8,374l58,374c77,374 85,366 85,347</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

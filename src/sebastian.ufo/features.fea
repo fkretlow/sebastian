@@ -63,3 +63,41 @@ feature ss09 {
   sub uniE08C from [uniF512];
 
 } ss09;
+feature kern {
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos uniE520 uniE52C 52;
+    pos uniE520 uniE52D 60;
+    pos uniE521 uniE520 47;
+    pos uniE521 uniE521 21;
+    pos uniE521 uniE52C 60;
+    pos uniE522 uniE520 -77;
+    pos uniE522 uniE521 -89;
+    pos uniE522 uniE522 -136;
+    pos uniE522 uniE525 -138;
+    pos uniE523 uniE520 37;
+    pos uniE524 uniE520 50;
+    pos uniE524 uniE521 21;
+    pos uniE524 uniE522 18;
+    pos uniE525 uniE520 42;
+    pos uniE526 uniE520 52;
+    pos uniE52D uniE520 -77;
+    pos uniE52D uniE522 -63;
+    pos uniE52E uniE520 -76;
+    pos uniE52F uniE520 -80;
+    pos uniE530 uniE520 -80;
+    pos uniE531 uniE520 -79;
+    pos uniE532 uniE520 -81;
+    pos uniE533 uniE520 -79;
+    pos uniE535 uniE520 37;
+    pos uniE536 uniE520 -64;
+    pos uniE539 uniE520 39;
+    pos uniE53B uniE520 31;
+    pos uniE53C uniE520 -60;
+    pos uniE53D uniE520 29;
+    pos uniE53E uniE520 134;
+    pos uniE53F uniE520 34;
+  } KERN_LTR;
+
+} kern;

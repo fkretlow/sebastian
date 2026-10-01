@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE913" format="2">
   <advance width="425"/>
   <unicode hex="E913"/>
@@ -76,45 +76,45 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f618bb1c4071cd4a460a138ea2e5b669a440df501480dfde2175e26e5b501c88db784aeb053e5d5c01f7d58d3f16b2c4d61d8f007fb3ffbfec375915427f9cc2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tempus perfectum cum prolatione perfecta diminution 2 (9/16)</string>
+      <key>_name</key>
+      <string>mensuralProlation4</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -388 -21</string>
-          <string>hstem 409 -20</string>
-          <string>vstem 0 68</string>
-          <string>vstem 158 109</string>
-          <string>vstem 160 105</string>
-          <string>vstem 188 50</string>
-          <string>vstem 365 68</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -388 -21</string>
+              <string>hstem 409 -20</string>
+              <string>vstem 0 68</string>
+              <string>vstem 158 109</string>
+              <string>vstem 160 105</string>
+              <string>vstem 188 50</string>
+              <string>vstem 365 68</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>f618bb1c4071cd4a460a138ea2e5b669a440df501480dfde2175e26e5b501c88db784aeb053e5d5c01f7d58d3f16b2c4d61d8f007fb3ffbfec375915427f9cc2</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

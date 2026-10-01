@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5D8" format="2">
   <advance width="490"/>
   <unicode hex="E5D8"/>
@@ -27,36 +27,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>499424aaacf02d0bbb5caf37b403869f837205fbfe41afe04599db515afb76ad791d0fd713f281955d4da6af687196952cf44a4f7aa396ba34b1bcf01c2408c4</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_description</key>
+      <string>Lip fall, medium</string>
+      <key>_name</key>
+      <string>brassFallLipMedium</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -350 21</string>
-          <string>hstem 36 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -350 21</string>
+              <string>hstem 36 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>499424aaacf02d0bbb5caf37b403869f837205fbfe41afe04599db515afb76ad791d0fd713f281955d4da6af687196952cf44a4f7aa396ba34b1bcf01c2408c4</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

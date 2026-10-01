@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE95D" format="2">
-  <advance width="250"/>
+  <advance width="350"/>
   <unicode hex="E95D"/>
   <outline>
     <contour>
-      <point x="197" y="-138" type="line" smooth="yes"/>
-      <point x="214" y="-138"/>
-      <point x="217" y="-159"/>
-      <point x="217" y="-179" type="curve"/>
-      <point x="209" y="-616" type="line" name="hr01"/>
-      <point x="213" y="-626"/>
-      <point x="223" y="-632"/>
-      <point x="234" y="-632" type="curve" smooth="yes"/>
-      <point x="245" y="-632"/>
-      <point x="254" y="-626"/>
-      <point x="258" y="-616" type="curve"/>
-      <point x="250" y="-179" type="line" name="hr02"/>
-      <point x="250" y="179" type="line" smooth="yes"/>
-      <point x="250" y="190"/>
-      <point x="242" y="195"/>
-      <point x="234" y="195" type="curve" smooth="yes"/>
-      <point x="226" y="195"/>
-      <point x="217" y="190"/>
-      <point x="217" y="179" type="curve" smooth="yes"/>
-      <point x="217" y="159"/>
-      <point x="214" y="138"/>
-      <point x="197" y="138" type="curve" smooth="yes"/>
+      <point x="297" y="-138" type="line" smooth="yes"/>
+      <point x="314" y="-138"/>
+      <point x="317" y="-159"/>
+      <point x="317" y="-179" type="curve"/>
+      <point x="309" y="-616" type="line" name="hr01"/>
+      <point x="313" y="-626"/>
+      <point x="323" y="-632"/>
+      <point x="334" y="-632" type="curve" smooth="yes"/>
+      <point x="345" y="-632"/>
+      <point x="354" y="-626"/>
+      <point x="358" y="-616" type="curve"/>
+      <point x="350" y="-179" type="line" name="hr02"/>
+      <point x="350" y="179" type="line" smooth="yes"/>
+      <point x="350" y="190"/>
+      <point x="342" y="195"/>
+      <point x="334" y="195" type="curve" smooth="yes"/>
+      <point x="326" y="195"/>
+      <point x="317" y="190"/>
+      <point x="317" y="179" type="curve" smooth="yes"/>
+      <point x="317" y="159"/>
+      <point x="314" y="138"/>
+      <point x="297" y="138" type="curve" smooth="yes"/>
       <point x="53" y="138" type="line" smooth="yes"/>
       <point x="36" y="138"/>
       <point x="33" y="159"/>
@@ -56,54 +56,56 @@
       <point x="33" y="41"/>
       <point x="42" y="50"/>
       <point x="53" y="50" type="curve" smooth="yes"/>
-      <point x="197" y="50" type="line" smooth="yes"/>
-      <point x="208" y="50"/>
-      <point x="217" y="41"/>
-      <point x="217" y="30" type="curve" smooth="yes"/>
-      <point x="217" y="-30" type="line" smooth="yes"/>
-      <point x="217" y="-41"/>
-      <point x="208" y="-50"/>
-      <point x="197" y="-50" type="curve" smooth="yes"/>
+      <point x="297" y="50" type="line" smooth="yes"/>
+      <point x="308" y="50"/>
+      <point x="317" y="41"/>
+      <point x="317" y="30" type="curve" smooth="yes"/>
+      <point x="317" y="-30" type="line" smooth="yes"/>
+      <point x="317" y="-41"/>
+      <point x="308" y="-50"/>
+      <point x="297" y="-50" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>57ae7a4b437332587316b8398e9573fbd833948476c75a1819528a00cc09c74aad2386045f9cd029c0d74dbecec04caffb1f20dfb01759f3a72491af2ae2cf9c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>White mensural longa</string>
+      <key>_name</key>
+      <string>mensuralWhiteLonga</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -138 88</string>
-          <string>hstem 50 88</string>
-          <string>vstem 0 33</string>
-          <string>vstem 209 49</string>
-          <string>vstem 217 33</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -611 -21</string>
+              <string>hstem -138 88</string>
+              <string>hstem 50 88</string>
+              <string>hstem 195 -20</string>
+              <string>vstem 0 33</string>
+              <string>vstem 317 41</string>
+              <string>vstem 317 33</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3326eb8827c503b9efc84ecf3fc1bc5cd591c1192fbd9ac8f1824a668726f96c0de6e7292658e51a4d22e2d0115e40cecdded619108fc6794c572208dcaafae8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

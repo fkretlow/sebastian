@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4ED" format="2">
   <advance width="631"/>
   <unicode hex="E4ED"/>
@@ -247,55 +247,55 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-    <string>rests</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5bb3e5cd3113aba8390a5bda1b16964c55b2abba9cc206efdd08bfb6e3f0af620bd43f310d267be9c62f772b96b12711799820ce3c36a1eb74e34bbbfc241bb2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>rests</string>
+      </array>
+      <key>_description</key>
+      <string>1024th rest</string>
+      <key>_name</key>
+      <string>rest1024th</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -691 149</string>
-          <string>hstem -445 149</string>
-          <string>hstem -198 149</string>
-          <string>hstem 47 150</string>
-          <string>hstem 294 150</string>
-          <string>hstem 540 150</string>
-          <string>hstem 787 150</string>
-          <string>hstem 1034 149</string>
-          <string>vstem 0 136</string>
-          <string>vstem 50 136</string>
-          <string>vstem 100 136</string>
-          <string>vstem 150 136</string>
-          <string>vstem 201 136</string>
-          <string>vstem 251 136</string>
-          <string>vstem 300 137</string>
-          <string>vstem 351 136</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -691 149</string>
+              <string>hstem -445 149</string>
+              <string>hstem -198 149</string>
+              <string>hstem 47 150</string>
+              <string>hstem 294 150</string>
+              <string>hstem 540 150</string>
+              <string>hstem 787 150</string>
+              <string>hstem 1034 149</string>
+              <string>vstem 0 136</string>
+              <string>vstem 50 136</string>
+              <string>vstem 100 136</string>
+              <string>vstem 150 136</string>
+              <string>vstem 201 136</string>
+              <string>vstem 251 136</string>
+              <string>vstem 300 137</string>
+              <string>vstem 351 136</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5bb3e5cd3113aba8390a5bda1b16964c55b2abba9cc206efdd08bfb6e3f0af620bd43f310d267be9c62f772b96b12711799820ce3c36a1eb74e34bbbfc241bb2</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE910" format="2">
   <advance width="432"/>
   <unicode hex="E910"/>
@@ -48,44 +48,44 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>774418298e1d863dc0054e196ac3128e49979f962019081a1ee1db03c2d3d238b48c1afa5bbf7290b41426b854021ef9dfd1417b3f79d097118f924d29cb9dd7</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tempus perfectum cum prolatione perfecta (9/8)</string>
+      <key>_name</key>
+      <string>mensuralProlation1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -204 33</string>
-          <string>hstem -60 120</string>
-          <string>hstem 170 33</string>
-          <string>vstem -10 70</string>
-          <string>vstem 151 121</string>
-          <string>vstem 364 70</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -204 33</string>
+              <string>hstem -60 120</string>
+              <string>hstem 170 33</string>
+              <string>vstem -10 70</string>
+              <string>vstem 151 121</string>
+              <string>vstem 364 70</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>774418298e1d863dc0054e196ac3128e49979f962019081a1ee1db03c2d3d238b48c1afa5bbf7290b41426b854021ef9dfd1417b3f79d097118f924d29cb9dd7</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

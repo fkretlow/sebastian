@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE95E" format="2">
-  <advance width="250"/>
+  <advance width="350"/>
   <unicode hex="E95E"/>
   <outline>
     <contour>
-      <point x="197" y="-138" type="line" smooth="yes"/>
-      <point x="214" y="-138"/>
-      <point x="217" y="-159"/>
-      <point x="217" y="-179" type="curve" smooth="yes"/>
-      <point x="217" y="-190"/>
-      <point x="226" y="-195"/>
-      <point x="234" y="-195" type="curve" smooth="yes"/>
-      <point x="242" y="-195"/>
-      <point x="250" y="-190"/>
-      <point x="250" y="-179" type="curve" smooth="yes"/>
-      <point x="250" y="179" type="line" smooth="yes"/>
-      <point x="250" y="190"/>
-      <point x="242" y="195"/>
-      <point x="234" y="195" type="curve" smooth="yes"/>
-      <point x="226" y="195"/>
-      <point x="217" y="190"/>
-      <point x="217" y="179" type="curve" smooth="yes"/>
-      <point x="217" y="159"/>
-      <point x="214" y="138"/>
-      <point x="197" y="138" type="curve" smooth="yes"/>
+      <point x="297" y="-138" type="line" smooth="yes"/>
+      <point x="314" y="-138"/>
+      <point x="317" y="-159"/>
+      <point x="317" y="-179" type="curve" smooth="yes"/>
+      <point x="317" y="-190"/>
+      <point x="326" y="-195"/>
+      <point x="334" y="-195" type="curve" smooth="yes"/>
+      <point x="342" y="-195"/>
+      <point x="350" y="-190"/>
+      <point x="350" y="-179" type="curve" smooth="yes"/>
+      <point x="350" y="179" type="line" smooth="yes"/>
+      <point x="350" y="190"/>
+      <point x="342" y="195"/>
+      <point x="334" y="195" type="curve" smooth="yes"/>
+      <point x="326" y="195"/>
+      <point x="317" y="190"/>
+      <point x="317" y="179" type="curve" smooth="yes"/>
+      <point x="317" y="159"/>
+      <point x="314" y="138"/>
+      <point x="297" y="138" type="curve" smooth="yes"/>
       <point x="53" y="138" type="line" smooth="yes"/>
       <point x="36" y="138"/>
       <point x="33" y="159"/>
@@ -54,53 +54,55 @@
       <point x="33" y="41"/>
       <point x="42" y="50"/>
       <point x="53" y="50" type="curve" smooth="yes"/>
-      <point x="197" y="50" type="line" smooth="yes"/>
-      <point x="208" y="50"/>
-      <point x="217" y="41"/>
-      <point x="217" y="30" type="curve" smooth="yes"/>
-      <point x="217" y="-30" type="line" smooth="yes"/>
-      <point x="217" y="-41"/>
-      <point x="208" y="-50"/>
-      <point x="197" y="-50" type="curve" smooth="yes"/>
+      <point x="297" y="50" type="line" smooth="yes"/>
+      <point x="308" y="50"/>
+      <point x="317" y="41"/>
+      <point x="317" y="30" type="curve" smooth="yes"/>
+      <point x="317" y="-30" type="line" smooth="yes"/>
+      <point x="317" y="-41"/>
+      <point x="308" y="-50"/>
+      <point x="297" y="-50" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>combiningStaffPositions</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b3b524c8581cee9af1708678270a47d83b0a9fe4390309ed44d2128da936a5b44d83bd23688e2520c0d0b0d30006b263631cb59aad1b5a307b99b133dbe85359</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>White mensural brevis</string>
+      <key>_name</key>
+      <string>mensuralWhiteBrevis</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -138 88</string>
-          <string>hstem 50 88</string>
-          <string>vstem 0 33</string>
-          <string>vstem 217 33</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -174 -21</string>
+              <string>hstem -138 88</string>
+              <string>hstem 50 88</string>
+              <string>hstem 195 -20</string>
+              <string>vstem 0 33</string>
+              <string>vstem 317 33</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>f74f328897b047bb1fee349e06a4324c38804d23727a84381937feb91a1e5a66ca9c079599060c421d1497ec541f861493a04f86efccd603ed46baf775e62be8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

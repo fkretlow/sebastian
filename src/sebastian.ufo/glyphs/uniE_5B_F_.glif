@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5BF" format="2">
   <advance width="989"/>
   <unicode hex="E5BF"/>
@@ -133,41 +133,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_ornaments</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>67fccf2d8ef5bff8ca0355038f24a2ecfa7a286fdd6c5430b37a94fefd4675666bcd2b7123b76be523812a73215658139a51b1b9995a60403ec84cfe03444aa3</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Cadence with turn</string>
+      <key>_name</key>
+      <string>ornamentPrecompCadenceWithTurn</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -58 -21</string>
-          <string>hstem 341 -20</string>
-          <string>vstem 684 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -58 -21</string>
+              <string>hstem 341 -20</string>
+              <string>vstem 684 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>67fccf2d8ef5bff8ca0355038f24a2ecfa7a286fdd6c5430b37a94fefd4675666bcd2b7123b76be523812a73215658139a51b1b9995a60403ec84cfe03444aa3</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

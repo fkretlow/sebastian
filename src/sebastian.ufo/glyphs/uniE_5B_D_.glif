@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5BD" format="2">
   <advance width="822"/>
   <unicode hex="E5BD"/>
@@ -141,41 +141,41 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>__virtual_tags</key>
-  <array>
-    <string>noncomposite</string>
-    <string>noblank</string>
-    <string>ALL</string>
-    <string>zzzz</string>
-    <string>otnone</string>
-  </array>
-  <key>_classes</key>
-  <array>
-    <string>tf_ornaments</string>
-  </array>
-  <key>_description</key>
-  <real>0</real>
-  <key>_name</key>
-  <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>01318b9870716f90112143a47678fcb9a64f179884625a59a6cdca24ce98bd733cd32f82c118928606858f4bbc7b1278fb009b55f6b4f2b2b144cc6f253bd4d1</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>__virtual_tags</key>
+      <array>
+        <string>noncomposite</string>
+        <string>noblank</string>
+        <string>ALL</string>
+        <string>zzzz</string>
+        <string>otnone</string>
+      </array>
+      <key>_classes</key>
+      <array>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Trill with mordent</string>
+      <key>_name</key>
+      <string>ornamentPrecompTrillWithMordent</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -58 -21</string>
-          <string>hstem 341 -20</string>
-          <string>vstem 517 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -58 -21</string>
+              <string>hstem 341 -20</string>
+              <string>vstem 517 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>01318b9870716f90112143a47678fcb9a64f179884625a59a6cdca24ce98bd733cd32f82c118928606858f4bbc7b1278fb009b55f6b4f2b2b144cc6f253bd4d1</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>
