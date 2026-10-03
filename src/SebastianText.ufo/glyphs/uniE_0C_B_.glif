@@ -21,4 +21,25 @@
       <point x="291" y="421" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w291m291,479c291,501 289,502 269,502l17,502c0,502 0,501 0,484l0,421c0,351 66,299 146,299c222,299 291,350 291,421</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -84 -21</string>
+          <string>hstem 102 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

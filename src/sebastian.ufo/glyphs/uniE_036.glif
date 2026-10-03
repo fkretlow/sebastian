@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE036" format="2">
   <advance width="36"/>
   <unicode hex="E036"/>
@@ -29,41 +29,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>forTextBasedApplications</string>
-      </array>
-      <key>_description</key>
-      <string>Dashed barline</string>
-      <key>_name</key>
-      <string>barlineDashed</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>forTextBasedApplications</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w36m36,875l36,1000l0,1000l0,875m36,817l0,817l0,528l36,528m36,471l0,471l0,182l36,182m36,125l0,125l0,0l36,0</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 125</string>
-              <string>hstem 875 125</string>
-              <string>vstem 0 36</string>
-            </array>
-          </dict>
+          <string>hstem 0 125</string>
+          <string>hstem 875 125</string>
+          <string>vstem 0 36</string>
         </array>
-        <key>id</key>
-        <string>w36m36,875l36,1000l0,1000l0,875m36,817l0,817l0,528l36,528m36,471l0,471l0,182l36,182m36,125l0,125l0,0l36,0</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

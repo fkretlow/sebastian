@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE91D" format="2">
   <advance width="440"/>
   <unicode hex="E91D"/>
@@ -93,43 +93,43 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-      </array>
-      <key>_description</key>
-      <string>Proportio dupla 2</string>
-      <key>_name</key>
-      <string>mensuralProportionProportioDupla2</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>combiningStaffPositions</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>220636360b0b5a5c740e8df6775fb093529fec36799c36bc1d883bd7e14d15ad30814d88585944447584e351b1319042e75185a515b84931adf2eb2747b6de8d</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -216 39</string>
-              <string>hstem -199 -21</string>
-              <string>hstem 177 39</string>
-              <string>hstem 219 -20</string>
-              <string>vstem 18 40</string>
-            </array>
-          </dict>
+          <string>hstem -216 39</string>
+          <string>hstem -199 -21</string>
+          <string>hstem 177 39</string>
+          <string>hstem 219 -20</string>
+          <string>vstem 18 40</string>
         </array>
-        <key>id</key>
-        <string>220636360b0b5a5c740e8df6775fb093529fec36799c36bc1d883bd7e14d15ad30814d88585944447584e351b1319042e75185a515b84931adf2eb2747b6de8d</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE22E" format="2">
   <advance width="250"/>
   <unicode hex="E22E"/>
@@ -33,37 +33,37 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Divide measured tremolo by 2</string>
-      <key>_name</key>
-      <string>tremoloDivisiDots2</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ce0ab0c48f2b69fe30705b3ffa987e28c59f3d7b22ca36f6b0bc7526e4d95067bb024cca92097c399603b430e3a2f2c7b1e40cf67edbae831f7757a8abec00dc</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 100</string>
-              <string>vstem 0 100</string>
-              <string>vstem 150 100</string>
-            </array>
-          </dict>
+          <string>hstem 0 100</string>
+          <string>vstem 0 100</string>
+          <string>vstem 150 100</string>
         </array>
-        <key>id</key>
-        <string>ce0ab0c48f2b69fe30705b3ffa987e28c59f3d7b22ca36f6b0bc7526e4d95067bb024cca92097c399603b430e3a2f2c7b1e40cf67edbae831f7757a8abec00dc</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

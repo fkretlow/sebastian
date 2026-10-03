@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAC3" format="2">
   <advance width="546"/>
   <unicode hex="EAC3"/>
@@ -59,42 +59,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-      </array>
-      <key>_description</key>
-      <string>Constant circular motion segment (flipped, large)</string>
-      <key>_name</key>
-      <string>wiggleCircularConstantFlippedLarge</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0f02c342a8441cbac6138deb88157d6de2e3ba1c279f5154c2d389298a695d236790450bce836cdbd30f7073ce261ce17f422da40bee78f7161f86c8a8731d63</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -12 24</string>
-              <string>hstem 554 24</string>
-              <string>vstem 134 24</string>
-              <string>vstem 380 24</string>
-            </array>
-          </dict>
+          <string>hstem -12 24</string>
+          <string>hstem 554 24</string>
+          <string>vstem 134 24</string>
+          <string>vstem 380 24</string>
         </array>
-        <key>id</key>
-        <string>0f02c342a8441cbac6138deb88157d6de2e3ba1c279f5154c2d389298a695d236790450bce836cdbd30f7073ce261ce17f422da40bee78f7161f86c8a8731d63</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

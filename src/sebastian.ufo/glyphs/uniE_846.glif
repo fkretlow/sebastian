@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE846" format="2">
   <advance width="228"/>
   <unicode hex="E846"/>
@@ -39,36 +39,36 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_description</key>
-      <string>Strum direction up</string>
-      <key>_name</key>
-      <string>guitarStrumUp</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9bf7b568ef33be734a083466005d64da4466c1057cd4d3c209c8c53dba49bc88cda07bc58a07fa6323265b623060f6741ad325c489ba02624cbe8d716c4e0415</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>vstem 91 46</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>vstem 91 46</string>
         </array>
-        <key>id</key>
-        <string>9bf7b568ef33be734a083466005d64da4466c1057cd4d3c209c8c53dba49bc88cda07bc58a07fa6323265b623060f6741ad325c489ba02624cbe8d716c4e0415</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

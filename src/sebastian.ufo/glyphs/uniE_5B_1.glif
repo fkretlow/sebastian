@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5B1" format="2">
   <advance width="1087"/>
   <unicode hex="E5B1"/>
@@ -65,53 +65,53 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-        <string>tf_ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Descending slide</string>
-      <key>_name</key>
-      <string>ornamentPrecompDescendingSlide</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>ornaments</string>
+    <string>tf_ornaments</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
+        <key>position</key>
+        <integer>111</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>824d86acba1882eb67737a7e37cfc1ed32fd44cb6ef823ec757c697fdb24871639ad2ba72fe83d2265633ccf270c9d4b2bce82a18a4a7563f5fa8870eba6f595</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>111</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
+          <string>hstem -252 49</string>
+          <string>hstem 139 124</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -252 49</string>
-              <string>hstem 139 124</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>824d86acba1882eb67737a7e37cfc1ed32fd44cb6ef823ec757c697fdb24871639ad2ba72fe83d2265633ccf270c9d4b2bce82a18a4a7563f5fa8870eba6f595</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

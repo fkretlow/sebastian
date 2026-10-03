@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAF3" format="2">
   <advance width="1994"/>
   <unicode hex="EAF3"/>
@@ -480,66 +480,66 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-        <string>wigglesQuasiRandom</string>
-      </array>
-      <key>_description</key>
-      <string>Quasi-random squiggle 4</string>
-      <key>_name</key>
-      <string>wiggleRandom4</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+    <string>wigglesQuasiRandom</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>71acd1ff3db71286aff0d13354f73722361512b4cff434eea0e405178e91c7c57793c4550aa63182cf2e157226afa3c7160966b442c669f8039c64e40da25014</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -374 32</string>
-              <string>hstem -296 32</string>
-              <string>hstem -185 32</string>
-              <string>hstem -147 32</string>
-              <string>hstem -98 31</string>
-              <string>hstem -77 32</string>
-              <string>hstem -16 32</string>
-              <string>hstem 88 32</string>
-              <string>hstem 123 32</string>
-              <string>hstem 168 32</string>
-              <string>hstem 264 33</string>
-              <string>hstem 416 32</string>
-              <string>hstem 576 32</string>
-              <string>vstem 402 32</string>
-              <string>vstem 510 32</string>
-              <string>vstem 537 33</string>
-              <string>vstem 672 32</string>
-              <string>vstem 687 33</string>
-              <string>vstem 816 32</string>
-              <string>vstem 1045 32</string>
-              <string>vstem 1330 32</string>
-              <string>vstem 1334 32</string>
-              <string>vstem 1352 34</string>
-              <string>vstem 1369 32</string>
-              <string>vstem 1514 32</string>
-              <string>vstem 1614 31</string>
-              <string>vstem 1906 32</string>
-            </array>
-          </dict>
+          <string>hstem -374 32</string>
+          <string>hstem -296 32</string>
+          <string>hstem -185 32</string>
+          <string>hstem -147 32</string>
+          <string>hstem -98 31</string>
+          <string>hstem -77 32</string>
+          <string>hstem -16 32</string>
+          <string>hstem 88 32</string>
+          <string>hstem 123 32</string>
+          <string>hstem 168 32</string>
+          <string>hstem 264 33</string>
+          <string>hstem 416 32</string>
+          <string>hstem 576 32</string>
+          <string>vstem 402 32</string>
+          <string>vstem 510 32</string>
+          <string>vstem 537 33</string>
+          <string>vstem 672 32</string>
+          <string>vstem 687 33</string>
+          <string>vstem 816 32</string>
+          <string>vstem 1045 32</string>
+          <string>vstem 1330 32</string>
+          <string>vstem 1334 32</string>
+          <string>vstem 1352 34</string>
+          <string>vstem 1369 32</string>
+          <string>vstem 1514 32</string>
+          <string>vstem 1614 31</string>
+          <string>vstem 1906 32</string>
         </array>
-        <key>id</key>
-        <string>71acd1ff3db71286aff0d13354f73722361512b4cff434eea0e405178e91c7c57793c4550aa63182cf2e157226afa3c7160966b442c669f8039c64e40da25014</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

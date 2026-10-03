@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE273" format="2">
   <advance width="259"/>
   <unicode hex="E273"/>
@@ -117,74 +117,74 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>accidentals</string>
-        <string>accidentals24EDOArrows</string>
-        <string>combiningStaffPositions</string>
-      </array>
-      <key>_description</key>
-      <string>Quarter-tone flat</string>
-      <key>_name</key>
-      <string>accidentalQuarterToneFlatNaturalArrowDown</string>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>accidentals</string>
+    <string>accidentals24EDOArrows</string>
+    <string>combiningStaffPositions</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
+        <key>position</key>
+        <integer>359</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>163</integer>
+        <key>width</key>
+        <integer>30</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7f042666d4f00468d6d1bbfa3797d2f002192a3c706455acbf7d13e50879f8449b774513663938bd6911c0459b2c88fbab694f8d3a9c687de0ee7e832bd74059</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>359</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>40</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>163</integer>
-            <key>width</key>
-            <integer>30</integer>
-          </dict>
+          <string>hstem -428 -21</string>
+          <string>hstem 379 -20</string>
+          <string>vstem 0 40</string>
+          <string>vstem 4 30</string>
+          <string>vstem 4 33</string>
+          <string>vstem 160 35</string>
+          <string>vstem 163 30</string>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -428 -21</string>
-              <string>hstem 379 -20</string>
-              <string>vstem 0 40</string>
-              <string>vstem 4 30</string>
-              <string>vstem 4 33</string>
-              <string>vstem 160 35</string>
-              <string>vstem 163 30</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>7f042666d4f00468d6d1bbfa3797d2f002192a3c706455acbf7d13e50879f8449b774513663938bd6911c0459b2c88fbab694f8d3a9c687de0ee7e832bd74059</string>
-      </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

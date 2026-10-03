@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEF15" format="2">
   <advance width="167"/>
   <unicode hex="EF15"/>
@@ -16,29 +16,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Closing bracket italic</string>
-      <key>_name</key>
-      <string>tupletBracketRightItalic</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w167m22,-19l27,-19l-45,-19l-50,-40l64,-40l191,430l67,430l62,409l139,409</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -40 21</string>
-              <string>hstem 409 21</string>
-              <string>vstem -50 241</string>
-            </array>
-          </dict>
+          <string>hstem -40 21</string>
+          <string>hstem 409 21</string>
+          <string>vstem -50 241</string>
         </array>
-        <key>id</key>
-        <string>w167m22,-19l27,-19l-45,-19l-50,-40l64,-40l191,430l67,430l62,409l139,409</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

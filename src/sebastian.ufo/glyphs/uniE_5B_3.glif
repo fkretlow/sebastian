@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5B3" format="2">
   <advance width="613"/>
   <unicode hex="E5B3"/>
@@ -75,42 +75,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-        <string>tf_ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Supported appoggiatura trill with two-note suffix</string>
-      <key>_name</key>
-      <string>ornamentPrecompAppoggTrillSuffix</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>ornaments</string>
+    <string>tf_ornaments</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>049bbb48ae472d064923dc6bc896b4e1309505462bd759fea908fab4c1efa85919bbb0c75a0c12e03df3f6a2556f0f02f4b76c54823a3285cca1aae85cdb3e7d</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 574 -20</string>
-              <string>vstem 0 36</string>
-              <string>vstem 639 36</string>
-            </array>
-          </dict>
+          <string>hstem 574 -20</string>
+          <string>vstem 0 36</string>
+          <string>vstem 639 36</string>
         </array>
-        <key>id</key>
-        <string>049bbb48ae472d064923dc6bc896b4e1309505462bd759fea908fab4c1efa85919bbb0c75a0c12e03df3f6a2556f0f02f4b76c54823a3285cca1aae85cdb3e7d</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

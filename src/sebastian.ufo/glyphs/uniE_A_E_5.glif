@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEAE5" format="2">
   <advance width="440"/>
   <unicode hex="EAE5"/>
@@ -52,41 +52,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>multiGlyphForms</string>
-        <string>wigglesVibratoVariable</string>
-      </array>
-      <key>_description</key>
-      <string>Vibrato large, fast</string>
-      <key>_name</key>
-      <string>wiggleVibratoLargeFast</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>multiGlyphForms</string>
+    <string>wigglesVibratoVariable</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>516f4368b7d35bda2a341bf7d19655194cc3dbb2c7124e0f00c6437e613cdee7f2c86ee6d60fd25523d5b7efe71f077461e89fa8a6c26b1e4ebfd9ddd542d716</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -127 445</string>
-              <string>vstem -35 503</string>
-            </array>
-          </dict>
+          <string>hstem -127 445</string>
+          <string>vstem -35 503</string>
         </array>
-        <key>id</key>
-        <string>516f4368b7d35bda2a341bf7d19655194cc3dbb2c7124e0f00c6437e613cdee7f2c86ee6d60fd25523d5b7efe71f077461e89fa8a6c26b1e4ebfd9ddd542d716</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

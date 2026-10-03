@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE803" format="2">
   <advance width="534"/>
   <unicode hex="E803"/>
@@ -96,46 +96,46 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Rim (Caltabiano)</string>
-      <key>_name</key>
-      <string>pictRim3</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>eef9d4cd6e4c680e769bf9a0c919b0f0ae07b085a1494424aa57b404b1241a092848825b020c90a291da57695fe30c63ac97d73ab426d276d154daca72568a44</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 32</string>
-              <string>hstem 223 56</string>
-              <string>hstem 375 57</string>
-              <string>hstem 502 32</string>
-              <string>vstem 0 32</string>
-              <string>vstem 134 56</string>
-              <string>vstem 340 56</string>
-              <string>vstem 502 32</string>
-            </array>
-          </dict>
+          <string>hstem 0 32</string>
+          <string>hstem 223 56</string>
+          <string>hstem 375 57</string>
+          <string>hstem 502 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 134 56</string>
+          <string>vstem 340 56</string>
+          <string>vstem 502 32</string>
         </array>
-        <key>id</key>
-        <string>eef9d4cd6e4c680e769bf9a0c919b0f0ae07b085a1494424aa57b404b1241a092848825b020c90a291da57695fe30c63ac97d73ab426d276d154daca72568a44</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

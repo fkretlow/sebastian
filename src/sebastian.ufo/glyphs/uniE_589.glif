@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE589" format="2">
   <advance width="579"/>
   <unicode hex="E589"/>
@@ -55,41 +55,41 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Tremblement appuyé (Couperin)</string>
-      <key>_name</key>
-      <string>ornamentTremblementCouperin</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>ornaments</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e3067da3129cabdf59a48f196961328dff161136f68683d6fda31505070dfd80abf25a2e37cda9d81f9bff07bde764698c47497e9f0e147f105a3b73757a1ad5</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 63</string>
-              <string>hstem 77 74</string>
-              <string>hstem 97 54</string>
-            </array>
-          </dict>
+          <string>hstem 0 63</string>
+          <string>hstem 77 74</string>
+          <string>hstem 97 54</string>
         </array>
-        <key>id</key>
-        <string>e3067da3129cabdf59a48f196961328dff161136f68683d6fda31505070dfd80abf25a2e37cda9d81f9bff07bde764698c47497e9f0e147f105a3b73757a1ad5</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

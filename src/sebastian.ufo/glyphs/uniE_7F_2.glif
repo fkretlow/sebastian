@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE7F2" format="2">
   <advance width="778"/>
   <unicode hex="E7F2"/>
@@ -53,42 +53,42 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>tf_pictograms</string>
-      </array>
-      <key>_description</key>
-      <string>Scrape from edge to center</string>
-      <key>_name</key>
-      <string>pictScrapeEdgeToCenter</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>tf_pictograms</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f7afbe265b3703dbbc1c4cc29e8ce5af60c1bc80bbfe7cbe96ebbf1aab4c54a6e709f53da2c2efa242410dfb84e306087ebbf256e163ee5110bfde865c74eadc</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 32</string>
-              <string>hstem 750 32</string>
-              <string>vstem 0 32</string>
-              <string>vstem 750 32</string>
-            </array>
-          </dict>
+          <string>hstem 0 32</string>
+          <string>hstem 750 32</string>
+          <string>vstem 0 32</string>
+          <string>vstem 750 32</string>
         </array>
-        <key>id</key>
-        <string>f7afbe265b3703dbbc1c4cc29e8ce5af60c1bc80bbfe7cbe96ebbf1aab4c54a6e709f53da2c2efa242410dfb84e306087ebbf256e163ee5110bfde865c74eadc</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

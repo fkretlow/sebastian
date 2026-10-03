@@ -170,4 +170,27 @@
       <point x="191" y="15"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>93ce9dc5b046ac07789d4be453ebbe5c67320490a2b14da36cf27a31924d2a57981493717bb9e2f7120f9d1f742bd5b3f9c9bc92d730bdae7f52953853f8163a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -655 -21</string>
+          <string>vstem 0 21</string>
+          <string>vstem 194 26</string>
+          <string>vstem 206 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="d" format="2">
   <advance width="233"/>
   <unicode hex="0064"/>
-  <unicode hex="E033"/>
   <unicode hex="E990"/>
   <unicode hex="EA33"/>
   <unicode hex="F064"/>
@@ -36,4 +35,26 @@
       <point x="42" y="294"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>29b4367bb6bad55fd1901980920eba7e7371be8a1084d8d61335822bf643854f5c8122464b42a746ee0375152e134a07a2142fe3c19df322eac6c0135d6e8b83</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 95 210</string>
+          <string>hstem 114 191</string>
+          <string>vstem 28 177</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4E5" format="2">
   <advance width="257"/>
   <unicode hex="E4E5"/>
-  <guideline x="0" y="250" angle="0"/>
-  <guideline x="0" y="-227" angle="0"/>
-  <guideline x="0" y="-356" angle="0"/>
-  <guideline x="0" y="373" angle="0"/>
   <outline>
     <contour>
       <point x="96" y="358" type="curve"/>
@@ -91,43 +87,47 @@
       <point x="88" y="369"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="250"/>
+  <guideline angle="0" x="0" y="-227"/>
+  <guideline angle="0" x="0" y="-356"/>
+  <guideline angle="0" x="0" y="373"/>
   <lib>
-    <dict>
-      <key>__virtual_tags</key>
-      <array>
-        <string>noncomposite</string>
-        <string>noblank</string>
-        <string>ALL</string>
-        <string>zzzz</string>
-        <string>otnone</string>
-      </array>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-        <string>rests</string>
-      </array>
-      <key>_description</key>
-      <string>Quarter (crotchet) rest</string>
-      <key>_name</key>
-      <string>restQuarter</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>__virtual_tags</key>
+  <array>
+    <string>noncomposite</string>
+    <string>noblank</string>
+    <string>ALL</string>
+    <string>zzzz</string>
+    <string>otnone</string>
+  </array>
+  <key>_classes</key>
+  <array>
+    <string>combiningStaffPositions</string>
+    <string>rests</string>
+  </array>
+  <key>_description</key>
+  <real>0</real>
+  <key>_name</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>754bb4bbb3e031ef1c8a0a34d0855a78e4512cd1feeda838c074764b3c400cd0b0a5dadbfa62aef384cae8fea21707c80b47e06174a0ee32a72c6ae49b66f94b</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -335 -21</string>
-              <string>hstem 374 -20</string>
-              <string>vstem -1 73</string>
-            </array>
-          </dict>
+          <string>hstem -335 -21</string>
+          <string>hstem 374 -20</string>
+          <string>vstem -1 73</string>
         </array>
-        <key>id</key>
-        <string>754bb4bbb3e031ef1c8a0a34d0855a78e4512cd1feeda838c074764b3c400cd0b0a5dadbfa62aef384cae8fea21707c80b47e06174a0ee32a72c6ae49b66f94b</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>
